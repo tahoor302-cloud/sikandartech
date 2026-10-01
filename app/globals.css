@@ -404,15 +404,17 @@ html.js [data-hero-word] .mask > span { transform: translateY(120%); }
 }
 
 /* Sticky toolbars follow the floating nav with a transform (no `top` animation). */
+/* Sticky bars that sit below the header while it is shown. `top` (not `translate`) so the offset
+   only applies once the bar is stuck; at rest it stays in flow and can't cover what follows it. */
 .under-nav {
-  transition: translate 0.5s var(--ease-luxe);
+  transition: top 0.5s var(--ease-luxe);
 }
 html[data-nav="shown"] .under-nav {
-  translate: 0 calc(var(--nav-h) + 12px);
+  top: calc(var(--nav-h) + 12px);
 }
 @media (min-width: 640px) {
   html[data-nav="shown"] .under-nav {
-    translate: 0 calc(var(--nav-h) + 16px);
+    top: calc(var(--nav-h) + 16px);
   }
 }
 

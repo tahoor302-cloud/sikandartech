@@ -232,8 +232,8 @@ export function CollectionView({ header, page, breadcrumbs, hide = [], subnav, s
           <FilterControls facets={facets} state={state} onChange={(s) => write(s)} hide={hide} />
         </div>
         <div className="grid grid-cols-2 gap-3 border-t border-line px-6 pb-[max(1.25rem,env(safe-area-inset-bottom))] pt-4">
-          <button onClick={clearAll} className="btn btn-outline">Clear</button>
-          <button onClick={() => setSheet(false)} className="btn btn-primary">Show {page.total}</button>
+          <button onClick={clearAll} className="btn btn-outline px-4">Clear</button>
+          <button onClick={() => setSheet(false)} className="btn btn-primary px-4">Show {page.total}</button>
         </div>
       </Sheet>
     </>

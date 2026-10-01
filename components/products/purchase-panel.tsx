@@ -118,7 +118,7 @@ export function PurchasePanel({ product: p, color, onColorChange, compact, butto
             {soldOut ? "Sold out" : "Add to bag"}
           </Button>
           <div className="grid size-[52px] shrink-0 place-items-center border border-line">
-            <WishlistButton productId={p.id} name={p.name} size={20} />
+            <WishlistButton productId={p.id} name={p.name} size={20} className="size-full" />
           </div>
         </div>
         {!compact && (

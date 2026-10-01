@@ -112,14 +112,14 @@ export function Hero() {
           {many ? (
             <div data-hero-in className="flex items-center gap-2">
               {heroScenes.map((s, i) => (
-                <button key={s.id} onClick={() => setIndex(i)} aria-label={`Show scene ${i + 1}`} aria-current={i === index} className="grid h-6 w-6 place-items-center">
+                <button key={s.id} onClick={() => setIndex(i)} aria-label={`Show scene ${i + 1}`} aria-current={i === index} className="-my-2 grid h-10 w-6 place-items-center">
                   <span className={cn("block h-[5px] rounded-full bg-current transition-all duration-500", i === index ? "w-6 opacity-90" : "w-[5px] opacity-35")} />
                 </button>
               ))}
             </div>
           ) : <span />}
           {filmAudio && (
-            <button data-hero-in onClick={sound.toggle} aria-pressed={sound.on} className="group/s flex items-center gap-2.5 opacity-80 transition-opacity hover:opacity-100">
+            <button data-hero-in onClick={sound.toggle} aria-pressed={sound.on} className="group/s -my-3.5 flex items-center gap-2.5 py-3.5 opacity-80 transition-opacity hover:opacity-100">
               <span className="flex h-3 items-end gap-[2px]" aria-hidden>
                 {[0, 1, 2, 3].map((i) => (
                   <span key={i} className={cn("w-px bg-current transition-all duration-500", sound.on ? "motion-safe:animate-[eq_1.1s_ease-in-out_infinite]" : "h-px")} style={{ height: sound.on ? undefined : 1, animationDelay: `${i * 0.15}s` }} />
