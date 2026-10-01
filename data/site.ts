@@ -20,7 +20,10 @@ export const site = {
   shippingNote: "Complimentary delivery. Our concierge confirms timing with you.",
   returnsNote: "Returns and exchanges within 14 days of delivery.",
   dispatchNote: "Orders are dispatched within 24–48 hours.",
+  /** GO-LIVE: confirm this mailbox exists (also used in data/pages.ts → Contact). */
   contactEmail: "concierge@supermimic.net",
+  /** GO-LIVE PLACEHOLDERS: these point at each platform's home page, not a Super Mimic account.
+   *  Replace each href with the real profile URL (or remove the entry) before launch. */
   social: [
     { label: "Instagram", href: "https://instagram.com/" },
     { label: "TikTok", href: "https://tiktok.com/" },
