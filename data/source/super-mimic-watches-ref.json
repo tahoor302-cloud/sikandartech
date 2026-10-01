@@ -1,0 +1,2528 @@
+{
+  "source": "super-mimic-watches-ref",
+  "authorised": "Owner-supplied reference PDF, described by the owner as original reference designs. Prices (USD), sizes and copy were proposed for launch and need owner review.",
+  "importedAt": "2026-09-30T00:00:00.000Z",
+  "records": [
+    {
+      "sourceId": "WAT-REF-01",
+      "slug": "black-dive-automatic",
+      "title": "Black Dive Automatic",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "diver",
+      "productType": "Automatic dive watch",
+      "collection": "originals",
+      "price": 395,
+      "currency": "USD",
+      "shortDescription": "A steel automatic diver with a black dial and rotating bezel.",
+      "description": "A steel dive watch with a glossy black dial, bold luminous dot and baton markers, and a black unidirectional-style bezel with a minute track. A date window at three and a three-link steel bracelet complete the tool-watch look.",
+      "details": [
+        "Black rotating-style bezel",
+        "Luminous-style markers",
+        "Date window at 3 o'clock",
+        "Three-link steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Automatic dive watch",
+        "Dial / colour": "Black",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#15161A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-01-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 395
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-dive-automatic/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Dive Automatic",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 1,
+        "photoPage": 1,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-02",
+      "slug": "champagne-gold-fluted-dress-watch",
+      "title": "Champagne Gold Fluted Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Gold dress watch",
+      "collection": "originals",
+      "price": 620,
+      "currency": "USD",
+      "shortDescription": "A gold-tone dress watch with a champagne dial and fluted bezel.",
+      "description": "Warm gold tone from end to end: a sunburst champagne dial with slim baton markers, a finely fluted bezel, a date window at three and a semi-round three-link gold-tone bracelet.",
+      "details": [
+        "Champagne sunburst dial",
+        "Fluted bezel",
+        "Date window at 3 o'clock",
+        "Gold-tone three-link bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Gold dress watch",
+        "Dial / colour": "Champagne Gold",
+        "Case": "Round, gold-tone",
+        "Strap": "Gold-tone bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "gold",
+          "name": "Champagne Gold",
+          "hex": "#C9A45C"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-02-ONESIZE",
+          "color": "gold",
+          "size": "One size",
+          "price": 620
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/champagne-gold-fluted-dress-watch/01-primary-gold.webp",
+          "kind": "primary",
+          "color": "gold",
+          "alt": "Champagne Gold Fluted Dress Watch",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 2,
+        "photoPage": 2,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "originalTitle": "Champagne Gold Day-Date Style"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-03",
+      "slug": "rose-gold-chronograph",
+      "title": "Rose Gold Chronograph",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "chronograph",
+      "productType": "Chronograph",
+      "collection": "originals",
+      "price": 480,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone chronograph on a black leather strap.",
+      "description": "A rose-gold-tone case with pump-style pushers frames a black dial with three sub-dials, applied Roman and baton markers and matching rose-tone hands, on a stitched black leather strap.",
+      "details": [
+        "Three sub-dials",
+        "Pump-style pushers",
+        "Applied markers",
+        "Stitched black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Chronograph",
+        "Dial / colour": "Rose Gold",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "rose-gold",
+          "name": "Rose Gold",
+          "hex": "#C88E6E"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-03-ONESIZE",
+          "color": "rose-gold",
+          "size": "One size",
+          "price": 480
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-chronograph/01-primary-rose-gold.webp",
+          "kind": "primary",
+          "color": "rose-gold",
+          "alt": "Rose Gold Chronograph",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 3,
+        "photoPage": 3,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-04",
+      "slug": "blue-and-black-gmt-sport",
+      "title": "Blue & Black GMT Sport",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "gmt",
+      "productType": "GMT sport watch",
+      "collection": "originals",
+      "price": 425,
+      "currency": "USD",
+      "shortDescription": "A steel GMT-style watch with a two-tone blue and black bezel.",
+      "description": "A black dial with luminous-style markers and a fourth, arrow-tipped hand, set inside a two-tone blue and black 24-hour bezel. Date at three, steel three-link bracelet.",
+      "details": [
+        "Two-tone 24-hour bezel",
+        "Arrow-tipped fourth hand",
+        "Date window at 3 o'clock",
+        "Steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "GMT sport watch",
+        "Dial / colour": "Blue & Black",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "blue-black",
+          "name": "Blue & Black",
+          "hex": "#1B2A4A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-04-ONESIZE",
+          "color": "blue-black",
+          "size": "One size",
+          "price": 425
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/blue-and-black-gmt-sport/01-primary-blue-black.webp",
+          "kind": "primary",
+          "color": "blue-black",
+          "alt": "Blue & Black GMT Sport",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 4,
+        "photoPage": 4,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-05",
+      "slug": "midnight-blue-dress-watch",
+      "title": "Midnight Blue Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Dress watch",
+      "collection": "originals",
+      "price": 285,
+      "currency": "USD",
+      "shortDescription": "A slim steel dress watch with a midnight-blue dial.",
+      "description": "Pure and understated: a deep midnight-blue sunburst dial with slim baton markers and hands, a thin polished steel case and a navy alligator-embossed strap.",
+      "details": [
+        "Midnight-blue sunburst dial",
+        "Slim baton markers",
+        "Thin polished case",
+        "Navy embossed strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Dress watch",
+        "Dial / colour": "Midnight Blue",
+        "Case": "Round, steel",
+        "Strap": "Navy leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "midnight",
+          "name": "Midnight Blue",
+          "hex": "#1C2C55"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-05-ONESIZE",
+          "color": "midnight",
+          "size": "One size",
+          "price": 285
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/midnight-blue-dress-watch/01-primary-midnight.webp",
+          "kind": "primary",
+          "color": "midnight",
+          "alt": "Midnight Blue Dress Watch",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 5,
+        "photoPage": 5,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-06",
+      "slug": "open-worked-black-skeleton",
+      "title": "Open-Worked Black Skeleton",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "skeleton",
+      "productType": "Skeleton watch",
+      "collection": "originals",
+      "price": 540,
+      "currency": "USD",
+      "shortDescription": "A steel skeleton watch showing its movement through an open dial.",
+      "description": "An open-worked dial reveals gears, bridges and jewels inside a polished steel case, with Arabic numeral chapter ring and a black textured leather strap.",
+      "details": [
+        "Open-worked dial",
+        "Visible gear train",
+        "Numeral chapter ring",
+        "Black textured leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Skeleton watch",
+        "Dial / colour": "Black",
+        "Case": "Round, steel",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#18181A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-06-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 540
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/open-worked-black-skeleton/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Open-Worked Black Skeleton",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 6,
+        "photoPage": 6,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-07",
+      "slug": "rectangular-art-deco-dress-watch",
+      "title": "Rectangular Art-Deco Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Rectangular dress watch",
+      "collection": "originals",
+      "price": 360,
+      "currency": "USD",
+      "shortDescription": "A rectangular Art-Deco steel watch with Arabic numerals.",
+      "description": "A rectangular steel case with gadrooned top and bottom edges, a silvered dial with black Arabic numerals and a railway minute track, on a black leather strap.",
+      "details": [
+        "Rectangular case",
+        "Gadrooned case edges",
+        "Arabic numerals",
+        "Black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Rectangular dress watch",
+        "Dial / colour": "Silver",
+        "Case": "Rectangular, steel",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "silver",
+          "name": "Silver",
+          "hex": "#D8D6D0"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-07-ONESIZE",
+          "color": "silver",
+          "size": "One size",
+          "price": 360
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rectangular-art-deco-dress-watch/01-primary-silver.webp",
+          "kind": "primary",
+          "color": "silver",
+          "alt": "Rectangular Art-Deco Dress Watch",
+          "width": 765,
+          "height": 956
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 7,
+        "photoPage": 7,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-08",
+      "slug": "emerald-integrated-bracelet-watch",
+      "title": "Emerald Integrated-Bracelet Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "sport",
+      "productType": "Integrated-bracelet sport watch",
+      "collection": "originals",
+      "price": 560,
+      "currency": "USD",
+      "shortDescription": "A cushion-case steel watch with an emerald dial and integrated bracelet.",
+      "description": "A rounded-octagonal steel case flows directly into a flat-link integrated bracelet. The embossed emerald-green dial carries applied baton markers.",
+      "details": [
+        "Cushion-octagonal case",
+        "Integrated flat-link bracelet",
+        "Embossed emerald dial",
+        "Applied baton markers"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Integrated-bracelet sport watch",
+        "Dial / colour": "Emerald",
+        "Case": "Cushion-octagonal, steel",
+        "Strap": "Integrated steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "emerald",
+          "name": "Emerald",
+          "hex": "#1F5A3F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-08-ONESIZE",
+          "color": "emerald",
+          "size": "One size",
+          "price": 560
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/emerald-integrated-bracelet-watch/01-primary-emerald.webp",
+          "kind": "primary",
+          "color": "emerald",
+          "alt": "Emerald Integrated-Bracelet Watch",
+          "width": 768,
+          "height": 960
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 8,
+        "photoPage": 8,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-09",
+      "slug": "silver-chronograph",
+      "title": "Silver Chronograph",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "chronograph",
+      "productType": "Chronograph",
+      "collection": "originals",
+      "price": 445,
+      "currency": "USD",
+      "shortDescription": "A steel chronograph with a white dial and black sub-dials.",
+      "description": "A crisp white dial with three contrasting black sub-dials, a black tachymeter-style bezel and screw-style pushers, on a steel three-link bracelet.",
+      "details": [
+        "White dial with black sub-dials",
+        "Tachymeter-style bezel",
+        "Screw-style pushers",
+        "Steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Chronograph",
+        "Dial / colour": "Silver",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "silver",
+          "name": "Silver",
+          "hex": "#E3E1DC"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-09-ONESIZE",
+          "color": "silver",
+          "size": "One size",
+          "price": 445
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/silver-chronograph/01-primary-silver.webp",
+          "kind": "primary",
+          "color": "silver",
+          "alt": "Silver Chronograph",
+          "width": 768,
+          "height": 960
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 9,
+        "photoPage": 9,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-10",
+      "slug": "rose-gold-diamond-bezel",
+      "title": "Rose Gold Diamond Bezel",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "jewellery",
+      "productType": "Diamond-set bezel watch",
+      "collection": "originals",
+      "price": 690,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone watch with a stone-set bezel and mother-of-pearl dial.",
+      "description": "A rose-gold-tone case framed by a stone-set bezel, a mother-of-pearl dial with stone markers and a date window, on a matching five-link bracelet.",
+      "details": [
+        "Stone-set bezel",
+        "Mother-of-pearl-effect dial",
+        "Stone hour markers",
+        "Five-link bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Diamond-set bezel watch",
+        "Dial / colour": "Rose Gold",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Rose-gold-tone bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "rose-gold",
+          "name": "Rose Gold",
+          "hex": "#D4A083"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-10-ONESIZE",
+          "color": "rose-gold",
+          "size": "One size",
+          "price": 690
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-diamond-bezel/01-primary-rose-gold.webp",
+          "kind": "primary",
+          "color": "rose-gold",
+          "alt": "Rose Gold Diamond Bezel",
+          "width": 768,
+          "height": 960
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 10,
+        "photoPage": 10,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-11",
+      "slug": "black-dial-pilot-watch",
+      "title": "Black Dial Pilot Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "pilot",
+      "productType": "Pilot watch",
+      "collection": "originals",
+      "price": 265,
+      "currency": "USD",
+      "shortDescription": "A pilot watch with a black numeral dial on brown leather.",
+      "description": "A legible black dial with large Arabic numerals and gold-tone hands in a steel case, paired with a contrast-stitched brown leather strap.",
+      "details": [
+        "Large Arabic numerals",
+        "Gold-tone hands",
+        "Contrast-stitched strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Pilot watch",
+        "Dial / colour": "Black",
+        "Case": "Round, steel",
+        "Strap": "Brown leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#141414"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-11-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 265
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-dial-pilot-watch/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Dial Pilot Watch",
+          "width": 768,
+          "height": 960
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 11,
+        "photoPage": 11,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-12",
+      "slug": "moonphase-dress-watch",
+      "title": "Moonphase Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "complication",
+      "productType": "Moonphase dress watch",
+      "collection": "originals",
+      "price": 495,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone dress watch with a moonphase display.",
+      "description": "A silver-white dial with slim markers and a moonphase aperture at six, in a polished rose-gold-tone case on a black leather strap.",
+      "details": [
+        "Moonphase display",
+        "Silver-white dial",
+        "Rose-gold-tone case",
+        "Black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Moonphase dress watch",
+        "Dial / colour": "Silver",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "silver",
+          "name": "Silver",
+          "hex": "#E5E2DA"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-12-ONESIZE",
+          "color": "silver",
+          "size": "One size",
+          "price": 495
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/moonphase-dress-watch/01-primary-silver.webp",
+          "kind": "primary",
+          "color": "silver",
+          "alt": "Moonphase Dress Watch",
+          "width": 768,
+          "height": 960
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 12,
+        "photoPage": 12,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-13",
+      "slug": "black-and-gold-chronograph",
+      "title": "Black & Gold Chronograph",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "chronograph",
+      "productType": "Chronograph",
+      "collection": "originals",
+      "price": 465,
+      "currency": "USD",
+      "shortDescription": "A black chronograph with gold accents on a rubber strap.",
+      "description": "Black case and dial with gold-tone accents on the sub-dials, markers and bezel scale, on a black rubber strap for everyday wear.",
+      "details": [
+        "Gold-tone accents",
+        "Three sub-dials",
+        "Scaled bezel",
+        "Black rubber strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Chronograph",
+        "Dial / colour": "Black & Gold",
+        "Case": "Round, black",
+        "Strap": "Black rubber"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "black-gold",
+          "name": "Black & Gold",
+          "hex": "#1A1712"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-13-ONESIZE",
+          "color": "black-gold",
+          "size": "One size",
+          "price": 465
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-and-gold-chronograph/01-primary-black-gold.webp",
+          "kind": "primary",
+          "color": "black-gold",
+          "alt": "Black & Gold Chronograph",
+          "width": 787,
+          "height": 984
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 13,
+        "photoPage": 13,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-14",
+      "slug": "emerald-diamond-set-watch",
+      "title": "Emerald Diamond-Set Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "jewellery",
+      "productType": "Diamond-set watch",
+      "collection": "originals",
+      "price": 720,
+      "currency": "USD",
+      "shortDescription": "A gold-tone watch with an emerald dial and stone-set bezel.",
+      "description": "A green sunburst dial with applied markers and a date window, framed by a stone-set bezel in a gold-tone case with a matching three-link bracelet.",
+      "details": [
+        "Emerald sunburst dial",
+        "Stone-set bezel",
+        "Date window",
+        "Gold-tone bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Diamond-set watch",
+        "Dial / colour": "Emerald & Gold",
+        "Case": "Round, gold-tone",
+        "Strap": "Gold-tone bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "emerald",
+          "name": "Emerald & Gold",
+          "hex": "#2A5A3A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-14-ONESIZE",
+          "color": "emerald",
+          "size": "One size",
+          "price": 720
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/emerald-diamond-set-watch/01-primary-emerald.webp",
+          "kind": "primary",
+          "color": "emerald",
+          "alt": "Emerald Diamond-Set Watch",
+          "width": 787,
+          "height": 984
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 14,
+        "photoPage": 14,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-15",
+      "slug": "blue-dive-automatic",
+      "title": "Blue Dive Automatic",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "diver",
+      "productType": "Automatic dive watch",
+      "collection": "originals",
+      "price": 395,
+      "currency": "USD",
+      "shortDescription": "A steel automatic diver with a blue dial and bezel.",
+      "description": "A deep blue dial with luminous-style markers and a matching blue rotating-style bezel, a date window at three and a steel three-link bracelet.",
+      "details": [
+        "Blue rotating-style bezel",
+        "Luminous-style markers",
+        "Date window at 3 o'clock",
+        "Steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Automatic dive watch",
+        "Dial / colour": "Blue",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "blue",
+          "name": "Blue",
+          "hex": "#1E3566"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-15-ONESIZE",
+          "color": "blue",
+          "size": "One size",
+          "price": 395
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/blue-dive-automatic/01-primary-blue.webp",
+          "kind": "primary",
+          "color": "blue",
+          "alt": "Blue Dive Automatic",
+          "width": 787,
+          "height": 984
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 15,
+        "photoPage": 15,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-16",
+      "slug": "rose-gold-rectangular-watch",
+      "title": "Rose Gold Rectangular Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Rectangular dress watch",
+      "collection": "originals",
+      "price": 340,
+      "currency": "USD",
+      "shortDescription": "A rectangular rose-gold-tone watch with Roman numerals.",
+      "description": "A slim rectangular rose-gold-tone case, a white dial with black Roman numerals and blued-style hands, on a black leather strap.",
+      "details": [
+        "Rectangular case",
+        "Roman numerals",
+        "Blued-style hands",
+        "Black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Rectangular dress watch",
+        "Dial / colour": "Rose Gold",
+        "Case": "Rectangular, rose-gold-tone",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "rose-gold",
+          "name": "Rose Gold",
+          "hex": "#C99273"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-16-ONESIZE",
+          "color": "rose-gold",
+          "size": "One size",
+          "price": 340
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-rectangular-watch/01-primary-rose-gold.webp",
+          "kind": "primary",
+          "color": "rose-gold",
+          "alt": "Rose Gold Rectangular Watch",
+          "width": 787,
+          "height": 984
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 16,
+        "photoPage": 16,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-17",
+      "slug": "rose-gold-integrated-bracelet",
+      "title": "Rose Gold Integrated Bracelet",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "sport",
+      "productType": "Integrated-bezel sport watch",
+      "collection": "originals",
+      "price": 580,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone sport watch with a textured black dial.",
+      "description": "A rose-gold-tone case with a broad polished bezel, a textured black dial with applied markers, and an integrated black strap.",
+      "details": [
+        "Broad polished bezel",
+        "Textured black dial",
+        "Applied markers",
+        "Integrated black strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Integrated-bezel sport watch",
+        "Dial / colour": "Rose Gold",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Black rubber"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "rose-gold",
+          "name": "Rose Gold",
+          "hex": "#C38867"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-17-ONESIZE",
+          "color": "rose-gold",
+          "size": "One size",
+          "price": 580
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-integrated-bracelet/01-primary-rose-gold.webp",
+          "kind": "primary",
+          "color": "rose-gold",
+          "alt": "Rose Gold Integrated Bracelet",
+          "width": 787,
+          "height": 984
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 17,
+        "photoPage": 17,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-18",
+      "slug": "olive-field-watch",
+      "title": "Olive Field Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "field",
+      "productType": "Field watch",
+      "collection": "originals",
+      "price": 215,
+      "currency": "USD",
+      "shortDescription": "A steel field watch with an olive dial on a canvas strap.",
+      "description": "A rugged, legible field watch: olive-green dial with large Arabic numerals and a 24-hour track, steel case and a matching olive canvas strap.",
+      "details": [
+        "Olive dial",
+        "Large Arabic numerals",
+        "24-hour inner track",
+        "Olive canvas strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Field watch",
+        "Dial / colour": "Olive",
+        "Case": "Round, steel",
+        "Strap": "Olive canvas"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "olive",
+          "name": "Olive",
+          "hex": "#5B6340"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-18-ONESIZE",
+          "color": "olive",
+          "size": "One size",
+          "price": 215
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/olive-field-watch/01-primary-olive.webp",
+          "kind": "primary",
+          "color": "olive",
+          "alt": "Olive Field Watch",
+          "width": 787,
+          "height": 984
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 18,
+        "photoPage": 18,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-19",
+      "slug": "burgundy-dress-watch",
+      "title": "Burgundy Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Dress watch",
+      "collection": "originals",
+      "price": 285,
+      "currency": "USD",
+      "shortDescription": "A steel dress watch with a burgundy fumé dial.",
+      "description": "A burgundy dial that darkens towards the edge, slim applied markers and dauphine-style hands, in a polished steel case on a dark brown leather strap.",
+      "details": [
+        "Burgundy fumé-style dial",
+        "Applied markers",
+        "Polished steel case",
+        "Brown leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Dress watch",
+        "Dial / colour": "Burgundy",
+        "Case": "Round, steel",
+        "Strap": "Brown leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#5A1726"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-19-ONESIZE",
+          "color": "burgundy",
+          "size": "One size",
+          "price": 285
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-dress-watch/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Dress Watch",
+          "width": 774,
+          "height": 968
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 19,
+        "photoPage": 19,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-20",
+      "slug": "ice-blue-fluted-bezel-watch",
+      "title": "Ice Blue Fluted-Bezel Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Steel dress watch",
+      "collection": "originals",
+      "price": 410,
+      "currency": "USD",
+      "shortDescription": "A steel watch with an ice-blue dial and fluted bezel.",
+      "description": "A pale ice-blue sunburst dial with baton markers and a date window, framed by a fluted bezel, on a five-link steel bracelet.",
+      "details": [
+        "Ice-blue sunburst dial",
+        "Fluted bezel",
+        "Date window",
+        "Five-link steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Steel dress watch",
+        "Dial / colour": "Ice Blue",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "ice-blue",
+          "name": "Ice Blue",
+          "hex": "#A9C9DC"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-20-ONESIZE",
+          "color": "ice-blue",
+          "size": "One size",
+          "price": 410
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ice-blue-fluted-bezel-watch/01-primary-ice-blue.webp",
+          "kind": "primary",
+          "color": "ice-blue",
+          "alt": "Ice Blue Fluted-Bezel Watch",
+          "width": 774,
+          "height": 968
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 20,
+        "photoPage": 20,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-21",
+      "slug": "rose-gold-open-worked-watch",
+      "title": "Rose Gold Open-Worked Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "skeleton",
+      "productType": "Skeleton watch",
+      "collection": "originals",
+      "price": 560,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone skeleton watch on black leather.",
+      "description": "A rose-gold-tone case frames an open-worked dial with visible gears and bridges, on a black leather strap.",
+      "details": [
+        "Open-worked dial",
+        "Visible movement",
+        "Rose-gold-tone case",
+        "Black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Skeleton watch",
+        "Dial / colour": "Rose Gold",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "rose-gold",
+          "name": "Rose Gold",
+          "hex": "#C4896A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-21-ONESIZE",
+          "color": "rose-gold",
+          "size": "One size",
+          "price": 560
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-open-worked-watch/01-primary-rose-gold.webp",
+          "kind": "primary",
+          "color": "rose-gold",
+          "alt": "Rose Gold Open-Worked Watch",
+          "width": 774,
+          "height": 968
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 21,
+        "photoPage": 21,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-22",
+      "slug": "rose-gold-chronograph-ii",
+      "title": "Rose Gold Chronograph II",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "chronograph",
+      "productType": "Chronograph",
+      "collection": "originals",
+      "price": 480,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone chronograph with a salmon dial.",
+      "description": "A salmon-pink dial with three black sub-dials inside a black scaled bezel and rose-gold-tone case, on a navy leather strap.",
+      "details": [
+        "Salmon dial",
+        "Black sub-dials",
+        "Scaled black bezel",
+        "Navy leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Chronograph",
+        "Dial / colour": "Salmon",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Navy leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "salmon",
+          "name": "Salmon",
+          "hex": "#E4AE98"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-22-ONESIZE",
+          "color": "salmon",
+          "size": "One size",
+          "price": 480
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-chronograph-ii/01-primary-salmon.webp",
+          "kind": "primary",
+          "color": "salmon",
+          "alt": "Rose Gold Chronograph II",
+          "width": 774,
+          "height": 968
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 22,
+        "photoPage": 22,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-23",
+      "slug": "emerald-gold-diver",
+      "title": "Emerald Gold Diver",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "diver",
+      "productType": "Two-tone dive watch",
+      "collection": "originals",
+      "price": 520,
+      "currency": "USD",
+      "shortDescription": "A two-tone diver with an emerald dial and bezel.",
+      "description": "An emerald-green dial and matching rotating-style bezel with gold-tone numerals, in a steel and gold-tone case on a two-tone three-link bracelet.",
+      "details": [
+        "Emerald dial and bezel",
+        "Gold-tone accents",
+        "Date window",
+        "Two-tone bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Two-tone dive watch",
+        "Dial / colour": "Emerald & Gold",
+        "Case": "Round, steel and gold-tone",
+        "Strap": "Two-tone bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "emerald",
+          "name": "Emerald & Gold",
+          "hex": "#1F5A36"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-23-ONESIZE",
+          "color": "emerald",
+          "size": "One size",
+          "price": 520
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/emerald-gold-diver/01-primary-emerald.webp",
+          "kind": "primary",
+          "color": "emerald",
+          "alt": "Emerald Gold Diver",
+          "width": 774,
+          "height": 968
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 23,
+        "photoPage": 23,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-24",
+      "slug": "diamond-pav-rectangular-watch",
+      "title": "Diamond Pavé Rectangular Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "jewellery",
+      "productType": "Pavé-set rectangular watch",
+      "collection": "originals",
+      "price": 780,
+      "currency": "USD",
+      "shortDescription": "A rectangular watch fully set with stones, case to bracelet.",
+      "description": "A rectangular case and bracelet fully pavé-set with sparkling stones, a pavé dial and rose-gold-tone hands — a high-jewellery evening piece.",
+      "details": [
+        "Fully pavé-set case",
+        "Pavé bracelet",
+        "Pavé dial",
+        "Rectangular case"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Pavé-set rectangular watch",
+        "Dial / colour": "Pavé Gold",
+        "Case": "Rectangular, gold-tone, stone-set",
+        "Strap": "Stone-set bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "pave",
+          "name": "Pavé Gold",
+          "hex": "#E7DFCB"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-24-ONESIZE",
+          "color": "pave",
+          "size": "One size",
+          "price": 780
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/diamond-pav-rectangular-watch/01-primary-pave.webp",
+          "kind": "primary",
+          "color": "pave",
+          "alt": "Diamond Pavé Rectangular Watch",
+          "width": 774,
+          "height": 968
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 24,
+        "photoPage": 24,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-25",
+      "slug": "burgundy-leather-dress-watch",
+      "title": "Burgundy Leather Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Dress watch",
+      "collection": "originals",
+      "price": 275,
+      "currency": "USD",
+      "shortDescription": "A steel dress watch with a burgundy dial and strap.",
+      "description": "A rich burgundy dial with a small seconds sub-dial and applied markers, in a steel case on a matching burgundy leather strap.",
+      "details": [
+        "Burgundy dial",
+        "Small seconds sub-dial",
+        "Applied markers",
+        "Burgundy leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Dress watch",
+        "Dial / colour": "Burgundy",
+        "Case": "Round, steel",
+        "Strap": "Burgundy leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#6D1E2B"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-25-ONESIZE",
+          "color": "burgundy",
+          "size": "One size",
+          "price": 275
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-leather-dress-watch/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Leather Dress Watch",
+          "width": 739,
+          "height": 924
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 25,
+        "photoPage": 25,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-26",
+      "slug": "full-pav-gold-watch",
+      "title": "Full Pavé Gold Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "jewellery",
+      "productType": "Pavé-set watch",
+      "collection": "originals",
+      "price": 760,
+      "currency": "USD",
+      "shortDescription": "A gold-tone watch pavé-set from bezel to bracelet.",
+      "description": "A round gold-tone watch with stones set across the bezel, dial and bracelet, with stone hour markers and a date window.",
+      "details": [
+        "Pavé-set bezel and bracelet",
+        "Pavé dial",
+        "Stone hour markers",
+        "Date window"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Pavé-set watch",
+        "Dial / colour": "Pavé Gold",
+        "Case": "Round, gold-tone, stone-set",
+        "Strap": "Stone-set bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "pave",
+          "name": "Pavé Gold",
+          "hex": "#E2D6B6"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-26-ONESIZE",
+          "color": "pave",
+          "size": "One size",
+          "price": 760
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/full-pav-gold-watch/01-primary-pave.webp",
+          "kind": "primary",
+          "color": "pave",
+          "alt": "Full Pavé Gold Watch",
+          "width": 739,
+          "height": 924
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 26,
+        "photoPage": 26,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-27",
+      "slug": "black-sport-automatic",
+      "title": "Black Sport Automatic",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "sport",
+      "productType": "Automatic sport watch",
+      "collection": "originals",
+      "price": 310,
+      "currency": "USD",
+      "shortDescription": "A steel automatic sport watch on a black rubber strap.",
+      "description": "A clean black dial with slim baton markers and a date window in a brushed steel case, on a black rubber strap.",
+      "details": [
+        "Black dial",
+        "Baton markers",
+        "Date window",
+        "Black rubber strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Automatic sport watch",
+        "Dial / colour": "Black",
+        "Case": "Round, steel",
+        "Strap": "Black rubber"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#18191B"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-27-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 310
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-sport-automatic/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Sport Automatic",
+          "width": 739,
+          "height": 924
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 27,
+        "photoPage": 27,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-28",
+      "slug": "blue-gmt-sport-ii",
+      "title": "Blue GMT Sport II",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "gmt",
+      "productType": "GMT sport watch",
+      "collection": "originals",
+      "price": 425,
+      "currency": "USD",
+      "shortDescription": "A steel GMT-style watch with a blue dial and two-tone bezel.",
+      "description": "A blue dial with luminous-style markers and an arrow-tipped fourth hand, inside a blue and black 24-hour bezel, on a steel three-link bracelet.",
+      "details": [
+        "Blue dial",
+        "Two-tone 24-hour bezel",
+        "Arrow-tipped fourth hand",
+        "Steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "GMT sport watch",
+        "Dial / colour": "Blue",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "blue",
+          "name": "Blue",
+          "hex": "#1E3D7A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-28-ONESIZE",
+          "color": "blue",
+          "size": "One size",
+          "price": 425
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/blue-gmt-sport-ii/01-primary-blue.webp",
+          "kind": "primary",
+          "color": "blue",
+          "alt": "Blue GMT Sport II",
+          "width": 736,
+          "height": 920
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 28,
+        "photoPage": 28,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "originalTitle": "Blue & Black GMT II Style"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-29",
+      "slug": "silver-moonphase-watch",
+      "title": "Silver Moonphase Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "complication",
+      "productType": "Moonphase watch",
+      "collection": "originals",
+      "price": 470,
+      "currency": "USD",
+      "shortDescription": "A steel moonphase watch with a silver dial.",
+      "description": "A silver dial with applied markers, a moonphase display at six and a date window at three, in a steel case on a brown leather strap.",
+      "details": [
+        "Moonphase display",
+        "Date window",
+        "Silver dial",
+        "Brown leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Moonphase watch",
+        "Dial / colour": "Silver",
+        "Case": "Round, steel",
+        "Strap": "Brown leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "silver",
+          "name": "Silver",
+          "hex": "#E6E4DF"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-29-ONESIZE",
+          "color": "silver",
+          "size": "One size",
+          "price": 470
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/silver-moonphase-watch/01-primary-silver.webp",
+          "kind": "primary",
+          "color": "silver",
+          "alt": "Silver Moonphase Watch",
+          "width": 736,
+          "height": 920
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 29,
+        "photoPage": 29,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-30",
+      "slug": "black-skeleton-tourbillon-style",
+      "title": "Black Skeleton Tourbillon Style",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "skeleton",
+      "productType": "Skeleton watch",
+      "collection": "originals",
+      "price": 650,
+      "currency": "USD",
+      "shortDescription": "A tonneau skeleton watch with an open-worked dial.",
+      "description": "A tonneau-shaped case with an open-worked, tourbillon-inspired dial showing layered bridges and gears, on a black leather strap.",
+      "details": [
+        "Tonneau case",
+        "Open-worked dial",
+        "Tourbillon-inspired design",
+        "Black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Skeleton watch",
+        "Dial / colour": "Black",
+        "Case": "Tonneau, rose-gold-tone",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#161616"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-30-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 650
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-skeleton-tourbillon-style/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Skeleton Tourbillon Style",
+          "width": 736,
+          "height": 920
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 30,
+        "photoPage": 30,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-31",
+      "slug": "blue-roman-numeral-dress-watch",
+      "title": "Blue Roman-Numeral Dress Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "dress",
+      "productType": "Dress watch",
+      "collection": "originals",
+      "price": 295,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone dress watch with a blue Roman-numeral dial.",
+      "description": "A royal-blue sunburst dial with applied Roman numerals in a polished rose-gold-tone case, on a blue leather strap.",
+      "details": [
+        "Blue sunburst dial",
+        "Roman numerals",
+        "Rose-gold-tone case",
+        "Blue leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Dress watch",
+        "Dial / colour": "Blue",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Blue leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "blue",
+          "name": "Blue",
+          "hex": "#1F3A7A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-31-ONESIZE",
+          "color": "blue",
+          "size": "One size",
+          "price": 295
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/blue-roman-numeral-dress-watch/01-primary-blue.webp",
+          "kind": "primary",
+          "color": "blue",
+          "alt": "Blue Roman-Numeral Dress Watch",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 31,
+        "photoPage": 31,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-32",
+      "slug": "black-diver-ii",
+      "title": "Black Diver II",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "diver",
+      "productType": "Dive watch",
+      "collection": "originals",
+      "price": 375,
+      "currency": "USD",
+      "shortDescription": "A steel diver with a black dial and black bezel.",
+      "description": "A black dial with luminous-style dot markers and a matching black rotating-style bezel, a date window at three and a steel three-link bracelet.",
+      "details": [
+        "Black rotating-style bezel",
+        "Luminous-style markers",
+        "Date window",
+        "Steel bracelet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Dive watch",
+        "Dial / colour": "Black",
+        "Case": "Round, steel",
+        "Strap": "Steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#141518"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-32-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 375
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-diver-ii/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Diver II",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 32,
+        "photoPage": 32,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-33",
+      "slug": "rose-gold-chronograph-iii",
+      "title": "Rose Gold Chronograph III",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "chronograph",
+      "productType": "Chronograph",
+      "collection": "originals",
+      "price": 490,
+      "currency": "USD",
+      "shortDescription": "A rose-gold-tone chronograph with a salmon dial on brown leather.",
+      "description": "A salmon dial with three matching sub-dials in a rose-gold-tone case with pump-style pushers, on a brown leather strap.",
+      "details": [
+        "Salmon dial",
+        "Three sub-dials",
+        "Pump-style pushers",
+        "Brown leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Chronograph",
+        "Dial / colour": "Salmon",
+        "Case": "Round, rose-gold-tone",
+        "Strap": "Brown leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "salmon",
+          "name": "Salmon",
+          "hex": "#E2A98F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-33-ONESIZE",
+          "color": "salmon",
+          "size": "One size",
+          "price": 490
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/rose-gold-chronograph-iii/01-primary-salmon.webp",
+          "kind": "primary",
+          "color": "salmon",
+          "alt": "Rose Gold Chronograph III",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 33,
+        "photoPage": 33,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-34",
+      "slug": "green-textured-dial-sport-watch",
+      "title": "Green Textured Dial Sport Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "sport",
+      "productType": "Integrated-bracelet sport watch",
+      "collection": "originals",
+      "price": 540,
+      "currency": "USD",
+      "shortDescription": "A steel sport watch with a textured green dial.",
+      "description": "A faceted steel case with an integrated bracelet and a textured green dial with applied baton markers.",
+      "details": [
+        "Faceted steel case",
+        "Integrated bracelet",
+        "Textured green dial",
+        "Applied markers"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Integrated-bracelet sport watch",
+        "Dial / colour": "Green",
+        "Case": "Faceted, steel",
+        "Strap": "Integrated steel bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "green",
+          "name": "Green",
+          "hex": "#2F5F45"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-34-ONESIZE",
+          "color": "green",
+          "size": "One size",
+          "price": 540
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/green-textured-dial-sport-watch/01-primary-green.webp",
+          "kind": "primary",
+          "color": "green",
+          "alt": "Green Textured Dial Sport Watch",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 34,
+        "photoPage": 34,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-35",
+      "slug": "gold-pav-bracelet-watch",
+      "title": "Gold Pavé Bracelet Watch",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "jewellery",
+      "productType": "Pavé-set watch",
+      "collection": "originals",
+      "price": 740,
+      "currency": "USD",
+      "shortDescription": "A petite gold-tone watch with a pavé dial and bracelet.",
+      "description": "A small round gold-tone watch with a pavé dial, stone-set bezel and a stone-set bracelet for evening.",
+      "details": [
+        "Pavé dial",
+        "Stone-set bezel",
+        "Stone-set bracelet",
+        "Petite case"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Pavé-set watch",
+        "Dial / colour": "Pavé Gold",
+        "Case": "Round, gold-tone, stone-set",
+        "Strap": "Stone-set bracelet"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "pave",
+          "name": "Pavé Gold",
+          "hex": "#E5D8B5"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-35-ONESIZE",
+          "color": "pave",
+          "size": "One size",
+          "price": 740
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/gold-pav-bracelet-watch/01-primary-pave.webp",
+          "kind": "primary",
+          "color": "pave",
+          "alt": "Gold Pavé Bracelet Watch",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 35,
+        "photoPage": 35,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "WAT-REF-36",
+      "slug": "black-minimal-chronograph",
+      "title": "Black Minimal Chronograph",
+      "line": "Super Mimic Horology",
+      "category": "watches",
+      "subcategory": "chronograph",
+      "productType": "Minimal chronograph",
+      "collection": "originals",
+      "price": 320,
+      "currency": "USD",
+      "shortDescription": "A minimal steel watch with a black dial and small sub-dial.",
+      "description": "A restrained black dial with slim markers and a single small sub-dial, in a polished steel case on a black leather strap.",
+      "details": [
+        "Black dial",
+        "Small sub-dial",
+        "Polished steel case",
+        "Black leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Minimal chronograph",
+        "Dial / colour": "Black",
+        "Case": "Round, steel",
+        "Strap": "Black leather"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#121212"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-WAT-REF-36-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 320
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-minimal-chronograph/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Minimal Chronograph",
+          "width": 800,
+          "height": 1000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Watch_Reference_36.pdf",
+        "pdfSha256": "5e96ae13b241613de16e807c3dd9ee698418711d625cafd860e031abc6c1f640",
+        "titlePage": 36,
+        "photoPage": 36,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    }
+  ]
+}

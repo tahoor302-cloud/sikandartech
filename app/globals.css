@@ -1,0 +1,425 @@
+@import "tailwindcss";
+
+/* ————————————————————————————————————————————————————————————
+   SUPER MIMIC — design tokens
+   ———————————————————————————————————————————————————————————— */
+@theme {
+  /* Studio palette (from the campaign reel): soft pearl backdrop, warm-white floor, charcoal type, light-gold flare */
+  --color-ivory: #ece4db;
+  --color-ivory-2: #e4dcd2;
+  --color-bone: #dad1c5;
+  --color-beige: #c9c2b2;
+  --color-champagne: #c9a96a;
+  --color-champagne-light: #f0dfb4;
+  --color-champagne-deep: #8d7442;
+  --color-mist: #7c776e;
+  --color-graphite: #45423d;
+  --color-charcoal: #2a2825;
+  --color-ink: #1b1a18;
+  --color-pearl: #f6f4ee;
+  --color-line: rgb(27 26 24 / 0.14);
+  --color-line-light: rgb(27 26 24 / 0.1);
+
+  /* One geometric sans throughout — the reel's wordmark and UI are Jost-like */
+  --font-display: var(--font-jost), "Jost", "Futura", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-jost), "Jost", "Futura", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jost), "Jost", "Futura", ui-sans-serif, system-ui, sans-serif;
+
+  --ease-luxe: cubic-bezier(0.16, 1, 0.3, 1); /* ≈ expo.out   */
+  --ease-soft: cubic-bezier(0.22, 1, 0.36, 1); /* ≈ power3.out */
+  --ease-in-out-soft: cubic-bezier(0.65, 0, 0.35, 1);
+
+  --text-display-xl: clamp(3.5rem, 11vw, 11.5rem);
+  --text-display-lg: clamp(2.75rem, 6.2vw, 6.5rem);
+  --text-display-md: clamp(2.25rem, 4.2vw, 4.25rem);
+  --text-display-sm: clamp(1.75rem, 2.6vw, 2.75rem);
+
+  --spacing-gutter: clamp(1.25rem, 3.2vw, 3.5rem);
+  --spacing-section: clamp(6rem, 13vw, 12rem);
+  --breakpoint-3xl: 1920px;
+}
+
+/* ———————————————————— base ———————————————————— */
+@layer base {
+  :root {
+    color-scheme: light;
+    --nav-h: 68px;
+  }
+  html {
+    background: var(--color-ivory);
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background: var(--color-ivory);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 15.5px;
+    line-height: 1.6;
+    letter-spacing: 0.01em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    overflow-x: clip;
+  }
+  ::selection {
+    background: var(--color-champagne);
+    color: var(--color-ink);
+  }
+  img,
+  video {
+    max-width: 100%;
+    display: block;
+  }
+  button {
+    cursor: pointer;
+  }
+  :focus-visible {
+    outline: 1px solid var(--color-champagne-deep);
+    outline-offset: 3px;
+  }
+  input,
+  select,
+  textarea {
+    font: inherit;
+  }
+}
+
+/* ———————————————————— Lenis ———————————————————— */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis:not(.lenis-autoToggle).lenis-stopped {
+  overflow: clip;
+}
+.lenis [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-smooth iframe {
+  pointer-events: none;
+}
+
+/* ———————————————————— typography ———————————————————— */
+@layer components {
+  .eyebrow {
+    font-family: var(--font-sans);
+    font-size: 10.5px;
+    font-weight: 500;
+    line-height: 1.4;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+  }
+  .label {
+    font-family: var(--font-sans);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+  }
+  .display {
+    font-family: var(--font-display);
+    font-weight: 300;
+    /* ≥1.05 so a descender on one line can never meet an ascender on the next */
+    line-height: 1.06;
+    letter-spacing: -0.015em;
+  }
+  .display em,
+  .display i {
+    font-style: normal;
+    font-weight: 400;
+  }
+  .wordmark {
+    font-family: var(--font-display);
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .tagline-caps {
+    font-family: var(--font-sans);
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+  }
+  .prose-lux {
+    color: var(--color-graphite);
+    font-size: 15.5px;
+    line-height: 1.75;
+  }
+
+  /* container */
+  .shell {
+    width: 100%;
+    margin-inline: auto;
+    padding-inline: var(--spacing-gutter);
+    max-width: 1680px;
+  }
+
+  /* hairlines */
+  .hairline {
+    height: 1px;
+    background: var(--color-line);
+  }
+  .gold-line {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-champagne) 20%, var(--color-champagne) 80%, transparent);
+  }
+
+  /* underline link */
+  .link-u {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.45s var(--ease-luxe);
+    padding-bottom: 2px;
+  }
+  .link-u:hover,
+  .link-u[aria-current="page"] {
+    background-size: 100% 1px;
+    background-position: 0% 100%;
+  }
+
+  /* buttons */
+  .btn {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    height: 50px;
+    padding-inline: 2rem;
+    font-size: 11.5px;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    overflow: hidden;
+    isolation: isolate;
+    transition: color 0.4s var(--ease-luxe), background-color 0.4s var(--ease-luxe), border-color 0.4s var(--ease-luxe), opacity 0.3s;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .btn::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    transform: scaleY(0);
+    transform-origin: bottom;
+    transition: transform 0.55s var(--ease-luxe);
+  }
+  .btn:hover::before {
+    transform: scaleY(1);
+  }
+  .btn:disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+  }
+  .btn-primary {
+    background: var(--color-ink);
+    color: var(--color-pearl);
+  }
+  .btn-primary::before {
+    background: var(--color-graphite);
+  }
+  /* "light" = the reel's soft frosted pill (outlined, translucent pearl) */
+  .btn-light {
+    background: rgb(246 244 238 / 0.55);
+    color: var(--color-ink);
+    border: 1px solid rgb(27 26 24 / 0.28);
+    backdrop-filter: blur(10px);
+  }
+  .btn-light::before {
+    background: var(--color-champagne-light);
+  }
+  .btn-outline {
+    border: 1px solid rgb(27 26 24 / 0.3);
+    color: inherit;
+  }
+  .btn-outline::before {
+    background: currentColor;
+    opacity: 0.07;
+  }
+  .btn-gold {
+    background: var(--color-champagne);
+    color: var(--color-ink);
+  }
+  .btn-gold::before {
+    background: var(--color-champagne-light);
+  }
+
+  /* form controls */
+  .field {
+    width: 100%;
+    height: 52px;
+    padding-inline: 1rem;
+    background: transparent;
+    border: 1px solid var(--color-line);
+    border-radius: 12px;
+    transition: border-color 0.3s;
+  }
+  .field:focus {
+    outline: none;
+    border-color: var(--color-ink);
+  }
+
+  /* masks for text reveals */
+  .mask {
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: top;
+    /* room for descenders (g, y, p) so the reveal mask never trims letters */
+    padding-bottom: 0.16em;
+    margin-bottom: -0.16em;
+  }
+  .mask > span {
+    display: inline-block;
+    will-change: transform;
+  }
+
+  /* skeleton */
+  .skeleton {
+    position: relative;
+    overflow: hidden;
+    background: var(--color-ivory-2);
+  }
+  .skeleton::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    transform: translateX(-100%);
+    background: linear-gradient(90deg, transparent, rgb(255 255 255 / 0.55), transparent);
+    animation: shimmer 1.6s var(--ease-in-out-soft) infinite;
+  }
+
+  /* film grain overlay (very subtle) */
+  .grain::after {
+    content: "";
+    position: absolute;
+    inset: -50%;
+    pointer-events: none;
+    opacity: 0.06;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+    animation: grain 1.2s steps(4) infinite;
+  }
+
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@keyframes shimmer {
+  to {
+    transform: translateX(100%);
+  }
+}
+@keyframes grain {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(-2%, 3%); }
+  50% { transform: translate(3%, -2%); }
+  75% { transform: translate(-3%, -3%); }
+  100% { transform: translate(0, 0); }
+}
+@keyframes light-sweep {
+  0% { transform: translateX(-60%) rotate(8deg); opacity: 0; }
+  30% { opacity: 1; }
+  70% { opacity: 1; }
+  100% { transform: translateX(60%) rotate(8deg); opacity: 0; }
+}
+@keyframes scroll-cue {
+  0% { transform: scaleY(0); transform-origin: top; }
+  45% { transform: scaleY(1); transform-origin: top; }
+  55% { transform: scaleY(1); transform-origin: bottom; }
+  100% { transform: scaleY(0); transform-origin: bottom; }
+}
+@keyframes pop {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.35); }
+  100% { transform: scale(1); }
+}
+@keyframes heart {
+  0% { transform: scale(1); }
+  30% { transform: scale(0.8); }
+  60% { transform: scale(1.25); }
+  100% { transform: scale(1); }
+}
+.animate-pop { animation: pop 0.45s var(--ease-luxe); }
+.animate-heart { animation: heart 0.5s var(--ease-luxe); }
+
+/* ———————————————————— reveal initial states ————————————————————
+   Only hidden when JS is running (html.js) so content never disappears
+   if scripts fail. GSAP animates these in. */
+html.js [data-reveal] {
+  opacity: 0;
+}
+html.js [data-reveal="clip"] {
+  opacity: 1;
+  clip-path: inset(100% 0 0 0);
+}
+html.js [data-mask] .mask > span {
+  transform: translateY(120%);
+}
+
+/* ———————————————————— reduced motion ———————————————————— */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  html.js [data-reveal] {
+    opacity: 1 !important;
+    clip-path: none !important;
+    transform: none !important;
+    filter: none !important;
+  }
+  html.js [data-mask] .mask > span {
+    transform: none !important;
+  }
+  .grain::after {
+    display: none;
+  }
+}
+
+
+@keyframes hero-progress {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+@keyframes eq {
+  0%, 100% { height: 3px; }
+  50% { height: 12px; }
+}
+
+html.js [data-hero-in] { opacity: 0; }
+html.js [data-hero-word] .mask > span { transform: translateY(120%); }
+@media (prefers-reduced-motion: reduce) {
+  html.js [data-hero-in] { opacity: 1 !important; }
+  html.js [data-hero-word] .mask > span { transform: none !important; }
+}
+
+/* Sticky toolbars follow the floating nav with a transform (no `top` animation). */
+.under-nav {
+  transition: translate 0.5s var(--ease-luxe);
+}
+html[data-nav="shown"] .under-nav {
+  translate: 0 calc(var(--nav-h) + 12px);
+}
+@media (min-width: 640px) {
+  html[data-nav="shown"] .under-nav {
+    translate: 0 calc(var(--nav-h) + 16px);
+  }
+}
+
+/* ---------- Opening film (components/intro) ---------- */
+html.intro-active,
+html.intro-active body { overflow: hidden; overscroll-behavior: none; }
+/* Black cover from the first paint until the intro layer mounts (static builds). */
+html.intro-active::before { content: ""; position: fixed; inset: 0; z-index: 999; background: #000; }
+html.intro-seen [data-intro],
+html:not(.js) [data-intro] { display: none; }

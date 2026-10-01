@@ -1,0 +1,247 @@
+{
+  "categories": [
+    {
+      "id": "shoes",
+      "name": "Shoes",
+      "tagline": "Grounded in craft",
+      "description": "Sneakers, loafers, boots and sandals — shaped on considered lasts and finished by hand.",
+      "image": "/media/products/meridian-runner/04-editorial.webp",
+      "banner": "/media/hero/scene-01.webp",
+      "subcategories": [
+        {
+          "id": "sneakers",
+          "name": "Sneakers"
+        },
+        {
+          "id": "loafers",
+          "name": "Loafers"
+        },
+        {
+          "id": "boots",
+          "name": "Boots"
+        },
+        {
+          "id": "sandals",
+          "name": "Sandals"
+        },
+        {
+          "id": "heels",
+          "name": "Heels"
+        },
+        {
+          "id": "formal",
+          "name": "Formal Shoes"
+        },
+        {
+          "id": "slippers",
+          "name": "Slides & Mules"
+        }
+      ]
+    },
+    {
+      "id": "bags",
+      "name": "Bags",
+      "tagline": "Carried with intent",
+      "description": "Totes, crossbodies, clutches and travel pieces in calf leather, canvas and technical nylon.",
+      "image": "/media/products/maison-tote/04-editorial.webp",
+      "banner": "/media/hero/scene-03.webp",
+      "subcategories": [
+        {
+          "id": "totes",
+          "name": "Totes"
+        },
+        {
+          "id": "crossbody",
+          "name": "Crossbody Bags"
+        },
+        {
+          "id": "shoulder",
+          "name": "Shoulder Bags"
+        },
+        {
+          "id": "handbags",
+          "name": "Handbags"
+        },
+        {
+          "id": "clutches",
+          "name": "Clutches"
+        },
+        {
+          "id": "backpacks",
+          "name": "Backpacks"
+        },
+        {
+          "id": "travel",
+          "name": "Travel Bags"
+        },
+        {
+          "id": "top-handle",
+          "name": "Top-Handle Bags"
+        },
+        {
+          "id": "hobo",
+          "name": "Hobo Bags"
+        },
+        {
+          "id": "bucket",
+          "name": "Bucket Bags"
+        }
+      ]
+    },
+    {
+      "id": "watches",
+      "name": "Watches",
+      "tagline": "Precision, worn",
+      "description": "Automatic, quartz and sport timepieces with sapphire crystals and hand-finished cases.",
+      "image": "/media/products/aurum-gmt/04-editorial.webp",
+      "banner": "/media/editorial/banner-watches.webp",
+      "subcategories": [
+        {
+          "id": "automatic",
+          "name": "Automatic"
+        },
+        {
+          "id": "quartz",
+          "name": "Quartz"
+        },
+        {
+          "id": "sport",
+          "name": "Sport"
+        },
+        {
+          "id": "dress",
+          "name": "Dress"
+        },
+        {
+          "id": "diver",
+          "name": "Dive Watches"
+        },
+        {
+          "id": "chronograph",
+          "name": "Chronographs"
+        },
+        {
+          "id": "gmt",
+          "name": "GMT Watches"
+        },
+        {
+          "id": "skeleton",
+          "name": "Skeleton Watches"
+        },
+        {
+          "id": "pilot",
+          "name": "Pilot Watches"
+        },
+        {
+          "id": "field",
+          "name": "Field Watches"
+        },
+        {
+          "id": "complication",
+          "name": "Moonphase & Complications"
+        },
+        {
+          "id": "jewellery",
+          "name": "Jewellery Watches"
+        }
+      ]
+    },
+    {
+      "id": "jewelry",
+      "name": "Jewelry",
+      "tagline": "Quiet brilliance",
+      "description": "Rings, bracelets and necklaces.",
+      "image": "",
+      "banner": "",
+      "subcategories": []
+    },
+    {
+      "id": "clothing",
+      "name": "Clothing",
+      "tagline": "Considered layers",
+      "description": "Tailoring, outerwear, eveningwear and knitwear — cut with precision and finished with restraint.",
+      "image": "/media/products/camel-belted-wool-coat/01-primary-camel.webp",
+      "banner": "",
+      "subcategories": [
+        {
+          "id": "blazers",
+          "name": "Blazers"
+        },
+        {
+          "id": "suits",
+          "name": "Suits"
+        },
+        {
+          "id": "coats",
+          "name": "Coats"
+        },
+        {
+          "id": "jackets",
+          "name": "Jackets"
+        },
+        {
+          "id": "dresses",
+          "name": "Dresses"
+        },
+        {
+          "id": "shirts",
+          "name": "Shirts & Blouses"
+        },
+        {
+          "id": "knitwear",
+          "name": "Knitwear"
+        }
+      ]
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "tagline": "The final detail",
+      "description": "Wallets, belts and eyewear — the details that complete the edit.",
+      "image": "/media/products/aura-sunglasses/04-editorial.webp",
+      "banner": "/media/editorial/banner-essentials.webp",
+      "subcategories": [
+        {
+          "id": "wallets",
+          "name": "Wallets"
+        },
+        {
+          "id": "belts",
+          "name": "Belts"
+        },
+        {
+          "id": "sunglasses",
+          "name": "Sunglasses"
+        }
+      ]
+    },
+    {
+      "id": "fragrance",
+      "name": "Fragrance",
+      "tagline": "An invisible signature",
+      "description": "Eaux de parfum and home scent.",
+      "image": "",
+      "banner": "",
+      "subcategories": []
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "tagline": "In transit",
+      "description": "Luggage and travel goods.",
+      "image": "",
+      "banner": "",
+      "subcategories": []
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "tagline": "Objects",
+      "description": "Everything else from the atelier.",
+      "image": "",
+      "banner": "",
+      "subcategories": []
+    }
+  ],
+  "note": "The full taxonomy is declared here; the storefront only shows categories and subcategories that contain at least one product in the built catalog."
+}

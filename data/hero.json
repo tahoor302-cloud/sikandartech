@@ -1,0 +1,155 @@
+[
+  {
+    "id": "SM-000001",
+    "type": "image",
+    "src": "/media/hero/scene-01.webp",
+    "caption": "Meridian Runner — Ivory",
+    "category": "shoes",
+    "href": "/product/SM-000001",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000009",
+    "type": "image",
+    "src": "/media/hero/scene-02.webp",
+    "caption": "Chronos 38 Automatic — Ivory",
+    "category": "watches",
+    "href": "/product/SM-000009",
+    "tone": "light"
+  },
+  {
+    "id": "SM-000015",
+    "type": "image",
+    "src": "/media/hero/scene-03.webp",
+    "caption": "Maison Tote — Cognac",
+    "category": "bags",
+    "href": "/product/SM-000015",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000047",
+    "type": "image",
+    "src": "/media/hero/camel-belted-wool-coat.webp",
+    "caption": "Camel Belted Wool Coat",
+    "category": "clothing",
+    "href": "/product/SM-000047",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000024",
+    "type": "image",
+    "src": "/media/hero/aura-sunglasses.webp",
+    "caption": "Aura Sunglasses — Noir",
+    "category": "accessories",
+    "href": "/product/SM-000024",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000094",
+    "type": "image",
+    "src": "/media/hero/emerald-integrated-bracelet-watch.webp",
+    "caption": "Emerald Integrated-Bracelet Watch",
+    "category": "watches",
+    "href": "/product/SM-000094",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000008",
+    "type": "image",
+    "src": "/media/hero/ridge-court.webp",
+    "caption": "Ridge Court — Ivory",
+    "category": "shoes",
+    "href": "/product/SM-000008",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000013",
+    "type": "image",
+    "src": "/media/hero/axis-skeleton.webp",
+    "caption": "Axis Skeleton — Steel",
+    "category": "watches",
+    "href": "/product/SM-000013",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000017",
+    "type": "image",
+    "src": "/media/hero/voyage-weekender.webp",
+    "caption": "Voyage Weekender — Cognac",
+    "category": "bags",
+    "href": "/product/SM-000017",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000033",
+    "type": "image",
+    "src": "/media/hero/emerald-structured-top-handle.webp",
+    "caption": "Emerald Structured Top-Handle",
+    "category": "bags",
+    "href": "/product/SM-000033",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000023",
+    "type": "image",
+    "src": "/media/hero/line-belt.webp",
+    "caption": "Line Belt — Noir",
+    "category": "accessories",
+    "href": "/product/SM-000023",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000116",
+    "type": "image",
+    "src": "/media/hero/black-skeleton-tourbillon-style.webp",
+    "caption": "Black Skeleton Tourbillon Style",
+    "category": "watches",
+    "href": "/product/SM-000116",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000006",
+    "type": "image",
+    "src": "/media/hero/orbit-trainer.webp",
+    "caption": "Orbit Trainer — Graphite",
+    "category": "shoes",
+    "href": "/product/SM-000006",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000011",
+    "type": "image",
+    "src": "/media/hero/aurum-gmt.webp",
+    "caption": "Aurum GMT — Midnight",
+    "category": "watches",
+    "href": "/product/SM-000011",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000018",
+    "type": "image",
+    "src": "/media/hero/cadence-mini.webp",
+    "caption": "Cadence Mini — Champagne",
+    "category": "bags",
+    "href": "/product/SM-000018",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000055",
+    "type": "image",
+    "src": "/media/hero/burgundy-velvet-tuxedo-blazer.webp",
+    "caption": "Burgundy Velvet Tuxedo Blazer",
+    "category": "clothing",
+    "href": "/product/SM-000055",
+    "tone": "dark"
+  },
+  {
+    "id": "SM-000022",
+    "type": "image",
+    "src": "/media/hero/ledger-wallet.webp",
+    "caption": "Ledger Wallet — Noir",
+    "category": "accessories",
+    "href": "/product/SM-000022",
+    "tone": "dark"
+  }
+]

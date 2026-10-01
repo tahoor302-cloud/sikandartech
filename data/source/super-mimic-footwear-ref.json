@@ -1,0 +1,3093 @@
+{
+  "source": "super-mimic-footwear-ref",
+  "authorised": "Owner-supplied reference PDF, described by the owner as original reference designs. Prices (USD), sizes and copy were proposed for launch and need owner review.",
+  "importedAt": "2026-09-30T00:00:00.000Z",
+  "records": [
+    {
+      "sourceId": "SHO-REF-01",
+      "slug": "white-leather-court-sneaker",
+      "title": "White Leather Court Sneaker",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Court sneaker",
+      "collection": "originals",
+      "price": 145,
+      "currency": "USD",
+      "shortDescription": "A clean white leather court sneaker with a tan heel tab.",
+      "description": "A minimal low-top court sneaker in white leather with tonal laces, a cupsole and a tan heel tab.",
+      "details": [
+        "Low-top profile",
+        "Tonal laces",
+        "Cupsole",
+        "Tan heel tab"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Style": "Court sneaker",
+        "Colour": "White",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "white",
+          "name": "White",
+          "hex": "#F1EFEA"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-01-39",
+          "color": "white",
+          "size": "39",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-40",
+          "color": "white",
+          "size": "40",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-41",
+          "color": "white",
+          "size": "41",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-42",
+          "color": "white",
+          "size": "42",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-43",
+          "color": "white",
+          "size": "43",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-44",
+          "color": "white",
+          "size": "44",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-45",
+          "color": "white",
+          "size": "45",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-01-46",
+          "color": "white",
+          "size": "46",
+          "price": 145
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/white-leather-court-sneaker/01-primary-white.webp",
+          "kind": "primary",
+          "color": "white",
+          "alt": "White Leather Court Sneaker",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 1,
+        "photoPage": 1,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-02",
+      "slug": "graphite-performance-runner",
+      "title": "Graphite Performance Runner",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Performance runner",
+      "collection": "originals",
+      "price": 135,
+      "currency": "USD",
+      "shortDescription": "A grey knit runner on a cushioned white sole.",
+      "description": "A graphite engineered-knit upper on a thick cushioned white midsole with a red outsole accent.",
+      "details": [
+        "Knit upper",
+        "Cushioned midsole",
+        "Red outsole accent"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Performance runner",
+        "Colour": "Graphite",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "graphite",
+          "name": "Graphite",
+          "hex": "#7D7F82"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-02-39",
+          "color": "graphite",
+          "size": "39",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-40",
+          "color": "graphite",
+          "size": "40",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-41",
+          "color": "graphite",
+          "size": "41",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-42",
+          "color": "graphite",
+          "size": "42",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-43",
+          "color": "graphite",
+          "size": "43",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-44",
+          "color": "graphite",
+          "size": "44",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-45",
+          "color": "graphite",
+          "size": "45",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-02-46",
+          "color": "graphite",
+          "size": "46",
+          "price": 135
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/graphite-performance-runner/01-primary-graphite.webp",
+          "kind": "primary",
+          "color": "graphite",
+          "alt": "Graphite Performance Runner",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 2,
+        "photoPage": 2,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-03",
+      "slug": "black-technical-trail-runner",
+      "title": "Black Technical Trail Runner",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Trail runner",
+      "collection": "originals",
+      "price": 150,
+      "currency": "USD",
+      "shortDescription": "An all-black technical trail runner with a lugged sole.",
+      "description": "Layered black overlays on a mesh upper, a chunky sculpted midsole and a deep-lug outsole for grip.",
+      "details": [
+        "Layered overlays",
+        "Mesh upper",
+        "Chunky midsole",
+        "Lugged outsole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Trail runner",
+        "Colour": "Black",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#171717"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-03-39",
+          "color": "noir",
+          "size": "39",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-40",
+          "color": "noir",
+          "size": "40",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-41",
+          "color": "noir",
+          "size": "41",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-42",
+          "color": "noir",
+          "size": "42",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-43",
+          "color": "noir",
+          "size": "43",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-44",
+          "color": "noir",
+          "size": "44",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-45",
+          "color": "noir",
+          "size": "45",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-03-46",
+          "color": "noir",
+          "size": "46",
+          "price": 150
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-technical-trail-runner/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Technical Trail Runner",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 3,
+        "photoPage": 3,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-05",
+      "slug": "burgundy-leather-court-sneaker",
+      "title": "Burgundy Leather Court Sneaker",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Court sneaker",
+      "collection": "originals",
+      "price": 150,
+      "currency": "USD",
+      "shortDescription": "A burgundy leather court sneaker on a white cupsole.",
+      "description": "Smooth burgundy leather, tonal laces and a clean white cupsole — a richer take on the everyday court shoe.",
+      "details": [
+        "Low-top profile",
+        "Tonal laces",
+        "White cupsole"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Style": "Court sneaker",
+        "Colour": "Burgundy",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#5E1E22"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-05-39",
+          "color": "burgundy",
+          "size": "39",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-40",
+          "color": "burgundy",
+          "size": "40",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-41",
+          "color": "burgundy",
+          "size": "41",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-42",
+          "color": "burgundy",
+          "size": "42",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-43",
+          "color": "burgundy",
+          "size": "43",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-44",
+          "color": "burgundy",
+          "size": "44",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-45",
+          "color": "burgundy",
+          "size": "45",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-05-46",
+          "color": "burgundy",
+          "size": "46",
+          "price": 150
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-leather-court-sneaker/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Leather Court Sneaker",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 5,
+        "photoPage": 5,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-06",
+      "slug": "navy-and-white-heritage-sneaker",
+      "title": "Navy & White Heritage Sneaker",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Heritage court sneaker",
+      "collection": "originals",
+      "price": 135,
+      "currency": "USD",
+      "shortDescription": "A navy and white heritage court sneaker.",
+      "description": "A retro court silhouette with navy overlays on a white base, a perforated toe and a cream vintage-look sole.",
+      "details": [
+        "Navy overlays",
+        "Perforated toe",
+        "Cream sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Heritage court sneaker",
+        "Colour": "Navy & White",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "navy-white",
+          "name": "Navy & White",
+          "hex": "#1D2A48"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-06-39",
+          "color": "navy-white",
+          "size": "39",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-40",
+          "color": "navy-white",
+          "size": "40",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-41",
+          "color": "navy-white",
+          "size": "41",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-42",
+          "color": "navy-white",
+          "size": "42",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-43",
+          "color": "navy-white",
+          "size": "43",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-44",
+          "color": "navy-white",
+          "size": "44",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-45",
+          "color": "navy-white",
+          "size": "45",
+          "price": 135
+        },
+        {
+          "sku": "SM-SHO-REF-06-46",
+          "color": "navy-white",
+          "size": "46",
+          "price": 135
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/navy-and-white-heritage-sneaker/01-primary-navy-white.webp",
+          "kind": "primary",
+          "color": "navy-white",
+          "alt": "Navy & White Heritage Sneaker",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 6,
+        "photoPage": 6,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-08",
+      "slug": "forest-green-trail-sneaker",
+      "title": "Forest Green Trail Sneaker",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Trail sneaker",
+      "collection": "originals",
+      "price": 140,
+      "currency": "USD",
+      "shortDescription": "A forest-green trail sneaker with a rugged sole.",
+      "description": "Green mesh and suede-look overlays on a protective toe cap and a lugged, grippy outsole.",
+      "details": [
+        "Mesh upper",
+        "Protective toe cap",
+        "Lugged outsole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Trail sneaker",
+        "Colour": "Forest Green",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "forest",
+          "name": "Forest Green",
+          "hex": "#46573F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-08-39",
+          "color": "forest",
+          "size": "39",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-40",
+          "color": "forest",
+          "size": "40",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-41",
+          "color": "forest",
+          "size": "41",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-42",
+          "color": "forest",
+          "size": "42",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-43",
+          "color": "forest",
+          "size": "43",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-44",
+          "color": "forest",
+          "size": "44",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-45",
+          "color": "forest",
+          "size": "45",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-08-46",
+          "color": "forest",
+          "size": "46",
+          "price": 140
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/forest-green-trail-sneaker/01-primary-forest.webp",
+          "kind": "primary",
+          "color": "forest",
+          "alt": "Forest Green Trail Sneaker",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 8,
+        "photoPage": 8,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-09",
+      "slug": "tan-suede-chukka-boot",
+      "title": "Tan Suede Chukka Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Chukka boot",
+      "collection": "originals",
+      "price": 165,
+      "currency": "USD",
+      "shortDescription": "A tan suede chukka boot on a crepe-style sole.",
+      "description": "A two-eyelet chukka in soft tan suede with a rounded toe and a light crepe-style sole.",
+      "details": [
+        "Two-eyelet lacing",
+        "Rounded toe",
+        "Crepe-style sole"
+      ],
+      "materials": "Suede",
+      "care": [],
+      "specifications": {
+        "Style": "Chukka boot",
+        "Colour": "Tan",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "tan",
+          "name": "Tan",
+          "hex": "#A06E3F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-09-39",
+          "color": "tan",
+          "size": "39",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-40",
+          "color": "tan",
+          "size": "40",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-41",
+          "color": "tan",
+          "size": "41",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-42",
+          "color": "tan",
+          "size": "42",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-43",
+          "color": "tan",
+          "size": "43",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-44",
+          "color": "tan",
+          "size": "44",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-45",
+          "color": "tan",
+          "size": "45",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-09-46",
+          "color": "tan",
+          "size": "46",
+          "price": 165
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/tan-suede-chukka-boot/01-primary-tan.webp",
+          "kind": "primary",
+          "color": "tan",
+          "alt": "Tan Suede Chukka Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 9,
+        "photoPage": 9,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-10",
+      "slug": "black-lug-sole-lace-up-boot",
+      "title": "Black Lug-Sole Lace-Up Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Lace-up boot",
+      "collection": "originals",
+      "price": 185,
+      "currency": "USD",
+      "shortDescription": "A black leather lace-up boot on a chunky lug sole.",
+      "description": "A polished black lace-up boot with a cap toe, speed hooks and a deep chunky lug sole.",
+      "details": [
+        "Cap toe",
+        "Speed hooks",
+        "Chunky lug sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Lace-up boot",
+        "Colour": "Black",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#161514"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-10-39",
+          "color": "noir",
+          "size": "39",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-40",
+          "color": "noir",
+          "size": "40",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-41",
+          "color": "noir",
+          "size": "41",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-42",
+          "color": "noir",
+          "size": "42",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-43",
+          "color": "noir",
+          "size": "43",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-44",
+          "color": "noir",
+          "size": "44",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-45",
+          "color": "noir",
+          "size": "45",
+          "price": 185
+        },
+        {
+          "sku": "SM-SHO-REF-10-46",
+          "color": "noir",
+          "size": "46",
+          "price": 185
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-lug-sole-lace-up-boot/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Lug-Sole Lace-Up Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 10,
+        "photoPage": 10,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-11",
+      "slug": "brown-chelsea-boot",
+      "title": "Brown Chelsea Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Chelsea boot",
+      "collection": "originals",
+      "price": 175,
+      "currency": "USD",
+      "shortDescription": "A dark brown leather Chelsea boot.",
+      "description": "A sleek Chelsea boot in dark brown polished leather with elastic side gores and a pull tab.",
+      "details": [
+        "Elastic side gores",
+        "Pull tab",
+        "Almond toe"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Style": "Chelsea boot",
+        "Colour": "Brown",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "brown",
+          "name": "Brown",
+          "hex": "#4E2E1E"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-11-39",
+          "color": "brown",
+          "size": "39",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-40",
+          "color": "brown",
+          "size": "40",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-41",
+          "color": "brown",
+          "size": "41",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-42",
+          "color": "brown",
+          "size": "42",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-43",
+          "color": "brown",
+          "size": "43",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-44",
+          "color": "brown",
+          "size": "44",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-45",
+          "color": "brown",
+          "size": "45",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-11-46",
+          "color": "brown",
+          "size": "46",
+          "price": 175
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/brown-chelsea-boot/01-primary-brown.webp",
+          "kind": "primary",
+          "color": "brown",
+          "alt": "Brown Chelsea Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 11,
+        "photoPage": 11,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-12",
+      "slug": "black-heeled-chelsea-boot",
+      "title": "Black Heeled Chelsea Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Heeled ankle boot",
+      "collection": "originals",
+      "price": 170,
+      "currency": "USD",
+      "shortDescription": "A black ankle boot on a block heel with a side zip.",
+      "description": "A polished black ankle boot with a pointed toe, a stacked block heel and an inside zip.",
+      "details": [
+        "Block heel",
+        "Side zip",
+        "Pointed toe"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Heeled ankle boot",
+        "Colour": "Black",
+        "Fit": "Women's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#141414"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-12-36",
+          "color": "noir",
+          "size": "36",
+          "price": 170
+        },
+        {
+          "sku": "SM-SHO-REF-12-37",
+          "color": "noir",
+          "size": "37",
+          "price": 170
+        },
+        {
+          "sku": "SM-SHO-REF-12-38",
+          "color": "noir",
+          "size": "38",
+          "price": 170
+        },
+        {
+          "sku": "SM-SHO-REF-12-39",
+          "color": "noir",
+          "size": "39",
+          "price": 170
+        },
+        {
+          "sku": "SM-SHO-REF-12-40",
+          "color": "noir",
+          "size": "40",
+          "price": 170
+        },
+        {
+          "sku": "SM-SHO-REF-12-41",
+          "color": "noir",
+          "size": "41",
+          "price": 170
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-heeled-chelsea-boot/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Heeled Chelsea Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 12,
+        "photoPage": 12,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-13",
+      "slug": "honey-hiking-boot",
+      "title": "Honey Hiking Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Hiking boot",
+      "collection": "originals",
+      "price": 190,
+      "currency": "USD",
+      "shortDescription": "A honey nubuck hiking boot with speed-hook lacing.",
+      "description": "A classic hiker in honey-toned nubuck with a padded collar, speed-hook lacing and a lugged outsole.",
+      "details": [
+        "Padded collar",
+        "Speed-hook lacing",
+        "Lugged outsole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Hiking boot",
+        "Colour": "Honey",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "honey",
+          "name": "Honey",
+          "hex": "#B7732E"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-13-39",
+          "color": "honey",
+          "size": "39",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-40",
+          "color": "honey",
+          "size": "40",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-41",
+          "color": "honey",
+          "size": "41",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-42",
+          "color": "honey",
+          "size": "42",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-43",
+          "color": "honey",
+          "size": "43",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-44",
+          "color": "honey",
+          "size": "44",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-45",
+          "color": "honey",
+          "size": "45",
+          "price": 190
+        },
+        {
+          "sku": "SM-SHO-REF-13-46",
+          "color": "honey",
+          "size": "46",
+          "price": 190
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/honey-hiking-boot/01-primary-honey.webp",
+          "kind": "primary",
+          "color": "honey",
+          "alt": "Honey Hiking Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 13,
+        "photoPage": 13,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-14",
+      "slug": "cream-shearling-winter-boot",
+      "title": "Cream Shearling Winter Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Shearling boot",
+      "collection": "originals",
+      "price": 160,
+      "currency": "USD",
+      "shortDescription": "A cream suede winter boot with a shearling cuff.",
+      "description": "A soft cream suede-look boot with a fluffy shearling-look cuff and a light rubber sole.",
+      "details": [
+        "Shearling-look cuff",
+        "Pull-on",
+        "Rubber sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Shearling boot",
+        "Colour": "Cream",
+        "Fit": "Unisex EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "cream",
+          "name": "Cream",
+          "hex": "#E3D8C5"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-14-36",
+          "color": "cream",
+          "size": "36",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-37",
+          "color": "cream",
+          "size": "37",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-38",
+          "color": "cream",
+          "size": "38",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-39",
+          "color": "cream",
+          "size": "39",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-40",
+          "color": "cream",
+          "size": "40",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-41",
+          "color": "cream",
+          "size": "41",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-42",
+          "color": "cream",
+          "size": "42",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-43",
+          "color": "cream",
+          "size": "43",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-44",
+          "color": "cream",
+          "size": "44",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-14-45",
+          "color": "cream",
+          "size": "45",
+          "price": 160
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cream-shearling-winter-boot/01-primary-cream.webp",
+          "kind": "primary",
+          "color": "cream",
+          "alt": "Cream Shearling Winter Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 14,
+        "photoPage": 14,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-15",
+      "slug": "black-combat-boot",
+      "title": "Black Combat Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Combat boot",
+      "collection": "originals",
+      "price": 180,
+      "currency": "USD",
+      "shortDescription": "A black lace-up combat boot on a lug sole.",
+      "description": "A high lace-up combat boot in black leather with a padded collar and a chunky lug sole.",
+      "details": [
+        "High lace-up",
+        "Padded collar",
+        "Lug sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Combat boot",
+        "Colour": "Black",
+        "Fit": "Unisex EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#151515"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-15-36",
+          "color": "noir",
+          "size": "36",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-37",
+          "color": "noir",
+          "size": "37",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-38",
+          "color": "noir",
+          "size": "38",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-39",
+          "color": "noir",
+          "size": "39",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-40",
+          "color": "noir",
+          "size": "40",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-41",
+          "color": "noir",
+          "size": "41",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-42",
+          "color": "noir",
+          "size": "42",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-43",
+          "color": "noir",
+          "size": "43",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-44",
+          "color": "noir",
+          "size": "44",
+          "price": 180
+        },
+        {
+          "sku": "SM-SHO-REF-15-45",
+          "color": "noir",
+          "size": "45",
+          "price": 180
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-combat-boot/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Combat Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 15,
+        "photoPage": 15,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-16",
+      "slug": "tall-brown-leather-riding-boot",
+      "title": "Tall Brown Leather Riding Boot",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Riding boot",
+      "collection": "originals",
+      "price": 210,
+      "currency": "USD",
+      "shortDescription": "A knee-high brown leather riding boot with a strap.",
+      "description": "A tall riding boot in polished brown leather with a buckled strap at the top and a low stacked heel.",
+      "details": [
+        "Knee height",
+        "Buckled top strap",
+        "Low stacked heel"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Style": "Riding boot",
+        "Colour": "Brown",
+        "Fit": "Women's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "colors": [
+        {
+          "id": "brown",
+          "name": "Brown",
+          "hex": "#5B361F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-16-36",
+          "color": "brown",
+          "size": "36",
+          "price": 210
+        },
+        {
+          "sku": "SM-SHO-REF-16-37",
+          "color": "brown",
+          "size": "37",
+          "price": 210
+        },
+        {
+          "sku": "SM-SHO-REF-16-38",
+          "color": "brown",
+          "size": "38",
+          "price": 210
+        },
+        {
+          "sku": "SM-SHO-REF-16-39",
+          "color": "brown",
+          "size": "39",
+          "price": 210
+        },
+        {
+          "sku": "SM-SHO-REF-16-40",
+          "color": "brown",
+          "size": "40",
+          "price": 210
+        },
+        {
+          "sku": "SM-SHO-REF-16-41",
+          "color": "brown",
+          "size": "41",
+          "price": 210
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/tall-brown-leather-riding-boot/01-primary-brown.webp",
+          "kind": "primary",
+          "color": "brown",
+          "alt": "Tall Brown Leather Riding Boot",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 16,
+        "photoPage": 16,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-17",
+      "slug": "black-penny-loafer",
+      "title": "Black Penny Loafer",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "loafers",
+      "productType": "Penny loafer",
+      "collection": "originals",
+      "price": 155,
+      "currency": "USD",
+      "shortDescription": "A polished black penny loafer.",
+      "description": "A classic penny loafer in high-shine black with a moc-toe seam and a saddle strap.",
+      "details": [
+        "Saddle strap",
+        "Moc-toe seam",
+        "Low heel"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Penny loafer",
+        "Colour": "Black",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#121212"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-17-39",
+          "color": "noir",
+          "size": "39",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-40",
+          "color": "noir",
+          "size": "40",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-41",
+          "color": "noir",
+          "size": "41",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-42",
+          "color": "noir",
+          "size": "42",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-43",
+          "color": "noir",
+          "size": "43",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-44",
+          "color": "noir",
+          "size": "44",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-45",
+          "color": "noir",
+          "size": "45",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-17-46",
+          "color": "noir",
+          "size": "46",
+          "price": 155
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-penny-loafer/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Penny Loafer",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 17,
+        "photoPage": 17,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-18",
+      "slug": "burgundy-tassel-loafer",
+      "title": "Burgundy Tassel Loafer",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "loafers",
+      "productType": "Tassel loafer",
+      "collection": "originals",
+      "price": 160,
+      "currency": "USD",
+      "shortDescription": "A burgundy tassel loafer with a high-shine finish.",
+      "description": "A burgundy loafer with a polished finish, a moc-toe seam and tassel detailing at the vamp.",
+      "details": [
+        "Tassel detail",
+        "Moc-toe seam",
+        "High-shine finish"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Tassel loafer",
+        "Colour": "Burgundy",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#5A1620"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-18-39",
+          "color": "burgundy",
+          "size": "39",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-40",
+          "color": "burgundy",
+          "size": "40",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-41",
+          "color": "burgundy",
+          "size": "41",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-42",
+          "color": "burgundy",
+          "size": "42",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-43",
+          "color": "burgundy",
+          "size": "43",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-44",
+          "color": "burgundy",
+          "size": "44",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-45",
+          "color": "burgundy",
+          "size": "45",
+          "price": 160
+        },
+        {
+          "sku": "SM-SHO-REF-18-46",
+          "color": "burgundy",
+          "size": "46",
+          "price": 160
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-tassel-loafer/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Tassel Loafer",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 18,
+        "photoPage": 18,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-19",
+      "slug": "brown-double-monk-dress-shoe",
+      "title": "Brown Double-Monk Dress Shoe",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "formal",
+      "productType": "Double-monk shoe",
+      "collection": "originals",
+      "price": 175,
+      "currency": "USD",
+      "shortDescription": "A brown double-monk-strap dress shoe with a cap toe.",
+      "description": "A brown dress shoe with two buckled monk straps, a stitched cap toe and a slim leather-look sole.",
+      "details": [
+        "Double monk straps",
+        "Cap toe",
+        "Slim sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Double-monk shoe",
+        "Colour": "Brown",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "brown",
+          "name": "Brown",
+          "hex": "#5A3220"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-19-39",
+          "color": "brown",
+          "size": "39",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-40",
+          "color": "brown",
+          "size": "40",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-41",
+          "color": "brown",
+          "size": "41",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-42",
+          "color": "brown",
+          "size": "42",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-43",
+          "color": "brown",
+          "size": "43",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-44",
+          "color": "brown",
+          "size": "44",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-45",
+          "color": "brown",
+          "size": "45",
+          "price": 175
+        },
+        {
+          "sku": "SM-SHO-REF-19-46",
+          "color": "brown",
+          "size": "46",
+          "price": 175
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/brown-double-monk-dress-shoe/01-primary-brown.webp",
+          "kind": "primary",
+          "color": "brown",
+          "alt": "Brown Double-Monk Dress Shoe",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 19,
+        "photoPage": 19,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-20",
+      "slug": "black-cap-toe-derby",
+      "title": "Black Cap-Toe Derby",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "formal",
+      "productType": "Cap-toe derby",
+      "collection": "originals",
+      "price": 165,
+      "currency": "USD",
+      "shortDescription": "A black cap-toe derby for formal wear.",
+      "description": "A polished black derby with open lacing and a stitched cap toe on a slim sole.",
+      "details": [
+        "Open lacing",
+        "Stitched cap toe",
+        "Slim sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Cap-toe derby",
+        "Colour": "Black",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#121212"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-20-39",
+          "color": "noir",
+          "size": "39",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-40",
+          "color": "noir",
+          "size": "40",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-41",
+          "color": "noir",
+          "size": "41",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-42",
+          "color": "noir",
+          "size": "42",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-43",
+          "color": "noir",
+          "size": "43",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-44",
+          "color": "noir",
+          "size": "44",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-45",
+          "color": "noir",
+          "size": "45",
+          "price": 165
+        },
+        {
+          "sku": "SM-SHO-REF-20-46",
+          "color": "noir",
+          "size": "46",
+          "price": 165
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-cap-toe-derby/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Cap-Toe Derby",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 20,
+        "photoPage": 20,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-21",
+      "slug": "taupe-suede-driving-loafer",
+      "title": "Taupe Suede Driving Loafer",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "loafers",
+      "productType": "Driving loafer",
+      "collection": "originals",
+      "price": 140,
+      "currency": "USD",
+      "shortDescription": "A soft taupe suede driving loafer.",
+      "description": "An unstructured driving loafer in taupe suede with a moc-toe seam and a flexible sole.",
+      "details": [
+        "Moc-toe seam",
+        "Unstructured shape",
+        "Flexible sole"
+      ],
+      "materials": "Suede",
+      "care": [],
+      "specifications": {
+        "Style": "Driving loafer",
+        "Colour": "Taupe",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "taupe",
+          "name": "Taupe",
+          "hex": "#8B7B6C"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-21-39",
+          "color": "taupe",
+          "size": "39",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-40",
+          "color": "taupe",
+          "size": "40",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-41",
+          "color": "taupe",
+          "size": "41",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-42",
+          "color": "taupe",
+          "size": "42",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-43",
+          "color": "taupe",
+          "size": "43",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-44",
+          "color": "taupe",
+          "size": "44",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-45",
+          "color": "taupe",
+          "size": "45",
+          "price": 140
+        },
+        {
+          "sku": "SM-SHO-REF-21-46",
+          "color": "taupe",
+          "size": "46",
+          "price": 140
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/taupe-suede-driving-loafer/01-primary-taupe.webp",
+          "kind": "primary",
+          "color": "taupe",
+          "alt": "Taupe Suede Driving Loafer",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 21,
+        "photoPage": 21,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-22",
+      "slug": "ivory-shearling-mule",
+      "title": "Ivory Shearling Mule",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "slippers",
+      "productType": "Shearling mule",
+      "collection": "originals",
+      "price": 95,
+      "currency": "USD",
+      "shortDescription": "A plush ivory shearling-look mule.",
+      "description": "An open-toe mule with a plush ivory shearling-look strap on a cushioned footbed.",
+      "details": [
+        "Plush strap",
+        "Open toe",
+        "Cushioned footbed"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Shearling mule",
+        "Colour": "Ivory",
+        "Fit": "Unisex EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#EFE6D6"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-22-36",
+          "color": "ivory",
+          "size": "36",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-37",
+          "color": "ivory",
+          "size": "37",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-38",
+          "color": "ivory",
+          "size": "38",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-39",
+          "color": "ivory",
+          "size": "39",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-40",
+          "color": "ivory",
+          "size": "40",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-41",
+          "color": "ivory",
+          "size": "41",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-42",
+          "color": "ivory",
+          "size": "42",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-43",
+          "color": "ivory",
+          "size": "43",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-44",
+          "color": "ivory",
+          "size": "44",
+          "price": 95
+        },
+        {
+          "sku": "SM-SHO-REF-22-45",
+          "color": "ivory",
+          "size": "45",
+          "price": 95
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ivory-shearling-mule/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ivory Shearling Mule",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 22,
+        "photoPage": 22,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-23",
+      "slug": "minimal-black-slide",
+      "title": "Minimal Black Slide",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "slippers",
+      "productType": "Slide",
+      "collection": "originals",
+      "price": 75,
+      "currency": "USD",
+      "shortDescription": "A minimal black slide with a wide strap.",
+      "description": "A clean black slide with a single wide strap on a contoured footbed.",
+      "details": [
+        "Wide single strap",
+        "Contoured footbed",
+        "Slip-on"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Slide",
+        "Colour": "Black",
+        "Fit": "Unisex EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#161616"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-23-36",
+          "color": "noir",
+          "size": "36",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-37",
+          "color": "noir",
+          "size": "37",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-38",
+          "color": "noir",
+          "size": "38",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-39",
+          "color": "noir",
+          "size": "39",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-40",
+          "color": "noir",
+          "size": "40",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-41",
+          "color": "noir",
+          "size": "41",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-42",
+          "color": "noir",
+          "size": "42",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-43",
+          "color": "noir",
+          "size": "43",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-44",
+          "color": "noir",
+          "size": "44",
+          "price": 75
+        },
+        {
+          "sku": "SM-SHO-REF-23-45",
+          "color": "noir",
+          "size": "45",
+          "price": 75
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/minimal-black-slide/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Minimal Black Slide",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 23,
+        "photoPage": 23,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-24",
+      "slug": "woven-tan-leather-sandal",
+      "title": "Woven Tan Leather Sandal",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sandals",
+      "productType": "Woven slide sandal",
+      "collection": "originals",
+      "price": 110,
+      "currency": "USD",
+      "shortDescription": "A flat sandal with a woven tan leather strap.",
+      "description": "A flat slide sandal with a wide hand-woven-look tan leather strap and a low stacked heel.",
+      "details": [
+        "Woven strap",
+        "Square toe",
+        "Low stacked heel"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Style": "Woven slide sandal",
+        "Colour": "Tan",
+        "Fit": "Unisex EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "tan",
+          "name": "Tan",
+          "hex": "#A5652F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-24-36",
+          "color": "tan",
+          "size": "36",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-37",
+          "color": "tan",
+          "size": "37",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-38",
+          "color": "tan",
+          "size": "38",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-39",
+          "color": "tan",
+          "size": "39",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-40",
+          "color": "tan",
+          "size": "40",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-41",
+          "color": "tan",
+          "size": "41",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-42",
+          "color": "tan",
+          "size": "42",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-43",
+          "color": "tan",
+          "size": "43",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-44",
+          "color": "tan",
+          "size": "44",
+          "price": 110
+        },
+        {
+          "sku": "SM-SHO-REF-24-45",
+          "color": "tan",
+          "size": "45",
+          "price": 110
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/woven-tan-leather-sandal/01-primary-tan.webp",
+          "kind": "primary",
+          "color": "tan",
+          "alt": "Woven Tan Leather Sandal",
+          "width": 1000,
+          "height": 1250
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 24,
+        "photoPage": 24,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-25",
+      "slug": "white-premium-leather-sneaker",
+      "title": "White Premium Leather Sneaker",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Court sneaker",
+      "collection": "originals",
+      "price": 155,
+      "currency": "USD",
+      "shortDescription": "An all-white leather sneaker with a silver heel tab.",
+      "description": "A tonal white leather sneaker with perforated toe, stitched overlays and a silver heel tab.",
+      "details": [
+        "Perforated toe",
+        "Stitched overlays",
+        "Silver heel tab"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Style": "Court sneaker",
+        "Colour": "White",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "white",
+          "name": "White",
+          "hex": "#F3F3F1"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-25-39",
+          "color": "white",
+          "size": "39",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-40",
+          "color": "white",
+          "size": "40",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-41",
+          "color": "white",
+          "size": "41",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-42",
+          "color": "white",
+          "size": "42",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-43",
+          "color": "white",
+          "size": "43",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-44",
+          "color": "white",
+          "size": "44",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-45",
+          "color": "white",
+          "size": "45",
+          "price": 155
+        },
+        {
+          "sku": "SM-SHO-REF-25-46",
+          "color": "white",
+          "size": "46",
+          "price": 155
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/white-premium-leather-sneaker/01-primary-white.webp",
+          "kind": "primary",
+          "color": "white",
+          "alt": "White Premium Leather Sneaker",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 25,
+        "photoPage": 25,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-26",
+      "slug": "black-technical-runner",
+      "title": "Black Technical Runner",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Technical runner",
+      "collection": "originals",
+      "price": 145,
+      "currency": "USD",
+      "shortDescription": "A black technical runner with metallic accents.",
+      "description": "Layered black mesh and synthetic overlays with metallic silver accents on a sculpted, chunky sole.",
+      "details": [
+        "Layered overlays",
+        "Metallic accents",
+        "Sculpted sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Technical runner",
+        "Colour": "Black",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Black",
+          "hex": "#141414"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-26-39",
+          "color": "noir",
+          "size": "39",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-40",
+          "color": "noir",
+          "size": "40",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-41",
+          "color": "noir",
+          "size": "41",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-42",
+          "color": "noir",
+          "size": "42",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-43",
+          "color": "noir",
+          "size": "43",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-44",
+          "color": "noir",
+          "size": "44",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-45",
+          "color": "noir",
+          "size": "45",
+          "price": 145
+        },
+        {
+          "sku": "SM-SHO-REF-26-46",
+          "color": "noir",
+          "size": "46",
+          "price": 145
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-technical-runner/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Technical Runner",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 26,
+        "photoPage": 26,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-27",
+      "slug": "taupe-retro-mesh-and-suede-runner",
+      "title": "Taupe Retro Mesh & Suede Runner",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Retro runner",
+      "collection": "originals",
+      "price": 130,
+      "currency": "USD",
+      "shortDescription": "A retro runner in taupe mesh and suede.",
+      "description": "A retro running silhouette mixing taupe suede overlays with cream mesh on a cushioned sole.",
+      "details": [
+        "Suede overlays",
+        "Mesh panels",
+        "Cushioned sole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "Retro runner",
+        "Colour": "Taupe",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "taupe",
+          "name": "Taupe",
+          "hex": "#9D9080"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-27-39",
+          "color": "taupe",
+          "size": "39",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-40",
+          "color": "taupe",
+          "size": "40",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-41",
+          "color": "taupe",
+          "size": "41",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-42",
+          "color": "taupe",
+          "size": "42",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-43",
+          "color": "taupe",
+          "size": "43",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-44",
+          "color": "taupe",
+          "size": "44",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-45",
+          "color": "taupe",
+          "size": "45",
+          "price": 130
+        },
+        {
+          "sku": "SM-SHO-REF-27-46",
+          "color": "taupe",
+          "size": "46",
+          "price": 130
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/taupe-retro-mesh-and-suede-runner/01-primary-taupe.webp",
+          "kind": "primary",
+          "color": "taupe",
+          "alt": "Taupe Retro Mesh & Suede Runner",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 27,
+        "photoPage": 27,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    },
+    {
+      "sourceId": "SHO-REF-28",
+      "slug": "black-and-white-high-top-sneaker",
+      "title": "Black & White High-Top Sneaker",
+      "line": "Super Mimic Atelier",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "High-top sneaker",
+      "collection": "originals",
+      "price": 150,
+      "currency": "USD",
+      "shortDescription": "A black and white colour-blocked high-top sneaker.",
+      "description": "A high-top sneaker with black overlays on a white base, a padded collar and a white cupsole.",
+      "details": [
+        "High-top collar",
+        "Colour-blocked panels",
+        "White cupsole"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Style": "High-top sneaker",
+        "Colour": "Black & White",
+        "Fit": "Men's EU sizing"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "colors": [
+        {
+          "id": "black-white",
+          "name": "Black & White",
+          "hex": "#1A1A1A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-SHO-REF-28-39",
+          "color": "black-white",
+          "size": "39",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-40",
+          "color": "black-white",
+          "size": "40",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-41",
+          "color": "black-white",
+          "size": "41",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-42",
+          "color": "black-white",
+          "size": "42",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-43",
+          "color": "black-white",
+          "size": "43",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-44",
+          "color": "black-white",
+          "size": "44",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-45",
+          "color": "black-white",
+          "size": "45",
+          "price": 150
+        },
+        {
+          "sku": "SM-SHO-REF-28-46",
+          "color": "black-white",
+          "size": "46",
+          "price": 150
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-and-white-high-top-sneaker/01-primary-black-white.webp",
+          "kind": "primary",
+          "color": "black-white",
+          "alt": "Black & White High-Top Sneaker",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Footwear_Reference_28.pdf",
+        "pdfSha256": "26b817d535d112adfad68d71fb606294c8d962ad7f00cf648ac2be98639f91b5",
+        "titlePage": 28,
+        "photoPage": 28,
+        "priceStatus": "proposed",
+        "copyStatus": "written for Super Mimic from the reference photo",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90"
+      }
+    }
+  ]
+}

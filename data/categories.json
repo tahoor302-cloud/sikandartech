@@ -1,0 +1,283 @@
+[
+  {
+    "id": "shoes",
+    "slug": "shoes",
+    "name": "Shoes",
+    "tagline": "Grounded in craft",
+    "description": "Sneakers, loafers, boots and sandals — shaped on considered lasts and finished by hand.",
+    "image": "/media/products/meridian-runner/04-editorial.webp",
+    "banner": "/media/hero/scene-01.webp",
+    "count": 34,
+    "subcategories": [
+      {
+        "id": "sneakers",
+        "slug": "sneakers",
+        "name": "Sneakers",
+        "count": 15
+      },
+      {
+        "id": "loafers",
+        "slug": "loafers",
+        "name": "Loafers",
+        "count": 4
+      },
+      {
+        "id": "boots",
+        "slug": "boots",
+        "name": "Boots",
+        "count": 9
+      },
+      {
+        "id": "sandals",
+        "slug": "sandals",
+        "name": "Sandals",
+        "count": 2
+      },
+      {
+        "id": "formal",
+        "slug": "formal",
+        "name": "Formal Shoes",
+        "count": 2
+      },
+      {
+        "id": "slippers",
+        "slug": "slippers",
+        "name": "Slides & Mules",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "bags",
+    "slug": "bags",
+    "name": "Bags",
+    "tagline": "Carried with intent",
+    "description": "Totes, crossbodies, clutches and travel pieces in calf leather, canvas and technical nylon.",
+    "image": "/media/products/maison-tote/04-editorial.webp",
+    "banner": "/media/hero/scene-03.webp",
+    "count": 26,
+    "subcategories": [
+      {
+        "id": "totes",
+        "slug": "totes",
+        "name": "Totes",
+        "count": 2
+      },
+      {
+        "id": "crossbody",
+        "slug": "crossbody",
+        "name": "Crossbody Bags",
+        "count": 3
+      },
+      {
+        "id": "shoulder",
+        "slug": "shoulder",
+        "name": "Shoulder Bags",
+        "count": 4
+      },
+      {
+        "id": "clutches",
+        "slug": "clutches",
+        "name": "Clutches",
+        "count": 3
+      },
+      {
+        "id": "backpacks",
+        "slug": "backpacks",
+        "name": "Backpacks",
+        "count": 1
+      },
+      {
+        "id": "travel",
+        "slug": "travel",
+        "name": "Travel Bags",
+        "count": 1
+      },
+      {
+        "id": "top-handle",
+        "slug": "top-handle",
+        "name": "Top-Handle Bags",
+        "count": 6
+      },
+      {
+        "id": "hobo",
+        "slug": "hobo",
+        "name": "Hobo Bags",
+        "count": 5
+      },
+      {
+        "id": "bucket",
+        "slug": "bucket",
+        "name": "Bucket Bags",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "watches",
+    "slug": "watches",
+    "name": "Watches",
+    "tagline": "Precision, worn",
+    "description": "Automatic, quartz and sport timepieces with sapphire crystals and hand-finished cases.",
+    "image": "/media/products/aurum-gmt/04-editorial.webp",
+    "banner": "/media/editorial/banner-watches.webp",
+    "count": 42,
+    "subcategories": [
+      {
+        "id": "automatic",
+        "slug": "automatic",
+        "name": "Automatic",
+        "count": 3
+      },
+      {
+        "id": "quartz",
+        "slug": "quartz",
+        "name": "Quartz",
+        "count": 2
+      },
+      {
+        "id": "sport",
+        "slug": "sport",
+        "name": "Sport",
+        "count": 5
+      },
+      {
+        "id": "dress",
+        "slug": "dress",
+        "name": "Dress",
+        "count": 8
+      },
+      {
+        "id": "diver",
+        "slug": "diver",
+        "name": "Dive Watches",
+        "count": 4
+      },
+      {
+        "id": "chronograph",
+        "slug": "chronograph",
+        "name": "Chronographs",
+        "count": 6
+      },
+      {
+        "id": "gmt",
+        "slug": "gmt",
+        "name": "GMT Watches",
+        "count": 2
+      },
+      {
+        "id": "skeleton",
+        "slug": "skeleton",
+        "name": "Skeleton Watches",
+        "count": 3
+      },
+      {
+        "id": "pilot",
+        "slug": "pilot",
+        "name": "Pilot Watches",
+        "count": 1
+      },
+      {
+        "id": "field",
+        "slug": "field",
+        "name": "Field Watches",
+        "count": 1
+      },
+      {
+        "id": "complication",
+        "slug": "complication",
+        "name": "Moonphase & Complications",
+        "count": 2
+      },
+      {
+        "id": "jewellery",
+        "slug": "jewellery",
+        "name": "Jewellery Watches",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "clothing",
+    "slug": "clothing",
+    "name": "Clothing",
+    "tagline": "Considered layers",
+    "description": "Tailoring, outerwear, eveningwear and knitwear — cut with precision and finished with restraint.",
+    "image": "/media/products/camel-belted-wool-coat/01-primary-camel.webp",
+    "count": 16,
+    "subcategories": [
+      {
+        "id": "blazers",
+        "slug": "blazers",
+        "name": "Blazers",
+        "count": 4
+      },
+      {
+        "id": "suits",
+        "slug": "suits",
+        "name": "Suits",
+        "count": 1
+      },
+      {
+        "id": "coats",
+        "slug": "coats",
+        "name": "Coats",
+        "count": 2
+      },
+      {
+        "id": "jackets",
+        "slug": "jackets",
+        "name": "Jackets",
+        "count": 1
+      },
+      {
+        "id": "dresses",
+        "slug": "dresses",
+        "name": "Dresses",
+        "count": 3
+      },
+      {
+        "id": "shirts",
+        "slug": "shirts",
+        "name": "Shirts & Blouses",
+        "count": 3
+      },
+      {
+        "id": "knitwear",
+        "slug": "knitwear",
+        "name": "Knitwear",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "accessories",
+    "slug": "accessories",
+    "name": "Accessories",
+    "tagline": "The final detail",
+    "description": "Wallets, belts and eyewear — the details that complete the edit.",
+    "image": "/media/products/aura-sunglasses/04-editorial.webp",
+    "banner": "/media/editorial/banner-essentials.webp",
+    "count": 4,
+    "subcategories": [
+      {
+        "id": "wallets",
+        "slug": "wallets",
+        "name": "Wallets",
+        "count": 2
+      },
+      {
+        "id": "belts",
+        "slug": "belts",
+        "name": "Belts",
+        "count": 1
+      },
+      {
+        "id": "sunglasses",
+        "slug": "sunglasses",
+        "name": "Sunglasses",
+        "count": 1
+      }
+    ]
+  }
+]

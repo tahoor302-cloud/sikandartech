@@ -1,0 +1,191 @@
+{
+  "generatedAt": "2026-09-30T02:32:58.558Z",
+  "sources": [
+    {
+      "source": "super-mimic-bags-ref",
+      "file": "data/source/super-mimic-bags-ref.json",
+      "records": 20,
+      "authorised": "Owner-supplied reference PDF, described by the owner as original designs with studio product photography. Prices, sizes and copy were proposed for launch and need owner review."
+    },
+    {
+      "source": "super-mimic-clothing",
+      "file": "data/source/super-mimic-clothing.json",
+      "records": 16,
+      "authorised": "Owner-supplied reference PDF, described by the owner as original designs with studio product photography. Prices, sizes and copy were proposed for launch and need owner review."
+    },
+    {
+      "source": "super-mimic-footwear-ref",
+      "file": "data/source/super-mimic-footwear-ref.json",
+      "records": 26,
+      "authorised": "Owner-supplied reference PDF, described by the owner as original reference designs. Prices (USD), sizes and copy were proposed for launch and need owner review."
+    },
+    {
+      "source": "super-mimic-master",
+      "file": "data/source/super-mimic-master.json",
+      "records": 24,
+      "authorised": "Owned by Super Mimic — original designs and photography created for this storefront (sample catalog)."
+    },
+    {
+      "source": "super-mimic-watches-ref",
+      "file": "data/source/super-mimic-watches-ref.json",
+      "records": 36,
+      "authorised": "Owner-supplied reference PDF, described by the owner as original reference designs. Prices (USD), sizes and copy were proposed for launch and need owner review."
+    }
+  ],
+  "totals": {
+    "sourceRecords": 122,
+    "imported": 122,
+    "invalid": 0,
+    "missing": 0,
+    "duplicates": 0,
+    "noImage": 0,
+    "noPrice": 0,
+    "noDescription": 0,
+    "noCategory": 0,
+    "brokenImages": 0,
+    "warnings": 0,
+    "errors": 0
+  },
+  "byCategory": {
+    "shoes": {
+      "total": 34,
+      "subcategories": {
+        "sneakers": 15,
+        "boots": 9,
+        "loafers": 4,
+        "sandals": 2,
+        "formal": 2,
+        "slippers": 2
+      }
+    },
+    "watches": {
+      "total": 42,
+      "subcategories": {
+        "automatic": 3,
+        "quartz": 2,
+        "sport": 5,
+        "diver": 4,
+        "dress": 8,
+        "chronograph": 6,
+        "gmt": 2,
+        "skeleton": 3,
+        "jewellery": 5,
+        "pilot": 1,
+        "complication": 2,
+        "field": 1
+      }
+    },
+    "bags": {
+      "total": 26,
+      "subcategories": {
+        "totes": 2,
+        "crossbody": 3,
+        "travel": 1,
+        "clutches": 3,
+        "backpacks": 1,
+        "top-handle": 6,
+        "shoulder": 4,
+        "hobo": 5,
+        "bucket": 1
+      }
+    },
+    "accessories": {
+      "total": 4,
+      "subcategories": {
+        "wallets": 2,
+        "belts": 1,
+        "sunglasses": 1
+      }
+    },
+    "clothing": {
+      "total": 16,
+      "subcategories": {
+        "blazers": 4,
+        "dresses": 3,
+        "coats": 2,
+        "shirts": 3,
+        "knitwear": 2,
+        "jackets": 1,
+        "suits": 1
+      }
+    }
+  },
+  "reconciliation": {
+    "bags": {
+      "source": 26,
+      "imported": 26,
+      "invalid": 0,
+      "missing": 0
+    },
+    "clothing": {
+      "source": 16,
+      "imported": 16,
+      "invalid": 0,
+      "missing": 0
+    },
+    "shoes": {
+      "source": 34,
+      "imported": 34,
+      "invalid": 0,
+      "missing": 0
+    },
+    "watches": {
+      "source": 42,
+      "imported": 42,
+      "invalid": 0,
+      "missing": 0
+    },
+    "accessories": {
+      "source": 4,
+      "imported": 4,
+      "invalid": 0,
+      "missing": 0
+    }
+  },
+  "exclusions": [
+    {
+      "source": "wgstores-reference-store",
+      "url": "https://a2017122702254111090.wgstores.com/weshop/store/A2017122702254111090",
+      "role": "Reference for navigation and information architecture only",
+      "reviewed": "2026-09-29",
+      "status": "not-authorised",
+      "reason": "The listings are replicas of third-party trademarked products, and the store gives no licence for its product data, photography or descriptions. None of its records, images, prices or text are imported. The reported size of the store (about 44,700 listings) is not counted as a source total because those records are not available to this project.",
+      "imported": 0,
+      "unblock": "Provide an export you own or are licensed to use (CSV/JSON per data/import-template.csv) together with a written authorisation. Then run: npm run catalog:import <file> -- --source <name> --authorised \"<owner / licence>\""
+    },
+    {
+      "source": "chat-upload-2026-09-30-branded-photos",
+      "url": "",
+      "role": "14 product photos sent in chat (8 watch, 6 sneaker images)",
+      "reviewed": "2026-09-30",
+      "status": "not-authorised",
+      "reason": "The photos are official product imagery of third-party brands, and their logos and trademarks are visible on the products. Super Mimic has no licence to sell under those brands or to use that photography, so none of these were added as products and no image was copied into the site.",
+      "imported": 0,
+      "unblock": "If you are an authorised dealer, provide the dealer agreement and image licence and import through the standard feed. Otherwise the catalog can include original unbranded designs with new photography."
+    },
+    {
+      "source": "Premium_Luxury_Clothing_Reference_24.pdf · pages 13–20",
+      "url": "data/imports/originals/Premium_Luxury_Clothing_Reference_24.pdf",
+      "role": "Owner-supplied clothing reference",
+      "reviewed": "2026-09-30",
+      "status": "duplicate",
+      "reason": "These pages repeat the photos of Bag Reference pages 13–20 (confirmed by image hash) under clothing-style titles. The bags were imported once, from the Bag Reference, so these 8 pages were not imported a second time. Pages 21–24 show the garments named by the titles on pages 13–16, and were imported under those titles.",
+      "imported": 0,
+      "unblock": "No action needed. If pages 13–20 were meant to show other garments, send the correct photos and they will be added as new products."
+    },
+    {
+      "source": "Premium_Footwear_Reference_28.pdf · pages 4 and 7",
+      "url": "data/imports/originals/Premium_Footwear_Reference_28.pdf",
+      "role": "Owner-supplied footwear reference",
+      "reviewed": "2026-09-30",
+      "status": "not-authorised",
+      "reason": "Page 4 (Cream Retro Runner) shows a large 'N' side logo, and page 7 (Black High-Top Basketball Sneaker) shows a jumping-silhouette logo on the collar. Both are registered trademarks of other footwear companies, so these two were not imported. The other 26 pages were imported.",
+      "imported": 0,
+      "unblock": "Send photos of these designs without third-party logos (or with Super Mimic's own mark) and they can be added."
+    }
+  ],
+  "duplicates": [],
+  "invalid": [],
+  "retiredIds": [],
+  "issues": []
+}

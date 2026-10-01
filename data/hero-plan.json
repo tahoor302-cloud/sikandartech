@@ -1,0 +1,93 @@
+{
+  "note": "Hero rotation. Each scene points at a product by sourceId; captions and links are generated from that product by scripts/build-hero.mjs. Scenes without `image` are composited from the product's own editorial photo by scripts/media/hero-composites.py.",
+  "scenes": [
+    {
+      "sourceId": "SMM-0001",
+      "color": "ivory",
+      "image": "/media/hero/scene-01.webp",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0009",
+      "color": "ivory",
+      "image": "/media/hero/scene-02.webp",
+      "tone": "light"
+    },
+    {
+      "sourceId": "SMM-0015",
+      "color": "cognac",
+      "image": "/media/hero/scene-03.webp",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "CLO-REF-03",
+      "color": "camel",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0024",
+      "color": "noir",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "WAT-REF-08",
+      "color": "emerald",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0008",
+      "color": "ivory",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0013",
+      "color": "steel",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0017",
+      "color": "cognac",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "BAG-REF-09",
+      "color": "emerald",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0023",
+      "color": "noir",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "WAT-REF-30",
+      "color": "noir",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0006",
+      "color": "graphite",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0011",
+      "color": "midnight",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0018",
+      "color": "champagne",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "CLO-REF-11",
+      "color": "burgundy",
+      "tone": "dark"
+    },
+    {
+      "sourceId": "SMM-0022",
+      "color": "noir",
+      "tone": "dark"
+    }
+  ]
+}

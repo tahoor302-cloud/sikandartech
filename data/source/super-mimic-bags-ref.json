@@ -1,0 +1,1354 @@
+{
+  "source": "super-mimic-bags-ref",
+  "authorised": "Owner-supplied reference PDF, described by the owner as original designs with studio product photography. Prices, sizes and copy were proposed for launch and need owner review.",
+  "importedAt": "2026-09-30T00:00:00.000Z",
+  "records": [
+    {
+      "sourceId": "BAG-REF-01",
+      "slug": "structured-taupe-satchel",
+      "title": "Structured Taupe Satchel",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Top-handle satchel",
+      "collection": "originals",
+      "price": 185,
+      "currency": "USD",
+      "shortDescription": "A structured taupe satchel with a gold turn-lock.",
+      "description": "A structured trapezoid satchel in taupe with a rolled top handle, a front flap with a square gold turn-lock and a hanging key-bell charm. Gold feet protect the base.",
+      "details": [
+        "Rolled top handle",
+        "Front flap with gold turn-lock",
+        "Hanging key-bell charm",
+        "Protective metal feet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Taupe",
+        "Style": "Top-handle satchel"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "taupe",
+          "name": "Taupe",
+          "hex": "#8C7E70"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-01-ONESIZE",
+          "color": "taupe",
+          "size": "One size",
+          "price": 185
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/structured-taupe-satchel/01-primary-taupe.webp",
+          "kind": "primary",
+          "color": "taupe",
+          "alt": "Structured Taupe Satchel",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 1,
+        "photoPage": 1,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-02",
+      "slug": "black-quilted-chain-bag",
+      "title": "Black Quilted Chain Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "shoulder",
+      "productType": "Quilted chain shoulder bag",
+      "collection": "originals",
+      "price": 170,
+      "currency": "USD",
+      "shortDescription": "A diamond-quilted black flap bag on a gold chain.",
+      "description": "Diamond-quilted black flap bag with a rectangular gold push-lock and a chunky gold chain strap that can be worn on the shoulder or across the body.",
+      "details": [
+        "Diamond quilting",
+        "Gold push-lock flap",
+        "Chunky gold chain strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Noir",
+        "Style": "Quilted chain shoulder bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#151413"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-02-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 170
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-quilted-chain-bag/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Quilted Chain Bag",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 2,
+        "photoPage": 2,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-03",
+      "slug": "burgundy-crescent-hobo",
+      "title": "Burgundy Crescent Hobo",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "hobo",
+      "productType": "Crescent hobo",
+      "collection": "originals",
+      "price": 155,
+      "currency": "USD",
+      "shortDescription": "A burgundy crescent hobo with a gold hook closure.",
+      "description": "A smooth burgundy crescent-shaped hobo with a slim shoulder strap and a sculpted gold hook detail at the centre front.",
+      "details": [
+        "Crescent silhouette",
+        "Slim shoulder strap",
+        "Gold hook detail"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Burgundy",
+        "Style": "Crescent hobo"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#5E1A24"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-03-ONESIZE",
+          "color": "burgundy",
+          "size": "One size",
+          "price": 155
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-crescent-hobo/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Crescent Hobo",
+          "width": 1595,
+          "height": 1994
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 3,
+        "photoPage": 3,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-04",
+      "slug": "ivory-structured-tote",
+      "title": "Ivory Structured Tote",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "totes",
+      "productType": "Structured tote",
+      "collection": "originals",
+      "price": 165,
+      "currency": "USD",
+      "shortDescription": "A clean ivory tote with slim shoulder handles.",
+      "description": "An understated ivory tote with a structured body, slim shoulder handles fixed with buckled tabs, and a hanging leather tag.",
+      "details": [
+        "Slim shoulder handles",
+        "Buckled handle tabs",
+        "Hanging tag",
+        "Structured body"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Ivory",
+        "Style": "Structured tote"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#E8E1D3"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-04-ONESIZE",
+          "color": "ivory",
+          "size": "One size",
+          "price": 165
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ivory-structured-tote/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ivory Structured Tote",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 4,
+        "photoPage": 4,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-05",
+      "slug": "ivory-structured-clasp-bag",
+      "title": "Ivory Structured Clasp Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Top-handle clasp bag",
+      "collection": "originals",
+      "price": 205,
+      "currency": "USD",
+      "shortDescription": "An ivory top-handle bag with a gold turn-lock clasp.",
+      "description": "A structured ivory top-handle bag with a flap closing through a gold turn-lock clasp and belted strap, a rolled handle and a hanging key-bell.",
+      "details": [
+        "Rolled top handle",
+        "Gold turn-lock clasp",
+        "Belted front strap",
+        "Hanging key-bell"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Ivory",
+        "Style": "Top-handle clasp bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#E6DDCB"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-05-ONESIZE",
+          "color": "ivory",
+          "size": "One size",
+          "price": 205
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ivory-structured-clasp-bag/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ivory Structured Clasp Bag",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 5,
+        "photoPage": 5,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-06",
+      "slug": "chocolate-crescent-shoulder-bag",
+      "title": "Chocolate Crescent Shoulder Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "shoulder",
+      "productType": "Crescent shoulder bag",
+      "collection": "originals",
+      "price": 150,
+      "currency": "USD",
+      "shortDescription": "A soft chocolate crescent bag on a slim strap.",
+      "description": "A slouchy crescent shoulder bag in rich chocolate brown, with a slim integrated strap and a clean, hardware-light front.",
+      "details": [
+        "Crescent silhouette",
+        "Integrated slim strap",
+        "Minimal hardware"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Chocolate",
+        "Style": "Crescent shoulder bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "chocolate",
+          "name": "Chocolate",
+          "hex": "#5A3620"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-06-ONESIZE",
+          "color": "chocolate",
+          "size": "One size",
+          "price": 150
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/chocolate-crescent-shoulder-bag/01-primary-chocolate.webp",
+          "kind": "primary",
+          "color": "chocolate",
+          "alt": "Chocolate Crescent Shoulder Bag",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 6,
+        "photoPage": 6,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-07",
+      "slug": "black-trunk-inspired-mini-case",
+      "title": "Black Trunk-Inspired Mini Case",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Mini trunk case",
+      "collection": "originals",
+      "price": 220,
+      "currency": "USD",
+      "shortDescription": "A black mini trunk with gold corners and lock.",
+      "description": "A structured black mini case inspired by travel trunks: gold corner caps, a gold lock plate with clasp, framed edges and a rolled top handle.",
+      "details": [
+        "Gold corner caps",
+        "Gold lock plate",
+        "Framed edges",
+        "Rolled top handle"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Noir",
+        "Style": "Mini trunk case"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#161514"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-07-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 220
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-trunk-inspired-mini-case/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Trunk-Inspired Mini Case",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 7,
+        "photoPage": 7,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-08",
+      "slug": "taupe-woven-hobo",
+      "title": "Taupe Woven Hobo",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "hobo",
+      "productType": "Woven hobo",
+      "collection": "originals",
+      "price": 195,
+      "currency": "USD",
+      "shortDescription": "A slouchy taupe hobo with an all-over woven pattern.",
+      "description": "A generous, slouchy hobo in taupe with an all-over woven lattice and a wide woven shoulder strap.",
+      "details": [
+        "All-over woven lattice",
+        "Wide woven strap",
+        "Slouchy shape"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Taupe",
+        "Style": "Woven hobo"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "taupe",
+          "name": "Taupe",
+          "hex": "#8E7D6B"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-08-ONESIZE",
+          "color": "taupe",
+          "size": "One size",
+          "price": 195
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/taupe-woven-hobo/01-primary-taupe.webp",
+          "kind": "primary",
+          "color": "taupe",
+          "alt": "Taupe Woven Hobo",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 8,
+        "photoPage": 8,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-09",
+      "slug": "emerald-structured-top-handle",
+      "title": "Emerald Structured Top-Handle",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Structured top-handle bag",
+      "collection": "originals",
+      "price": 180,
+      "currency": "USD",
+      "shortDescription": "An emerald top-handle bag with a sculpted gold clasp.",
+      "description": "A structured trapezoid bag in deep emerald with a rolled top handle, a front flap and a sculpted gold clasp. Gold feet sit at the base.",
+      "details": [
+        "Rolled top handle",
+        "Sculpted gold clasp",
+        "Front flap",
+        "Metal feet"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Emerald",
+        "Style": "Structured top-handle bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "emerald",
+          "name": "Emerald",
+          "hex": "#1E4A33"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-09-ONESIZE",
+          "color": "emerald",
+          "size": "One size",
+          "price": 180
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/emerald-structured-top-handle/01-primary-emerald.webp",
+          "kind": "primary",
+          "color": "emerald",
+          "alt": "Emerald Structured Top-Handle",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 9,
+        "photoPage": 9,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-10",
+      "slug": "cream-ruched-hobo",
+      "title": "Cream Ruched Hobo",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "hobo",
+      "productType": "Ruched hobo",
+      "collection": "originals",
+      "price": 135,
+      "currency": "USD",
+      "shortDescription": "A soft cream hobo with ruched gathering.",
+      "description": "A soft cream hobo with ruched gathers across the body and a slim shoulder strap attached with gold links.",
+      "details": [
+        "Ruched body",
+        "Slim shoulder strap",
+        "Gold link attachments"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Cream",
+        "Style": "Ruched hobo"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "cream",
+          "name": "Cream",
+          "hex": "#DDCBAE"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-10-ONESIZE",
+          "color": "cream",
+          "size": "One size",
+          "price": 135
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cream-ruched-hobo/01-primary-cream.webp",
+          "kind": "primary",
+          "color": "cream",
+          "alt": "Cream Ruched Hobo",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 10,
+        "photoPage": 10,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-11",
+      "slug": "navy-quilted-shoulder-bag",
+      "title": "Navy Quilted Shoulder Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "shoulder",
+      "productType": "Quilted shoulder bag",
+      "collection": "originals",
+      "price": 165,
+      "currency": "USD",
+      "shortDescription": "A diamond-quilted navy flap bag with a gold chain.",
+      "description": "Diamond-quilted navy flap bag with a faceted gold clasp and a gold chain-and-leather strap.",
+      "details": [
+        "Diamond quilting",
+        "Faceted gold clasp",
+        "Chain-and-leather strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Navy",
+        "Style": "Quilted shoulder bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "navy",
+          "name": "Navy",
+          "hex": "#1D2A48"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-11-ONESIZE",
+          "color": "navy",
+          "size": "One size",
+          "price": 165
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/navy-quilted-shoulder-bag/01-primary-navy.webp",
+          "kind": "primary",
+          "color": "navy",
+          "alt": "Navy Quilted Shoulder Bag",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 11,
+        "photoPage": 11,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-12",
+      "slug": "cognac-saddle-crossbody",
+      "title": "Cognac Saddle Crossbody",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "crossbody",
+      "productType": "Saddle crossbody",
+      "collection": "originals",
+      "price": 130,
+      "currency": "USD",
+      "shortDescription": "A cognac saddle bag with a gold buckle strap.",
+      "description": "A rounded saddle-shape crossbody in cognac with a front strap fastening through a gold buckle, and an adjustable crossbody strap.",
+      "details": [
+        "Saddle silhouette",
+        "Gold buckle front strap",
+        "Adjustable crossbody strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Cognac",
+        "Style": "Saddle crossbody"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A4F28"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-12-ONESIZE",
+          "color": "cognac",
+          "size": "One size",
+          "price": 130
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cognac-saddle-crossbody/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Cognac Saddle Crossbody",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 12,
+        "photoPage": 12,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-13",
+      "slug": "black-patent-top-handle",
+      "title": "Black Patent Top-Handle",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Patent top-handle bag",
+      "collection": "originals",
+      "price": 175,
+      "currency": "USD",
+      "shortDescription": "A glossy black patent top-handle bag.",
+      "description": "A high-shine black patent top-handle bag with a rolled handle, an angled flap and a polished silver clasp.",
+      "details": [
+        "High-shine patent finish",
+        "Rolled top handle",
+        "Polished silver clasp",
+        "Angled flap"
+      ],
+      "materials": "Patent finish",
+      "care": [],
+      "specifications": {
+        "Colour": "Noir",
+        "Style": "Patent top-handle bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#0F0F0F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-13-ONESIZE",
+          "color": "noir",
+          "size": "One size",
+          "price": 175
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-patent-top-handle/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Patent Top-Handle",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 13,
+        "photoPage": 13,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-14",
+      "slug": "dusty-pink-quilted-shoulder-bag",
+      "title": "Dusty-Pink Quilted Shoulder Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "shoulder",
+      "productType": "Chevron-quilted shoulder bag",
+      "collection": "originals",
+      "price": 160,
+      "currency": "USD",
+      "shortDescription": "A soft dusty-pink chevron-quilted bag on a gold chain.",
+      "description": "A soft, puffy shoulder bag in dusty pink with chevron quilting and a chunky gold chain strap.",
+      "details": [
+        "Chevron quilting",
+        "Puffed body",
+        "Chunky gold chain strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Dusty Pink",
+        "Style": "Chevron-quilted shoulder bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "dusty-pink",
+          "name": "Dusty Pink",
+          "hex": "#C29087"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-14-ONESIZE",
+          "color": "dusty-pink",
+          "size": "One size",
+          "price": 160
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/dusty-pink-quilted-shoulder-bag/01-primary-dusty-pink.webp",
+          "kind": "primary",
+          "color": "dusty-pink",
+          "alt": "Dusty-Pink Quilted Shoulder Bag",
+          "width": 1597,
+          "height": 1996
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 14,
+        "photoPage": 14,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-15",
+      "slug": "deep-green-woven-hobo",
+      "title": "Deep-Green Woven Hobo",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "hobo",
+      "productType": "Woven hobo",
+      "collection": "originals",
+      "price": 195,
+      "currency": "USD",
+      "shortDescription": "A deep-green woven hobo with a knotted handle.",
+      "description": "A rounded hobo in deep green with an all-over woven lattice and a knotted, woven top handle.",
+      "details": [
+        "All-over woven lattice",
+        "Knotted woven handle",
+        "Rounded shape"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Deep Green",
+        "Style": "Woven hobo"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "deep-green",
+          "name": "Deep Green",
+          "hex": "#1F4332"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-15-ONESIZE",
+          "color": "deep-green",
+          "size": "One size",
+          "price": 195
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/deep-green-woven-hobo/01-primary-deep-green.webp",
+          "kind": "primary",
+          "color": "deep-green",
+          "alt": "Deep-Green Woven Hobo",
+          "width": 1597,
+          "height": 1996
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 15,
+        "photoPage": 15,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-16",
+      "slug": "ivory-saddle-crossbody",
+      "title": "Ivory Saddle Crossbody",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "crossbody",
+      "productType": "Saddle crossbody",
+      "collection": "originals",
+      "price": 130,
+      "currency": "USD",
+      "shortDescription": "An ivory saddle bag with a gold buckle.",
+      "description": "An ivory saddle crossbody with a front flap strap fastening through a sculpted gold buckle, on a slim shoulder strap.",
+      "details": [
+        "Saddle silhouette",
+        "Sculpted gold buckle",
+        "Slim strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Ivory",
+        "Style": "Saddle crossbody"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#E4DCCB"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-16-ONESIZE",
+          "color": "ivory",
+          "size": "One size",
+          "price": 130
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ivory-saddle-crossbody/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ivory Saddle Crossbody",
+          "width": 1597,
+          "height": 1996
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 16,
+        "photoPage": 16,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-17",
+      "slug": "cobalt-structured-top-handle",
+      "title": "Cobalt Structured Top-Handle",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Structured top-handle bag",
+      "collection": "originals",
+      "price": 180,
+      "currency": "USD",
+      "shortDescription": "A cobalt top-handle bag with a sculptural silver clasp.",
+      "description": "A structured cobalt-blue top-handle bag with a rolled handle, a front flap and an organic, sculptural silver clasp.",
+      "details": [
+        "Rolled top handle",
+        "Sculptural silver clasp",
+        "Front flap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Cobalt",
+        "Style": "Structured top-handle bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "cobalt",
+          "name": "Cobalt",
+          "hex": "#1F3C9A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-17-ONESIZE",
+          "color": "cobalt",
+          "size": "One size",
+          "price": 180
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cobalt-structured-top-handle/01-primary-cobalt.webp",
+          "kind": "primary",
+          "color": "cobalt",
+          "alt": "Cobalt Structured Top-Handle",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 17,
+        "photoPage": 17,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-18",
+      "slug": "caramel-drawstring-bucket-bag",
+      "title": "Caramel Drawstring Bucket Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "bucket",
+      "productType": "Drawstring bucket bag",
+      "collection": "originals",
+      "price": 145,
+      "currency": "USD",
+      "shortDescription": "A caramel bucket bag with a drawstring top.",
+      "description": "A caramel bucket bag with a drawstring closure through gold eyelets, gold bar details and a shoulder strap.",
+      "details": [
+        "Drawstring closure",
+        "Gold eyelets",
+        "Gold bar details",
+        "Shoulder strap"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Caramel",
+        "Style": "Drawstring bucket bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "caramel",
+          "name": "Caramel",
+          "hex": "#A0612C"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-18-ONESIZE",
+          "color": "caramel",
+          "size": "One size",
+          "price": 145
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/caramel-drawstring-bucket-bag/01-primary-caramel.webp",
+          "kind": "primary",
+          "color": "caramel",
+          "alt": "Caramel Drawstring Bucket Bag",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 18,
+        "photoPage": 18,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-19",
+      "slug": "charcoal-crescent-hobo",
+      "title": "Charcoal Crescent Hobo",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "hobo",
+      "productType": "Crescent hobo",
+      "collection": "originals",
+      "price": 155,
+      "currency": "USD",
+      "shortDescription": "A charcoal crescent hobo with a wrapped handle.",
+      "description": "A rounded charcoal crescent hobo with a gathered, wrapped top handle finished with a gold collar.",
+      "details": [
+        "Crescent silhouette",
+        "Wrapped top handle",
+        "Gold handle collar"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Charcoal",
+        "Style": "Crescent hobo"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "hex": "#4A4846"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-19-ONESIZE",
+          "color": "charcoal",
+          "size": "One size",
+          "price": 155
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/charcoal-crescent-hobo/01-primary-charcoal.webp",
+          "kind": "primary",
+          "color": "charcoal",
+          "alt": "Charcoal Crescent Hobo",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 19,
+        "photoPage": 19,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "BAG-REF-20",
+      "slug": "champagne-frame-clutch",
+      "title": "Champagne Frame Clutch",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "clutches",
+      "productType": "Frame clutch",
+      "collection": "originals",
+      "price": 95,
+      "currency": "USD",
+      "shortDescription": "A champagne clutch with a gold frame clasp.",
+      "description": "A soft champagne frame clutch with a gold frame and push clasp, sized for evening essentials.",
+      "details": [
+        "Gold frame",
+        "Push clasp",
+        "Evening size"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Champagne",
+        "Style": "Frame clutch"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "champagne",
+          "name": "Champagne",
+          "hex": "#CDB896"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-REF-20-ONESIZE",
+          "color": "champagne",
+          "size": "One size",
+          "price": 95
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/champagne-frame-clutch/01-primary-champagne.webp",
+          "kind": "primary",
+          "color": "champagne",
+          "alt": "Champagne Frame Clutch",
+          "width": 1600,
+          "height": 2000
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Bag_Reference_20.pdf",
+        "pdfSha256": "2ca692cf18112519011a0d4ead7fbbf68d65dc686c89cfca7488aa4f0478622b",
+        "titlePage": 20,
+        "photoPage": 20,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    }
+  ]
+}

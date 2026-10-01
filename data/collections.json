@@ -1,0 +1,85 @@
+[
+  {
+    "id": "new-arrivals",
+    "slug": "new-arrivals",
+    "name": "New Arrivals",
+    "tagline": "Season 01",
+    "description": "The newest objects from the Super Mimic atelier — released in small, considered drops.",
+    "image": "/media/hero/scene-02.webp",
+    "rule": {
+      "type": "flag",
+      "value": "newArrival"
+    }
+  },
+  {
+    "id": "featured",
+    "slug": "featured",
+    "name": "Featured",
+    "tagline": "The Edit",
+    "description": "A curated selection of signature pieces, chosen by the studio.",
+    "image": "/media/hero/scene-03.webp",
+    "rule": {
+      "type": "flag",
+      "value": "featured"
+    }
+  },
+  {
+    "id": "all",
+    "slug": "all",
+    "name": "All Products",
+    "tagline": "The Complete Archive",
+    "description": "Every object in the Super Mimic catalogue, in one place.",
+    "image": "/media/editorial/banner-watches.webp",
+    "rule": {
+      "type": "all"
+    }
+  },
+  {
+    "id": "originals",
+    "slug": "originals",
+    "name": "Originals",
+    "tagline": "The House Line",
+    "description": "Our founding designs — the silhouettes that define Super Mimic.",
+    "image": "/media/hero/ridge-court.webp",
+    "rule": {
+      "type": "collection",
+      "value": "originals"
+    }
+  },
+  {
+    "id": "street",
+    "slug": "street",
+    "name": "Street",
+    "tagline": "City Uniform",
+    "description": "Volume, texture and ease — pieces built for the rhythm of the city.",
+    "image": "/media/editorial/banner-street.webp",
+    "rule": {
+      "type": "collection",
+      "value": "street"
+    }
+  },
+  {
+    "id": "performance",
+    "slug": "performance",
+    "name": "Performance",
+    "tagline": "Engineered Motion",
+    "description": "Technical materials and responsive construction, finished to a luxury standard.",
+    "image": "/media/hero/scene-01.webp",
+    "rule": {
+      "type": "collection",
+      "value": "performance"
+    }
+  },
+  {
+    "id": "essentials",
+    "slug": "essentials",
+    "name": "Essentials",
+    "tagline": "Quiet Constants",
+    "description": "Pared-back pieces designed to be worn every day, for years.",
+    "image": "/media/editorial/banner-essentials.webp",
+    "rule": {
+      "type": "collection",
+      "value": "essentials"
+    }
+  }
+]

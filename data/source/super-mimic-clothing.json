@@ -1,0 +1,1550 @@
+{
+  "source": "super-mimic-clothing",
+  "authorised": "Owner-supplied reference PDF, described by the owner as original designs with studio product photography. Prices, sizes and copy were proposed for launch and need owner review.",
+  "importedAt": "2026-09-30T00:00:00.000Z",
+  "records": [
+    {
+      "sourceId": "CLO-REF-01",
+      "slug": "ivory-tailored-blazer",
+      "title": "Ivory Tailored Blazer",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "blazers",
+      "productType": "Single-breasted blazer",
+      "collection": "originals",
+      "price": 150,
+      "currency": "USD",
+      "shortDescription": "A sharply tailored single-button blazer in soft ivory.",
+      "description": "Cut close to the body with a nipped waist and structured shoulders, the Ivory Tailored Blazer closes with a single button and opens into wide peak lapels. Flap pockets and a welt breast pocket keep the front clean and considered.",
+      "details": [
+        "Peak lapels",
+        "Single-button closure",
+        "Flap pockets",
+        "Welt breast pocket",
+        "Fitted waist"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Ivory",
+        "Style": "Single-breasted blazer"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#EDE6D6"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-01-XS",
+          "color": "ivory",
+          "size": "XS",
+          "price": 150
+        },
+        {
+          "sku": "SM-CLO-REF-01-S",
+          "color": "ivory",
+          "size": "S",
+          "price": 150
+        },
+        {
+          "sku": "SM-CLO-REF-01-M",
+          "color": "ivory",
+          "size": "M",
+          "price": 150
+        },
+        {
+          "sku": "SM-CLO-REF-01-L",
+          "color": "ivory",
+          "size": "L",
+          "price": 150
+        },
+        {
+          "sku": "SM-CLO-REF-01-XL",
+          "color": "ivory",
+          "size": "XL",
+          "price": 150
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ivory-tailored-blazer/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ivory Tailored Blazer",
+          "width": 1340,
+          "height": 1675
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 1,
+        "photoPage": 1,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-02",
+      "slug": "black-satin-evening-gown",
+      "title": "Black Satin Evening Gown",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "dresses",
+      "productType": "Evening gown",
+      "collection": "originals",
+      "price": 245,
+      "currency": "USD",
+      "shortDescription": "A floor-length satin gown with a cowl neck and draped skirt.",
+      "description": "A liquid black satin gown on fine spaghetti straps. The soft cowl neckline flows into a gathered, draped waist and a floor-sweeping skirt with a front slit that moves as you walk.",
+      "details": [
+        "Cowl neckline",
+        "Spaghetti straps",
+        "Gathered drape at the waist",
+        "Front slit",
+        "Floor length"
+      ],
+      "materials": "Satin",
+      "care": [],
+      "specifications": {
+        "Colour": "Noir",
+        "Style": "Evening gown"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#16140F"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-02-XS",
+          "color": "noir",
+          "size": "XS",
+          "price": 245
+        },
+        {
+          "sku": "SM-CLO-REF-02-S",
+          "color": "noir",
+          "size": "S",
+          "price": 245
+        },
+        {
+          "sku": "SM-CLO-REF-02-M",
+          "color": "noir",
+          "size": "M",
+          "price": 245
+        },
+        {
+          "sku": "SM-CLO-REF-02-L",
+          "color": "noir",
+          "size": "L",
+          "price": 245
+        },
+        {
+          "sku": "SM-CLO-REF-02-XL",
+          "color": "noir",
+          "size": "XL",
+          "price": 245
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-satin-evening-gown/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Satin Evening Gown",
+          "width": 1340,
+          "height": 1675
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 2,
+        "photoPage": 2,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-03",
+      "slug": "camel-belted-wool-coat",
+      "title": "Camel Belted Wool Coat",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "coats",
+      "productType": "Belted wrap coat",
+      "collection": "originals",
+      "price": 280,
+      "currency": "USD",
+      "shortDescription": "A long double-breasted wool coat with a self-tie belt.",
+      "description": "A full-length camel coat with notch lapels, a double-breasted button front and a matching self-tie belt that defines the waist. Button cuff tabs and deep pockets finish a true investment outerwear piece.",
+      "details": [
+        "Double-breasted front",
+        "Notch lapels",
+        "Self-tie belt",
+        "Button cuff tabs",
+        "Full length"
+      ],
+      "materials": "Wool",
+      "care": [],
+      "specifications": {
+        "Colour": "Camel",
+        "Style": "Belted wrap coat"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "camel",
+          "name": "Camel",
+          "hex": "#B98A5A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-03-XS",
+          "color": "camel",
+          "size": "XS",
+          "price": 280
+        },
+        {
+          "sku": "SM-CLO-REF-03-S",
+          "color": "camel",
+          "size": "S",
+          "price": 280
+        },
+        {
+          "sku": "SM-CLO-REF-03-M",
+          "color": "camel",
+          "size": "M",
+          "price": 280
+        },
+        {
+          "sku": "SM-CLO-REF-03-L",
+          "color": "camel",
+          "size": "L",
+          "price": 280
+        },
+        {
+          "sku": "SM-CLO-REF-03-XL",
+          "color": "camel",
+          "size": "XL",
+          "price": 280
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/camel-belted-wool-coat/01-primary-camel.webp",
+          "kind": "primary",
+          "color": "camel",
+          "alt": "Camel Belted Wool Coat",
+          "width": 1330,
+          "height": 1662
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 3,
+        "photoPage": 3,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-04",
+      "slug": "burgundy-satin-blouse",
+      "title": "Burgundy Satin Blouse",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "shirts",
+      "productType": "Satin blouse",
+      "collection": "originals",
+      "price": 90,
+      "currency": "USD",
+      "shortDescription": "A fluid burgundy satin blouse with a pointed collar.",
+      "description": "Deep burgundy satin with a lustrous, fluid drape. A classic pointed collar, concealed placket and long sleeves with deep buttoned cuffs make it equally right tucked into tailoring or worn loose.",
+      "details": [
+        "Pointed collar",
+        "Button front",
+        "Deep buttoned cuffs",
+        "Curved hem",
+        "Long sleeves"
+      ],
+      "materials": "Satin",
+      "care": [],
+      "specifications": {
+        "Colour": "Burgundy",
+        "Style": "Satin blouse"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#6E1C24"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-04-XS",
+          "color": "burgundy",
+          "size": "XS",
+          "price": 90
+        },
+        {
+          "sku": "SM-CLO-REF-04-S",
+          "color": "burgundy",
+          "size": "S",
+          "price": 90
+        },
+        {
+          "sku": "SM-CLO-REF-04-M",
+          "color": "burgundy",
+          "size": "M",
+          "price": 90
+        },
+        {
+          "sku": "SM-CLO-REF-04-L",
+          "color": "burgundy",
+          "size": "L",
+          "price": 90
+        },
+        {
+          "sku": "SM-CLO-REF-04-XL",
+          "color": "burgundy",
+          "size": "XL",
+          "price": 90
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-satin-blouse/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Satin Blouse",
+          "width": 1330,
+          "height": 1662
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 4,
+        "photoPage": 4,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-05",
+      "slug": "charcoal-double-breasted-blazer",
+      "title": "Charcoal Double-Breasted Blazer",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "blazers",
+      "productType": "Double-breasted blazer",
+      "collection": "originals",
+      "price": 165,
+      "currency": "USD",
+      "shortDescription": "A six-button double-breasted blazer in charcoal.",
+      "description": "A double-breasted charcoal blazer with broad peak lapels, a six-button front and a crisp white pocket square at the breast pocket. The cut is structured through the shoulder and clean through the body.",
+      "details": [
+        "Peak lapels",
+        "Six-button double-breasted front",
+        "Breast pocket with pocket square",
+        "Flap pockets",
+        "Structured shoulders"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Charcoal",
+        "Style": "Double-breasted blazer"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "hex": "#3C3B3A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-05-XS",
+          "color": "charcoal",
+          "size": "XS",
+          "price": 165
+        },
+        {
+          "sku": "SM-CLO-REF-05-S",
+          "color": "charcoal",
+          "size": "S",
+          "price": 165
+        },
+        {
+          "sku": "SM-CLO-REF-05-M",
+          "color": "charcoal",
+          "size": "M",
+          "price": 165
+        },
+        {
+          "sku": "SM-CLO-REF-05-L",
+          "color": "charcoal",
+          "size": "L",
+          "price": 165
+        },
+        {
+          "sku": "SM-CLO-REF-05-XL",
+          "color": "charcoal",
+          "size": "XL",
+          "price": 165
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/charcoal-double-breasted-blazer/01-primary-charcoal.webp",
+          "kind": "primary",
+          "color": "charcoal",
+          "alt": "Charcoal Double-Breasted Blazer",
+          "width": 1501,
+          "height": 1876
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 5,
+        "photoPage": 5,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-06",
+      "slug": "cream-cashmere-crewneck",
+      "title": "Cream Cashmere Crewneck",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "knitwear",
+      "productType": "Crewneck sweater",
+      "collection": "essentials",
+      "price": 115,
+      "currency": "USD",
+      "shortDescription": "A relaxed cream crewneck in soft cashmere.",
+      "description": "The everyday knit, done properly. A relaxed cream crewneck with a ribbed neckline, cuffs and hem, and a soft brushed hand that layers easily under tailoring or over a shirt.",
+      "details": [
+        "Crew neckline",
+        "Ribbed cuffs and hem",
+        "Relaxed fit",
+        "Dropped shoulder"
+      ],
+      "materials": "Cashmere",
+      "care": [],
+      "specifications": {
+        "Colour": "Cream",
+        "Style": "Crewneck sweater"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "cream",
+          "name": "Cream",
+          "hex": "#EFE7D6"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-06-XS",
+          "color": "cream",
+          "size": "XS",
+          "price": 115
+        },
+        {
+          "sku": "SM-CLO-REF-06-S",
+          "color": "cream",
+          "size": "S",
+          "price": 115
+        },
+        {
+          "sku": "SM-CLO-REF-06-M",
+          "color": "cream",
+          "size": "M",
+          "price": 115
+        },
+        {
+          "sku": "SM-CLO-REF-06-L",
+          "color": "cream",
+          "size": "L",
+          "price": 115
+        },
+        {
+          "sku": "SM-CLO-REF-06-XL",
+          "color": "cream",
+          "size": "XL",
+          "price": 115
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cream-cashmere-crewneck/01-primary-cream.webp",
+          "kind": "primary",
+          "color": "cream",
+          "alt": "Cream Cashmere Crewneck",
+          "width": 1501,
+          "height": 1876
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 6,
+        "photoPage": 6,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-07",
+      "slug": "emerald-draped-evening-dress",
+      "title": "Emerald Draped Evening Dress",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "dresses",
+      "productType": "One-shoulder evening dress",
+      "collection": "originals",
+      "price": 230,
+      "currency": "USD",
+      "shortDescription": "A one-shoulder emerald gown with sculpted draping.",
+      "description": "A jewel-toned emerald gown with an asymmetric one-shoulder neckline. Gathered draping wraps across the bodice and hip before falling into a column skirt with a soft side slit.",
+      "details": [
+        "One-shoulder neckline",
+        "Gathered bodice and hip",
+        "Side slit",
+        "Floor length"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Emerald",
+        "Style": "One-shoulder evening dress"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "emerald",
+          "name": "Emerald",
+          "hex": "#1F4A36"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-07-XS",
+          "color": "emerald",
+          "size": "XS",
+          "price": 230
+        },
+        {
+          "sku": "SM-CLO-REF-07-S",
+          "color": "emerald",
+          "size": "S",
+          "price": 230
+        },
+        {
+          "sku": "SM-CLO-REF-07-M",
+          "color": "emerald",
+          "size": "M",
+          "price": 230
+        },
+        {
+          "sku": "SM-CLO-REF-07-L",
+          "color": "emerald",
+          "size": "L",
+          "price": 230
+        },
+        {
+          "sku": "SM-CLO-REF-07-XL",
+          "color": "emerald",
+          "size": "XL",
+          "price": 230
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/emerald-draped-evening-dress/01-primary-emerald.webp",
+          "kind": "primary",
+          "color": "emerald",
+          "alt": "Emerald Draped Evening Dress",
+          "width": 1499,
+          "height": 1874
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 7,
+        "photoPage": 7,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-08",
+      "slug": "navy-tuxedo-blazer",
+      "title": "Navy Tuxedo Blazer",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "blazers",
+      "productType": "Tuxedo blazer",
+      "collection": "originals",
+      "price": 170,
+      "currency": "USD",
+      "shortDescription": "A navy dinner jacket with satin peak lapels.",
+      "description": "A single-button navy tuxedo jacket with glossy satin peak lapels. The waist is shaped and the shoulder structured, with flap pockets for a clean evening line.",
+      "details": [
+        "Satin peak lapels",
+        "Single-button closure",
+        "Flap pockets",
+        "Shaped waist"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Navy",
+        "Style": "Tuxedo blazer"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "navy",
+          "name": "Navy",
+          "hex": "#1D2740"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-08-XS",
+          "color": "navy",
+          "size": "XS",
+          "price": 170
+        },
+        {
+          "sku": "SM-CLO-REF-08-S",
+          "color": "navy",
+          "size": "S",
+          "price": 170
+        },
+        {
+          "sku": "SM-CLO-REF-08-M",
+          "color": "navy",
+          "size": "M",
+          "price": 170
+        },
+        {
+          "sku": "SM-CLO-REF-08-L",
+          "color": "navy",
+          "size": "L",
+          "price": 170
+        },
+        {
+          "sku": "SM-CLO-REF-08-XL",
+          "color": "navy",
+          "size": "XL",
+          "price": 170
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/navy-tuxedo-blazer/01-primary-navy.webp",
+          "kind": "primary",
+          "color": "navy",
+          "alt": "Navy Tuxedo Blazer",
+          "width": 1499,
+          "height": 1874
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 8,
+        "photoPage": 8,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-09",
+      "slug": "black-leather-moto-jacket",
+      "title": "Black Leather Moto Jacket",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "jackets",
+      "productType": "Moto jacket",
+      "collection": "street",
+      "price": 305,
+      "currency": "USD",
+      "shortDescription": "A black leather moto jacket with a snap-tab collar.",
+      "description": "A clean, minimal moto jacket in black leather. A centre-front zip, snap-tab band collar, zipped chest pocket and zipped hand pockets, with zipped cuffs to push back or close.",
+      "details": [
+        "Centre-front zip",
+        "Snap-tab band collar",
+        "Zipped chest pocket",
+        "Zipped hand pockets",
+        "Zipped cuffs"
+      ],
+      "materials": "Leather",
+      "care": [],
+      "specifications": {
+        "Colour": "Noir",
+        "Style": "Moto jacket"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#161514"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-09-XS",
+          "color": "noir",
+          "size": "XS",
+          "price": 305
+        },
+        {
+          "sku": "SM-CLO-REF-09-S",
+          "color": "noir",
+          "size": "S",
+          "price": 305
+        },
+        {
+          "sku": "SM-CLO-REF-09-M",
+          "color": "noir",
+          "size": "M",
+          "price": 305
+        },
+        {
+          "sku": "SM-CLO-REF-09-L",
+          "color": "noir",
+          "size": "L",
+          "price": 305
+        },
+        {
+          "sku": "SM-CLO-REF-09-XL",
+          "color": "noir",
+          "size": "XL",
+          "price": 305
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-leather-moto-jacket/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Leather Moto Jacket",
+          "width": 1503,
+          "height": 1879
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 9,
+        "photoPage": 9,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-10",
+      "slug": "light-blue-oxford-shirt",
+      "title": "Light Blue Oxford Shirt",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "shirts",
+      "productType": "Oxford shirt",
+      "collection": "essentials",
+      "price": 50,
+      "currency": "USD",
+      "shortDescription": "A crisp light-blue oxford shirt with a chest pocket.",
+      "description": "The classic oxford in a pale sky blue. A point collar, full button front, single chest pocket and buttoned barrel cuffs, finished with a gently curved hem.",
+      "details": [
+        "Point collar",
+        "Button front",
+        "Chest pocket",
+        "Barrel cuffs",
+        "Curved hem"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Light Blue",
+        "Style": "Oxford shirt"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "sky",
+          "name": "Light Blue",
+          "hex": "#A9C4E6"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-10-XS",
+          "color": "sky",
+          "size": "XS",
+          "price": 50
+        },
+        {
+          "sku": "SM-CLO-REF-10-S",
+          "color": "sky",
+          "size": "S",
+          "price": 50
+        },
+        {
+          "sku": "SM-CLO-REF-10-M",
+          "color": "sky",
+          "size": "M",
+          "price": 50
+        },
+        {
+          "sku": "SM-CLO-REF-10-L",
+          "color": "sky",
+          "size": "L",
+          "price": 50
+        },
+        {
+          "sku": "SM-CLO-REF-10-XL",
+          "color": "sky",
+          "size": "XL",
+          "price": 50
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/light-blue-oxford-shirt/01-primary-sky.webp",
+          "kind": "primary",
+          "color": "sky",
+          "alt": "Light Blue Oxford Shirt",
+          "width": 1508,
+          "height": 1885
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 10,
+        "photoPage": 10,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-11",
+      "slug": "burgundy-velvet-tuxedo-blazer",
+      "title": "Burgundy Velvet Tuxedo Blazer",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "blazers",
+      "productType": "Velvet tuxedo blazer",
+      "collection": "originals",
+      "price": 195,
+      "currency": "USD",
+      "shortDescription": "A burgundy velvet dinner jacket with satin lapels.",
+      "description": "Rich burgundy velvet with contrasting satin peak lapels. A single-button front, jetted pockets and a softly shaped waist make it the statement jacket for evening.",
+      "details": [
+        "Satin peak lapels",
+        "Single-button closure",
+        "Jetted pockets",
+        "Shaped waist"
+      ],
+      "materials": "Velvet",
+      "care": [],
+      "specifications": {
+        "Colour": "Burgundy",
+        "Style": "Velvet tuxedo blazer"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "burgundy",
+          "name": "Burgundy",
+          "hex": "#4E1620"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-11-XS",
+          "color": "burgundy",
+          "size": "XS",
+          "price": 195
+        },
+        {
+          "sku": "SM-CLO-REF-11-S",
+          "color": "burgundy",
+          "size": "S",
+          "price": 195
+        },
+        {
+          "sku": "SM-CLO-REF-11-M",
+          "color": "burgundy",
+          "size": "M",
+          "price": 195
+        },
+        {
+          "sku": "SM-CLO-REF-11-L",
+          "color": "burgundy",
+          "size": "L",
+          "price": 195
+        },
+        {
+          "sku": "SM-CLO-REF-11-XL",
+          "color": "burgundy",
+          "size": "XL",
+          "price": 195
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/burgundy-velvet-tuxedo-blazer/01-primary-burgundy.webp",
+          "kind": "primary",
+          "color": "burgundy",
+          "alt": "Burgundy Velvet Tuxedo Blazer",
+          "width": 1489,
+          "height": 1861
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 11,
+        "photoPage": 11,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-12",
+      "slug": "cream-ribbed-turtleneck",
+      "title": "Cream Ribbed Turtleneck",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "knitwear",
+      "productType": "Turtleneck sweater",
+      "collection": "essentials",
+      "price": 95,
+      "currency": "USD",
+      "shortDescription": "A cream turtleneck with a ribbed roll collar.",
+      "description": "A soft cream turtleneck with a generous folded roll collar and ribbed cuffs and hem. Easy, warm and quietly elegant under a coat or blazer.",
+      "details": [
+        "Folded turtleneck collar",
+        "Ribbed cuffs and hem",
+        "Relaxed fit"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Cream",
+        "Style": "Turtleneck sweater"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "cream",
+          "name": "Cream",
+          "hex": "#ECE3D0"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-12-XS",
+          "color": "cream",
+          "size": "XS",
+          "price": 95
+        },
+        {
+          "sku": "SM-CLO-REF-12-S",
+          "color": "cream",
+          "size": "S",
+          "price": 95
+        },
+        {
+          "sku": "SM-CLO-REF-12-M",
+          "color": "cream",
+          "size": "M",
+          "price": 95
+        },
+        {
+          "sku": "SM-CLO-REF-12-L",
+          "color": "cream",
+          "size": "L",
+          "price": 95
+        },
+        {
+          "sku": "SM-CLO-REF-12-XL",
+          "color": "cream",
+          "size": "XL",
+          "price": 95
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cream-ribbed-turtleneck/01-primary-cream.webp",
+          "kind": "primary",
+          "color": "cream",
+          "alt": "Cream Ribbed Turtleneck",
+          "width": 1496,
+          "height": 1870
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 12,
+        "photoPage": 12,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-13",
+      "slug": "black-structured-overcoat",
+      "title": "Black Structured Overcoat",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "coats",
+      "productType": "Overcoat",
+      "collection": "originals",
+      "price": 295,
+      "currency": "USD",
+      "shortDescription": "A long black overcoat with a clean structured line.",
+      "description": "A long, single-breasted black overcoat with notch lapels and a concealed front. Flap pockets and a sharp shoulder give it a strong, architectural silhouette.",
+      "details": [
+        "Notch lapels",
+        "Concealed front closure",
+        "Flap pockets",
+        "Below-knee length"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Noir",
+        "Style": "Overcoat"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#141312"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-13-XS",
+          "color": "noir",
+          "size": "XS",
+          "price": 295
+        },
+        {
+          "sku": "SM-CLO-REF-13-S",
+          "color": "noir",
+          "size": "S",
+          "price": 295
+        },
+        {
+          "sku": "SM-CLO-REF-13-M",
+          "color": "noir",
+          "size": "M",
+          "price": 295
+        },
+        {
+          "sku": "SM-CLO-REF-13-L",
+          "color": "noir",
+          "size": "L",
+          "price": 295
+        },
+        {
+          "sku": "SM-CLO-REF-13-XL",
+          "color": "noir",
+          "size": "XL",
+          "price": 295
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/black-structured-overcoat/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Black Structured Overcoat",
+          "width": 1332,
+          "height": 1665
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 13,
+        "photoPage": 21,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-14",
+      "slug": "ivory-silk-bow-blouse",
+      "title": "Ivory Silk Bow Blouse",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "shirts",
+      "productType": "Bow blouse",
+      "collection": "originals",
+      "price": 100,
+      "currency": "USD",
+      "shortDescription": "An ivory blouse with a pussy-bow neck tie.",
+      "description": "A fluid ivory silk blouse with a soft tie-neck bow, full bishop sleeves and multi-button cuffs. Pearl-like buttons run down the front.",
+      "details": [
+        "Tie-neck bow",
+        "Bishop sleeves",
+        "Multi-button cuffs",
+        "Button front"
+      ],
+      "materials": "Silk",
+      "care": [],
+      "specifications": {
+        "Colour": "Ivory",
+        "Style": "Bow blouse"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#EFE8D8"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-14-XS",
+          "color": "ivory",
+          "size": "XS",
+          "price": 100
+        },
+        {
+          "sku": "SM-CLO-REF-14-S",
+          "color": "ivory",
+          "size": "S",
+          "price": 100
+        },
+        {
+          "sku": "SM-CLO-REF-14-M",
+          "color": "ivory",
+          "size": "M",
+          "price": 100
+        },
+        {
+          "sku": "SM-CLO-REF-14-L",
+          "color": "ivory",
+          "size": "L",
+          "price": 100
+        },
+        {
+          "sku": "SM-CLO-REF-14-XL",
+          "color": "ivory",
+          "size": "XL",
+          "price": 100
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ivory-silk-bow-blouse/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ivory Silk Bow Blouse",
+          "width": 1334,
+          "height": 1668
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 14,
+        "photoPage": 22,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-15",
+      "slug": "emerald-velvet-dress",
+      "title": "Emerald Velvet Dress",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "dresses",
+      "productType": "Velvet midi dress",
+      "collection": "originals",
+      "price": 205,
+      "currency": "USD",
+      "shortDescription": "A deep-green velvet dress with a square neck.",
+      "description": "Deep emerald velvet with a square neckline, a fitted bodice and full puffed sleeves gathered at the cuff. The skirt falls in soft flares to mid-calf.",
+      "details": [
+        "Square neckline",
+        "Puff sleeves with fitted cuffs",
+        "Fitted bodice",
+        "Flared midi skirt"
+      ],
+      "materials": "Velvet",
+      "care": [],
+      "specifications": {
+        "Colour": "Emerald",
+        "Style": "Velvet midi dress"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "emerald",
+          "name": "Emerald",
+          "hex": "#173A2C"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-15-XS",
+          "color": "emerald",
+          "size": "XS",
+          "price": 205
+        },
+        {
+          "sku": "SM-CLO-REF-15-S",
+          "color": "emerald",
+          "size": "S",
+          "price": 205
+        },
+        {
+          "sku": "SM-CLO-REF-15-M",
+          "color": "emerald",
+          "size": "M",
+          "price": 205
+        },
+        {
+          "sku": "SM-CLO-REF-15-L",
+          "color": "emerald",
+          "size": "L",
+          "price": 205
+        },
+        {
+          "sku": "SM-CLO-REF-15-XL",
+          "color": "emerald",
+          "size": "XL",
+          "price": 205
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/emerald-velvet-dress/01-primary-emerald.webp",
+          "kind": "primary",
+          "color": "emerald",
+          "alt": "Emerald Velvet Dress",
+          "width": 1332,
+          "height": 1665
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 15,
+        "photoPage": 23,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    },
+    {
+      "sourceId": "CLO-REF-16",
+      "slug": "charcoal-double-breasted-suit",
+      "title": "Charcoal Double-Breasted Suit",
+      "line": "Super Mimic Atelier",
+      "category": "clothing",
+      "subcategory": "suits",
+      "productType": "Two-piece suit",
+      "collection": "originals",
+      "price": 345,
+      "currency": "USD",
+      "shortDescription": "A two-piece charcoal suit with a double-breasted jacket.",
+      "description": "A charcoal two-piece: a six-button double-breasted jacket with peak lapels and flap pockets, paired with straight-leg trousers with a sharp front crease.",
+      "details": [
+        "Double-breasted jacket",
+        "Peak lapels",
+        "Flap pockets",
+        "Straight-leg trousers",
+        "Pressed front crease"
+      ],
+      "materials": "",
+      "care": [],
+      "specifications": {
+        "Colour": "Charcoal",
+        "Style": "Two-piece suit"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "hex": "#3A3938"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-CLO-REF-16-XS",
+          "color": "charcoal",
+          "size": "XS",
+          "price": 345
+        },
+        {
+          "sku": "SM-CLO-REF-16-S",
+          "color": "charcoal",
+          "size": "S",
+          "price": 345
+        },
+        {
+          "sku": "SM-CLO-REF-16-M",
+          "color": "charcoal",
+          "size": "M",
+          "price": 345
+        },
+        {
+          "sku": "SM-CLO-REF-16-L",
+          "color": "charcoal",
+          "size": "L",
+          "price": 345
+        },
+        {
+          "sku": "SM-CLO-REF-16-XL",
+          "color": "charcoal",
+          "size": "XL",
+          "price": 345
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/charcoal-double-breasted-suit/01-primary-charcoal.webp",
+          "kind": "primary",
+          "color": "charcoal",
+          "alt": "Charcoal Double-Breasted Suit",
+          "width": 1334,
+          "height": 1668
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-30T00:00:00.000Z",
+      "provenance": {
+        "pdf": "Premium_Luxury_Clothing_Reference_24.pdf",
+        "pdfSha256": "8e2cae12bf2b0c232f65cc088912f25fd53c78c338b8c27dfd00a9bc49d1f3b3",
+        "titlePage": 16,
+        "photoPage": 24,
+        "priceStatus": "proposed",
+        "imageProcessing": "white margin trimmed; Real-ESRGAN x4 (compact) restore, 15% Lanczos blend; WebP q90",
+        "copyStatus": "written for Super Mimic from the reference photo"
+      }
+    }
+  ]
+}

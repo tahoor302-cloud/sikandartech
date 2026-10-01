@@ -1,0 +1,3521 @@
+{
+  "source": "super-mimic-master",
+  "authorised": "Owned by Super Mimic — original designs and photography created for this storefront (sample catalog).",
+  "description": "Super Mimic product master — original house designs and photography owned by Super Mimic.",
+  "records": [
+    {
+      "sourceId": "SMM-0001",
+      "slug": "meridian-runner",
+      "title": "Meridian Runner",
+      "line": "Super Mimic Performance",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Running sneaker",
+      "collection": "performance",
+      "price": 90,
+      "currency": "USD",
+      "shortDescription": "A sculpted running silhouette with a floating EVA midsole.",
+      "description": "The Meridian is engineered around a single idea: movement should feel effortless. A layered mesh-and-suede upper sits on a dual-density midsole, shaped by hand-finished edges and tonal stitching.",
+      "details": [
+        "Padded heel collar",
+        "Removable OrthoLite® insole",
+        "Reflective heel tab",
+        "Tonal lacing"
+      ],
+      "materials": "Mesh, calf suede, EVA, rubber",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Upper": "Engineered mesh, suede overlays",
+        "Lining": "Breathable textile",
+        "Midsole": "Dual-density EVA",
+        "Outsole": "Rubber, siped traction",
+        "Weight": "310 g (EU 42)",
+        "Fit": "True to size"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "stone",
+          "name": "Stone",
+          "hex": "#A9A298"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM001-IVO-39",
+          "color": "ivory",
+          "size": "39",
+          "price": 90,
+          "stock": 3
+        },
+        {
+          "sku": "SM001-IVO-40",
+          "color": "ivory",
+          "size": "40",
+          "price": 90,
+          "stock": 6
+        },
+        {
+          "sku": "SM001-IVO-41",
+          "color": "ivory",
+          "size": "41",
+          "price": 90,
+          "stock": 9
+        },
+        {
+          "sku": "SM001-IVO-42",
+          "color": "ivory",
+          "size": "42",
+          "price": 90,
+          "stock": 12
+        },
+        {
+          "sku": "SM001-IVO-43",
+          "color": "ivory",
+          "size": "43",
+          "price": 90,
+          "stock": 3
+        },
+        {
+          "sku": "SM001-IVO-44",
+          "color": "ivory",
+          "size": "44",
+          "price": 90,
+          "stock": 0
+        },
+        {
+          "sku": "SM001-IVO-45",
+          "color": "ivory",
+          "size": "45",
+          "price": 90,
+          "stock": 9
+        },
+        {
+          "sku": "SM001-NOI-39",
+          "color": "noir",
+          "size": "39",
+          "price": 90,
+          "stock": 3
+        },
+        {
+          "sku": "SM001-NOI-40",
+          "color": "noir",
+          "size": "40",
+          "price": 90,
+          "stock": 6
+        },
+        {
+          "sku": "SM001-NOI-41",
+          "color": "noir",
+          "size": "41",
+          "price": 90,
+          "stock": 9
+        },
+        {
+          "sku": "SM001-NOI-42",
+          "color": "noir",
+          "size": "42",
+          "price": 90,
+          "stock": 12
+        },
+        {
+          "sku": "SM001-NOI-43",
+          "color": "noir",
+          "size": "43",
+          "price": 90,
+          "stock": 0
+        },
+        {
+          "sku": "SM001-NOI-44",
+          "color": "noir",
+          "size": "44",
+          "price": 90,
+          "stock": 6
+        },
+        {
+          "sku": "SM001-NOI-45",
+          "color": "noir",
+          "size": "45",
+          "price": 90,
+          "stock": 9
+        },
+        {
+          "sku": "SM001-STO-39",
+          "color": "stone",
+          "size": "39",
+          "price": 90,
+          "stock": 3
+        },
+        {
+          "sku": "SM001-STO-40",
+          "color": "stone",
+          "size": "40",
+          "price": 90,
+          "stock": 6
+        },
+        {
+          "sku": "SM001-STO-41",
+          "color": "stone",
+          "size": "41",
+          "price": 90,
+          "stock": 9
+        },
+        {
+          "sku": "SM001-STO-42",
+          "color": "stone",
+          "size": "42",
+          "price": 90,
+          "stock": 0
+        },
+        {
+          "sku": "SM001-STO-43",
+          "color": "stone",
+          "size": "43",
+          "price": 90,
+          "stock": 3
+        },
+        {
+          "sku": "SM001-STO-44",
+          "color": "stone",
+          "size": "44",
+          "price": 90,
+          "stock": 6
+        },
+        {
+          "sku": "SM001-STO-45",
+          "color": "stone",
+          "size": "45",
+          "price": 90,
+          "stock": 9
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/meridian-runner/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Meridian Runner in Ivory"
+        },
+        {
+          "src": "/media/products/meridian-runner/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Meridian Runner in Noir"
+        },
+        {
+          "src": "/media/products/meridian-runner/01-primary-stone.webp",
+          "kind": "primary",
+          "color": "stone",
+          "alt": "Meridian Runner in Stone"
+        },
+        {
+          "src": "/media/products/meridian-runner/02-angle.webp",
+          "kind": "angle",
+          "alt": "Meridian Runner — alternate angle"
+        },
+        {
+          "src": "/media/products/meridian-runner/03-detail.webp",
+          "kind": "detail",
+          "alt": "Meridian Runner — close-up detail"
+        },
+        {
+          "src": "/media/products/meridian-runner/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Meridian Runner — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-09-28T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0002",
+      "slug": "halcyon-low",
+      "title": "Halcyon Low",
+      "line": "Super Mimic Originals",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Court sneaker",
+      "collection": "originals",
+      "price": 80,
+      "currency": "USD",
+      "shortDescription": "A clean court sneaker in full-grain calf leather.",
+      "description": "Quiet in form and exacting in finish. The Halcyon Low is cut from full-grain calf, cup-soled and stitched through for longevity — the everyday sneaker, elevated.",
+      "details": [
+        "Perforated toe box",
+        "Leather-wrapped laces tips",
+        "Embossed heel mark",
+        "Cushioned footbed"
+      ],
+      "materials": "Calf leather, rubber",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Upper": "Full-grain calf leather",
+        "Lining": "Calf leather",
+        "Outsole": "Stitched rubber cupsole",
+        "Construction": "Cemented + stitched",
+        "Fit": "True to size"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "hex": "#CDBB9C"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM002-IVO-39",
+          "color": "ivory",
+          "size": "39",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM002-IVO-40",
+          "color": "ivory",
+          "size": "40",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM002-IVO-41",
+          "color": "ivory",
+          "size": "41",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM002-IVO-42",
+          "color": "ivory",
+          "size": "42",
+          "price": 80,
+          "stock": 7
+        },
+        {
+          "sku": "SM002-IVO-43",
+          "color": "ivory",
+          "size": "43",
+          "price": 80,
+          "stock": 0
+        },
+        {
+          "sku": "SM002-IVO-44",
+          "color": "ivory",
+          "size": "44",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM002-IVO-45",
+          "color": "ivory",
+          "size": "45",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM002-SAN-39",
+          "color": "sand",
+          "size": "39",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM002-SAN-40",
+          "color": "sand",
+          "size": "40",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM002-SAN-41",
+          "color": "sand",
+          "size": "41",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM002-SAN-42",
+          "color": "sand",
+          "size": "42",
+          "price": 80,
+          "stock": 0
+        },
+        {
+          "sku": "SM002-SAN-43",
+          "color": "sand",
+          "size": "43",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM002-SAN-44",
+          "color": "sand",
+          "size": "44",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM002-SAN-45",
+          "color": "sand",
+          "size": "45",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM002-NOI-39",
+          "color": "noir",
+          "size": "39",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM002-NOI-40",
+          "color": "noir",
+          "size": "40",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM002-NOI-41",
+          "color": "noir",
+          "size": "41",
+          "price": 80,
+          "stock": 0
+        },
+        {
+          "sku": "SM002-NOI-42",
+          "color": "noir",
+          "size": "42",
+          "price": 80,
+          "stock": 7
+        },
+        {
+          "sku": "SM002-NOI-43",
+          "color": "noir",
+          "size": "43",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM002-NOI-44",
+          "color": "noir",
+          "size": "44",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM002-NOI-45",
+          "color": "noir",
+          "size": "45",
+          "price": 80,
+          "stock": 4
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/halcyon-low/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Halcyon Low in Ivory"
+        },
+        {
+          "src": "/media/products/halcyon-low/01-primary-sand.webp",
+          "kind": "primary",
+          "color": "sand",
+          "alt": "Halcyon Low in Sand"
+        },
+        {
+          "src": "/media/products/halcyon-low/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Halcyon Low in Noir"
+        },
+        {
+          "src": "/media/products/halcyon-low/02-angle.webp",
+          "kind": "angle",
+          "alt": "Halcyon Low — alternate angle"
+        },
+        {
+          "src": "/media/products/halcyon-low/03-detail.webp",
+          "kind": "detail",
+          "alt": "Halcyon Low — close-up detail"
+        },
+        {
+          "src": "/media/products/halcyon-low/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Halcyon Low — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-09-25T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0003",
+      "slug": "atlas-chelsea-boot",
+      "title": "Atlas Chelsea Boot",
+      "line": "Super Mimic Originals",
+      "category": "shoes",
+      "subcategory": "boots",
+      "productType": "Chelsea boot",
+      "collection": "originals",
+      "price": 115,
+      "currency": "USD",
+      "shortDescription": "A pared-back Chelsea boot on a lug-free commando sole.",
+      "description": "Shaped on a rounded last and finished with ribbed elastic gussets, the Atlas is built to be worn from season to season. Burnished by hand for depth of colour.",
+      "details": [
+        "Rear pull tab",
+        "Elastic side gussets",
+        "Leather heel stack",
+        "Resoleable construction"
+      ],
+      "materials": "Calf leather, rubber",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Upper": "Hand-burnished calf",
+        "Lining": "Leather",
+        "Sole": "Rubber commando",
+        "Heel": "32 mm",
+        "Construction": "Blake-stitched",
+        "Fit": "Half size large"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM003-NOI-39",
+          "color": "noir",
+          "size": "39",
+          "price": 115,
+          "stock": 5
+        },
+        {
+          "sku": "SM003-NOI-40",
+          "color": "noir",
+          "size": "40",
+          "price": 115,
+          "stock": 8
+        },
+        {
+          "sku": "SM003-NOI-41",
+          "color": "noir",
+          "size": "41",
+          "price": 115,
+          "stock": 11
+        },
+        {
+          "sku": "SM003-NOI-42",
+          "color": "noir",
+          "size": "42",
+          "price": 115,
+          "stock": 0
+        },
+        {
+          "sku": "SM003-NOI-43",
+          "color": "noir",
+          "size": "43",
+          "price": 115,
+          "stock": 5
+        },
+        {
+          "sku": "SM003-NOI-44",
+          "color": "noir",
+          "size": "44",
+          "price": 115,
+          "stock": 8
+        },
+        {
+          "sku": "SM003-NOI-45",
+          "color": "noir",
+          "size": "45",
+          "price": 115,
+          "stock": 11
+        },
+        {
+          "sku": "SM003-COG-39",
+          "color": "cognac",
+          "size": "39",
+          "price": 115,
+          "stock": 5
+        },
+        {
+          "sku": "SM003-COG-40",
+          "color": "cognac",
+          "size": "40",
+          "price": 115,
+          "stock": 8
+        },
+        {
+          "sku": "SM003-COG-41",
+          "color": "cognac",
+          "size": "41",
+          "price": 115,
+          "stock": 0
+        },
+        {
+          "sku": "SM003-COG-42",
+          "color": "cognac",
+          "size": "42",
+          "price": 115,
+          "stock": 14
+        },
+        {
+          "sku": "SM003-COG-43",
+          "color": "cognac",
+          "size": "43",
+          "price": 115,
+          "stock": 5
+        },
+        {
+          "sku": "SM003-COG-44",
+          "color": "cognac",
+          "size": "44",
+          "price": 115,
+          "stock": 8
+        },
+        {
+          "sku": "SM003-COG-45",
+          "color": "cognac",
+          "size": "45",
+          "price": 115,
+          "stock": 11
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/atlas-chelsea-boot/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Atlas Chelsea Boot in Noir"
+        },
+        {
+          "src": "/media/products/atlas-chelsea-boot/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Atlas Chelsea Boot in Cognac"
+        },
+        {
+          "src": "/media/products/atlas-chelsea-boot/02-angle.webp",
+          "kind": "angle",
+          "alt": "Atlas Chelsea Boot — alternate angle"
+        },
+        {
+          "src": "/media/products/atlas-chelsea-boot/03-detail.webp",
+          "kind": "detail",
+          "alt": "Atlas Chelsea Boot — close-up detail"
+        },
+        {
+          "src": "/media/products/atlas-chelsea-boot/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Atlas Chelsea Boot — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-09-22T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0004",
+      "slug": "vesper-loafer",
+      "title": "Vesper Loafer",
+      "line": "Super Mimic Essentials",
+      "category": "shoes",
+      "subcategory": "loafers",
+      "productType": "Penny loafer",
+      "collection": "essentials",
+      "price": 95,
+      "currency": "USD",
+      "shortDescription": "A soft-structured penny loafer with a hand-sewn apron.",
+      "description": "The Vesper balances tradition and restraint — a moccasin-stitched apron, a slim saddle strap and a leather sole that softens beautifully with wear.",
+      "details": [
+        "Hand-stitched apron",
+        "Saddle strap",
+        "Stacked leather heel",
+        "Dust bag included"
+      ],
+      "materials": "Calf leather",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Upper": "Polished calf",
+        "Lining": "Unlined vamp, leather heel",
+        "Sole": "Leather with rubber insert",
+        "Construction": "Hand-sewn moccasin",
+        "Fit": "True to size"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        },
+        {
+          "id": "bordeaux",
+          "name": "Bordeaux",
+          "hex": "#5A2630"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM004-NOI-39",
+          "color": "noir",
+          "size": "39",
+          "price": 95,
+          "stock": 12
+        },
+        {
+          "sku": "SM004-NOI-40",
+          "color": "noir",
+          "size": "40",
+          "price": 95,
+          "stock": 3
+        },
+        {
+          "sku": "SM004-NOI-41",
+          "color": "noir",
+          "size": "41",
+          "price": 95,
+          "stock": 0
+        },
+        {
+          "sku": "SM004-NOI-42",
+          "color": "noir",
+          "size": "42",
+          "price": 95,
+          "stock": 9
+        },
+        {
+          "sku": "SM004-NOI-43",
+          "color": "noir",
+          "size": "43",
+          "price": 95,
+          "stock": 12
+        },
+        {
+          "sku": "SM004-NOI-44",
+          "color": "noir",
+          "size": "44",
+          "price": 95,
+          "stock": 3
+        },
+        {
+          "sku": "SM004-NOI-45",
+          "color": "noir",
+          "size": "45",
+          "price": 95,
+          "stock": 6
+        },
+        {
+          "sku": "SM004-COG-39",
+          "color": "cognac",
+          "size": "39",
+          "price": 95,
+          "stock": 12
+        },
+        {
+          "sku": "SM004-COG-40",
+          "color": "cognac",
+          "size": "40",
+          "price": 95,
+          "stock": 0
+        },
+        {
+          "sku": "SM004-COG-41",
+          "color": "cognac",
+          "size": "41",
+          "price": 95,
+          "stock": 6
+        },
+        {
+          "sku": "SM004-COG-42",
+          "color": "cognac",
+          "size": "42",
+          "price": 95,
+          "stock": 9
+        },
+        {
+          "sku": "SM004-COG-43",
+          "color": "cognac",
+          "size": "43",
+          "price": 95,
+          "stock": 12
+        },
+        {
+          "sku": "SM004-COG-44",
+          "color": "cognac",
+          "size": "44",
+          "price": 95,
+          "stock": 3
+        },
+        {
+          "sku": "SM004-COG-45",
+          "color": "cognac",
+          "size": "45",
+          "price": 95,
+          "stock": 6
+        },
+        {
+          "sku": "SM004-BOR-39",
+          "color": "bordeaux",
+          "size": "39",
+          "price": 95,
+          "stock": 0
+        },
+        {
+          "sku": "SM004-BOR-40",
+          "color": "bordeaux",
+          "size": "40",
+          "price": 95,
+          "stock": 3
+        },
+        {
+          "sku": "SM004-BOR-41",
+          "color": "bordeaux",
+          "size": "41",
+          "price": 95,
+          "stock": 6
+        },
+        {
+          "sku": "SM004-BOR-42",
+          "color": "bordeaux",
+          "size": "42",
+          "price": 95,
+          "stock": 9
+        },
+        {
+          "sku": "SM004-BOR-43",
+          "color": "bordeaux",
+          "size": "43",
+          "price": 95,
+          "stock": 12
+        },
+        {
+          "sku": "SM004-BOR-44",
+          "color": "bordeaux",
+          "size": "44",
+          "price": 95,
+          "stock": 3
+        },
+        {
+          "sku": "SM004-BOR-45",
+          "color": "bordeaux",
+          "size": "45",
+          "price": 95,
+          "stock": 6
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/vesper-loafer/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Vesper Loafer in Noir"
+        },
+        {
+          "src": "/media/products/vesper-loafer/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Vesper Loafer in Cognac"
+        },
+        {
+          "src": "/media/products/vesper-loafer/01-primary-bordeaux.webp",
+          "kind": "primary",
+          "color": "bordeaux",
+          "alt": "Vesper Loafer in Bordeaux"
+        },
+        {
+          "src": "/media/products/vesper-loafer/02-angle.webp",
+          "kind": "angle",
+          "alt": "Vesper Loafer — alternate angle"
+        },
+        {
+          "src": "/media/products/vesper-loafer/03-detail.webp",
+          "kind": "detail",
+          "alt": "Vesper Loafer — close-up detail"
+        },
+        {
+          "src": "/media/products/vesper-loafer/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Vesper Loafer — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-19T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0005",
+      "slug": "solace-slide",
+      "title": "Solace Slide",
+      "line": "Super Mimic Essentials",
+      "category": "shoes",
+      "subcategory": "sandals",
+      "productType": "Slide sandal",
+      "collection": "essentials",
+      "price": 35,
+      "currency": "USD",
+      "shortDescription": "A padded single-strap slide with a contoured footbed.",
+      "description": "Softly padded nappa over a moulded, anatomical footbed. Made for slow mornings and warm evenings.",
+      "details": [
+        "Anatomical footbed",
+        "Padded strap",
+        "Grooved outsole"
+      ],
+      "materials": "Nappa leather, cork, rubber",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Strap": "Padded nappa leather",
+        "Footbed": "Moulded cork-latex",
+        "Outsole": "Lightweight rubber",
+        "Fit": "True to size"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "sand",
+          "name": "Sand",
+          "hex": "#CDBB9C"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "moss",
+          "name": "Moss",
+          "hex": "#5E5D47"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM005-SAN-39",
+          "color": "sand",
+          "size": "39",
+          "price": 35,
+          "stock": 7
+        },
+        {
+          "sku": "SM005-SAN-40",
+          "color": "sand",
+          "size": "40",
+          "price": 35,
+          "stock": 0
+        },
+        {
+          "sku": "SM005-SAN-41",
+          "color": "sand",
+          "size": "41",
+          "price": 35,
+          "stock": 13
+        },
+        {
+          "sku": "SM005-SAN-42",
+          "color": "sand",
+          "size": "42",
+          "price": 35,
+          "stock": 4
+        },
+        {
+          "sku": "SM005-SAN-43",
+          "color": "sand",
+          "size": "43",
+          "price": 35,
+          "stock": 7
+        },
+        {
+          "sku": "SM005-SAN-44",
+          "color": "sand",
+          "size": "44",
+          "price": 35,
+          "stock": 10
+        },
+        {
+          "sku": "SM005-SAN-45",
+          "color": "sand",
+          "size": "45",
+          "price": 35,
+          "stock": 13
+        },
+        {
+          "sku": "SM005-NOI-39",
+          "color": "noir",
+          "size": "39",
+          "price": 35,
+          "stock": 0
+        },
+        {
+          "sku": "SM005-NOI-40",
+          "color": "noir",
+          "size": "40",
+          "price": 35,
+          "stock": 10
+        },
+        {
+          "sku": "SM005-NOI-41",
+          "color": "noir",
+          "size": "41",
+          "price": 35,
+          "stock": 13
+        },
+        {
+          "sku": "SM005-NOI-42",
+          "color": "noir",
+          "size": "42",
+          "price": 35,
+          "stock": 4
+        },
+        {
+          "sku": "SM005-NOI-43",
+          "color": "noir",
+          "size": "43",
+          "price": 35,
+          "stock": 7
+        },
+        {
+          "sku": "SM005-NOI-44",
+          "color": "noir",
+          "size": "44",
+          "price": 35,
+          "stock": 10
+        },
+        {
+          "sku": "SM005-NOI-45",
+          "color": "noir",
+          "size": "45",
+          "price": 35,
+          "stock": 13
+        },
+        {
+          "sku": "SM005-MOS-39",
+          "color": "moss",
+          "size": "39",
+          "price": 35,
+          "stock": 7
+        },
+        {
+          "sku": "SM005-MOS-40",
+          "color": "moss",
+          "size": "40",
+          "price": 35,
+          "stock": 10
+        },
+        {
+          "sku": "SM005-MOS-41",
+          "color": "moss",
+          "size": "41",
+          "price": 35,
+          "stock": 13
+        },
+        {
+          "sku": "SM005-MOS-42",
+          "color": "moss",
+          "size": "42",
+          "price": 35,
+          "stock": 4
+        },
+        {
+          "sku": "SM005-MOS-43",
+          "color": "moss",
+          "size": "43",
+          "price": 35,
+          "stock": 7
+        },
+        {
+          "sku": "SM005-MOS-44",
+          "color": "moss",
+          "size": "44",
+          "price": 35,
+          "stock": 10
+        },
+        {
+          "sku": "SM005-MOS-45",
+          "color": "moss",
+          "size": "45",
+          "price": 35,
+          "stock": 13
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/solace-slide/01-primary-sand.webp",
+          "kind": "primary",
+          "color": "sand",
+          "alt": "Solace Slide in Sand"
+        },
+        {
+          "src": "/media/products/solace-slide/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Solace Slide in Noir"
+        },
+        {
+          "src": "/media/products/solace-slide/01-primary-moss.webp",
+          "kind": "primary",
+          "color": "moss",
+          "alt": "Solace Slide in Moss"
+        },
+        {
+          "src": "/media/products/solace-slide/02-angle.webp",
+          "kind": "angle",
+          "alt": "Solace Slide — alternate angle"
+        },
+        {
+          "src": "/media/products/solace-slide/03-detail.webp",
+          "kind": "detail",
+          "alt": "Solace Slide — close-up detail"
+        },
+        {
+          "src": "/media/products/solace-slide/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Solace Slide — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-09-16T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0006",
+      "slug": "orbit-trainer",
+      "title": "Orbit Trainer",
+      "line": "Super Mimic Street",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Chunky trainer",
+      "collection": "street",
+      "price": 100,
+      "currency": "USD",
+      "shortDescription": "A chunky street trainer with layered panels.",
+      "description": "The Orbit layers suede, nubuck and technical mesh over an exaggerated, sculpted sole unit — a considered take on street volume.",
+      "details": [
+        "Padded tongue",
+        "Layered panelling",
+        "Pull loops at heel and tongue"
+      ],
+      "materials": "Suede, nubuck, mesh, rubber",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Upper": "Suede, nubuck, mesh",
+        "Midsole": "Sculpted phylon",
+        "Outsole": "Rubber",
+        "Weight": "420 g (EU 42)",
+        "Fit": "True to size"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "graphite",
+          "name": "Graphite",
+          "hex": "#4A4845"
+        },
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "moss",
+          "name": "Moss",
+          "hex": "#5E5D47"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM006-GRA-39",
+          "color": "graphite",
+          "size": "39",
+          "price": 100,
+          "stock": 0
+        },
+        {
+          "sku": "SM006-GRA-40",
+          "color": "graphite",
+          "size": "40",
+          "price": 100,
+          "stock": 5
+        },
+        {
+          "sku": "SM006-GRA-41",
+          "color": "graphite",
+          "size": "41",
+          "price": 100,
+          "stock": 8
+        },
+        {
+          "sku": "SM006-GRA-42",
+          "color": "graphite",
+          "size": "42",
+          "price": 100,
+          "stock": 11
+        },
+        {
+          "sku": "SM006-GRA-43",
+          "color": "graphite",
+          "size": "43",
+          "price": 100,
+          "stock": 14
+        },
+        {
+          "sku": "SM006-GRA-44",
+          "color": "graphite",
+          "size": "44",
+          "price": 100,
+          "stock": 5
+        },
+        {
+          "sku": "SM006-GRA-45",
+          "color": "graphite",
+          "size": "45",
+          "price": 100,
+          "stock": 8
+        },
+        {
+          "sku": "SM006-IVO-39",
+          "color": "ivory",
+          "size": "39",
+          "price": 100,
+          "stock": 14
+        },
+        {
+          "sku": "SM006-IVO-40",
+          "color": "ivory",
+          "size": "40",
+          "price": 100,
+          "stock": 5
+        },
+        {
+          "sku": "SM006-IVO-41",
+          "color": "ivory",
+          "size": "41",
+          "price": 100,
+          "stock": 8
+        },
+        {
+          "sku": "SM006-IVO-42",
+          "color": "ivory",
+          "size": "42",
+          "price": 100,
+          "stock": 11
+        },
+        {
+          "sku": "SM006-IVO-43",
+          "color": "ivory",
+          "size": "43",
+          "price": 100,
+          "stock": 14
+        },
+        {
+          "sku": "SM006-IVO-44",
+          "color": "ivory",
+          "size": "44",
+          "price": 100,
+          "stock": 5
+        },
+        {
+          "sku": "SM006-IVO-45",
+          "color": "ivory",
+          "size": "45",
+          "price": 100,
+          "stock": 8
+        },
+        {
+          "sku": "SM006-MOS-39",
+          "color": "moss",
+          "size": "39",
+          "price": 100,
+          "stock": 14
+        },
+        {
+          "sku": "SM006-MOS-40",
+          "color": "moss",
+          "size": "40",
+          "price": 100,
+          "stock": 5
+        },
+        {
+          "sku": "SM006-MOS-41",
+          "color": "moss",
+          "size": "41",
+          "price": 100,
+          "stock": 8
+        },
+        {
+          "sku": "SM006-MOS-42",
+          "color": "moss",
+          "size": "42",
+          "price": 100,
+          "stock": 11
+        },
+        {
+          "sku": "SM006-MOS-43",
+          "color": "moss",
+          "size": "43",
+          "price": 100,
+          "stock": 14
+        },
+        {
+          "sku": "SM006-MOS-44",
+          "color": "moss",
+          "size": "44",
+          "price": 100,
+          "stock": 5
+        },
+        {
+          "sku": "SM006-MOS-45",
+          "color": "moss",
+          "size": "45",
+          "price": 100,
+          "stock": 8
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/orbit-trainer/01-primary-graphite.webp",
+          "kind": "primary",
+          "color": "graphite",
+          "alt": "Orbit Trainer in Graphite"
+        },
+        {
+          "src": "/media/products/orbit-trainer/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Orbit Trainer in Ivory"
+        },
+        {
+          "src": "/media/products/orbit-trainer/01-primary-moss.webp",
+          "kind": "primary",
+          "color": "moss",
+          "alt": "Orbit Trainer in Moss"
+        },
+        {
+          "src": "/media/products/orbit-trainer/02-angle.webp",
+          "kind": "angle",
+          "alt": "Orbit Trainer — alternate angle"
+        },
+        {
+          "src": "/media/products/orbit-trainer/03-detail.webp",
+          "kind": "detail",
+          "alt": "Orbit Trainer — close-up detail"
+        },
+        {
+          "src": "/media/products/orbit-trainer/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Orbit Trainer — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-09-13T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0007",
+      "slug": "nimbus-knit",
+      "title": "Nimbus Knit",
+      "line": "Super Mimic Performance",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Knit runner",
+      "collection": "performance",
+      "price": 70,
+      "currency": "USD",
+      "shortDescription": "A sock-fit knit runner, feather-light and seamless.",
+      "description": "A one-piece knit upper hugs the foot while a responsive foam sole returns every step. Designed for travel, built for pace.",
+      "details": [
+        "Sock-fit collar",
+        "Heel pull loop",
+        "Machine-washable at 30°"
+      ],
+      "materials": "Recycled polyester knit, foam, rubber",
+      "care": [
+        "Hand or machine wash cold.",
+        "Air dry away from heat.",
+        "Remove insole before washing."
+      ],
+      "specifications": {
+        "Upper": "Seamless recycled knit",
+        "Midsole": "Responsive foam",
+        "Outsole": "Rubber pods",
+        "Weight": "240 g (EU 42)",
+        "Fit": "Snug — size up for wide feet"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "stone",
+          "name": "Stone",
+          "hex": "#A9A298"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM007-STO-39",
+          "color": "stone",
+          "size": "39",
+          "price": 70,
+          "stock": 9
+        },
+        {
+          "sku": "SM007-STO-40",
+          "color": "stone",
+          "size": "40",
+          "price": 70,
+          "stock": 12
+        },
+        {
+          "sku": "SM007-STO-41",
+          "color": "stone",
+          "size": "41",
+          "price": 70,
+          "stock": 3
+        },
+        {
+          "sku": "SM007-STO-42",
+          "color": "stone",
+          "size": "42",
+          "price": 70,
+          "stock": 6
+        },
+        {
+          "sku": "SM007-STO-43",
+          "color": "stone",
+          "size": "43",
+          "price": 70,
+          "stock": 9
+        },
+        {
+          "sku": "SM007-STO-44",
+          "color": "stone",
+          "size": "44",
+          "price": 70,
+          "stock": 12
+        },
+        {
+          "sku": "SM007-STO-45",
+          "color": "stone",
+          "size": "45",
+          "price": 70,
+          "stock": 3
+        },
+        {
+          "sku": "SM007-NOI-39",
+          "color": "noir",
+          "size": "39",
+          "price": 70,
+          "stock": 9
+        },
+        {
+          "sku": "SM007-NOI-40",
+          "color": "noir",
+          "size": "40",
+          "price": 70,
+          "stock": 12
+        },
+        {
+          "sku": "SM007-NOI-41",
+          "color": "noir",
+          "size": "41",
+          "price": 70,
+          "stock": 3
+        },
+        {
+          "sku": "SM007-NOI-42",
+          "color": "noir",
+          "size": "42",
+          "price": 70,
+          "stock": 6
+        },
+        {
+          "sku": "SM007-NOI-43",
+          "color": "noir",
+          "size": "43",
+          "price": 70,
+          "stock": 9
+        },
+        {
+          "sku": "SM007-NOI-44",
+          "color": "noir",
+          "size": "44",
+          "price": 70,
+          "stock": 12
+        },
+        {
+          "sku": "SM007-NOI-45",
+          "color": "noir",
+          "size": "45",
+          "price": 70,
+          "stock": 3
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/nimbus-knit/01-primary-stone.webp",
+          "kind": "primary",
+          "color": "stone",
+          "alt": "Nimbus Knit in Stone"
+        },
+        {
+          "src": "/media/products/nimbus-knit/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Nimbus Knit in Noir"
+        },
+        {
+          "src": "/media/products/nimbus-knit/02-angle.webp",
+          "kind": "angle",
+          "alt": "Nimbus Knit — alternate angle"
+        },
+        {
+          "src": "/media/products/nimbus-knit/03-detail.webp",
+          "kind": "detail",
+          "alt": "Nimbus Knit — close-up detail"
+        },
+        {
+          "src": "/media/products/nimbus-knit/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Nimbus Knit — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-09-10T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0008",
+      "slug": "ridge-court",
+      "title": "Ridge Court",
+      "line": "Super Mimic Street",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productType": "Court shoe",
+      "collection": "street",
+      "price": 80,
+      "currency": "USD",
+      "shortDescription": "A retro-leaning court shoe in tumbled leather.",
+      "description": "Low, wide and grounded. The Ridge Court pairs tumbled leather with a gum-toned outsole for an easy, lived-in character.",
+      "details": [
+        "Padded collar",
+        "Suede heel tab",
+        "Waxed laces"
+      ],
+      "materials": "Leather, rubber",
+      "care": [
+        "Wipe clean with a soft, dry cloth after each wear.",
+        "Store with cedar shoe trees in the dust bag provided.",
+        "Keep away from direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Upper": "Tumbled leather",
+        "Lining": "Textile",
+        "Outsole": "Gum rubber",
+        "Fit": "True to size"
+      },
+      "sizeLabel": "EU",
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "bordeaux",
+          "name": "Bordeaux",
+          "hex": "#5A2630"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM008-IVO-39",
+          "color": "ivory",
+          "size": "39",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM008-IVO-40",
+          "color": "ivory",
+          "size": "40",
+          "price": 80,
+          "stock": 7
+        },
+        {
+          "sku": "SM008-IVO-41",
+          "color": "ivory",
+          "size": "41",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM008-IVO-42",
+          "color": "ivory",
+          "size": "42",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM008-IVO-43",
+          "color": "ivory",
+          "size": "43",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM008-IVO-44",
+          "color": "ivory",
+          "size": "44",
+          "price": 80,
+          "stock": 7
+        },
+        {
+          "sku": "SM008-IVO-45",
+          "color": "ivory",
+          "size": "45",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM008-BOR-39",
+          "color": "bordeaux",
+          "size": "39",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM008-BOR-40",
+          "color": "bordeaux",
+          "size": "40",
+          "price": 80,
+          "stock": 7
+        },
+        {
+          "sku": "SM008-BOR-41",
+          "color": "bordeaux",
+          "size": "41",
+          "price": 80,
+          "stock": 10
+        },
+        {
+          "sku": "SM008-BOR-42",
+          "color": "bordeaux",
+          "size": "42",
+          "price": 80,
+          "stock": 13
+        },
+        {
+          "sku": "SM008-BOR-43",
+          "color": "bordeaux",
+          "size": "43",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM008-BOR-44",
+          "color": "bordeaux",
+          "size": "44",
+          "price": 80,
+          "stock": 7
+        },
+        {
+          "sku": "SM008-BOR-45",
+          "color": "bordeaux",
+          "size": "45",
+          "price": 80,
+          "stock": 10
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ridge-court/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Ridge Court in Ivory"
+        },
+        {
+          "src": "/media/products/ridge-court/01-primary-bordeaux.webp",
+          "kind": "primary",
+          "color": "bordeaux",
+          "alt": "Ridge Court in Bordeaux"
+        },
+        {
+          "src": "/media/products/ridge-court/02-angle.webp",
+          "kind": "angle",
+          "alt": "Ridge Court — alternate angle"
+        },
+        {
+          "src": "/media/products/ridge-court/03-detail.webp",
+          "kind": "detail",
+          "alt": "Ridge Court — close-up detail"
+        },
+        {
+          "src": "/media/products/ridge-court/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Ridge Court — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-09-07T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0009",
+      "slug": "chronos-38-automatic",
+      "title": "Chronos 38 Automatic",
+      "line": "Super Mimic Originals",
+      "category": "watches",
+      "subcategory": "automatic",
+      "productType": "Automatic wristwatch",
+      "collection": "originals",
+      "price": 320,
+      "currency": "USD",
+      "shortDescription": "A 38 mm automatic with a sunray dial and sapphire crystal.",
+      "description": "Proportioned for the everyday, the Chronos 38 houses a self-winding movement behind a display caseback. Applied indices catch the light in every hour.",
+      "details": [
+        "Display caseback",
+        "Applied indices",
+        "Luminous hands",
+        "Signed crown"
+      ],
+      "materials": "Stainless steel, sapphire, calf leather",
+      "care": [
+        "Service every 4–5 years by an authorised watchmaker.",
+        "Avoid strong magnetic fields and sudden temperature shifts.",
+        "Rinse in fresh water after exposure to salt water (water-resistant models)."
+      ],
+      "specifications": {
+        "Movement": "Automatic, 42 h reserve",
+        "Case": "316L stainless steel, 38 mm",
+        "Crystal": "Domed sapphire, AR-coated",
+        "Water resistance": "100 m",
+        "Strap": "Italian calf, quick-release",
+        "Lug": "20 mm"
+      },
+      "sizeLabel": "Case",
+      "sizes": [
+        "38 mm"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM009-IVO-38",
+          "color": "ivory",
+          "size": "38 mm",
+          "price": 320,
+          "stock": 11
+        },
+        {
+          "sku": "SM009-NOI-38",
+          "color": "noir",
+          "size": "38 mm",
+          "price": 320,
+          "stock": 11
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/chronos-38-automatic/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Chronos 38 Automatic in Ivory"
+        },
+        {
+          "src": "/media/products/chronos-38-automatic/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Chronos 38 Automatic in Noir"
+        },
+        {
+          "src": "/media/products/chronos-38-automatic/02-angle.webp",
+          "kind": "angle",
+          "alt": "Chronos 38 Automatic — alternate angle"
+        },
+        {
+          "src": "/media/products/chronos-38-automatic/03-detail.webp",
+          "kind": "detail",
+          "alt": "Chronos 38 Automatic — close-up detail"
+        },
+        {
+          "src": "/media/products/chronos-38-automatic/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Chronos 38 Automatic — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-09-04T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0010",
+      "slug": "lumen-tank",
+      "title": "Lumen Tank",
+      "line": "Super Mimic Essentials",
+      "category": "watches",
+      "subcategory": "quartz",
+      "productType": "Rectangular dress watch",
+      "collection": "essentials",
+      "price": 230,
+      "currency": "USD",
+      "shortDescription": "A rectangular dress watch with a softly brushed case.",
+      "description": "Architectural lines and a slim profile. The Lumen Tank is a study in proportion — a watch that slips beneath a cuff and never shouts.",
+      "details": [
+        "Brushed case flanks",
+        "Blued hands",
+        "Cabochon crown"
+      ],
+      "materials": "Steel, sapphire, calf leather",
+      "care": [
+        "Service every 4–5 years by an authorised watchmaker.",
+        "Avoid strong magnetic fields and sudden temperature shifts.",
+        "Rinse in fresh water after exposure to salt water (water-resistant models)."
+      ],
+      "specifications": {
+        "Movement": "Swiss quartz",
+        "Case": "Gold-tone steel, 7.2 mm",
+        "Crystal": "Sapphire",
+        "Water resistance": "30 m",
+        "Strap": "Alligator-embossed calf"
+      },
+      "sizeLabel": "Case",
+      "sizes": [
+        "Small",
+        "Large"
+      ],
+      "colors": [
+        {
+          "id": "champagne",
+          "name": "Champagne",
+          "hex": "#C8B28A"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM010-CHA-S",
+          "color": "champagne",
+          "size": "Small",
+          "price": 230,
+          "stock": 6
+        },
+        {
+          "sku": "SM010-CHA-L",
+          "color": "champagne",
+          "size": "Large",
+          "price": 230,
+          "stock": 9
+        },
+        {
+          "sku": "SM010-NOI-S",
+          "color": "noir",
+          "size": "Small",
+          "price": 230,
+          "stock": 6
+        },
+        {
+          "sku": "SM010-NOI-L",
+          "color": "noir",
+          "size": "Large",
+          "price": 230,
+          "stock": 9
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/lumen-tank/01-primary-champagne.webp",
+          "kind": "primary",
+          "color": "champagne",
+          "alt": "Lumen Tank in Champagne"
+        },
+        {
+          "src": "/media/products/lumen-tank/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Lumen Tank in Noir"
+        },
+        {
+          "src": "/media/products/lumen-tank/02-angle.webp",
+          "kind": "angle",
+          "alt": "Lumen Tank — alternate angle"
+        },
+        {
+          "src": "/media/products/lumen-tank/03-detail.webp",
+          "kind": "detail",
+          "alt": "Lumen Tank — close-up detail"
+        },
+        {
+          "src": "/media/products/lumen-tank/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Lumen Tank — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-09-01T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0011",
+      "slug": "aurum-gmt",
+      "title": "Aurum GMT",
+      "line": "Super Mimic Originals",
+      "category": "watches",
+      "subcategory": "automatic",
+      "productType": "GMT wristwatch",
+      "collection": "originals",
+      "price": 455,
+      "currency": "USD",
+      "shortDescription": "A dual-time traveller with a two-tone ceramic bezel.",
+      "description": "For those between time zones. A fourth hand tracks home time against a bi-directional ceramic bezel, while the automatic calibre keeps local time with quiet precision.",
+      "details": [
+        "Independent GMT hand",
+        "Ceramic bezel insert",
+        "Screw-down crown"
+      ],
+      "materials": "Steel, ceramic, sapphire",
+      "care": [
+        "Service every 4–5 years by an authorised watchmaker.",
+        "Avoid strong magnetic fields and sudden temperature shifts.",
+        "Rinse in fresh water after exposure to salt water (water-resistant models)."
+      ],
+      "specifications": {
+        "Movement": "Automatic GMT, 50 h reserve",
+        "Case": "316L steel, 40 mm",
+        "Bezel": "Ceramic, 24-hour",
+        "Crystal": "Sapphire",
+        "Water resistance": "100 m",
+        "Bracelet": "Oyster-style steel, fold clasp"
+      },
+      "sizeLabel": "Case",
+      "sizes": [
+        "40 mm"
+      ],
+      "colors": [
+        {
+          "id": "midnight",
+          "name": "Midnight",
+          "hex": "#1F2633"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM011-MID-40",
+          "color": "midnight",
+          "size": "40 mm",
+          "price": 455,
+          "stock": 13
+        },
+        {
+          "sku": "SM011-NOI-40",
+          "color": "noir",
+          "size": "40 mm",
+          "price": 455,
+          "stock": 13
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/aurum-gmt/01-primary-midnight.webp",
+          "kind": "primary",
+          "color": "midnight",
+          "alt": "Aurum GMT in Midnight"
+        },
+        {
+          "src": "/media/products/aurum-gmt/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Aurum GMT in Noir"
+        },
+        {
+          "src": "/media/products/aurum-gmt/02-angle.webp",
+          "kind": "angle",
+          "alt": "Aurum GMT — alternate angle"
+        },
+        {
+          "src": "/media/products/aurum-gmt/03-detail.webp",
+          "kind": "detail",
+          "alt": "Aurum GMT — close-up detail"
+        },
+        {
+          "src": "/media/products/aurum-gmt/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Aurum GMT — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-08-29T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0012",
+      "slug": "obsidian-diver-42",
+      "title": "Obsidian Diver 42",
+      "line": "Super Mimic Performance",
+      "category": "watches",
+      "subcategory": "sport",
+      "productType": "Dive watch",
+      "collection": "performance",
+      "price": 350,
+      "currency": "USD",
+      "shortDescription": "A 300 m diver with a unidirectional bezel.",
+      "description": "Built for depth and legibility. The Obsidian pairs a unidirectional timing bezel with oversized luminous markers and a helium escape valve.",
+      "details": [
+        "Helium escape valve",
+        "Screw-down caseback",
+        "Super-LumiNova® markers"
+      ],
+      "materials": "Steel, sapphire, rubber",
+      "care": [
+        "Service every 4–5 years by an authorised watchmaker.",
+        "Avoid strong magnetic fields and sudden temperature shifts.",
+        "Rinse in fresh water after exposure to salt water (water-resistant models)."
+      ],
+      "specifications": {
+        "Movement": "Automatic, 41 h reserve",
+        "Case": "Steel, 42 mm",
+        "Bezel": "Unidirectional, 120-click",
+        "Crystal": "Sapphire",
+        "Water resistance": "300 m",
+        "Strap": "FKM rubber"
+      },
+      "sizeLabel": "Case",
+      "sizes": [
+        "42 mm"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "moss",
+          "name": "Moss",
+          "hex": "#5E5D47"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM012-NOI-42",
+          "color": "noir",
+          "size": "42 mm",
+          "price": 350,
+          "stock": 8
+        },
+        {
+          "sku": "SM012-MOS-42",
+          "color": "moss",
+          "size": "42 mm",
+          "price": 350,
+          "stock": 8
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/obsidian-diver-42/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Obsidian Diver 42 in Noir"
+        },
+        {
+          "src": "/media/products/obsidian-diver-42/01-primary-moss.webp",
+          "kind": "primary",
+          "color": "moss",
+          "alt": "Obsidian Diver 42 in Moss"
+        },
+        {
+          "src": "/media/products/obsidian-diver-42/02-angle.webp",
+          "kind": "angle",
+          "alt": "Obsidian Diver 42 — alternate angle"
+        },
+        {
+          "src": "/media/products/obsidian-diver-42/03-detail.webp",
+          "kind": "detail",
+          "alt": "Obsidian Diver 42 — close-up detail"
+        },
+        {
+          "src": "/media/products/obsidian-diver-42/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Obsidian Diver 42 — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-08-26T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0013",
+      "slug": "axis-skeleton",
+      "title": "Axis Skeleton",
+      "line": "Super Mimic Originals",
+      "category": "watches",
+      "subcategory": "automatic",
+      "productType": "Skeleton wristwatch",
+      "collection": "originals",
+      "price": 520,
+      "currency": "USD",
+      "shortDescription": "An open-worked automatic revealing its architecture.",
+      "description": "The Axis strips the dial away to reveal the balance, bridges and gear train beneath. Every surface is finished by hand — a watch to be looked into, not just at.",
+      "details": [
+        "Hand-finished bridges",
+        "Exhibition caseback",
+        "Deployant clasp"
+      ],
+      "materials": "Steel, sapphire, calf leather",
+      "care": [
+        "Service every 4–5 years by an authorised watchmaker.",
+        "Avoid strong magnetic fields and sudden temperature shifts.",
+        "Rinse in fresh water after exposure to salt water (water-resistant models)."
+      ],
+      "specifications": {
+        "Movement": "Skeletonised automatic, 40 h",
+        "Case": "Steel, 41 mm",
+        "Crystal": "Sapphire, both sides",
+        "Water resistance": "50 m",
+        "Strap": "Calf leather"
+      },
+      "sizeLabel": "Case",
+      "sizes": [
+        "41 mm"
+      ],
+      "colors": [
+        {
+          "id": "steel",
+          "name": "Steel",
+          "hex": "#B9BAB7"
+        },
+        {
+          "id": "gold",
+          "name": "Gold",
+          "hex": "#C9A96A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM013-STE-41",
+          "color": "steel",
+          "size": "41 mm",
+          "price": 520,
+          "stock": 3
+        },
+        {
+          "sku": "SM013-GOL-41",
+          "color": "gold",
+          "size": "41 mm",
+          "price": 520,
+          "stock": 3
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/axis-skeleton/01-primary-steel.webp",
+          "kind": "primary",
+          "color": "steel",
+          "alt": "Axis Skeleton in Steel"
+        },
+        {
+          "src": "/media/products/axis-skeleton/01-primary-gold.webp",
+          "kind": "primary",
+          "color": "gold",
+          "alt": "Axis Skeleton in Gold"
+        },
+        {
+          "src": "/media/products/axis-skeleton/02-angle.webp",
+          "kind": "angle",
+          "alt": "Axis Skeleton — alternate angle"
+        },
+        {
+          "src": "/media/products/axis-skeleton/03-detail.webp",
+          "kind": "detail",
+          "alt": "Axis Skeleton — close-up detail"
+        },
+        {
+          "src": "/media/products/axis-skeleton/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Axis Skeleton — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-08-23T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0014",
+      "slug": "linea-dress-36",
+      "title": "Linea Dress 36",
+      "line": "Super Mimic Essentials",
+      "category": "watches",
+      "subcategory": "quartz",
+      "productType": "Dress watch",
+      "collection": "essentials",
+      "price": 175,
+      "currency": "USD",
+      "shortDescription": "An ultra-slim 36 mm dress watch with a pure dial.",
+      "description": "Nothing extra. The Linea is 6.8 mm thin, with dauphine hands and a dial finished like fine paper.",
+      "details": [
+        "6.8 mm case",
+        "Dauphine hands",
+        "Quick-release strap"
+      ],
+      "materials": "Steel, sapphire, suede",
+      "care": [
+        "Service every 4–5 years by an authorised watchmaker.",
+        "Avoid strong magnetic fields and sudden temperature shifts.",
+        "Rinse in fresh water after exposure to salt water (water-resistant models)."
+      ],
+      "specifications": {
+        "Movement": "Swiss quartz",
+        "Case": "Steel, 36 mm",
+        "Crystal": "Sapphire",
+        "Water resistance": "30 m",
+        "Strap": "Suede"
+      },
+      "sizeLabel": "Case",
+      "sizes": [
+        "36 mm"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "champagne",
+          "name": "Champagne",
+          "hex": "#C8B28A"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM014-IVO-36",
+          "color": "ivory",
+          "size": "36 mm",
+          "price": 175,
+          "stock": 10
+        },
+        {
+          "sku": "SM014-CHA-36",
+          "color": "champagne",
+          "size": "36 mm",
+          "price": 175,
+          "stock": 10
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/linea-dress-36/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Linea Dress 36 in Ivory"
+        },
+        {
+          "src": "/media/products/linea-dress-36/01-primary-champagne.webp",
+          "kind": "primary",
+          "color": "champagne",
+          "alt": "Linea Dress 36 in Champagne"
+        },
+        {
+          "src": "/media/products/linea-dress-36/02-angle.webp",
+          "kind": "angle",
+          "alt": "Linea Dress 36 — alternate angle"
+        },
+        {
+          "src": "/media/products/linea-dress-36/03-detail.webp",
+          "kind": "detail",
+          "alt": "Linea Dress 36 — close-up detail"
+        },
+        {
+          "src": "/media/products/linea-dress-36/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Linea Dress 36 — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-08-20T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0015",
+      "slug": "maison-tote",
+      "title": "Maison Tote",
+      "line": "Super Mimic Originals",
+      "category": "bags",
+      "subcategory": "totes",
+      "productType": "Structured tote",
+      "collection": "originals",
+      "price": 205,
+      "currency": "USD",
+      "shortDescription": "A structured everyday tote in grained calf.",
+      "description": "Generous, structured and quietly precise. The Maison Tote carries a 14-inch laptop, the day and everything after — with edges painted by hand in seven layers.",
+      "details": [
+        "Interior zip pocket",
+        "Laptop sleeve",
+        "Protective base studs",
+        "Hand-painted edges"
+      ],
+      "materials": "Calf leather, suede, brass",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "38 × 30 × 15 cm",
+        "Material": "Grained calf leather",
+        "Lining": "Suede",
+        "Hardware": "Brushed champagne brass",
+        "Closure": "Magnetic"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "hex": "#CDBB9C"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM015-COG-OS",
+          "color": "cognac",
+          "size": "One size",
+          "price": 205,
+          "stock": 5
+        },
+        {
+          "sku": "SM015-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 205,
+          "stock": 5
+        },
+        {
+          "sku": "SM015-SAN-OS",
+          "color": "sand",
+          "size": "One size",
+          "price": 205,
+          "stock": 0
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/maison-tote/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Maison Tote in Cognac"
+        },
+        {
+          "src": "/media/products/maison-tote/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Maison Tote in Noir"
+        },
+        {
+          "src": "/media/products/maison-tote/01-primary-sand.webp",
+          "kind": "primary",
+          "color": "sand",
+          "alt": "Maison Tote in Sand"
+        },
+        {
+          "src": "/media/products/maison-tote/02-angle.webp",
+          "kind": "angle",
+          "alt": "Maison Tote — alternate angle"
+        },
+        {
+          "src": "/media/products/maison-tote/03-detail.webp",
+          "kind": "detail",
+          "alt": "Maison Tote — close-up detail"
+        },
+        {
+          "src": "/media/products/maison-tote/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Maison Tote — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-08-17T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0016",
+      "slug": "arc-crossbody",
+      "title": "Arc Crossbody",
+      "line": "Super Mimic Street",
+      "category": "bags",
+      "subcategory": "crossbody",
+      "productType": "Crossbody bag",
+      "collection": "street",
+      "price": 125,
+      "currency": "USD",
+      "shortDescription": "A compact crossbody with a curved flap and turn-lock.",
+      "description": "The Arc is defined by its sweeping flap and sculpted turn-lock. Adjustable strap, cleverly compact interior.",
+      "details": [
+        "Turn-lock closure",
+        "Card slot",
+        "Adjustable strap"
+      ],
+      "materials": "Calf leather, brass",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "22 × 16 × 7 cm",
+        "Material": "Smooth calf leather",
+        "Lining": "Microsuede",
+        "Hardware": "Champagne brass",
+        "Strap": "Adjustable, 105–125 cm"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "bordeaux",
+          "name": "Bordeaux",
+          "hex": "#5A2630"
+        },
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM016-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 125,
+          "stock": 12
+        },
+        {
+          "sku": "SM016-BOR-OS",
+          "color": "bordeaux",
+          "size": "One size",
+          "price": 125,
+          "stock": 0
+        },
+        {
+          "sku": "SM016-IVO-OS",
+          "color": "ivory",
+          "size": "One size",
+          "price": 125,
+          "stock": 12
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/arc-crossbody/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Arc Crossbody in Noir"
+        },
+        {
+          "src": "/media/products/arc-crossbody/01-primary-bordeaux.webp",
+          "kind": "primary",
+          "color": "bordeaux",
+          "alt": "Arc Crossbody in Bordeaux"
+        },
+        {
+          "src": "/media/products/arc-crossbody/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Arc Crossbody in Ivory"
+        },
+        {
+          "src": "/media/products/arc-crossbody/02-angle.webp",
+          "kind": "angle",
+          "alt": "Arc Crossbody — alternate angle"
+        },
+        {
+          "src": "/media/products/arc-crossbody/03-detail.webp",
+          "kind": "detail",
+          "alt": "Arc Crossbody — close-up detail"
+        },
+        {
+          "src": "/media/products/arc-crossbody/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Arc Crossbody — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": false,
+      "trending": true,
+      "createdAt": "2026-08-14T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0017",
+      "slug": "voyage-weekender",
+      "title": "Voyage Weekender",
+      "line": "Super Mimic Originals",
+      "category": "bags",
+      "subcategory": "travel",
+      "productType": "Weekender holdall",
+      "collection": "originals",
+      "price": 270,
+      "currency": "USD",
+      "shortDescription": "A cabin-sized holdall in waxed canvas and leather.",
+      "description": "Designed around a two-night stay. Waxed cotton canvas, full-grain leather trims and a separate shoe compartment.",
+      "details": [
+        "Shoe compartment",
+        "Detachable shoulder strap",
+        "Luggage trolley sleeve"
+      ],
+      "materials": "Waxed canvas, leather, brass",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "52 × 28 × 26 cm",
+        "Material": "Waxed canvas, full-grain leather",
+        "Lining": "Cotton twill",
+        "Hardware": "Solid brass",
+        "Capacity": "38 L"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        },
+        {
+          "id": "graphite",
+          "name": "Graphite",
+          "hex": "#4A4845"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM017-COG-OS",
+          "color": "cognac",
+          "size": "One size",
+          "price": 270,
+          "stock": 0
+        },
+        {
+          "sku": "SM017-GRA-OS",
+          "color": "graphite",
+          "size": "One size",
+          "price": 270,
+          "stock": 7
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/voyage-weekender/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Voyage Weekender in Cognac"
+        },
+        {
+          "src": "/media/products/voyage-weekender/01-primary-graphite.webp",
+          "kind": "primary",
+          "color": "graphite",
+          "alt": "Voyage Weekender in Graphite"
+        },
+        {
+          "src": "/media/products/voyage-weekender/02-angle.webp",
+          "kind": "angle",
+          "alt": "Voyage Weekender — alternate angle"
+        },
+        {
+          "src": "/media/products/voyage-weekender/03-detail.webp",
+          "kind": "detail",
+          "alt": "Voyage Weekender — close-up detail"
+        },
+        {
+          "src": "/media/products/voyage-weekender/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Voyage Weekender — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-08-11T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0018",
+      "slug": "cadence-mini",
+      "title": "Cadence Mini",
+      "line": "Super Mimic Essentials",
+      "category": "bags",
+      "subcategory": "clutches",
+      "productType": "Pleated mini clutch",
+      "collection": "essentials",
+      "price": 100,
+      "currency": "USD",
+      "shortDescription": "A pleated mini clutch that converts to a shoulder bag.",
+      "description": "Soft pleats of nappa gathered into a slim frame. Carry it by hand or clip on the chain for evening.",
+      "details": [
+        "Detachable chain",
+        "Magnetic frame",
+        "Interior slip pocket"
+      ],
+      "materials": "Nappa leather, satin, brass",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "24 × 13 × 5 cm",
+        "Material": "Nappa leather",
+        "Lining": "Satin",
+        "Hardware": "Champagne chain, detachable"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "champagne",
+          "name": "Champagne",
+          "hex": "#C8B28A"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM018-CHA-OS",
+          "color": "champagne",
+          "size": "One size",
+          "price": 100,
+          "stock": 14
+        },
+        {
+          "sku": "SM018-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 100,
+          "stock": 14
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/cadence-mini/01-primary-champagne.webp",
+          "kind": "primary",
+          "color": "champagne",
+          "alt": "Cadence Mini in Champagne"
+        },
+        {
+          "src": "/media/products/cadence-mini/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Cadence Mini in Noir"
+        },
+        {
+          "src": "/media/products/cadence-mini/02-angle.webp",
+          "kind": "angle",
+          "alt": "Cadence Mini — alternate angle"
+        },
+        {
+          "src": "/media/products/cadence-mini/03-detail.webp",
+          "kind": "detail",
+          "alt": "Cadence Mini — close-up detail"
+        },
+        {
+          "src": "/media/products/cadence-mini/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Cadence Mini — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-08-08T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0019",
+      "slug": "strata-backpack",
+      "title": "Strata Backpack",
+      "line": "Super Mimic Performance",
+      "category": "bags",
+      "subcategory": "backpacks",
+      "productType": "Technical backpack",
+      "collection": "performance",
+      "price": 150,
+      "currency": "USD",
+      "shortDescription": "A technical backpack in water-repellent nylon.",
+      "description": "A clean, architectural backpack cut from ballistic nylon with leather trims and a padded laptop compartment.",
+      "details": [
+        "Padded laptop compartment",
+        "Hidden back pocket",
+        "Luggage sleeve"
+      ],
+      "materials": "Nylon, leather",
+      "care": [
+        "Wipe with a damp cloth.",
+        "Do not machine wash.",
+        "Air dry."
+      ],
+      "specifications": {
+        "Dimensions": "44 × 30 × 14 cm",
+        "Material": "Ballistic nylon, leather trims",
+        "Capacity": "20 L",
+        "Laptop": "Up to 16\"",
+        "Hardware": "Water-resistant zips"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "moss",
+          "name": "Moss",
+          "hex": "#5E5D47"
+        },
+        {
+          "id": "stone",
+          "name": "Stone",
+          "hex": "#A9A298"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM019-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 150,
+          "stock": 9
+        },
+        {
+          "sku": "SM019-MOS-OS",
+          "color": "moss",
+          "size": "One size",
+          "price": 150,
+          "stock": 9
+        },
+        {
+          "sku": "SM019-STO-OS",
+          "color": "stone",
+          "size": "One size",
+          "price": 150,
+          "stock": 9
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/strata-backpack/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Strata Backpack in Noir"
+        },
+        {
+          "src": "/media/products/strata-backpack/01-primary-moss.webp",
+          "kind": "primary",
+          "color": "moss",
+          "alt": "Strata Backpack in Moss"
+        },
+        {
+          "src": "/media/products/strata-backpack/01-primary-stone.webp",
+          "kind": "primary",
+          "color": "stone",
+          "alt": "Strata Backpack in Stone"
+        },
+        {
+          "src": "/media/products/strata-backpack/02-angle.webp",
+          "kind": "angle",
+          "alt": "Strata Backpack — alternate angle"
+        },
+        {
+          "src": "/media/products/strata-backpack/03-detail.webp",
+          "kind": "detail",
+          "alt": "Strata Backpack — close-up detail"
+        },
+        {
+          "src": "/media/products/strata-backpack/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Strata Backpack — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-08-05T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0020",
+      "slug": "pleat-clutch",
+      "title": "Pleat Envelope",
+      "line": "Super Mimic Street",
+      "category": "bags",
+      "subcategory": "clutches",
+      "productType": "Envelope clutch",
+      "collection": "street",
+      "price": 80,
+      "currency": "USD",
+      "shortDescription": "An envelope clutch with a folded, architectural flap.",
+      "description": "Folded like paper, cut from leather. The Pleat Envelope is flat, light and intentional.",
+      "details": [
+        "Hidden magnetic closure",
+        "Interior card slots"
+      ],
+      "materials": "Box calf, suede",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "30 × 19 × 2 cm",
+        "Material": "Box calf",
+        "Lining": "Suede",
+        "Closure": "Hidden magnet"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#ECE5D8"
+        },
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM020-IVO-OS",
+          "color": "ivory",
+          "size": "One size",
+          "price": 80,
+          "stock": 4
+        },
+        {
+          "sku": "SM020-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 80,
+          "stock": 4
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/pleat-clutch/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Pleat Envelope in Ivory"
+        },
+        {
+          "src": "/media/products/pleat-clutch/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Pleat Envelope in Noir"
+        },
+        {
+          "src": "/media/products/pleat-clutch/02-angle.webp",
+          "kind": "angle",
+          "alt": "Pleat Envelope — alternate angle"
+        },
+        {
+          "src": "/media/products/pleat-clutch/03-detail.webp",
+          "kind": "detail",
+          "alt": "Pleat Envelope — close-up detail"
+        },
+        {
+          "src": "/media/products/pleat-clutch/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Pleat Envelope — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-08-02T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0021",
+      "slug": "fold-card-holder",
+      "title": "Fold Card Holder",
+      "line": "Super Mimic Essentials",
+      "category": "accessories",
+      "subcategory": "wallets",
+      "productType": "Card holder",
+      "collection": "essentials",
+      "price": 25,
+      "currency": "USD",
+      "shortDescription": "A slim bifold card holder in vegetable-tanned leather.",
+      "description": "Four card slots, a central pocket and nothing more. Vegetable-tanned leather that darkens with character.",
+      "details": [
+        "Hand-stitched edges",
+        "Embossed monogram"
+      ],
+      "materials": "Vegetable-tanned leather",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "10.5 × 7.5 cm",
+        "Material": "Vegetable-tanned leather",
+        "Slots": "4 + central pocket"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        },
+        {
+          "id": "moss",
+          "name": "Moss",
+          "hex": "#5E5D47"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM021-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 25,
+          "stock": 11
+        },
+        {
+          "sku": "SM021-COG-OS",
+          "color": "cognac",
+          "size": "One size",
+          "price": 25,
+          "stock": 11
+        },
+        {
+          "sku": "SM021-MOS-OS",
+          "color": "moss",
+          "size": "One size",
+          "price": 25,
+          "stock": 11
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/fold-card-holder/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Fold Card Holder in Noir"
+        },
+        {
+          "src": "/media/products/fold-card-holder/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Fold Card Holder in Cognac"
+        },
+        {
+          "src": "/media/products/fold-card-holder/01-primary-moss.webp",
+          "kind": "primary",
+          "color": "moss",
+          "alt": "Fold Card Holder in Moss"
+        },
+        {
+          "src": "/media/products/fold-card-holder/02-angle.webp",
+          "kind": "angle",
+          "alt": "Fold Card Holder — alternate angle"
+        },
+        {
+          "src": "/media/products/fold-card-holder/03-detail.webp",
+          "kind": "detail",
+          "alt": "Fold Card Holder — close-up detail"
+        },
+        {
+          "src": "/media/products/fold-card-holder/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Fold Card Holder — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-07-30T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0022",
+      "slug": "ledger-wallet",
+      "title": "Ledger Wallet",
+      "line": "Super Mimic Originals",
+      "category": "accessories",
+      "subcategory": "wallets",
+      "productType": "Bifold wallet",
+      "collection": "originals",
+      "price": 45,
+      "currency": "USD",
+      "shortDescription": "A bifold wallet with eight card slots and a note compartment.",
+      "description": "The essential wallet, rethought with a lower profile and hand-painted edges.",
+      "details": [
+        "RFID-shielded",
+        "Hand-painted edges"
+      ],
+      "materials": "Calf leather",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Dimensions": "11 × 9 cm",
+        "Material": "Pebbled calf",
+        "Slots": "8 + note compartment"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM022-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 45,
+          "stock": 6
+        },
+        {
+          "sku": "SM022-COG-OS",
+          "color": "cognac",
+          "size": "One size",
+          "price": 45,
+          "stock": 6
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/ledger-wallet/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Ledger Wallet in Noir"
+        },
+        {
+          "src": "/media/products/ledger-wallet/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Ledger Wallet in Cognac"
+        },
+        {
+          "src": "/media/products/ledger-wallet/02-angle.webp",
+          "kind": "angle",
+          "alt": "Ledger Wallet — alternate angle"
+        },
+        {
+          "src": "/media/products/ledger-wallet/03-detail.webp",
+          "kind": "detail",
+          "alt": "Ledger Wallet — close-up detail"
+        },
+        {
+          "src": "/media/products/ledger-wallet/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Ledger Wallet — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-07-27T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0023",
+      "slug": "line-belt",
+      "title": "Line Belt",
+      "line": "Super Mimic Essentials",
+      "category": "accessories",
+      "subcategory": "belts",
+      "productType": "Leather belt",
+      "collection": "essentials",
+      "price": 40,
+      "currency": "USD",
+      "shortDescription": "A 30 mm leather belt with a brushed champagne buckle.",
+      "description": "A precise, reversible belt with a minimal pin buckle.",
+      "details": [
+        "Reversible",
+        "Hand-finished edges"
+      ],
+      "materials": "Leather, brass",
+      "care": [
+        "Condition leather twice a year with a neutral balm.",
+        "Stuff with tissue and store upright in the dust bag.",
+        "Blot spills immediately; do not rub."
+      ],
+      "specifications": {
+        "Width": "30 mm",
+        "Material": "Full-grain leather",
+        "Buckle": "Brushed brass"
+      },
+      "sizeLabel": "Length (cm)",
+      "sizes": [
+        "80",
+        "85",
+        "90",
+        "95",
+        "100"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM023-NOI-80",
+          "color": "noir",
+          "size": "80",
+          "price": 40,
+          "stock": 13
+        },
+        {
+          "sku": "SM023-NOI-85",
+          "color": "noir",
+          "size": "85",
+          "price": 40,
+          "stock": 4
+        },
+        {
+          "sku": "SM023-NOI-90",
+          "color": "noir",
+          "size": "90",
+          "price": 40,
+          "stock": 7
+        },
+        {
+          "sku": "SM023-NOI-95",
+          "color": "noir",
+          "size": "95",
+          "price": 40,
+          "stock": 10
+        },
+        {
+          "sku": "SM023-NOI-100",
+          "color": "noir",
+          "size": "100",
+          "price": 40,
+          "stock": 13
+        },
+        {
+          "sku": "SM023-COG-80",
+          "color": "cognac",
+          "size": "80",
+          "price": 40,
+          "stock": 13
+        },
+        {
+          "sku": "SM023-COG-85",
+          "color": "cognac",
+          "size": "85",
+          "price": 40,
+          "stock": 4
+        },
+        {
+          "sku": "SM023-COG-90",
+          "color": "cognac",
+          "size": "90",
+          "price": 40,
+          "stock": 7
+        },
+        {
+          "sku": "SM023-COG-95",
+          "color": "cognac",
+          "size": "95",
+          "price": 40,
+          "stock": 10
+        },
+        {
+          "sku": "SM023-COG-100",
+          "color": "cognac",
+          "size": "100",
+          "price": 40,
+          "stock": 0
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/line-belt/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Line Belt in Noir"
+        },
+        {
+          "src": "/media/products/line-belt/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Line Belt in Cognac"
+        },
+        {
+          "src": "/media/products/line-belt/02-angle.webp",
+          "kind": "angle",
+          "alt": "Line Belt — alternate angle"
+        },
+        {
+          "src": "/media/products/line-belt/03-detail.webp",
+          "kind": "detail",
+          "alt": "Line Belt — close-up detail"
+        },
+        {
+          "src": "/media/products/line-belt/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Line Belt — editorial still life"
+        }
+      ],
+      "featured": false,
+      "newArrival": false,
+      "trending": false,
+      "createdAt": "2026-07-24T00:00:00.000Z",
+      "sample": true
+    },
+    {
+      "sourceId": "SMM-0024",
+      "slug": "aura-sunglasses",
+      "title": "Aura Sunglasses",
+      "line": "Super Mimic Street",
+      "category": "accessories",
+      "subcategory": "sunglasses",
+      "productType": "Sunglasses",
+      "collection": "street",
+      "price": 55,
+      "currency": "USD",
+      "shortDescription": "Soft-square acetate frames with polarised lenses.",
+      "description": "Hand-polished acetate, five-barrel hinges and polarised lenses with full UV400 protection.",
+      "details": [
+        "Hard case included",
+        "Polarised lenses"
+      ],
+      "materials": "Acetate, metal core",
+      "care": [
+        "Clean lenses with the microfibre cloth.",
+        "Store in the case when not worn."
+      ],
+      "specifications": {
+        "Frame": "Italian acetate",
+        "Lens": "Polarised, UV400",
+        "Hinge": "5-barrel",
+        "Measurements": "52–20–145"
+      },
+      "sizeLabel": "Size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#1C1B19"
+        },
+        {
+          "id": "cognac",
+          "name": "Cognac",
+          "hex": "#8A5A36"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM024-NOI-OS",
+          "color": "noir",
+          "size": "One size",
+          "price": 55,
+          "stock": 8
+        },
+        {
+          "sku": "SM024-COG-OS",
+          "color": "cognac",
+          "size": "One size",
+          "price": 55,
+          "stock": 8
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/aura-sunglasses/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Aura Sunglasses in Noir"
+        },
+        {
+          "src": "/media/products/aura-sunglasses/01-primary-cognac.webp",
+          "kind": "primary",
+          "color": "cognac",
+          "alt": "Aura Sunglasses in Cognac"
+        },
+        {
+          "src": "/media/products/aura-sunglasses/02-angle.webp",
+          "kind": "angle",
+          "alt": "Aura Sunglasses — alternate angle"
+        },
+        {
+          "src": "/media/products/aura-sunglasses/03-detail.webp",
+          "kind": "detail",
+          "alt": "Aura Sunglasses — close-up detail"
+        },
+        {
+          "src": "/media/products/aura-sunglasses/04-editorial.webp",
+          "kind": "editorial",
+          "alt": "Aura Sunglasses — editorial still life"
+        }
+      ],
+      "featured": true,
+      "newArrival": true,
+      "trending": true,
+      "createdAt": "2026-07-21T00:00:00.000Z",
+      "sample": true
+    }
+  ],
+  "pricing": "Converted from the original PKR price list at 1 USD = 280 PKR, rounded to the nearest $5 (2026-09-30)."
+}
