@@ -46,6 +46,7 @@ Mini server systems | server | A | Compact servers for small businesses and labs
 Firewall appliances | shield-lock | A | Hardware firewalls for business and home networks. | Multi-port; IDS / IPS; VPN; Web filtering
 VPN routers | shield-lock | A | Routers with built-in VPN for whole-network privacy. | WireGuard / OpenVPN; Kill switch; Multi-WAN; Wi-Fi
 Satellite internet terminals | satellite | A | Dishes for high-speed internet anywhere. | Phased-array dish; Router included; Portable options; Low latency
+Satellite communicators | satellite | A | Two-way satellite messengers for off-grid communication. | Two-way messaging; SOS; GPS tracking; Long battery
 Bluetooth trackers | device-airtag | A | Small tags to find keys, bags and wallets. | Bluetooth; Finder network; Replaceable battery; Ring alert
 UWB tracking devices | current-location | A | Ultra-wideband trackers for precise item finding. | UWB precision; Directional finding; Bluetooth; Water resistant
 GPS tracking devices | gps | A | Real-time GPS trackers for vehicles, assets and people. | GPS + LTE; Geofence; Long battery; App
@@ -258,7 +259,6 @@ Smart access-control panels | lock-access | A | Panels managing doors and alarms
 Home network monitoring appliances | network | A | Devices that monitor home networks for threats. | Device discovery; Threat alerts; Parental controls; App
 
 # travel-outdoor | Travel, Outdoor & Adventure Tech | tent | #15803d | Navigation, power, optics and gadgets for travel and adventure.
-Satellite messengers | satellite | A | Send messages and SOS from anywhere via satellite. | Two-way satellite; SOS; GPS tracking; Weeks of battery
 Handheld GPS navigators | gps | A | Rugged GPS units with maps for hiking and boating. | Topo maps; GNSS; Barometer; Waterproof
 Smart luggage | luggage | A | Suitcases with tracking, charging and smart locks. | Built-in tracker; USB charging; TSA lock; Spinner wheels
 Electronic luggage trackers | device-airtag | A | Trackers to find luggage worldwide. | Finder network; Bluetooth; Long battery; Slim card / tag
@@ -281,6 +281,7 @@ Smart webcams | device-computer-camera | A | Webcams with AI framing, HDR and no
 AI auto-framing cameras | camera-ai | A | Conference cameras that frame speakers automatically. | AI framing; Speaker tracking; 4K; USB
 Video conferencing bars | device-computer-camera-2 | A | All-in-one camera, mic and speaker bars for meeting rooms. | 4K camera; Beamforming mics; Speakers; Teams / Zoom
 Wireless presentation systems | cast | A | Share laptop screens to displays wirelessly. | One-click share; 4K; Multi-user; Plug & play
+Digital whiteboards | chalkboard | A | Interactive touchscreen whiteboards for teams and classrooms. | 55–86" 4K touch; Multi-user writing; Video conferencing; Cloud sharing
 Ergonomic keyboards | keyboard | A | Keyboards designed to reduce wrist strain. | Curved / tented; Palm rest; Wireless; Multi-device
 Split keyboards | keyboard | A | Split layouts for natural shoulder position. | Split halves; Programmable; Tenting; Mechanical
 Vertical mice | mouse | A | Handshake-grip mice that reduce forearm strain. | Vertical grip; Wireless; Quiet clicks; Rechargeable

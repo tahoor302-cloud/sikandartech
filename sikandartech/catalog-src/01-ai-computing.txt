@@ -64,7 +64,6 @@ QD-OLED monitors | device-desktop | A | Quantum-dot OLED monitors with brighter,
 Mini-LED monitors | device-desktop | A | High-brightness monitors with thousands of local dimming zones. | 1000+ dimming zones; HDR1000; 4K 144Hz; Quantum dot
 4K, 5K and 6K monitors | device-desktop | A | Ultra-sharp monitors for designers, editors and Mac users. | 4K–6K resolution; Thunderbolt hub; Factory calibrated; Height-adjustable
 Ultrawide monitors | device-desktop | A | 21:9 and 32:9 curved monitors for immersive gaming and multitasking. | 34–57" curved; 3440×1440 to 7680×2160; 144–240Hz; PBP / PIP
-High-refresh-rate gaming monitors | device-desktop | A | Ultra-fast monitors for competitive esports gaming. | 360–540Hz; 1 ms GtG; G-Sync / FreeSync; Esports stand
 E-ink monitors | device-desktop | A | Paper-like monitors that are easy on the eyes for long reading and coding. | 13.3–25.3" E-ink; Fast refresh modes; Front light; HDMI / USB-C
 Portable USB-C displays | device-screen | A | Lightweight second screens powered by a single USB-C cable. | 13–16" FHD; USB-C power & video; Magnetic cover; Touch options
 
@@ -83,7 +82,6 @@ Smart notebooks | notebook | A | Reusable notebooks that digitise handwritten pa
 Digital sketchpads | brush | A | Pen tablets for drawing directly into your computer. | 8192 pressure levels; Battery-free pen; Express keys; Win / Mac
 Drawing displays | device-ipad-horizontal | A | Pen displays that let you draw directly on a colour-accurate screen. | 13–24" laminated screen; 16K pressure levels; Tilt; 99% sRGB
 Standalone pen displays | device-ipad-horizontal | A | Drawing computers with built-in OS, no PC required. | Built-in processor; Android / Windows; Pro pen; Portable
-Digital whiteboards | chalkboard | A | Interactive touchscreen whiteboards for teams and classrooms. | 55–86" 4K touch; Multi-user writing; Video conferencing; Cloud sharing
 Interactive portable displays | device-ipad-horizontal | A | Portable touch displays for presentations and collaboration. | Touch screen; Battery powered; Wireless casting; Rolling stand
 Large-format digital note-taking devices | notebook | A | A4/A5-size digital notebooks for meetings, research and study. | 13.3" E-ink; Pen included; Template library; PDF annotation
 Smart pens | ballpen | A | Pens that record what you write and sync it to your phone or PC. | Digital ink capture; Audio sync; Bluetooth; Handwriting OCR

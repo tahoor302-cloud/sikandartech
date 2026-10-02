@@ -17,7 +17,7 @@ const CATEGORIES = [
   "color": "#2563eb",
   "tagline": "AI PCs, workstations, mini PCs and displays for work, creation and play.",
   "photo": "images/categories/computers.webp",
-  "count": 37
+  "count": 36
  },
  {
   "id": "tablets",
@@ -26,7 +26,7 @@ const CATEGORIES = [
   "color": "#0891b2",
   "tagline": "Tablets, E-ink notebooks and pen displays for reading, notes and creativity.",
   "photo": "images/categories/tablets.webp",
-  "count": 23
+  "count": 22
  },
  {
   "id": "xr",
@@ -80,7 +80,7 @@ const CATEGORIES = [
   "color": "#dc2626",
   "tagline": "Consoles, handhelds, sim racing and gear for serious gamers.",
   "photo": "images/categories/gaming.webp",
-  "count": 32
+  "count": 33
  },
  {
   "id": "smart-home",
@@ -116,7 +116,7 @@ const CATEGORIES = [
   "color": "#0369a1",
   "tagline": "Wi-Fi, 5G, satellite, servers and tracking devices.",
   "photo": "images/categories/networking.webp",
-  "count": 27
+  "count": 28
  },
  {
   "id": "storage",
@@ -188,7 +188,7 @@ const CATEGORIES = [
   "color": "#15803d",
   "tagline": "Navigation, power, optics and gadgets for travel and adventure.",
   "photo": "images/categories/travel-outdoor.webp",
-  "count": 16
+  "count": 15
  },
  {
   "id": "office-education",
@@ -197,7 +197,7 @@ const CATEGORIES = [
   "color": "#0d9488",
   "tagline": "Conferencing, presentation, ergonomic and learning tech.",
   "photo": "images/categories/office-education.webp",
-  "count": 17
+  "count": 18
  },
  {
   "id": "care-beauty",
@@ -276,7 +276,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"mini-led-monitors","cat":"computers","name":"Mini-LED monitors","icon":"device-desktop","status":"available","desc":"High-brightness monitors with thousands of local dimming zones.","specs":["1000+ dimming zones","HDR1000","4K 144Hz","Quantum dot"],"photo":"images/products/mini-led-monitors.webp"},
 {"id":"4k-5k-and-6k-monitors","cat":"computers","name":"4K, 5K and 6K monitors","icon":"device-desktop","status":"available","desc":"Ultra-sharp monitors for designers, editors and Mac users.","specs":["4K–6K resolution","Thunderbolt hub","Factory calibrated","Height-adjustable"],"photo":"images/products/4k-5k-and-6k-monitors.webp"},
 {"id":"ultrawide-monitors","cat":"computers","name":"Ultrawide monitors","icon":"device-desktop","status":"available","desc":"21:9 and 32:9 curved monitors for immersive gaming and multitasking.","specs":["34–57\" curved","3440×1440 to 7680×2160","144–240Hz","PBP / PIP"],"photo":"images/products/ultrawide-monitors.webp"},
-{"id":"high-refresh-rate-gaming-monitors","cat":"computers","name":"High-refresh-rate gaming monitors","icon":"device-desktop","status":"available","desc":"Ultra-fast monitors for competitive esports gaming.","specs":["360–540Hz","1 ms GtG","G-Sync / FreeSync","Esports stand"],"photo":"images/products/high-refresh-rate-gaming-monitors.webp"},
 {"id":"e-ink-monitors","cat":"computers","name":"E-ink monitors","icon":"device-desktop","status":"available","desc":"Paper-like monitors that are easy on the eyes for long reading and coding.","specs":["13.3–25.3\" E-ink","Fast refresh modes","Front light","HDMI / USB-C"],"photo":"images/products/e-ink-monitors.webp"},
 {"id":"portable-usb-c-displays","cat":"computers","name":"Portable USB-C displays","icon":"device-screen","status":"available","desc":"Lightweight second screens powered by a single USB-C cable.","specs":["13–16\" FHD","USB-C power & video","Magnetic cover","Touch options"],"photo":"images/products/portable-usb-c-displays.webp"},
 {"id":"ai-tablets","cat":"tablets","name":"AI tablets","icon":"device-tablet","status":"available","desc":"Tablets with built-in AI for note summaries, translation and image editing.","specs":["11–13\" display","AI features","Stylus support","8000mAh+ battery"],"photo":"images/products/ai-tablets.webp"},
@@ -293,7 +292,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"digital-sketchpads","cat":"tablets","name":"Digital sketchpads","icon":"brush","status":"available","desc":"Pen tablets for drawing directly into your computer.","specs":["8192 pressure levels","Battery-free pen","Express keys","Win / Mac"],"photo":"images/products/digital-sketchpads.webp"},
 {"id":"drawing-displays","cat":"tablets","name":"Drawing displays","icon":"device-ipad-horizontal","status":"available","desc":"Pen displays that let you draw directly on a colour-accurate screen.","specs":["13–24\" laminated screen","16K pressure levels","Tilt","99% sRGB"],"photo":"images/products/drawing-displays.webp"},
 {"id":"standalone-pen-displays","cat":"tablets","name":"Standalone pen displays","icon":"device-ipad-horizontal","status":"available","desc":"Drawing computers with built-in OS, no PC required.","specs":["Built-in processor","Android / Windows","Pro pen","Portable"],"photo":"images/products/standalone-pen-displays.webp"},
-{"id":"digital-whiteboards","cat":"tablets","name":"Digital whiteboards","icon":"chalkboard","status":"available","desc":"Interactive touchscreen whiteboards for teams and classrooms.","specs":["55–86\" 4K touch","Multi-user writing","Video conferencing","Cloud sharing"],"photo":"images/products/digital-whiteboards.webp"},
 {"id":"interactive-portable-displays","cat":"tablets","name":"Interactive portable displays","icon":"device-ipad-horizontal","status":"available","desc":"Portable touch displays for presentations and collaboration.","specs":["Touch screen","Battery powered","Wireless casting","Rolling stand"],"photo":"images/products/interactive-portable-displays.webp"},
 {"id":"large-format-digital-note-taking-devices","cat":"tablets","name":"Large-format digital note-taking devices","icon":"notebook","status":"available","desc":"A4/A5-size digital notebooks for meetings, research and study.","specs":["13.3\" E-ink","Pen included","Template library","PDF annotation"],"photo":"images/products/large-format-digital-note-taking-devices.webp"},
 {"id":"smart-pens","cat":"tablets","name":"Smart pens","icon":"ballpen","status":"available","desc":"Pens that record what you write and sync it to your phone or PC.","specs":["Digital ink capture","Audio sync","Bluetooth","Handwriting OCR"],"photo":"images/products/smart-pens.webp"},
@@ -462,6 +460,7 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"android-gaming-handhelds","cat":"gaming","name":"Android gaming handhelds","icon":"device-gamepad-3","status":"available","desc":"Android handhelds with physical controls for mobile and streaming games.","specs":["Snapdragon G-series","Hall sticks","Active cooling","Google Play"]},
 {"id":"ar-gaming-glasses","cat":"gaming","name":"AR gaming glasses","icon":"augmented-reality","status":"available","desc":"AR glasses for playing on a giant virtual screen.","specs":["200\" virtual screen","Low latency","Console / PC compatible","Lightweight"]},
 {"id":"oled-gaming-monitors","cat":"gaming","name":"OLED gaming monitors","icon":"device-desktop","status":"available","desc":"OLED monitors with instant response for gaming.","specs":["240–480Hz OLED","0.03 ms","HDR","Anti-burn-in care"]},
+{"id":"high-refresh-rate-gaming-monitors","cat":"gaming","name":"High-refresh-rate gaming monitors","icon":"device-desktop","status":"available","desc":"Ultra-fast monitors for competitive esports gaming.","specs":["360–540Hz","1 ms GtG","G-Sync / FreeSync","Esports stand"],"photo":"images/products/high-refresh-rate-gaming-monitors.webp"},
 {"id":"ultrawide-gaming-displays","cat":"gaming","name":"Ultrawide gaming displays","icon":"device-desktop","status":"available","desc":"Curved ultrawide displays for immersive gaming.","specs":["34–49\" curved","165–240Hz","HDR","PBP"]},
 {"id":"mini-led-gaming-displays","cat":"gaming","name":"Mini-LED gaming displays","icon":"device-desktop","status":"available","desc":"Bright HDR gaming monitors with Mini-LED backlight.","specs":["Mini-LED","HDR1000","4K 160Hz","Local dimming"]},
 {"id":"mechanical-keyboards","cat":"gaming","name":"Mechanical keyboards","icon":"keyboard","status":"available","desc":"Mechanical keyboards with tactile switches and RGB.","specs":["Hot-swap switches","Gasket mount","RGB","Wireless tri-mode"],"photo":"images/products/mechanical-keyboards.webp"},
@@ -593,6 +592,7 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"firewall-appliances","cat":"networking","name":"Firewall appliances","icon":"shield-lock","status":"available","desc":"Hardware firewalls for business and home networks.","specs":["Multi-port","IDS / IPS","VPN","Web filtering"]},
 {"id":"vpn-routers","cat":"networking","name":"VPN routers","icon":"shield-lock","status":"available","desc":"Routers with built-in VPN for whole-network privacy.","specs":["WireGuard / OpenVPN","Kill switch","Multi-WAN","Wi-Fi"]},
 {"id":"satellite-internet-terminals","cat":"networking","name":"Satellite internet terminals","icon":"satellite","status":"available","desc":"Dishes for high-speed internet anywhere.","specs":["Phased-array dish","Router included","Portable options","Low latency"]},
+{"id":"satellite-communicators","cat":"networking","name":"Satellite communicators","icon":"satellite","status":"available","desc":"Two-way satellite messengers for off-grid communication.","specs":["Two-way messaging","SOS","GPS tracking","Long battery"]},
 {"id":"bluetooth-trackers","cat":"networking","name":"Bluetooth trackers","icon":"device-airtag","status":"available","desc":"Small tags to find keys, bags and wallets.","specs":["Bluetooth","Finder network","Replaceable battery","Ring alert"]},
 {"id":"uwb-tracking-devices","cat":"networking","name":"UWB tracking devices","icon":"current-location","status":"available","desc":"Ultra-wideband trackers for precise item finding.","specs":["UWB precision","Directional finding","Bluetooth","Water resistant"]},
 {"id":"gps-tracking-devices","cat":"networking","name":"GPS tracking devices","icon":"gps","status":"available","desc":"Real-time GPS trackers for vehicles, assets and people.","specs":["GPS + LTE","Geofence","Long battery","App"]},
@@ -789,7 +789,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"enterprise-device-management-hardware","cat":"security","name":"Enterprise device management hardware","icon":"device-desktop-cog","status":"available","desc":"Hardware for managing and securing company devices.","specs":["Remote management","Asset tracking","Secure boot","Cloud console"]},
 {"id":"smart-access-control-panels","cat":"security","name":"Smart access-control panels","icon":"lock-access","status":"available","desc":"Panels managing doors and alarms across buildings.","specs":["Multi-door","Cloud / on-prem","Alarm integration","API"]},
 {"id":"home-network-monitoring-appliances","cat":"security","name":"Home network monitoring appliances","icon":"network","status":"available","desc":"Devices that monitor home networks for threats.","specs":["Device discovery","Threat alerts","Parental controls","App"]},
-{"id":"satellite-messengers","cat":"travel-outdoor","name":"Satellite messengers","icon":"satellite","status":"available","desc":"Send messages and SOS from anywhere via satellite.","specs":["Two-way satellite","SOS","GPS tracking","Weeks of battery"]},
 {"id":"handheld-gps-navigators","cat":"travel-outdoor","name":"Handheld GPS navigators","icon":"gps","status":"available","desc":"Rugged GPS units with maps for hiking and boating.","specs":["Topo maps","GNSS","Barometer","Waterproof"]},
 {"id":"smart-luggage","cat":"travel-outdoor","name":"Smart luggage","icon":"luggage","status":"available","desc":"Suitcases with tracking, charging and smart locks.","specs":["Built-in tracker","USB charging","TSA lock","Spinner wheels"]},
 {"id":"electronic-luggage-trackers","cat":"travel-outdoor","name":"Electronic luggage trackers","icon":"device-airtag","status":"available","desc":"Trackers to find luggage worldwide.","specs":["Finder network","Bluetooth","Long battery","Slim card / tag"]},
@@ -810,6 +809,7 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"ai-auto-framing-cameras","cat":"office-education","name":"AI auto-framing cameras","icon":"camera-ai","status":"available","desc":"Conference cameras that frame speakers automatically.","specs":["AI framing","Speaker tracking","4K","USB"]},
 {"id":"video-conferencing-bars","cat":"office-education","name":"Video conferencing bars","icon":"device-computer-camera-2","status":"available","desc":"All-in-one camera, mic and speaker bars for meeting rooms.","specs":["4K camera","Beamforming mics","Speakers","Teams / Zoom"]},
 {"id":"wireless-presentation-systems","cat":"office-education","name":"Wireless presentation systems","icon":"cast","status":"available","desc":"Share laptop screens to displays wirelessly.","specs":["One-click share","4K","Multi-user","Plug & play"]},
+{"id":"digital-whiteboards","cat":"office-education","name":"Digital whiteboards","icon":"chalkboard","status":"available","desc":"Interactive touchscreen whiteboards for teams and classrooms.","specs":["55–86\" 4K touch","Multi-user writing","Video conferencing","Cloud sharing"],"photo":"images/products/digital-whiteboards.webp"},
 {"id":"ergonomic-keyboards","cat":"office-education","name":"Ergonomic keyboards","icon":"keyboard","status":"available","desc":"Keyboards designed to reduce wrist strain.","specs":["Curved / tented","Palm rest","Wireless","Multi-device"]},
 {"id":"split-keyboards","cat":"office-education","name":"Split keyboards","icon":"keyboard","status":"available","desc":"Split layouts for natural shoulder position.","specs":["Split halves","Programmable","Tenting","Mechanical"]},
 {"id":"vertical-mice","cat":"office-education","name":"Vertical mice","icon":"mouse","status":"available","desc":"Handshake-grip mice that reduce forearm strain.","specs":["Vertical grip","Wireless","Quiet clicks","Rechargeable"]},
