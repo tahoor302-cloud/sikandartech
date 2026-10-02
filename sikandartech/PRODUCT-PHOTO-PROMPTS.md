@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**590 products still need a photo** (90 done). One prompt per product, ready to copy.
+**586 products still need a photo** (94 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,41 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Tablets, E-Readers & Digital Notebooks (6)
-
-### ST-0079 · Smart pens
-- [ ] File: `smart-pens.jpg`
-
-```
-Studio product photo: Smart pens. Show design details that suggest: digital ink capture, audio sync, bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0080 · Digital styluses
-- [ ] File: `digital-styluses.jpg`
-
-```
-Studio product photo: Digital styluses. Precision active styluses for tablets and touchscreen laptops. Show design details that suggest: palm rejection, tilt sensitivity, magnetic charging. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0081 · E-book readers
-- [ ] File: `e-book-readers.jpg`
-
-```
-Studio product photo: E-book readers. Glare-free E-ink readers with weeks of battery life. Show design details that suggest: 6–7" 300ppi e-ink, warm light, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Tablets, E-Readers & Digital Notebooks (2)
 
 ### ST-0082 · Color e-readers
 - [ ] File: `color-e-readers.jpg`
 
 ```
 Studio product photo: Color e-readers. E-readers with colour E-ink for comics, magazines and highlights. Show design details that suggest: colour e-ink, warm front light, page-turn buttons. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0083 · Dual-screen reading devices
-- [ ] File: `dual-screen-reading-devices.jpg`
-
-```
-Studio product photo: Dual-screen reading devices. Book-style devices with two E-ink screens for a natural reading experience. Show design details that suggest: dual e-ink panels, book fold, pen input. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0084 · Portable document scanners
