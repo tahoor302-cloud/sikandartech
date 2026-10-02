@@ -152,6 +152,7 @@ const CATEGORIES = [
   "icon": "printer",
   "color": "#c2410c",
   "tagline": "3D printers, laser cutters, CNC, test gear and dev boards.",
+  "photo": "images/categories/maker.webp",
   "count": 32
  },
  {
@@ -160,6 +161,7 @@ const CATEGORIES = [
   "icon": "rocket",
   "color": "#6d28d9",
   "tagline": "Prototypes, research hardware and next-wave technology.",
+  "photo": "images/categories/future-tech.webp",
   "count": 28
  },
  {
@@ -168,6 +170,7 @@ const CATEGORIES = [
   "icon": "shield-lock",
   "color": "#1d4ed8",
   "tagline": "Security keys, encrypted storage, access control and privacy gadgets.",
+  "photo": "images/categories/security.webp",
   "count": 20
  },
  {
@@ -184,6 +187,7 @@ const CATEGORIES = [
   "icon": "presentation",
   "color": "#0d9488",
   "tagline": "Conferencing, presentation, ergonomic and learning tech.",
+  "photo": "images/categories/office-education.webp",
   "count": 19
  },
  {
