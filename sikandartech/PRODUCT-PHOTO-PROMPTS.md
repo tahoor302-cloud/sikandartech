@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**643 products still need a photo** (37 done). One prompt per product, ready to copy.
+**638 products still need a photo** (42 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (37)
-
-### ST-0025 · AI laptops
-- [ ] File: `ai-laptops.jpg`
-
-```
-Studio product photo: AI laptops. Laptops with a dedicated NPU for fast on-device AI features and long battery life. Show design details that suggest: 40+ tops npu, 16–32gb ram, 1tb ssd. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0026 · Copilot-enabled PCs
-- [ ] File: `copilot-enabled-pcs.jpg`
-
-```
-Studio product photo: Copilot-enabled PCs. Windows PCs built for Copilot+ AI features such as recall, live captions and image tools. Show design details that suggest: copilot key, 40+ tops npu, 16gb+ ram. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0027 · AI workstations
-- [ ] File: `ai-workstations.jpg`
-
-```
-Studio product photo: AI workstations. High-end workstations for AI training, rendering and simulation workloads. Show design details that suggest: pro gpu up to 48gb+, 64–256gb ram, multi-core cpu. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0028 · AI mini PCs
-- [ ] File: `ai-mini-pcs.jpg`
-
-```
-Studio product photo: AI mini PCs. Compact desktop computers with AI acceleration for office and edge workloads. Show design details that suggest: npu built-in, dual 4k output, wi-fi 6e. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0029 · Gaming laptops
-- [ ] File: `gaming-laptops.jpg`
-
-```
-Studio product photo: Gaming laptops. High-refresh gaming laptops with powerful GPUs and advanced cooling. Show design details that suggest: rtx-class gpu, 165–240hz display, rgb keyboard. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Computers, Laptops & Advanced Computing (32)
 
 ### ST-0030 · Creator laptops
 - [ ] File: `creator-laptops.jpg`
