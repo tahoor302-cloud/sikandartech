@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**599 products still need a photo** (81 done). One prompt per product, ready to copy.
+**594 products still need a photo** (86 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Tablets, E-Readers & Digital Notebooks (15)
-
-### ST-0070 · Digital paper notebooks
-- [ ] File: `digital-paper-notebooks.jpg`
-
-```
-Studio product photo: Digital paper notebooks. Ultra-thin digital notebooks that feel like writing on paper. Show design details that suggest: 10.3" paper-like screen, low-latency pen, handwriting to text. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0071 · Electronic writing tablets
-- [ ] File: `electronic-writing-tablets.jpg`
-
-```
-Studio product photo: Electronic writing tablets. LCD writing boards for notes, sketches and kids' drawing. Show design details that suggest: 8.5–16" lcd, one-tap erase, lock function. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0072 · Smart notebooks
-- [ ] File: `smart-notebooks.jpg`
-
-```
-Studio product photo: Smart notebooks. Reusable notebooks that digitise handwritten pages to the cloud. Show design details that suggest: reusable pages, erasable with water. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0073 · Digital sketchpads
-- [ ] File: `digital-sketchpads.jpg`
-
-```
-Studio product photo: Digital sketchpads. Pen tablets for drawing directly into your computer. Show design details that suggest: 8192 pressure levels, battery-free pen, express keys. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0074 · Drawing displays
-- [ ] File: `drawing-displays.jpg`
-
-```
-Studio product photo: Drawing displays. Pen displays that let you draw directly on a colour-accurate screen. Show design details that suggest: 13–24" laminated screen, 16k pressure levels, tilt. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Tablets, E-Readers & Digital Notebooks (10)
 
 ### ST-0075 · Standalone pen displays
 - [ ] File: `standalone-pen-displays.jpg`
