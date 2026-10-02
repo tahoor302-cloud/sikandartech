@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**648 products still need a photo** (32 done). One prompt per product, ready to copy.
+**643 products still need a photo** (37 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -9,38 +9,6 @@ How to use:
 
 The same list is in `product-photo-prompts.csv` for bulk tools (columns: code, file, product, category, prompt).
 Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding photos.
-
----
-
-## AI Gadgets & Personal AI (4)
-
-### ST-0021 · AI-powered smart displays
-- [ ] File: `ai-powered-smart-displays.jpg`
-
-```
-Studio product photo: AI-powered smart displays. Smart screens with AI assistant for calls, recipes, calendars and home control. Show design details that suggest: 8–15" touchscreen, video calling, smart-home hub. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0022 · AI document scanners
-- [ ] File: `ai-document-scanners.jpg`
-
-```
-Studio product photo: AI document scanners. Fast document scanners with AI cropping, OCR and automatic file naming. Show design details that suggest: 30–60 ppm duplex, ocr to pdf/word, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0023 · AI-powered conference speakerphones
-- [ ] File: `ai-powered-conference-speakerphones.jpg`
-
-```
-Studio product photo: AI-powered conference speakerphones. Speakerphones that isolate voices, remove noise and transcribe calls with AI. Show design details that suggest: 360° beamforming, usb-c & bluetooth, teams/zoom ready. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0024 · Context-aware wearable devices
-- [ ] File: `context-aware-wearable-devices.jpg`
-
-```
-Studio product photo: Context-aware wearable devices. Next-generation wearables that understand location and activity to offer proactive help. Show design details that suggest: multi-sensor fusion, proactive suggestions, low-power chip. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
 
 ---
 
@@ -307,14 +275,7 @@ Studio product photo: Portable USB-C displays. Lightweight second screens powere
 
 ---
 
-## Tablets, E-Readers & Digital Notebooks (23)
-
-### ST-0062 · AI tablets
-- [ ] File: `ai-tablets.jpg`
-
-```
-Studio product photo: AI tablets. Tablets with built-in AI for note summaries, translation and image editing. Show design details that suggest: 11–13" display, stylus support, 8000mah+ battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Tablets, E-Readers & Digital Notebooks (22)
 
 ### ST-0063 · OLED tablets
 - [ ] File: `oled-tablets.jpg`
