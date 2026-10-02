@@ -18,7 +18,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 - [ ] File: `color-e-readers.jpg`
 
 ```
-Studio product photo: Color e-readers. E-readers with colour E-ink for comics, magazines and highlights. Show design details that suggest: colour e-ink, warm front light, page-turn buttons. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Color e-readers. E-readers with colour E-ink for comics, magazines and highlights. Show design details that suggest: colour e-ink, warm front light, page-turn buttons. The screen shows a simple soft abstract pattern, no book page, no comic, no writing, no page numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
@@ -106,7 +106,7 @@ Studio product photo: XR development headsets. Developer headsets and kits for b
 - [ ] File: `vr-motion-controllers.jpg`
 
 ```
-Studio product photo: VR motion controllers. Tracked controllers for precise interaction in virtual reality. Show design details that suggest: 6dof tracking, haptic feedback, finger tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: VR motion controllers. Tracked controllers for precise interaction in virtual reality. Show design details that suggest: 6dof tracking, haptic feedback, finger tracking. A matching left and right pair. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0095 · Hand-tracking systems
@@ -120,14 +120,14 @@ Studio product photo: Hand-tracking systems. Sensors that track hands and finger
 - [ ] File: `eye-tracking-accessories.jpg`
 
 ```
-Studio product photo: Eye-tracking accessories. Eye trackers for VR headsets, research and accessibility. Show design details that suggest: 120–250hz tracking, foveated rendering. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Eye-tracking accessories. Eye trackers for VR headsets, research and accessibility. Show design details that suggest: 120–250hz tracking, foveated rendering. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0097 · Haptic gloves
 - [ ] File: `haptic-gloves.jpg`
 
 ```
-Studio product photo: Haptic gloves. Gloves that let you feel virtual objects through force and vibration feedback. Show design details that suggest: force feedback, finger tracking, wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Haptic gloves. Gloves that let you feel virtual objects through force and vibration feedback. Show design details that suggest: force feedback, finger tracking, wireless. Displayed on a plain grey hand-shaped mannequin form, not a real hand. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0098 · Haptic vests
@@ -155,7 +155,7 @@ Studio product photo: VR treadmills. Omni-directional treadmills for walking and
 - [ ] File: `spatial-computing-accessories.jpg`
 
 ```
-Studio product photo: Spatial-computing accessories. Head straps, battery packs, lens inserts and cases for XR headsets. Show design details that suggest: comfort straps, extra batteries, prescription inserts. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Spatial-computing accessories. Head straps, battery packs, lens inserts and cases for XR headsets. Show design details that suggest: comfort straps, extra batteries, prescription inserts. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0102 · 3D capture systems
@@ -187,35 +187,35 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 - [ ] File: `rugged-smartwatches.jpg`
 
 ```
-Studio product photo: Rugged smartwatches. Tough smartwatches built for outdoor, military and adventure use. Show design details that suggest: mil-std-810, dual-band gps, 20+ day battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Rugged smartwatches. Tough smartwatches built for outdoor, military and adventure use. Show design details that suggest: mil-std-810, dual-band gps, 20+ day battery. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
 
 ```
-Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigation and altimeter. Show design details that suggest: topo maps, barometric altimeter, compass. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigation and altimeter. Show design details that suggest: topo maps, barometric altimeter, compass. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0108 · Multisport watches
 - [ ] File: `multisport-watches.jpg`
 
 ```
-Studio product photo: Multisport watches. Training watches for running, cycling, swimming and triathlon. Show design details that suggest: 100+ sport modes, training load, dual-band gps. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Multisport watches. Training watches for running, cycling, swimming and triathlon. Show design details that suggest: 100+ sport modes, training load, dual-band gps. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0109 · Diving smartwatches
 - [ ] File: `diving-smartwatches.jpg`
 
 ```
-Studio product photo: Diving smartwatches. Dive computers with smartwatch features. Show design details that suggest: 100m+ dive rating, dive log, decompression data. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Diving smartwatches. Dive computers with smartwatch features. Show design details that suggest: 100m+ dive rating, dive log, decompression data. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0110 · LTE smartwatches
 - [ ] File: `lte-smartwatches.jpg`
 
 ```
-Studio product photo: LTE smartwatches. Show design details that suggest: esim lte, calls & messages, gps. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: LTE smartwatches. Smartwatches with built-in LTE for calls, messages and GPS without another device. Show design details that suggest: esim lte, calls & messages, gps. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0112 · Sleep-tracking rings
@@ -257,7 +257,7 @@ Studio product photo: AI wearable recorders. Wearable recorders that capture and
 - [ ] File: `gps-pet-trackers.jpg`
 
 ```
-Studio product photo: GPS pet trackers. Collar trackers that show your pet's live location and activity. Show design details that suggest: gps + lte, geofence alerts, activity tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: GPS pet trackers. Collar trackers that show your pet's live location and activity. Show design details that suggest: gps + lte, geofence alerts, activity tracking. Attached to a small plain pet collar. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0118 · Wearable cameras
@@ -313,7 +313,7 @@ Studio product photo: Smart cycling sensors. Speed, cadence and power sensors fo
 - [ ] File: `wearable-posture-monitors.jpg`
 
 ```
-Studio product photo: Wearable posture monitors. Small trackers that vibrate to correct slouching. Show design details that suggest: vibration reminders, posture analytics, clip / adhesive. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Wearable posture monitors. Small trackers that vibrate to correct slouching. Show design details that suggest: vibration reminders, posture analytics, clip / adhesive. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0126 · Sports performance sensors
@@ -341,7 +341,7 @@ Studio product photo: Electronic hearing protection. Earmuffs and earbuds that b
 - [ ] File: `connected-hearing-aids.jpg`
 
 ```
-Studio product photo: Connected hearing aids. Bluetooth hearing aids that stream calls and music (where approved). Show design details that suggest: bluetooth streaming, rechargeable, requires hearing assessment. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Connected hearing aids. Bluetooth hearing aids that stream calls and music (where approved). Show design details that suggest: bluetooth streaming, rechargeable, requires hearing assessment. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0130 · Biometric chest straps
@@ -373,21 +373,21 @@ Studio product photo: Smart safety helmets. Helmets with lights, crash detection
 - [ ] File: `true-wireless-stereo-earbuds.jpg`
 
 ```
-Studio product photo: True wireless stereo earbuds. Compact wireless earbuds with rich sound and a pocket charging case. Show design details that suggest: bluetooth 5.3+, 30 h with case, touch controls. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: True wireless stereo earbuds. Compact wireless earbuds with rich sound and a pocket charging case. Show design details that suggest: bluetooth 5.3+, 30 h with case, touch controls. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0134 · AI translation earbuds
 - [ ] File: `ai-translation-earbuds.jpg`
 
 ```
-Studio product photo: AI translation earbuds. Earbuds that translate conversations in real time between languages. Show design details that suggest: 40+ languages, two-way translation, offline modes. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI translation earbuds. Earbuds that translate conversations in real time between languages. Show design details that suggest: 40+ languages, two-way translation, offline modes. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
 
 ```
-Studio product photo: Open-ear earbuds. Earbuds that sit outside the ear canal so you stay aware of surroundings. Show design details that suggest: open-ear design, directional audio, secure hooks. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Open-ear earbuds. Earbuds that sit outside the ear canal so you stay aware of surroundings. Show design details that suggest: open-ear design, directional audio, secure hooks. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0136 · Open-ear clip headphones
@@ -415,7 +415,7 @@ Studio product photo: Air-conduction headphones. Open-ear headphones that beam s
 - [ ] File: `sleep-earbuds.jpg`
 
 ```
-Studio product photo: Sleep earbuds. Ultra-small earbuds designed for side sleeping with noise masking. Show design details that suggest: low-profile fit, noise masking, sleep tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Sleep earbuds. Ultra-small earbuds designed for side sleeping with noise masking. Show design details that suggest: low-profile fit, noise masking, sleep tracking. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0141 · Adaptive ANC headphones
@@ -1204,7 +1204,7 @@ Studio product photo: Sim-racing cockpits. Rigid cockpits for wheels, pedals and
 - [ ] File: `haptic-gaming-accessories.jpg`
 
 ```
-Studio product photo: Haptic gaming accessories. Vests, cushions and pads that let you feel gameplay. Show design details that suggest: haptic motors, game integration, wireless. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Haptic gaming accessories. Vests, cushions and pads that let you feel gameplay. Show design details that suggest: haptic motors, game integration, wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0260 · Gaming capture cards
@@ -2432,7 +2432,7 @@ Studio product photo: Digital photo frames. Wi-Fi frames that display shared fam
 - [ ] File: `e-ink-signage.jpg`
 
 ```
-Studio product photo: E-ink signage. Low-power E-ink signs for retail and offices. Show design details that suggest: e-ink, months of battery, wireless updates. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: E-ink signage. Low-power E-ink signs for retail and offices. Show design details that suggest: e-ink, months of battery, wireless updates. The screen shows a simple soft abstract pattern, no book page, no comic, no writing, no page numbers. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0434 · Portable projection screens
@@ -2548,14 +2548,14 @@ Studio product photo: Multi-channel dashcams. Front, rear and cabin dashcams for
 - [ ] File: `ai-driver-monitoring-cameras.jpg`
 
 ```
-Studio product photo: AI driver-monitoring cameras. Cameras that detect fatigue and distraction. Show design details that suggest: alerts, fleet reporting, ir. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI driver-monitoring cameras. Cameras that detect fatigue and distraction. Show design details that suggest: alerts, fleet reporting, ir. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0450 · Tire-pressure monitoring systems
 - [ ] File: `tire-pressure-monitoring-systems.jpg`
 
 ```
-Studio product photo: Tire-pressure monitoring systems. Sensors that alert you to low tyre pressure. Show design details that suggest: 4 sensors, solar display, real-time pressure. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Tire-pressure monitoring systems. Sensors that alert you to low tyre pressure. Show design details that suggest: 4 sensors, solar display, real-time pressure. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0451 · OBD-II diagnostic scanners
@@ -2625,7 +2625,7 @@ Studio product photo: Portable car battery testers. Testers for car battery heal
 - [ ] File: `blind-spot-monitoring-systems.jpg`
 
 ```
-Studio product photo: Blind-spot monitoring systems. Aftermarket radar systems that warn of vehicles in blind spots. Show design details that suggest: radar sensors, mirror leds, audible alert. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Blind-spot monitoring systems. Aftermarket radar systems that warn of vehicles in blind spots. Show design details that suggest: radar sensors, mirror leds, audible alert. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0461 · Aftermarket parking sensors
@@ -2804,7 +2804,7 @@ Studio product photo: Smart water bottles. Bottles that track hydration and remi
 - [ ] File: `personal-air-quality-monitors.jpg`
 
 ```
-Studio product photo: Personal air-quality monitors. Portable monitors for PM2.5 and CO2 on the go. Show design details that suggest: portable, pm2.5 / co2, display. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Personal air-quality monitors. Portable monitors for PM2.5 and CO2 on the go. Show design details that suggest: portable, pm2.5 / co2, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0486 · Connected thermometers
@@ -3418,7 +3418,7 @@ Studio product photo: Smart access-control panels. Panels managing doors and ala
 - [ ] File: `home-network-monitoring-appliances.jpg`
 
 ```
-Studio product photo: Home network monitoring appliances. Devices that monitor home networks for threats. Show design details that suggest: device discovery, threat alerts, parental controls. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Home network monitoring appliances. Devices that monitor home networks for threats. Show design details that suggest: device discovery, threat alerts, parental controls. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
@@ -3601,7 +3601,7 @@ Studio product photo: Trackballs. Stationary trackball mice for precision and co
 - [ ] File: `eye-tracking-accessibility-devices.jpg`
 
 ```
-Studio product photo: Eye-tracking accessibility devices. Devices that let users control computers with their eyes. Show design details that suggest: eye control, usb, calibration. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Eye-tracking accessibility devices. Devices that let users control computers with their eyes. Show design details that suggest: eye control, usb, calibration. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0598 · USB-C docking stations
@@ -3868,7 +3868,7 @@ Studio product photo: Tech backpacks. Backpacks with charging, organisation and 
 - [ ] File: `smart-luggage-accessories.jpg`
 
 ```
-Studio product photo: Smart luggage accessories. Tags, scales, locks and trackers for luggage. Show design details that suggest: smart tags, scale, tsa lock. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart luggage accessories. Tags, scales, locks and trackers for luggage. Show design details that suggest: smart tags, scale, tsa lock. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0635 · Camera backpacks
@@ -3882,7 +3882,7 @@ Studio product photo: Camera backpacks. Protective backpacks for cameras and dro
 - [ ] File: `modular-desk-accessories.jpg`
 
 ```
-Studio product photo: Modular desk accessories. Modular organisers, trays and charging docks. Show design details that suggest: modular, charging, aluminium / wood. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Modular desk accessories. Modular organisers, trays and charging docks. Show design details that suggest: modular, charging, aluminium / wood. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0637 · Cable-management systems

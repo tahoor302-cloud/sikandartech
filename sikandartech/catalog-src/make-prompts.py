@@ -31,7 +31,7 @@ SCENES = [
     (r"glasses|eyewear", "resting on a small light stone block"),
     (r"smart (blinds|curtains)|curtain", "shown installed on a window in a bright minimal room, no people"),
     (r"smart (clothing|helmet)|haptic (vest|suit)|vest|suit|clothing", "shown on a plain grey mannequin form, no head, no people"),
-    (r"lock|doorbell|intercom|access", "shown mounted on a light grey door or wall section"),
+    (r"lock|doorbell|intercom|\baccess\b|access control", "shown mounted on a light grey door or wall section"),
     (r"lawn mower", "on a small patch of neat green grass"),
     (r"pool cleaner", "at the bottom of clear blue pool water"),
     (r"window[- ]clean", "attached to a clean glass window pane"),
@@ -40,8 +40,21 @@ SCENES = [
     (r"router|access point|switch|server|nas|firewall|gateway", "on a clean light desk surface"),
     (r"drone", "hovering slightly above the floor"),
     (r"robot", "standing on a light grey floor"),
-    (r"television|tv\b|display|monitor|projector|signage|whiteboard", "screen showing a soft abstract colour gradient"),
+    (r"television|tv\b|display(?! glasses)|(?<!posture )(?<!quality )monitors?\b|projector|signage|whiteboard", "screen showing a soft abstract colour gradient"),
 ]
+
+# Extra direction for products that generators often get wrong (fake text, look-alike brands).
+EXTRAS = [
+    (r"watch", "The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers."),
+    (r"earbud|hearing aid", "Original generic design that does not resemble any famous brand's product."),
+    (r"glove", "Displayed on a plain grey hand-shaped mannequin form, not a real hand."),
+    (r"motion controllers", "A matching left and right pair."),
+    (r"pet tracker", "Attached to a small plain pet collar."),
+    (r"e-reader|e-ink|e-book", "The screen shows a simple soft abstract pattern, no book page, no comic, no writing, no page numbers."),
+]
+
+def extras(name):
+    return " ".join(t for pat, t in EXTRAS if re.search(pat, name, re.I))
 
 def scene(name):
     for pat, hint in SCENES:
@@ -63,13 +76,15 @@ for i, p in enumerate(prods):
     if p["id"] in have:
         continue
     name = p["name"]
-    desc = clean(p["desc"])
+    desc = clean(p["desc"]) or {"lte-smartwatches": "Smartwatches with built-in LTE for calls, messages and GPS without another device."}.get(p["id"], "")
     visible = [s for s in p["specs"] if not re.search(r"app|voice|ai\b|software|sdk|cloud|warranty|phone", s, re.I)]
     parts = [f"Studio product photo: {name}."]
     if desc:
         parts.append(desc)
     if visible:
         parts.append("Show design details that suggest: " + ", ".join(visible[:3]).lower() + ".")
+    if extras(name):
+        parts.append(extras(name))
     hint = scene(name)
     if hint:
         parts.append(hint[0].upper() + hint[1:] + ".")
