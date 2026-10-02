@@ -40,7 +40,6 @@ Managed network switches | network | A | Switches with VLANs, QoS and remote man
 Multi-gigabit Ethernet switches | network | A | Switches with 2.5G / 10G ports for fast LANs. | 2.5G / 10G ports; SFP+; Fanless options; Unmanaged / managed
 10GbE network cards | cpu | A | PCIe network cards for 10-gigabit speeds. | 10GbE RJ45 / SFP+; PCIe; Low latency; Driver support
 Fiber-optic networking equipment | topology-star-3 | A | Fibre transceivers, media converters and ONTs. | SFP / SFP+ modules; Single / multi-mode; Media converters; Patch cords
-Network-attached storage systems | server | A | NAS devices for file storage, backup and media. | 2–8 bays; RAID; 2.5G / 10G; Apps & backup
 Personal cloud storage devices | cloud | A | Simple personal cloud drives for photos and files. | 2–8TB; Remote access; Photo backup; App
 Home servers | server-2 | A | Small servers for media, home automation and self-hosting. | Low power; Docker; Multiple drives; Remote access
 Mini server systems | server | A | Compact servers for small businesses and labs. | Xeon / EPYC; ECC RAM; Hot-swap bays; IPMI
@@ -52,7 +51,6 @@ UWB tracking devices | current-location | A | Ultra-wideband trackers for precis
 GPS tracking devices | gps | A | Real-time GPS trackers for vehicles, assets and people. | GPS + LTE; Geofence; Long battery; App
 LoRaWAN gateways | antenna | A | Long-range IoT gateways for sensors across cities and farms. | LoRaWAN; Outdoor / indoor; Ethernet / LTE; 10km+ range
 Software-defined radios | radio | A | Wideband radios for listening, research and development. | Wide frequency range; USB; Open-source software; Antennas
-Satellite communicators | satellite | A | Two-way satellite messengers for off-grid communication. | Two-way messaging; SOS; GPS tracking; Long battery
 Satellite emergency messengers | sos | A | Personal locator beacons and SOS messengers. | Global SOS; GPS; Waterproof; No subscription options
 Digital radio systems | radio | A | DMR / digital two-way radios for teams. | Digital & analog; Encryption; Long range; Rugged
 Mesh communication devices | topology-star-ring-3 | A | Off-grid mesh radios for text messaging without signal. | LoRa mesh; Phone app; GPS; Long battery
@@ -83,7 +81,6 @@ USB-C hubs | usb | A | Compact hubs that add ports to laptops and tablets. | HDM
 KVM switches | device-desktop-share | A | Share keyboard, mouse and monitors between computers. | 2–4 PCs; 4K / dual display; USB hub; Hotkeys
 Capture cards | cast | A | Capture HDMI video for streaming and recording. | 4K60 pass-through; USB / PCIe; Low latency; OBS ready
 Video production switchers | layout-board | A | Live switchers for multi-camera production. | 4–8 HDMI inputs; Streaming; Recording; Transitions
-Stream decks | layout-board | A | Programmable LCD key controllers for creators. | 6–32 LCD keys; Plugins; Multi-actions; USB
 Portable SSD enclosures | device-floppy | A | Enclosures to turn NVMe SSDs into fast portable drives. | NVMe; USB4 / 10Gbps; Aluminium cooling; Tool-free
 Color-calibration devices | paint | A | Calibrators for accurate monitor colour. | Colorimeter; Display profiling; Ambient light; Software
 Professional reference monitors | device-desktop | A | Reference-grade monitors for colour-critical grading. | 4K HDR; Hardware calibration; Wide gamut; SDI / HDMI
@@ -121,7 +118,6 @@ AV processors | adjustments | A | High-end surround processors for separates sys
 Electric scooters | scooter-electric | A | Foldable e-scooters for city commuting. | 25–45 km/h; 30–70km range; Foldable; Dual brakes
 Electric bicycles | bike | A | Pedal-assist e-bikes for commuting and trails. | 250–750W motor; 50–120km range; Hydraulic brakes; Removable battery
 Electric motorcycles | motorbike | A | Quiet electric motorcycles and mopeds. | 3–15kW; 80–200km range; Fast charging; App
-Smart bicycle computers | bike | A | Cycling computers with navigation and training data. | GPS; Maps; ANT+ / BLE; Training plans
 GPS cycling computers | gps | A | GPS head units for cyclists. | Colour screen; Turn-by-turn; Power / HR; 20+ h battery
 Smart helmets | helmet | A | Helmets with lights, turn signals and communication. | Turn signals; Brake light; Bluetooth; Crash detection
 Motorcycle HUD displays | dashboard | A | Heads-up displays for riders showing speed and navigation. | HUD; Navigation; Bluetooth; Helmet mount
@@ -166,8 +162,6 @@ Smart treadmills | treadmill | A | Treadmills with screens, incline and coaching
 Smart strength-training systems | barbell | A | Digital weights and home gyms with AI coaching. | Digital resistance; Form feedback; Programs; Compact
 Massage guns | massage | A | Percussion massagers for muscle recovery. | Multiple heads; 5 speeds; Quiet motor; 4–6 h battery
 Recovery compression boots | stretching-2 | A | Pneumatic compression boots for faster recovery. | Air compression; Multiple chambers; Programs; Portable
-Percussion therapy devices | massage | A | Pro-grade percussion therapy devices. | High amplitude; Smart app; Interchangeable heads; Long battery
-Posture sensors | stretching | A | Sensors that track and correct posture. | Vibration feedback; App; Clip-on; Rechargeable
 Smart water bottles | bottle | A | Bottles that track hydration and remind you to drink. | Hydration tracking; Glow reminders; App; BPA-free
 Personal air-quality monitors | lungs | A | Portable monitors for PM2.5 and CO2 on the go. | Portable; PM2.5 / CO2; Display; App
 Connected thermometers | thermometer | A | Infrared and smart thermometers that log readings. | Infrared / contact; App logging; Fever alert; Fast read
@@ -226,10 +220,8 @@ Neural-interface development hardware | brain | E | Development hardware for neu
 Smart contact-lens prototypes | eye | E | Contact lenses with displays or sensors in development. | Micro display / sensor; Research stage; Not for sale; Medical regulation
 Flexible electronic displays | wave-sine | E | Bendable displays for wearables and new form factors. | Flexible OLED; Bendable; Development kits; Limited supply
 Rollable OLED displays | device-tv | C | Displays that roll away when not in use. | Rollable OLED; Motorised; Premium; Limited release
-Transparent displays | device-tv | E | See-through OLED/LED panels for showcases and design. | Transparent OLED; Showcase use; Commercial; Limited supply
 Holographic visualization systems | sphere | E | Systems for viewing 3D holographic content. | Light-field display; 3D visualisation; Developer tools; Research
 Advanced haptic suits | shirt-sport | E | Full-body suits delivering touch, temperature and motion capture. | Full-body haptics; Mocap; Temperature feedback; Training / research
-Tactile feedback gloves | hand-grab | C | Gloves with high-fidelity touch for VR and robotics. | Microfluidic / force feedback; Finger tracking; SDK; Enterprise
 Electronic skin research devices | fingerprint | E | Flexible sensor skins for robotics and health research. | Stretchable sensors; Research kits; Pressure / temperature; Lab use
 Digital scent prototypes | spray | E | Devices that release scents synchronised with media. | Scent cartridges; Media sync; Prototype; Developer access
 Autonomous delivery systems | truck-delivery | C | Drones and robots for last-mile delivery. | Autonomous; Secure cargo; Fleet software; Pilot programs
@@ -255,10 +247,8 @@ Physical microphone mute switches | microphone-off | A | Hardware switches that 
 Secure network appliances | shield-lock | A | Network security boxes for homes and small offices. | Firewall; Threat blocking; VPN; App
 Smart door access systems | door | A | Access control with cards, codes and mobile credentials. | Card / PIN / mobile; Cloud management; Logs; Door controller
 Biometric access readers | fingerprint-scan | A | Fingerprint and face readers for building access. | Face / fingerprint; Card; Anti-spoof; PoE
-Video doorbells | bell | A | Doorbells with HD video and alerts. | 2K video; Motion zones; Two-way talk; Battery / wired
 AI perimeter cameras | camera-ai | A | Cameras with AI line-crossing and intrusion detection. | AI perimeter detection; Siren & strobe; Night colour; PoE
 Portable security alarms | alarm | A | Door and travel alarms for hotels and homes. | Loud siren; Portable; Battery; Door wedge / sensor
-Personal emergency buttons | sos | A | Wearable SOS buttons that alert contacts. | One-press SOS; GPS; Bluetooth / LTE; Discreet
 Smart safes | lock-square | A | Safes with biometric, app and keypad access. | Fingerprint / app; Tamper alerts; Steel body; Logs
 Privacy-screen filters | eye-off | A | Filters that block side viewing of screens. | Anti-peek; Anti-glare; Magnetic / adhesive; Many sizes
 Hardware password managers | password | A | Offline devices that store and type your passwords. | Offline vault; Encrypted; USB; PIN protected
@@ -274,19 +264,14 @@ Smart luggage | luggage | A | Suitcases with tracking, charging and smart locks.
 Electronic luggage trackers | device-airtag | A | Trackers to find luggage worldwide. | Finder network; Bluetooth; Long battery; Slim card / tag
 Solar camping chargers | solar-panel | A | Solar chargers for phones and lights while camping. | Solar panel; USB outputs; Foldable; Waterproof
 Compact camping projectors | device-projector | A | Battery projectors for movie nights outdoors. | Battery; Speaker; Compact; Smart OS
-Outdoor smartwatches | device-watch | A | Rugged watches with maps and long battery. | Maps; Solar charging; Altimeter; Rugged
 Thermal monoculars | binoculars | A | Handheld thermal viewers for wildlife and search. | Thermal sensor; Recording; Rangefinder options; Rugged
 Digital night-vision viewers | moon-stars | A | Digital night-vision binoculars and monoculars. | IR illuminator; Recording; Zoom; Battery
 Portable weather stations | cloud-rain | A | Weather stations measuring wind, temperature and pressure. | Wind / temp / humidity; Barometer; Display; App
 Personal weather meters | wind | A | Pocket meters for wind, temperature and humidity. | Anemometer; Temperature; Humidity; Pocket size
 Smart bike lights | bulb | A | Bike lights that adapt to speed and ambient light. | Auto brightness; Brake light; USB-C; Long battery
-Smart bicycle helmets | helmet | A | Bike helmets with lights and crash alerts. | Integrated lights; Turn signals; Crash alert; Bluetooth
 Waterproof camera housings | camera | A | Dive and splash housings for cameras and phones. | 40–60m depth; Button access; Clear optics; Mounts
 Portable water-quality meters | droplet | A | Meters testing TDS, pH and water safety. | TDS / pH / EC; Digital display; Calibration; Pocket
 Digital camping thermometers | thermometer | A | Thermometers for camping and cooking outdoors. | Digital; Waterproof; Probe; Backlight
-Compact outdoor drones | drone | A | Foldable drones for hiking and travel footage. | Foldable; 4K; GPS; 30+ min flight
-Rugged tablets | device-tablet | A | Tough tablets for outdoor and field work. | IP68; Drop proof; Sunlight readable; Long battery
-Portable satellite internet equipment | satellite | A | Portable dishes for internet in remote places. | Portable dish; Wi-Fi; Power options; Travel case
 Electronic navigation compasses | compass | A | Digital compasses with altimeter and GPS. | Digital compass; Altimeter; Backlight; Waterproof
 Emergency radio systems | radio | A | Hand-crank and solar radios with flashlight and charging. | AM / FM / NOAA; Hand crank; Solar; USB power
 
@@ -296,7 +281,6 @@ Smart webcams | device-computer-camera | A | Webcams with AI framing, HDR and no
 AI auto-framing cameras | camera-ai | A | Conference cameras that frame speakers automatically. | AI framing; Speaker tracking; 4K; USB
 Video conferencing bars | device-computer-camera-2 | A | All-in-one camera, mic and speaker bars for meeting rooms. | 4K camera; Beamforming mics; Speakers; Teams / Zoom
 Wireless presentation systems | cast | A | Share laptop screens to displays wirelessly. | One-click share; 4K; Multi-user; Plug & play
-Interactive whiteboards | chalkboard | A | Touch whiteboards for classrooms and offices. | 65–86" touch; Annotation; Wireless share; Android / Windows
 Ergonomic keyboards | keyboard | A | Keyboards designed to reduce wrist strain. | Curved / tented; Palm rest; Wireless; Multi-device
 Split keyboards | keyboard | A | Split layouts for natural shoulder position. | Split halves; Programmable; Tenting; Mechanical
 Vertical mice | mouse | A | Handshake-grip mice that reduce forearm strain. | Vertical grip; Wireless; Quiet clicks; Rechargeable
@@ -307,7 +291,6 @@ Digital signage players | player-play | A | Media players that drive signage scr
 Classroom robotics kits | robot | A | Robotics kits designed for classroom teaching. | Curriculum; Sensors & motors; Block / Python; Class packs
 STEM electronics kits | circuit-bulb | A | Electronics kits that teach circuits and coding. | Snap / breadboard; Projects; Coding; Ages 8+
 Smart language-learning devices | language | A | Devices for learning languages with speech practice. | Speech recognition; Lessons; Offline; Kids / adults
-Portable translation devices | language | A | Pocket translators for travel and business. | Two-way; Offline packs; Photo translate; Long battery
 Digital voice recorders | microphone | A | Recorders for lectures, interviews and meetings. | Stereo mics; Long recording; Noise reduction; USB
 Desktop AI assistants | sparkles | A | Desktop devices with AI for scheduling, notes and answers. | Voice AI; Display; Calendar; Smart-home control
 
@@ -323,7 +306,6 @@ Microcurrent beauty devices | sparkles-2 | A | Handheld devices for facial tonin
 Facial cleansing devices | droplet | A | Sonic brushes for deep facial cleansing. | Sonic pulses; Silicone; Waterproof; Rechargeable
 Smart skincare analyzers | scan-eye | A | Devices that analyse skin and recommend routines. | Skin imaging; AI analysis; App; Tracking
 Connected toothbrushes | dental | A | Electric toothbrushes with app coaching. | Pressure sensor; App coaching; Modes; Travel case
-Smart electric toothbrushes | dental | A | Sonic toothbrushes with smart timers and modes. | Sonic; Timer; Pressure alert; Long battery
 Water flossers | droplet | A | Water flossers for gum health. | Pressure levels; Tips; Rechargeable; Waterproof
 Smart bathroom mirrors | device-ipad | A | Mirrors with lighting, display and anti-fog. | LED lighting; Anti-fog; Touch; Bluetooth
 Personal massage devices | massage | A | Neck, back and handheld massagers. | Heat; Multiple modes; Rechargeable; Portable
@@ -334,16 +316,13 @@ At-home skin imaging devices | photo-scan | A | Devices that capture close-up sk
 
 # accessories | Accessories & Everyday Tech | plug-connected | #57534e | Stands, cables, chargers, trackers and everyday tech accessories.
 Portable thermal printers | printer | A | Pocket printers for labels, notes and photos. | Thermal; Bluetooth; Inkless; Rechargeable
-Multi-device wireless chargers | battery-charging | A | Chargers for phone, watch and earbuds. | 3-in-1; Fast charge; Foldable; Stand
 Adjustable laptop stands | device-laptop | A | Ergonomic laptop stands. | Height adjustable; Aluminium; Foldable; Ventilated
 Laptop cooling pads | wind | A | Cooling pads with fans for laptops. | Multiple fans; Adjustable height; USB; RGB
 Premium USB-C cables | plug-connected | A | Durable braided cables for fast charging and data. | 100–240W; 10–40Gbps; Braided; E-marker
 Thunderbolt cables | bolt | A | Certified Thunderbolt cables for docks and storage. | 40–120Gbps; 240W; Certified; Active / passive
 Certified high-speed HDMI cables | device-tv | A | HDMI 2.1 cables for 4K120 and 8K. | 48Gbps; 4K120 / 8K60; Certified; eARC
 USB-C adapters | usb | A | Adapters for USB-A, HDMI, Ethernet and more. | Compact; USB-C; Multiple types; Aluminium
-Portable hubs | usb | A | Travel hubs that add ports to laptops. | Multi-port; HDMI; PD; Compact
 Travel charging kits | luggage | A | All-in-one kits with charger, cables and adapters. | GaN charger; Cables; Adapters; Case
-Universal power adapters | world | A | Plugs for any country with surge protection. | Worldwide plugs; USB-C; Surge protection; Compact
 Smart wallets | wallet | A | Wallets with tracking and RFID blocking. | Tracker; RFID blocking; Slim; Alerts
 Tracking cards | credit-card | A | Card-shaped trackers for wallets and passports. | Card shape; Finder network; Rechargeable; Slim
 Tech backpacks | backpack | A | Backpacks with charging, organisation and anti-theft. | Laptop compartment; USB port; Anti-theft; Water resistant
@@ -352,14 +331,12 @@ Camera backpacks | backpack | A | Protective backpacks for cameras and drones. |
 Modular desk accessories | layout-grid | A | Modular organisers, trays and charging docks. | Modular; Charging; Aluminium / wood; Cable routing
 Cable-management systems | paperclip | A | Trays, sleeves and clips for clean setups. | Under-desk tray; Sleeves; Clips; Adhesive
 Portable monitor stands | device-desktop | A | Stands for portable monitors and tablets. | Adjustable; Foldable; Aluminium; VESA
-Privacy filters | eye-off | A | Privacy screens for laptops and monitors. | Anti-peek; Anti-glare; Removable; Many sizes
 Webcam lights | bulb | A | Clip-on lights for video calls. | Adjustable colour; Clip; Touch control; USB
 Desk light bars | lamp | A | Monitor light bars that light your desk without glare. | Asymmetric light; Auto dimming; Wireless control; USB
 Smart desk lamps | lamp-2 | A | Desk lamps with app control and wireless charging. | Tunable white; Wireless charging; App; Eye care
 Wireless presentation remotes | device-remote | A | Clickers with laser or digital pointer. | Laser / digital pointer; Timer; USB; Rechargeable
 Digital luggage scales | scale | A | Handheld scales to avoid overweight fees. | 50kg capacity; Digital; Compact; Tare
 Portable label printers | tag | A | Bluetooth label makers for home and office. | Thermal; Bluetooth; App templates; Rechargeable
-Mini thermal printers | printer | A | Small printers for photos, notes and stickers. | Thermal; Inkless; Bluetooth; Compact
 Rechargeable precision screwdrivers | tool | A | Electric screwdrivers for electronics repair. | Precision bits; Torque settings; USB-C; LED
 Smart toolkits | tools | A | Toolkits with smart tools and organisation. | Precision tools; Organiser case; Magnetic; Repair focus
 Electronic cable testers | plug-connected-x | A | Testers for network, USB and power cables. | RJ45 / USB tests; Wiremap; Length; Portable

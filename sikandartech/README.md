@@ -7,7 +7,7 @@ that respects `prefers-reduced-motion`.
 ## Pages
 - `index.html`: home. Cinematic hero, featured product showcase, editorial categories, product showroom,
   drone story (sticky, scroll-driven), Guangzhou → world route network, about/founder, community, final CTA + contact.
-- `products.html`: full catalogue (680 products, 24 categories) with category sidebar, search,
+- `products.html`: full catalogue (647 products, 24 categories) with category sidebar, search,
   availability filter, quick view, save and quote list. Shareable links: `?cat=audio`, `?q=drone`,
   `?status=coming`, `#product-id`.
 - `product.html?id=<product-id>`: product detail page for every product: photo, highlights, quantity +

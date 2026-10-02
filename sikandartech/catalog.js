@@ -35,7 +35,7 @@ const CATEGORIES = [
   "color": "#db2777",
   "tagline": "Immersive headsets, AR glasses, haptics and spatial-computing gear.",
   "photo": "images/categories/xr.webp",
-  "count": 25
+  "count": 22
  },
  {
   "id": "wearables",
@@ -62,7 +62,7 @@ const CATEGORIES = [
   "color": "#0f766e",
   "tagline": "Cameras, lighting and imaging systems for every creator.",
   "photo": "images/categories/cameras.webp",
-  "count": 35
+  "count": 34
  },
  {
   "id": "drones-robotics",
@@ -80,7 +80,7 @@ const CATEGORIES = [
   "color": "#dc2626",
   "tagline": "Consoles, handhelds, sim racing and gear for serious gamers.",
   "photo": "images/categories/gaming.webp",
-  "count": 34
+  "count": 32
  },
  {
   "id": "smart-home",
@@ -89,7 +89,7 @@ const CATEGORIES = [
   "color": "#0284c7",
   "tagline": "Hubs, lighting, security, sensors and automation for a connected home.",
   "photo": "images/categories/smart-home.webp",
-  "count": 34
+  "count": 33
  },
  {
   "id": "kitchen-appliances",
@@ -98,7 +98,7 @@ const CATEGORIES = [
   "color": "#b45309",
   "tagline": "Connected kitchen appliances, laundry and climate control.",
   "photo": "images/categories/kitchen-appliances.webp",
-  "count": 32
+  "count": 29
  },
  {
   "id": "power",
@@ -116,7 +116,7 @@ const CATEGORIES = [
   "color": "#0369a1",
   "tagline": "Wi-Fi, 5G, satellite, servers and tracking devices.",
   "photo": "images/categories/networking.webp",
-  "count": 29
+  "count": 27
  },
  {
   "id": "storage",
@@ -125,7 +125,7 @@ const CATEGORIES = [
   "color": "#475569",
   "tagline": "SSDs, NAS, docks, capture and creator tools.",
   "photo": "images/categories/storage.webp",
-  "count": 27
+  "count": 26
  },
  {
   "id": "displays",
@@ -143,7 +143,7 @@ const CATEGORIES = [
   "color": "#be123c",
   "tagline": "E-mobility, dashcams, EV charging and car electronics.",
   "photo": "images/categories/automotive.webp",
-  "count": 31
+  "count": 30
  },
  {
   "id": "health-fitness",
@@ -152,7 +152,7 @@ const CATEGORIES = [
   "color": "#e11d48",
   "tagline": "Fitness equipment, recovery tools and wellness monitors.",
   "photo": "images/categories/health-fitness.webp",
-  "count": 29
+  "count": 27
  },
  {
   "id": "maker",
@@ -170,7 +170,7 @@ const CATEGORIES = [
   "color": "#6d28d9",
   "tagline": "Prototypes, research hardware and next-wave technology.",
   "photo": "images/categories/future-tech.webp",
-  "count": 28
+  "count": 26
  },
  {
   "id": "security",
@@ -179,7 +179,7 @@ const CATEGORIES = [
   "color": "#1d4ed8",
   "tagline": "Security keys, encrypted storage, access control and privacy gadgets.",
   "photo": "images/categories/security.webp",
-  "count": 20
+  "count": 18
  },
  {
   "id": "travel-outdoor",
@@ -188,7 +188,7 @@ const CATEGORIES = [
   "color": "#15803d",
   "tagline": "Navigation, power, optics and gadgets for travel and adventure.",
   "photo": "images/categories/travel-outdoor.webp",
-  "count": 21
+  "count": 16
  },
  {
   "id": "office-education",
@@ -197,7 +197,7 @@ const CATEGORIES = [
   "color": "#0d9488",
   "tagline": "Conferencing, presentation, ergonomic and learning tech.",
   "photo": "images/categories/office-education.webp",
-  "count": 19
+  "count": 17
  },
  {
   "id": "care-beauty",
@@ -206,7 +206,7 @@ const CATEGORIES = [
   "color": "#c026d3",
   "tagline": "Cleaning robots, hair tools, skincare and grooming tech.",
   "photo": "images/categories/care-beauty.webp",
-  "count": 19
+  "count": 18
  },
  {
   "id": "accessories",
@@ -215,7 +215,7 @@ const CATEGORIES = [
   "color": "#57534e",
   "tagline": "Stands, cables, chargers, trackers and everyday tech accessories.",
   "photo": "images/categories/accessories.webp",
-  "count": 30
+  "count": 25
  }
 ];
 const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart glasses","icon":"eyeglass-2","status":"available","desc":"Everyday glasses with a built-in voice assistant, camera and open-ear audio for hands-free AI help.","specs":["12MP camera","Open-ear speakers","Voice assistant","4–6 h battery"],"photo":"images/products/ai-smart-glasses.webp"},
@@ -302,10 +302,8 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"color-e-readers","cat":"tablets","name":"Color e-readers","icon":"book-2","status":"available","desc":"E-readers with colour E-ink for comics, magazines and highlights.","specs":["Colour E-ink","Warm front light","Page-turn buttons","Audiobook support"]},
 {"id":"dual-screen-reading-devices","cat":"tablets","name":"Dual-screen reading devices","icon":"book","status":"coming","desc":"Book-style devices with two E-ink screens for a natural reading experience.","specs":["Dual E-ink panels","Book fold","Pen input","Long battery"],"photo":"images/products/dual-screen-reading-devices.webp"},
 {"id":"portable-document-scanners","cat":"tablets","name":"Portable document scanners","icon":"scan","status":"available","desc":"Battery-powered scanners for documents, receipts and photos on the move.","specs":["Wand / sheet-fed","900 DPI","Wi-Fi","MicroSD storage"],"photo":"images/products/portable-document-scanners.webp"},
-{"id":"ai-glasses","cat":"xr","name":"AI glasses","icon":"eyeglass-2","status":"available","desc":"Lightweight glasses with AI assistant, camera and audio for daily use.","specs":["Voice AI","Camera","Open-ear audio","Charging case"]},
 {"id":"augmented-reality-glasses","cat":"xr","name":"Augmented-reality glasses","icon":"augmented-reality","status":"available","desc":"AR glasses that project a large virtual screen and 3D content in front of you.","specs":["Micro-OLED display","100–200\" virtual screen","3DoF / 6DoF","USB-C DisplayPort"]},
 {"id":"optical-see-through-ar-glasses","cat":"xr","name":"Optical see-through AR glasses","icon":"augmented-reality-2","status":"available","desc":"Transparent-lens AR glasses that overlay digital content on the real world.","specs":["Waveguide optics","SLAM tracking","Hand tracking","Enterprise SDK"]},
-{"id":"display-free-smart-glasses","cat":"xr","name":"Display-free smart glasses","icon":"eyeglass","status":"available","desc":"Smart glasses without a display focused on audio, camera and AI.","specs":["Camera","Speakers","Voice assistant","Prescription ready"]},
 {"id":"waveguide-display-glasses","cat":"xr","name":"Waveguide-display glasses","icon":"augmented-reality","status":"available","desc":"Glasses with thin waveguide lenses for bright, discreet digital overlays.","specs":["Diffractive waveguide","Monochrome / colour","Lightweight frame","Touch control"]},
 {"id":"mixed-reality-headsets","cat":"xr","name":"Mixed-reality headsets","icon":"device-vision-pro","status":"available","desc":"Headsets that blend virtual objects with your real surroundings via colour passthrough.","specs":["Colour passthrough","4K+ per eye","Hand & eye tracking","Spatial audio"]},
 {"id":"virtual-reality-headsets","cat":"xr","name":"Virtual-reality headsets","icon":"cardboards","status":"available","desc":"Standalone VR headsets for gaming, fitness and social experiences.","specs":["Standalone","2K–4K per eye","6DoF controllers","120Hz"]},
@@ -322,7 +320,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"haptic-vests","cat":"xr","name":"Haptic vests","icon":"shirt-sport","status":"available","desc":"Wearable vests that deliver touch sensations for gaming and training.","specs":["30–40 haptic points","Wireless","Game integration","Adjustable fit"]},
 {"id":"full-body-tracking-systems","cat":"xr","name":"Full-body tracking systems","icon":"walk","status":"available","desc":"Trackers that bring your whole body into VR and motion capture.","specs":["6–11 trackers","Inertial / optical","Low drift","VRChat & mocap"]},
 {"id":"vr-treadmills","cat":"xr","name":"VR treadmills","icon":"treadmill","status":"available","desc":"Omni-directional treadmills for walking and running in VR.","specs":["360° movement","Harness system","Low-friction surface","PC VR"]},
-{"id":"motion-simulator-seats","cat":"xr","name":"Motion simulator seats","icon":"armchair","status":"available","desc":"Motion platforms that move with racing, flight and VR content.","specs":["2–6DoF motion","Game telemetry","Seat & rig","Low-latency actuators"]},
 {"id":"spatial-computing-accessories","cat":"xr","name":"Spatial-computing accessories","icon":"device-vision-pro","status":"available","desc":"Head straps, battery packs, lens inserts and cases for XR headsets.","specs":["Comfort straps","Extra batteries","Prescription inserts","Carry cases"]},
 {"id":"3d-capture-systems","cat":"xr","name":"3D capture systems","icon":"device-3d-camera","status":"available","desc":"Systems that scan people and objects into 3D models for XR.","specs":["Multi-camera rig","Photogrammetry","Texture capture","Export to OBJ/GLB"]},
 {"id":"volumetric-display-systems","cat":"xr","name":"Volumetric display systems","icon":"cube-3d-sphere","status":"emerging","desc":"Displays that show true 3D images viewable from multiple angles.","specs":["Light-field / volumetric","Glasses-free 3D","Multi-viewer","Developer tools"]},
@@ -411,7 +408,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"industrial-inspection-cameras","cat":"cameras","name":"Industrial inspection cameras","icon":"scan-eye","status":"available","desc":"Borescopes and inspection cameras for engines, pipes and walls.","specs":["Articulating probe","IP67","1080p","Built-in screen"]},
 {"id":"high-speed-cameras","cat":"cameras","name":"High-speed cameras","icon":"stopwatch","status":"available","desc":"Cameras recording thousands of frames per second for analysis.","specs":["1,000–100,000 fps","Slow-motion analysis","Trigger","Lab use"]},
 {"id":"trail-cameras","cat":"cameras","name":"Trail cameras","icon":"plant","status":"available","desc":"Motion-activated cameras for wildlife and property.","specs":["4K video","No-glow IR","PIR trigger","LTE option"]},
-{"id":"wildlife-cameras","cat":"cameras","name":"Wildlife cameras","icon":"binoculars","status":"available","desc":"Weatherproof cameras for observing and recording wildlife.","specs":["Weatherproof","Solar options","Night vision","App alerts"]},
 {"id":"instant-cameras","cat":"cameras","name":"Instant cameras","icon":"photo","status":"available","desc":"Cameras that print photos instantly.","specs":["Instant film / Zink","Selfie mirror","Auto exposure","Fun modes"]},
 {"id":"portable-photo-printers","cat":"cameras","name":"Portable photo printers","icon":"printer","status":"available","desc":"Pocket printers for printing photos from your phone.","specs":["Zink / dye-sub","Bluetooth","Sticker paper","Rechargeable"]},
 {"id":"electronic-camera-stabilizers","cat":"cameras","name":"Electronic camera stabilizers","icon":"focus-centered","status":"available","desc":"3-axis gimbals for mirrorless and cinema cameras.","specs":["3-axis","3–4.5kg payload","Follow modes","Wireless control"]},
@@ -464,10 +460,8 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"cloud-gaming-devices","cat":"gaming","name":"Cloud gaming devices","icon":"cloud","status":"available","desc":"Handhelds built for streaming games from the cloud.","specs":["Cloud streaming","Wi-Fi 6","Low latency","Long battery"]},
 {"id":"retro-gaming-handhelds","cat":"gaming","name":"Retro gaming handhelds","icon":"device-gamepad-3","status":"available","desc":"Handhelds that play classic games and emulators.","specs":["IPS screen","Emulation","Wi-Fi","Pocket size"]},
 {"id":"android-gaming-handhelds","cat":"gaming","name":"Android gaming handhelds","icon":"device-gamepad-3","status":"available","desc":"Android handhelds with physical controls for mobile and streaming games.","specs":["Snapdragon G-series","Hall sticks","Active cooling","Google Play"]},
-{"id":"vr-gaming-headsets","cat":"gaming","name":"VR gaming headsets","icon":"cardboards","status":"available","desc":"Headsets designed for immersive VR gaming.","specs":["Standalone / PC VR","120Hz","Tracked controllers","Mixed reality"]},
 {"id":"ar-gaming-glasses","cat":"gaming","name":"AR gaming glasses","icon":"augmented-reality","status":"available","desc":"AR glasses for playing on a giant virtual screen.","specs":["200\" virtual screen","Low latency","Console / PC compatible","Lightweight"]},
 {"id":"oled-gaming-monitors","cat":"gaming","name":"OLED gaming monitors","icon":"device-desktop","status":"available","desc":"OLED monitors with instant response for gaming.","specs":["240–480Hz OLED","0.03 ms","HDR","Anti-burn-in care"]},
-{"id":"high-refresh-rate-monitors","cat":"gaming","name":"High-refresh-rate monitors","icon":"device-desktop","status":"available","desc":"144–540Hz monitors for smooth competitive play.","specs":["144–540Hz","Adaptive sync","1 ms","Height-adjustable"]},
 {"id":"ultrawide-gaming-displays","cat":"gaming","name":"Ultrawide gaming displays","icon":"device-desktop","status":"available","desc":"Curved ultrawide displays for immersive gaming.","specs":["34–49\" curved","165–240Hz","HDR","PBP"]},
 {"id":"mini-led-gaming-displays","cat":"gaming","name":"Mini-LED gaming displays","icon":"device-desktop","status":"available","desc":"Bright HDR gaming monitors with Mini-LED backlight.","specs":["Mini-LED","HDR1000","4K 160Hz","Local dimming"]},
 {"id":"mechanical-keyboards","cat":"gaming","name":"Mechanical keyboards","icon":"keyboard","status":"available","desc":"Mechanical keyboards with tactile switches and RGB.","specs":["Hot-swap switches","Gasket mount","RGB","Wireless tri-mode"],"photo":"images/products/mechanical-keyboards.webp"},
@@ -516,7 +510,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"smart-blinds","cat":"smart-home","name":"Smart blinds","icon":"blind","status":"available","desc":"Motorised blinds controlled by app, voice or schedule.","specs":["Motorised","Rechargeable / wired","Schedules","Voice control"]},
 {"id":"smart-curtains","cat":"smart-home","name":"Smart curtains","icon":"blind","status":"available","desc":"Curtain motors that open and close automatically.","specs":["Retrofit motor","Sunrise mode","App","Quiet operation"]},
 {"id":"smart-mirrors","cat":"smart-home","name":"Smart mirrors","icon":"device-ipad","status":"available","desc":"Mirrors with built-in displays, lighting and touch controls.","specs":["Hidden display","LED lighting","Anti-fog","Touch controls"]},
-{"id":"smart-bathroom-scales","cat":"smart-home","name":"Smart bathroom scales","icon":"scale","status":"available","desc":"Scales that sync weight and body composition to apps.","specs":["Body composition","Multi-user","Wi-Fi / Bluetooth","App"]},
 {"id":"smart-water-monitors","cat":"smart-home","name":"Smart water monitors","icon":"droplet","status":"available","desc":"Monitors that track household water use and detect leaks.","specs":["Flow sensing","Leak detection","Usage reports","App"]},
 {"id":"smart-irrigation-systems","cat":"smart-home","name":"Smart irrigation systems","icon":"plant","status":"available","desc":"Sprinkler controllers that water based on weather.","specs":["Weather-based","Multi-zone","App","Water savings"]},
 {"id":"smart-garage-controllers","cat":"smart-home","name":"Smart garage controllers","icon":"car-garage","status":"available","desc":"Open and monitor your garage door from your phone.","specs":["Remote open/close","Status alerts","Schedules","Voice"]},
@@ -547,9 +540,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"smart-dishwashers","cat":"kitchen-appliances","name":"Smart dishwashers","icon":"wash-machine","status":"available","desc":"Dishwashers with auto-dosing and remote monitoring.","specs":["Auto dose","Quiet","App","Energy efficient"]},
 {"id":"heat-pump-dryers","cat":"kitchen-appliances","name":"Heat-pump dryers","icon":"wash-dry-1","status":"available","desc":"Energy-efficient dryers that are gentle on clothes.","specs":["Heat-pump","A+++ efficiency","Sensor drying","App"]},
 {"id":"smart-washing-machines","cat":"kitchen-appliances","name":"Smart washing machines","icon":"wash-machine","status":"available","desc":"Washers with AI wash cycles and auto dosing.","specs":["AI wash","Auto dosing","Steam","App"]},
-{"id":"robot-window-cleaners","cat":"kitchen-appliances","name":"Robot window cleaners","icon":"window","status":"available","desc":"Window-cleaning robots for glass and smooth surfaces.","specs":["Suction","Spray","Edge detection","Remote control"]},
-{"id":"robot-vacuum-mop-cleaners","cat":"kitchen-appliances","name":"Robot vacuum-mop cleaners","icon":"vacuum-cleaner","status":"available","desc":"Robots that vacuum and mop with self-emptying docks.","specs":["Self-empty","Mop lifting","App maps","Obstacle avoidance"]},
-{"id":"air-quality-monitors","cat":"kitchen-appliances","name":"Air-quality monitors","icon":"lungs","status":"available","desc":"Indoor monitors for CO2, PM2.5 and VOCs.","specs":["Multi-sensor","Display","App history","Alerts"]},
 {"id":"smart-humidifiers","cat":"kitchen-appliances","name":"Smart humidifiers","icon":"droplet","status":"available","desc":"Humidifiers with target humidity and app control.","specs":["Auto humidity","Ultrasonic / evaporative","App","Quiet"]},
 {"id":"smart-dehumidifiers","cat":"kitchen-appliances","name":"Smart dehumidifiers","icon":"droplet","status":"available","desc":"Dehumidifiers with app control and auto drain.","specs":["20–50L/day","Auto mode","App","Continuous drain"]},
 {"id":"portable-air-conditioners","cat":"kitchen-appliances","name":"Portable air conditioners","icon":"air-conditioning","status":"available","desc":"Movable AC units with Wi-Fi control.","specs":["9000–14000 BTU","Wi-Fi","Dehumidify","Window kit"]},
@@ -597,7 +587,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"multi-gigabit-ethernet-switches","cat":"networking","name":"Multi-gigabit Ethernet switches","icon":"network","status":"available","desc":"Switches with 2.5G / 10G ports for fast LANs.","specs":["2.5G / 10G ports","SFP+","Fanless options","Unmanaged / managed"]},
 {"id":"10gbe-network-cards","cat":"networking","name":"10GbE network cards","icon":"cpu","status":"available","desc":"PCIe network cards for 10-gigabit speeds.","specs":["10GbE RJ45 / SFP+","PCIe","Low latency","Driver support"]},
 {"id":"fiber-optic-networking-equipment","cat":"networking","name":"Fiber-optic networking equipment","icon":"topology-star-3","status":"available","desc":"Fibre transceivers, media converters and ONTs.","specs":["SFP / SFP+ modules","Single / multi-mode","Media converters","Patch cords"]},
-{"id":"network-attached-storage-systems","cat":"networking","name":"Network-attached storage systems","icon":"server","status":"available","desc":"NAS devices for file storage, backup and media.","specs":["2–8 bays","RAID","2.5G / 10G","Apps & backup"]},
 {"id":"personal-cloud-storage-devices","cat":"networking","name":"Personal cloud storage devices","icon":"cloud","status":"available","desc":"Simple personal cloud drives for photos and files.","specs":["2–8TB","Remote access","Photo backup","App"]},
 {"id":"home-servers","cat":"networking","name":"Home servers","icon":"server-2","status":"available","desc":"Small servers for media, home automation and self-hosting.","specs":["Low power","Docker","Multiple drives","Remote access"]},
 {"id":"mini-server-systems","cat":"networking","name":"Mini server systems","icon":"server","status":"available","desc":"Compact servers for small businesses and labs.","specs":["Xeon / EPYC","ECC RAM","Hot-swap bays","IPMI"]},
@@ -609,7 +598,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"gps-tracking-devices","cat":"networking","name":"GPS tracking devices","icon":"gps","status":"available","desc":"Real-time GPS trackers for vehicles, assets and people.","specs":["GPS + LTE","Geofence","Long battery","App"]},
 {"id":"lorawan-gateways","cat":"networking","name":"LoRaWAN gateways","icon":"antenna","status":"available","desc":"Long-range IoT gateways for sensors across cities and farms.","specs":["LoRaWAN","Outdoor / indoor","Ethernet / LTE","10km+ range"]},
 {"id":"software-defined-radios","cat":"networking","name":"Software-defined radios","icon":"radio","status":"available","desc":"Wideband radios for listening, research and development.","specs":["Wide frequency range","USB","Open-source software","Antennas"]},
-{"id":"satellite-communicators","cat":"networking","name":"Satellite communicators","icon":"satellite","status":"available","desc":"Two-way satellite messengers for off-grid communication.","specs":["Two-way messaging","SOS","GPS tracking","Long battery"]},
 {"id":"satellite-emergency-messengers","cat":"networking","name":"Satellite emergency messengers","icon":"sos","status":"available","desc":"Personal locator beacons and SOS messengers.","specs":["Global SOS","GPS","Waterproof","No subscription options"]},
 {"id":"digital-radio-systems","cat":"networking","name":"Digital radio systems","icon":"radio","status":"available","desc":"DMR / digital two-way radios for teams.","specs":["Digital & analog","Encryption","Long range","Rugged"]},
 {"id":"mesh-communication-devices","cat":"networking","name":"Mesh communication devices","icon":"topology-star-ring-3","status":"available","desc":"Off-grid mesh radios for text messaging without signal.","specs":["LoRa mesh","Phone app","GPS","Long battery"]},
@@ -638,7 +626,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"kvm-switches","cat":"storage","name":"KVM switches","icon":"device-desktop-share","status":"available","desc":"Share keyboard, mouse and monitors between computers.","specs":["2–4 PCs","4K / dual display","USB hub","Hotkeys"]},
 {"id":"capture-cards","cat":"storage","name":"Capture cards","icon":"cast","status":"available","desc":"Capture HDMI video for streaming and recording.","specs":["4K60 pass-through","USB / PCIe","Low latency","OBS ready"]},
 {"id":"video-production-switchers","cat":"storage","name":"Video production switchers","icon":"layout-board","status":"available","desc":"Live switchers for multi-camera production.","specs":["4–8 HDMI inputs","Streaming","Recording","Transitions"]},
-{"id":"stream-decks","cat":"storage","name":"Stream decks","icon":"layout-board","status":"available","desc":"Programmable LCD key controllers for creators.","specs":["6–32 LCD keys","Plugins","Multi-actions","USB"]},
 {"id":"portable-ssd-enclosures","cat":"storage","name":"Portable SSD enclosures","icon":"device-floppy","status":"available","desc":"Enclosures to turn NVMe SSDs into fast portable drives.","specs":["NVMe","USB4 / 10Gbps","Aluminium cooling","Tool-free"]},
 {"id":"color-calibration-devices","cat":"storage","name":"Color-calibration devices","icon":"paint","status":"available","desc":"Calibrators for accurate monitor colour.","specs":["Colorimeter","Display profiling","Ambient light","Software"]},
 {"id":"professional-reference-monitors","cat":"storage","name":"Professional reference monitors","icon":"device-desktop","status":"available","desc":"Reference-grade monitors for colour-critical grading.","specs":["4K HDR","Hardware calibration","Wide gamut","SDI / HDMI"]},
@@ -672,7 +659,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"electric-scooters","cat":"automotive","name":"Electric scooters","icon":"scooter-electric","status":"available","desc":"Foldable e-scooters for city commuting.","specs":["25–45 km/h","30–70km range","Foldable","Dual brakes"]},
 {"id":"electric-bicycles","cat":"automotive","name":"Electric bicycles","icon":"bike","status":"available","desc":"Pedal-assist e-bikes for commuting and trails.","specs":["250–750W motor","50–120km range","Hydraulic brakes","Removable battery"]},
 {"id":"electric-motorcycles","cat":"automotive","name":"Electric motorcycles","icon":"motorbike","status":"available","desc":"Quiet electric motorcycles and mopeds.","specs":["3–15kW","80–200km range","Fast charging","App"]},
-{"id":"smart-bicycle-computers","cat":"automotive","name":"Smart bicycle computers","icon":"bike","status":"available","desc":"Cycling computers with navigation and training data.","specs":["GPS","Maps","ANT+ / BLE","Training plans"]},
 {"id":"gps-cycling-computers","cat":"automotive","name":"GPS cycling computers","icon":"gps","status":"available","desc":"GPS head units for cyclists.","specs":["Colour screen","Turn-by-turn","Power / HR","20+ h battery"]},
 {"id":"smart-helmets","cat":"automotive","name":"Smart helmets","icon":"helmet","status":"available","desc":"Helmets with lights, turn signals and communication.","specs":["Turn signals","Brake light","Bluetooth","Crash detection"]},
 {"id":"motorcycle-hud-displays","cat":"automotive","name":"Motorcycle HUD displays","icon":"dashboard","status":"available","desc":"Heads-up displays for riders showing speed and navigation.","specs":["HUD","Navigation","Bluetooth","Helmet mount"]},
@@ -715,8 +701,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"smart-strength-training-systems","cat":"health-fitness","name":"Smart strength-training systems","icon":"barbell","status":"available","desc":"Digital weights and home gyms with AI coaching.","specs":["Digital resistance","Form feedback","Programs","Compact"]},
 {"id":"massage-guns","cat":"health-fitness","name":"Massage guns","icon":"massage","status":"available","desc":"Percussion massagers for muscle recovery.","specs":["Multiple heads","5 speeds","Quiet motor","4–6 h battery"]},
 {"id":"recovery-compression-boots","cat":"health-fitness","name":"Recovery compression boots","icon":"stretching-2","status":"available","desc":"Pneumatic compression boots for faster recovery.","specs":["Air compression","Multiple chambers","Programs","Portable"]},
-{"id":"percussion-therapy-devices","cat":"health-fitness","name":"Percussion therapy devices","icon":"massage","status":"available","desc":"Pro-grade percussion therapy devices.","specs":["High amplitude","Smart app","Interchangeable heads","Long battery"]},
-{"id":"posture-sensors","cat":"health-fitness","name":"Posture sensors","icon":"stretching","status":"available","desc":"Sensors that track and correct posture.","specs":["Vibration feedback","App","Clip-on","Rechargeable"]},
 {"id":"smart-water-bottles","cat":"health-fitness","name":"Smart water bottles","icon":"bottle","status":"available","desc":"Bottles that track hydration and remind you to drink.","specs":["Hydration tracking","Glow reminders","App","BPA-free"]},
 {"id":"personal-air-quality-monitors","cat":"health-fitness","name":"Personal air-quality monitors","icon":"lungs","status":"available","desc":"Portable monitors for PM2.5 and CO2 on the go.","specs":["Portable","PM2.5 / CO2","Display","App"]},
 {"id":"connected-thermometers","cat":"health-fitness","name":"Connected thermometers","icon":"thermometer","status":"available","desc":"Infrared and smart thermometers that log readings.","specs":["Infrared / contact","App logging","Fever alert","Fast read"]},
@@ -771,10 +755,8 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"smart-contact-lens-prototypes","cat":"future-tech","name":"Smart contact-lens prototypes","icon":"eye","status":"emerging","desc":"Contact lenses with displays or sensors in development.","specs":["Micro display / sensor","Research stage","Not for sale","Medical regulation"]},
 {"id":"flexible-electronic-displays","cat":"future-tech","name":"Flexible electronic displays","icon":"wave-sine","status":"emerging","desc":"Bendable displays for wearables and new form factors.","specs":["Flexible OLED","Bendable","Development kits","Limited supply"]},
 {"id":"rollable-oled-displays","cat":"future-tech","name":"Rollable OLED displays","icon":"device-tv","status":"coming","desc":"Displays that roll away when not in use.","specs":["Rollable OLED","Motorised","Premium","Limited release"]},
-{"id":"transparent-displays","cat":"future-tech","name":"Transparent displays","icon":"device-tv","status":"emerging","desc":"See-through OLED/LED panels for showcases and design.","specs":["Transparent OLED","Showcase use","Commercial","Limited supply"]},
 {"id":"holographic-visualization-systems","cat":"future-tech","name":"Holographic visualization systems","icon":"sphere","status":"emerging","desc":"Systems for viewing 3D holographic content.","specs":["Light-field display","3D visualisation","Developer tools","Research"]},
 {"id":"advanced-haptic-suits","cat":"future-tech","name":"Advanced haptic suits","icon":"shirt-sport","status":"emerging","desc":"Full-body suits delivering touch, temperature and motion capture.","specs":["Full-body haptics","Mocap","Temperature feedback","Training / research"]},
-{"id":"tactile-feedback-gloves","cat":"future-tech","name":"Tactile feedback gloves","icon":"hand-grab","status":"coming","desc":"Gloves with high-fidelity touch for VR and robotics.","specs":["Microfluidic / force feedback","Finger tracking","SDK","Enterprise"]},
 {"id":"electronic-skin-research-devices","cat":"future-tech","name":"Electronic skin research devices","icon":"fingerprint","status":"emerging","desc":"Flexible sensor skins for robotics and health research.","specs":["Stretchable sensors","Research kits","Pressure / temperature","Lab use"]},
 {"id":"digital-scent-prototypes","cat":"future-tech","name":"Digital scent prototypes","icon":"spray","status":"emerging","desc":"Devices that release scents synchronised with media.","specs":["Scent cartridges","Media sync","Prototype","Developer access"]},
 {"id":"autonomous-delivery-systems","cat":"future-tech","name":"Autonomous delivery systems","icon":"truck-delivery","status":"coming","desc":"Drones and robots for last-mile delivery.","specs":["Autonomous","Secure cargo","Fleet software","Pilot programs"]},
@@ -798,10 +780,8 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"secure-network-appliances","cat":"security","name":"Secure network appliances","icon":"shield-lock","status":"available","desc":"Network security boxes for homes and small offices.","specs":["Firewall","Threat blocking","VPN","App"]},
 {"id":"smart-door-access-systems","cat":"security","name":"Smart door access systems","icon":"door","status":"available","desc":"Access control with cards, codes and mobile credentials.","specs":["Card / PIN / mobile","Cloud management","Logs","Door controller"]},
 {"id":"biometric-access-readers","cat":"security","name":"Biometric access readers","icon":"fingerprint-scan","status":"available","desc":"Fingerprint and face readers for building access.","specs":["Face / fingerprint","Card","Anti-spoof","PoE"]},
-{"id":"video-doorbells","cat":"security","name":"Video doorbells","icon":"bell","status":"available","desc":"Doorbells with HD video and alerts.","specs":["2K video","Motion zones","Two-way talk","Battery / wired"]},
 {"id":"ai-perimeter-cameras","cat":"security","name":"AI perimeter cameras","icon":"camera-ai","status":"available","desc":"Cameras with AI line-crossing and intrusion detection.","specs":["AI perimeter detection","Siren & strobe","Night colour","PoE"]},
 {"id":"portable-security-alarms","cat":"security","name":"Portable security alarms","icon":"alarm","status":"available","desc":"Door and travel alarms for hotels and homes.","specs":["Loud siren","Portable","Battery","Door wedge / sensor"]},
-{"id":"personal-emergency-buttons","cat":"security","name":"Personal emergency buttons","icon":"sos","status":"available","desc":"Wearable SOS buttons that alert contacts.","specs":["One-press SOS","GPS","Bluetooth / LTE","Discreet"]},
 {"id":"smart-safes","cat":"security","name":"Smart safes","icon":"lock-square","status":"available","desc":"Safes with biometric, app and keypad access.","specs":["Fingerprint / app","Tamper alerts","Steel body","Logs"]},
 {"id":"privacy-screen-filters","cat":"security","name":"Privacy-screen filters","icon":"eye-off","status":"available","desc":"Filters that block side viewing of screens.","specs":["Anti-peek","Anti-glare","Magnetic / adhesive","Many sizes"]},
 {"id":"hardware-password-managers","cat":"security","name":"Hardware password managers","icon":"password","status":"available","desc":"Offline devices that store and type your passwords.","specs":["Offline vault","Encrypted","USB","PIN protected"]},
@@ -815,19 +795,14 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"electronic-luggage-trackers","cat":"travel-outdoor","name":"Electronic luggage trackers","icon":"device-airtag","status":"available","desc":"Trackers to find luggage worldwide.","specs":["Finder network","Bluetooth","Long battery","Slim card / tag"]},
 {"id":"solar-camping-chargers","cat":"travel-outdoor","name":"Solar camping chargers","icon":"solar-panel","status":"available","desc":"Solar chargers for phones and lights while camping.","specs":["Solar panel","USB outputs","Foldable","Waterproof"]},
 {"id":"compact-camping-projectors","cat":"travel-outdoor","name":"Compact camping projectors","icon":"device-projector","status":"available","desc":"Battery projectors for movie nights outdoors.","specs":["Battery","Speaker","Compact","Smart OS"]},
-{"id":"outdoor-smartwatches","cat":"travel-outdoor","name":"Outdoor smartwatches","icon":"device-watch","status":"available","desc":"Rugged watches with maps and long battery.","specs":["Maps","Solar charging","Altimeter","Rugged"]},
 {"id":"thermal-monoculars","cat":"travel-outdoor","name":"Thermal monoculars","icon":"binoculars","status":"available","desc":"Handheld thermal viewers for wildlife and search.","specs":["Thermal sensor","Recording","Rangefinder options","Rugged"]},
 {"id":"digital-night-vision-viewers","cat":"travel-outdoor","name":"Digital night-vision viewers","icon":"moon-stars","status":"available","desc":"Digital night-vision binoculars and monoculars.","specs":["IR illuminator","Recording","Zoom","Battery"]},
 {"id":"portable-weather-stations","cat":"travel-outdoor","name":"Portable weather stations","icon":"cloud-rain","status":"available","desc":"Weather stations measuring wind, temperature and pressure.","specs":["Wind / temp / humidity","Barometer","Display","App"]},
 {"id":"personal-weather-meters","cat":"travel-outdoor","name":"Personal weather meters","icon":"wind","status":"available","desc":"Pocket meters for wind, temperature and humidity.","specs":["Anemometer","Temperature","Humidity","Pocket size"]},
 {"id":"smart-bike-lights","cat":"travel-outdoor","name":"Smart bike lights","icon":"bulb","status":"available","desc":"Bike lights that adapt to speed and ambient light.","specs":["Auto brightness","Brake light","USB-C","Long battery"]},
-{"id":"smart-bicycle-helmets","cat":"travel-outdoor","name":"Smart bicycle helmets","icon":"helmet","status":"available","desc":"Bike helmets with lights and crash alerts.","specs":["Integrated lights","Turn signals","Crash alert","Bluetooth"]},
 {"id":"waterproof-camera-housings","cat":"travel-outdoor","name":"Waterproof camera housings","icon":"camera","status":"available","desc":"Dive and splash housings for cameras and phones.","specs":["40–60m depth","Button access","Clear optics","Mounts"]},
 {"id":"portable-water-quality-meters","cat":"travel-outdoor","name":"Portable water-quality meters","icon":"droplet","status":"available","desc":"Meters testing TDS, pH and water safety.","specs":["TDS / pH / EC","Digital display","Calibration","Pocket"]},
 {"id":"digital-camping-thermometers","cat":"travel-outdoor","name":"Digital camping thermometers","icon":"thermometer","status":"available","desc":"Thermometers for camping and cooking outdoors.","specs":["Digital","Waterproof","Probe","Backlight"]},
-{"id":"compact-outdoor-drones","cat":"travel-outdoor","name":"Compact outdoor drones","icon":"drone","status":"available","desc":"Foldable drones for hiking and travel footage.","specs":["Foldable","4K","GPS","30+ min flight"]},
-{"id":"rugged-tablets","cat":"travel-outdoor","name":"Rugged tablets","icon":"device-tablet","status":"available","desc":"Tough tablets for outdoor and field work.","specs":["IP68","Drop proof","Sunlight readable","Long battery"]},
-{"id":"portable-satellite-internet-equipment","cat":"travel-outdoor","name":"Portable satellite internet equipment","icon":"satellite","status":"available","desc":"Portable dishes for internet in remote places.","specs":["Portable dish","Wi-Fi","Power options","Travel case"]},
 {"id":"electronic-navigation-compasses","cat":"travel-outdoor","name":"Electronic navigation compasses","icon":"compass","status":"available","desc":"Digital compasses with altimeter and GPS.","specs":["Digital compass","Altimeter","Backlight","Waterproof"]},
 {"id":"emergency-radio-systems","cat":"travel-outdoor","name":"Emergency radio systems","icon":"radio","status":"available","desc":"Hand-crank and solar radios with flashlight and charging.","specs":["AM / FM / NOAA","Hand crank","Solar","USB power"]},
 {"id":"smart-webcams","cat":"office-education","name":"Smart webcams","icon":"device-computer-camera","status":"available","desc":"Webcams with AI framing, HDR and noise reduction.","specs":["1080p–4K","AI framing","HDR","Privacy shutter"]},
@@ -835,7 +810,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"ai-auto-framing-cameras","cat":"office-education","name":"AI auto-framing cameras","icon":"camera-ai","status":"available","desc":"Conference cameras that frame speakers automatically.","specs":["AI framing","Speaker tracking","4K","USB"]},
 {"id":"video-conferencing-bars","cat":"office-education","name":"Video conferencing bars","icon":"device-computer-camera-2","status":"available","desc":"All-in-one camera, mic and speaker bars for meeting rooms.","specs":["4K camera","Beamforming mics","Speakers","Teams / Zoom"]},
 {"id":"wireless-presentation-systems","cat":"office-education","name":"Wireless presentation systems","icon":"cast","status":"available","desc":"Share laptop screens to displays wirelessly.","specs":["One-click share","4K","Multi-user","Plug & play"]},
-{"id":"interactive-whiteboards","cat":"office-education","name":"Interactive whiteboards","icon":"chalkboard","status":"available","desc":"Touch whiteboards for classrooms and offices.","specs":["65–86\" touch","Annotation","Wireless share","Android / Windows"]},
 {"id":"ergonomic-keyboards","cat":"office-education","name":"Ergonomic keyboards","icon":"keyboard","status":"available","desc":"Keyboards designed to reduce wrist strain.","specs":["Curved / tented","Palm rest","Wireless","Multi-device"]},
 {"id":"split-keyboards","cat":"office-education","name":"Split keyboards","icon":"keyboard","status":"available","desc":"Split layouts for natural shoulder position.","specs":["Split halves","Programmable","Tenting","Mechanical"]},
 {"id":"vertical-mice","cat":"office-education","name":"Vertical mice","icon":"mouse","status":"available","desc":"Handshake-grip mice that reduce forearm strain.","specs":["Vertical grip","Wireless","Quiet clicks","Rechargeable"]},
@@ -846,7 +820,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"classroom-robotics-kits","cat":"office-education","name":"Classroom robotics kits","icon":"robot","status":"available","desc":"Robotics kits designed for classroom teaching.","specs":["Curriculum","Sensors & motors","Block / Python","Class packs"]},
 {"id":"stem-electronics-kits","cat":"office-education","name":"STEM electronics kits","icon":"circuit-bulb","status":"available","desc":"Electronics kits that teach circuits and coding.","specs":["Snap / breadboard","Projects","Coding","Ages 8+"]},
 {"id":"smart-language-learning-devices","cat":"office-education","name":"Smart language-learning devices","icon":"language","status":"available","desc":"Devices for learning languages with speech practice.","specs":["Speech recognition","Lessons","Offline","Kids / adults"]},
-{"id":"portable-translation-devices","cat":"office-education","name":"Portable translation devices","icon":"language","status":"available","desc":"Pocket translators for travel and business.","specs":["Two-way","Offline packs","Photo translate","Long battery"]},
 {"id":"digital-voice-recorders","cat":"office-education","name":"Digital voice recorders","icon":"microphone","status":"available","desc":"Recorders for lectures, interviews and meetings.","specs":["Stereo mics","Long recording","Noise reduction","USB"]},
 {"id":"desktop-ai-assistants","cat":"office-education","name":"Desktop AI assistants","icon":"sparkles","status":"available","desc":"Desktop devices with AI for scheduling, notes and answers.","specs":["Voice AI","Display","Calendar","Smart-home control"]},
 {"id":"ai-enabled-robotic-vacuums","cat":"care-beauty","name":"AI-enabled robotic vacuums","icon":"vacuum-cleaner","status":"available","desc":"Robot vacuums with AI object recognition and smart mapping.","specs":["AI obstacle recognition","LiDAR","Self-empty","App"]},
@@ -860,7 +833,6 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"facial-cleansing-devices","cat":"care-beauty","name":"Facial cleansing devices","icon":"droplet","status":"available","desc":"Sonic brushes for deep facial cleansing.","specs":["Sonic pulses","Silicone","Waterproof","Rechargeable"]},
 {"id":"smart-skincare-analyzers","cat":"care-beauty","name":"Smart skincare analyzers","icon":"scan-eye","status":"available","desc":"Devices that analyse skin and recommend routines.","specs":["Skin imaging","AI analysis","App","Tracking"]},
 {"id":"connected-toothbrushes","cat":"care-beauty","name":"Connected toothbrushes","icon":"dental","status":"available","desc":"Electric toothbrushes with app coaching.","specs":["Pressure sensor","App coaching","Modes","Travel case"]},
-{"id":"smart-electric-toothbrushes","cat":"care-beauty","name":"Smart electric toothbrushes","icon":"dental","status":"available","desc":"Sonic toothbrushes with smart timers and modes.","specs":["Sonic","Timer","Pressure alert","Long battery"]},
 {"id":"water-flossers","cat":"care-beauty","name":"Water flossers","icon":"droplet","status":"available","desc":"Water flossers for gum health.","specs":["Pressure levels","Tips","Rechargeable","Waterproof"]},
 {"id":"smart-bathroom-mirrors","cat":"care-beauty","name":"Smart bathroom mirrors","icon":"device-ipad","status":"available","desc":"Mirrors with lighting, display and anti-fog.","specs":["LED lighting","Anti-fog","Touch","Bluetooth"]},
 {"id":"personal-massage-devices","cat":"care-beauty","name":"Personal massage devices","icon":"massage","status":"available","desc":"Neck, back and handheld massagers.","specs":["Heat","Multiple modes","Rechargeable","Portable"]},
@@ -869,16 +841,13 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"laser-hair-removal-devices","cat":"care-beauty","name":"Laser hair-removal devices","icon":"sparkles","status":"available","desc":"At-home IPL and laser hair removal.","specs":["IPL / diode","Skin sensor","Cooling","Flashes"]},
 {"id":"at-home-skin-imaging-devices","cat":"care-beauty","name":"At-home skin imaging devices","icon":"photo-scan","status":"available","desc":"Devices that capture close-up skin images for tracking.","specs":["Magnified imaging","App","Lighting","Tracking"]},
 {"id":"portable-thermal-printers","cat":"accessories","name":"Portable thermal printers","icon":"printer","status":"available","desc":"Pocket printers for labels, notes and photos.","specs":["Thermal","Bluetooth","Inkless","Rechargeable"]},
-{"id":"multi-device-wireless-chargers","cat":"accessories","name":"Multi-device wireless chargers","icon":"battery-charging","status":"available","desc":"Chargers for phone, watch and earbuds.","specs":["3-in-1","Fast charge","Foldable","Stand"]},
 {"id":"adjustable-laptop-stands","cat":"accessories","name":"Adjustable laptop stands","icon":"device-laptop","status":"available","desc":"Ergonomic laptop stands.","specs":["Height adjustable","Aluminium","Foldable","Ventilated"]},
 {"id":"laptop-cooling-pads","cat":"accessories","name":"Laptop cooling pads","icon":"wind","status":"available","desc":"Cooling pads with fans for laptops.","specs":["Multiple fans","Adjustable height","USB","RGB"]},
 {"id":"premium-usb-c-cables","cat":"accessories","name":"Premium USB-C cables","icon":"plug-connected","status":"available","desc":"Durable braided cables for fast charging and data.","specs":["100–240W","10–40Gbps","Braided","E-marker"]},
 {"id":"thunderbolt-cables","cat":"accessories","name":"Thunderbolt cables","icon":"bolt","status":"available","desc":"Certified Thunderbolt cables for docks and storage.","specs":["40–120Gbps","240W","Certified","Active / passive"]},
 {"id":"certified-high-speed-hdmi-cables","cat":"accessories","name":"Certified high-speed HDMI cables","icon":"device-tv","status":"available","desc":"HDMI 2.1 cables for 4K120 and 8K.","specs":["48Gbps","4K120 / 8K60","Certified","eARC"]},
 {"id":"usb-c-adapters","cat":"accessories","name":"USB-C adapters","icon":"usb","status":"available","desc":"Adapters for USB-A, HDMI, Ethernet and more.","specs":["Compact","USB-C","Multiple types","Aluminium"]},
-{"id":"portable-hubs","cat":"accessories","name":"Portable hubs","icon":"usb","status":"available","desc":"Travel hubs that add ports to laptops.","specs":["Multi-port","HDMI","PD","Compact"]},
 {"id":"travel-charging-kits","cat":"accessories","name":"Travel charging kits","icon":"luggage","status":"available","desc":"All-in-one kits with charger, cables and adapters.","specs":["GaN charger","Cables","Adapters","Case"]},
-{"id":"universal-power-adapters","cat":"accessories","name":"Universal power adapters","icon":"world","status":"available","desc":"Plugs for any country with surge protection.","specs":["Worldwide plugs","USB-C","Surge protection","Compact"]},
 {"id":"smart-wallets","cat":"accessories","name":"Smart wallets","icon":"wallet","status":"available","desc":"Wallets with tracking and RFID blocking.","specs":["Tracker","RFID blocking","Slim","Alerts"]},
 {"id":"tracking-cards","cat":"accessories","name":"Tracking cards","icon":"credit-card","status":"available","desc":"Card-shaped trackers for wallets and passports.","specs":["Card shape","Finder network","Rechargeable","Slim"]},
 {"id":"tech-backpacks","cat":"accessories","name":"Tech backpacks","icon":"backpack","status":"available","desc":"Backpacks with charging, organisation and anti-theft.","specs":["Laptop compartment","USB port","Anti-theft","Water resistant"]},
@@ -887,14 +856,12 @@ const PRODUCTS = [{"id":"ai-smart-glasses","cat":"ai-gadgets","name":"AI smart g
 {"id":"modular-desk-accessories","cat":"accessories","name":"Modular desk accessories","icon":"layout-grid","status":"available","desc":"Modular organisers, trays and charging docks.","specs":["Modular","Charging","Aluminium / wood","Cable routing"]},
 {"id":"cable-management-systems","cat":"accessories","name":"Cable-management systems","icon":"paperclip","status":"available","desc":"Trays, sleeves and clips for clean setups.","specs":["Under-desk tray","Sleeves","Clips","Adhesive"]},
 {"id":"portable-monitor-stands","cat":"accessories","name":"Portable monitor stands","icon":"device-desktop","status":"available","desc":"Stands for portable monitors and tablets.","specs":["Adjustable","Foldable","Aluminium","VESA"]},
-{"id":"privacy-filters","cat":"accessories","name":"Privacy filters","icon":"eye-off","status":"available","desc":"Privacy screens for laptops and monitors.","specs":["Anti-peek","Anti-glare","Removable","Many sizes"]},
 {"id":"webcam-lights","cat":"accessories","name":"Webcam lights","icon":"bulb","status":"available","desc":"Clip-on lights for video calls.","specs":["Adjustable colour","Clip","Touch control","USB"]},
 {"id":"desk-light-bars","cat":"accessories","name":"Desk light bars","icon":"lamp","status":"available","desc":"Monitor light bars that light your desk without glare.","specs":["Asymmetric light","Auto dimming","Wireless control","USB"]},
 {"id":"smart-desk-lamps","cat":"accessories","name":"Smart desk lamps","icon":"lamp-2","status":"available","desc":"Desk lamps with app control and wireless charging.","specs":["Tunable white","Wireless charging","App","Eye care"]},
 {"id":"wireless-presentation-remotes","cat":"accessories","name":"Wireless presentation remotes","icon":"device-remote","status":"available","desc":"Clickers with laser or digital pointer.","specs":["Laser / digital pointer","Timer","USB","Rechargeable"]},
 {"id":"digital-luggage-scales","cat":"accessories","name":"Digital luggage scales","icon":"scale","status":"available","desc":"Handheld scales to avoid overweight fees.","specs":["50kg capacity","Digital","Compact","Tare"]},
 {"id":"portable-label-printers","cat":"accessories","name":"Portable label printers","icon":"tag","status":"available","desc":"Bluetooth label makers for home and office.","specs":["Thermal","Bluetooth","App templates","Rechargeable"]},
-{"id":"mini-thermal-printers","cat":"accessories","name":"Mini thermal printers","icon":"printer","status":"available","desc":"Small printers for photos, notes and stickers.","specs":["Thermal","Inkless","Bluetooth","Compact"]},
 {"id":"rechargeable-precision-screwdrivers","cat":"accessories","name":"Rechargeable precision screwdrivers","icon":"tool","status":"available","desc":"Electric screwdrivers for electronics repair.","specs":["Precision bits","Torque settings","USB-C","LED"]},
 {"id":"smart-toolkits","cat":"accessories","name":"Smart toolkits","icon":"tools","status":"available","desc":"Toolkits with smart tools and organisation.","specs":["Precision tools","Organiser case","Magnetic","Repair focus"]},
 {"id":"electronic-cable-testers","cat":"accessories","name":"Electronic cable testers","icon":"plug-connected-x","status":"available","desc":"Testers for network, USB and power cables.","specs":["RJ45 / USB tests","Wiremap","Length","Portable"]}];

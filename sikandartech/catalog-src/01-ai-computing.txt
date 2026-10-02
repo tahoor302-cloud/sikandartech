@@ -94,10 +94,8 @@ Dual-screen reading devices | book | C | Book-style devices with two E-ink scree
 Portable document scanners | scan | A | Battery-powered scanners for documents, receipts and photos on the move. | Wand / sheet-fed; 900 DPI; Wi-Fi; MicroSD storage
 
 # xr | Smart Glasses, AR, VR & Spatial Computing | device-vision-pro | #db2777 | Immersive headsets, AR glasses, haptics and spatial-computing gear.
-AI glasses | eyeglass-2 | A | Lightweight glasses with AI assistant, camera and audio for daily use. | Voice AI; Camera; Open-ear audio; Charging case
 Augmented-reality glasses | augmented-reality | A | AR glasses that project a large virtual screen and 3D content in front of you. | Micro-OLED display; 100–200" virtual screen; 3DoF / 6DoF; USB-C DisplayPort
 Optical see-through AR glasses | augmented-reality-2 | A | Transparent-lens AR glasses that overlay digital content on the real world. | Waveguide optics; SLAM tracking; Hand tracking; Enterprise SDK
-Display-free smart glasses | eyeglass | A | Smart glasses without a display focused on audio, camera and AI. | Camera; Speakers; Voice assistant; Prescription ready
 Waveguide-display glasses | augmented-reality | A | Glasses with thin waveguide lenses for bright, discreet digital overlays. | Diffractive waveguide; Monochrome / colour; Lightweight frame; Touch control
 Mixed-reality headsets | device-vision-pro | A | Headsets that blend virtual objects with your real surroundings via colour passthrough. | Colour passthrough; 4K+ per eye; Hand & eye tracking; Spatial audio
 Virtual-reality headsets | cardboards | A | Standalone VR headsets for gaming, fitness and social experiences. | Standalone; 2K–4K per eye; 6DoF controllers; 120Hz
@@ -114,7 +112,6 @@ Haptic gloves | hand-click | A | Gloves that let you feel virtual objects throug
 Haptic vests | shirt-sport | A | Wearable vests that deliver touch sensations for gaming and training. | 30–40 haptic points; Wireless; Game integration; Adjustable fit
 Full-body tracking systems | walk | A | Trackers that bring your whole body into VR and motion capture. | 6–11 trackers; Inertial / optical; Low drift; VRChat & mocap
 VR treadmills | treadmill | A | Omni-directional treadmills for walking and running in VR. | 360° movement; Harness system; Low-friction surface; PC VR
-Motion simulator seats | armchair | A | Motion platforms that move with racing, flight and VR content. | 2–6DoF motion; Game telemetry; Seat & rig; Low-latency actuators
 Spatial-computing accessories | device-vision-pro | A | Head straps, battery packs, lens inserts and cases for XR headsets. | Comfort straps; Extra batteries; Prescription inserts; Carry cases
 3D capture systems | device-3d-camera | A | Systems that scan people and objects into 3D models for XR. | Multi-camera rig; Photogrammetry; Texture capture; Export to OBJ/GLB
 Volumetric display systems | cube-3d-sphere | E | Displays that show true 3D images viewable from multiple angles. | Light-field / volumetric; Glasses-free 3D; Multi-viewer; Developer tools

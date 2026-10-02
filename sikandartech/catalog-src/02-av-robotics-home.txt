@@ -57,7 +57,6 @@ Machine-vision cameras | photo-sensor-2 | A | Industrial cameras for inspection 
 Industrial inspection cameras | scan-eye | A | Borescopes and inspection cameras for engines, pipes and walls. | Articulating probe; IP67; 1080p; Built-in screen
 High-speed cameras | stopwatch | A | Cameras recording thousands of frames per second for analysis. | 1,000–100,000 fps; Slow-motion analysis; Trigger; Lab use
 Trail cameras | plant | A | Motion-activated cameras for wildlife and property. | 4K video; No-glow IR; PIR trigger; LTE option
-Wildlife cameras | binoculars | A | Weatherproof cameras for observing and recording wildlife. | Weatherproof; Solar options; Night vision; App alerts
 Instant cameras | photo | A | Cameras that print photos instantly. | Instant film / Zink; Selfie mirror; Auto exposure; Fun modes
 Portable photo printers | printer | A | Pocket printers for printing photos from your phone. | Zink / dye-sub; Bluetooth; Sticker paper; Rechargeable
 Electronic camera stabilizers | focus-centered | A | 3-axis gimbals for mirrorless and cinema cameras. | 3-axis; 3–4.5kg payload; Follow modes; Wireless control
@@ -114,10 +113,8 @@ Portable gaming consoles | device-nintendo | A | Hybrid and portable consoles fo
 Cloud gaming devices | cloud | A | Handhelds built for streaming games from the cloud. | Cloud streaming; Wi-Fi 6; Low latency; Long battery
 Retro gaming handhelds | device-gamepad-3 | A | Handhelds that play classic games and emulators. | IPS screen; Emulation; Wi-Fi; Pocket size
 Android gaming handhelds | device-gamepad-3 | A | Android handhelds with physical controls for mobile and streaming games. | Snapdragon G-series; Hall sticks; Active cooling; Google Play
-VR gaming headsets | cardboards | A | Headsets designed for immersive VR gaming. | Standalone / PC VR; 120Hz; Tracked controllers; Mixed reality
 AR gaming glasses | augmented-reality | A | AR glasses for playing on a giant virtual screen. | 200" virtual screen; Low latency; Console / PC compatible; Lightweight
 OLED gaming monitors | device-desktop | A | OLED monitors with instant response for gaming. | 240–480Hz OLED; 0.03 ms; HDR; Anti-burn-in care
-High-refresh-rate monitors | device-desktop | A | 144–540Hz monitors for smooth competitive play. | 144–540Hz; Adaptive sync; 1 ms; Height-adjustable
 Ultrawide gaming displays | device-desktop | A | Curved ultrawide displays for immersive gaming. | 34–49" curved; 165–240Hz; HDR; PBP
 Mini-LED gaming displays | device-desktop | A | Bright HDR gaming monitors with Mini-LED backlight. | Mini-LED; HDR1000; 4K 160Hz; Local dimming
 Mechanical keyboards | keyboard | A | Mechanical keyboards with tactile switches and RGB. | Hot-swap switches; Gasket mount; RGB; Wireless tri-mode
@@ -168,7 +165,6 @@ Smoke and carbon-monoxide detectors | alarm-smoke | A | Connected smoke and CO a
 Smart blinds | blind | A | Motorised blinds controlled by app, voice or schedule. | Motorised; Rechargeable / wired; Schedules; Voice control
 Smart curtains | blind | A | Curtain motors that open and close automatically. | Retrofit motor; Sunrise mode; App; Quiet operation
 Smart mirrors | device-ipad | A | Mirrors with built-in displays, lighting and touch controls. | Hidden display; LED lighting; Anti-fog; Touch controls
-Smart bathroom scales | scale | A | Scales that sync weight and body composition to apps. | Body composition; Multi-user; Wi-Fi / Bluetooth; App
 Smart water monitors | droplet | A | Monitors that track household water use and detect leaks. | Flow sensing; Leak detection; Usage reports; App
 Smart irrigation systems | plant | A | Sprinkler controllers that water based on weather. | Weather-based; Multi-zone; App; Water savings
 Smart garage controllers | car-garage | A | Open and monitor your garage door from your phone. | Remote open/close; Status alerts; Schedules; Voice
@@ -201,9 +197,6 @@ Automatic cooking machines | chef-hat | A | Machines that cook recipes automatic
 Smart dishwashers | wash-machine | A | Dishwashers with auto-dosing and remote monitoring. | Auto dose; Quiet; App; Energy efficient
 Heat-pump dryers | wash-dry-1 | A | Energy-efficient dryers that are gentle on clothes. | Heat-pump; A+++ efficiency; Sensor drying; App
 Smart washing machines | wash-machine | A | Washers with AI wash cycles and auto dosing. | AI wash; Auto dosing; Steam; App
-Robot window cleaners | window | A | Window-cleaning robots for glass and smooth surfaces. | Suction; Spray; Edge detection; Remote control
-Robot vacuum-mop cleaners | vacuum-cleaner | A | Robots that vacuum and mop with self-emptying docks. | Self-empty; Mop lifting; App maps; Obstacle avoidance
-Air-quality monitors | lungs | A | Indoor monitors for CO2, PM2.5 and VOCs. | Multi-sensor; Display; App history; Alerts
 Smart humidifiers | droplet | A | Humidifiers with target humidity and app control. | Auto humidity; Ultrasonic / evaporative; App; Quiet
 Smart dehumidifiers | droplet | A | Dehumidifiers with app control and auto drain. | 20–50L/day; Auto mode; App; Continuous drain
 Portable air conditioners | air-conditioning | A | Movable AC units with Wi-Fi control. | 9000–14000 BTU; Wi-Fi; Dehumidify; Window kit
