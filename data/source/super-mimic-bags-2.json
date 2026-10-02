@@ -41,11 +41,33 @@
         "Style": "Dome satchel"
       },
       "sizeLabel": "One size",
-      "sizes": ["One size"],
-      "colors": [{ "id": "bordeaux", "name": "Bordeaux", "hex": "#582D2E" }],
-      "variants": [{ "sku": "SM-BAG-SM2-01-BORDEAUX", "color": "bordeaux", "size": "One size", "price": 195 }],
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "bordeaux",
+          "name": "Bordeaux",
+          "hex": "#582D2E"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-SM2-01-BORDEAUX",
+          "color": "bordeaux",
+          "size": "One size",
+          "price": 195
+        }
+      ],
       "images": [
-        { "src": "/media/products/rotonde-dome-satchel/01-primary-bordeaux.webp", "kind": "primary", "color": "bordeaux", "alt": "Rotonde Dome Satchel in Bordeaux", "width": 1312, "height": 1640 }
+        {
+          "src": "/media/products/rotonde-dome-satchel/01-primary-bordeaux.webp",
+          "kind": "primary",
+          "color": "bordeaux",
+          "alt": "Rotonde Dome Satchel in Bordeaux",
+          "width": 1312,
+          "height": 1640
+        }
       ],
       "featured": false,
       "newArrival": true,
@@ -97,11 +119,33 @@
         "Style": "Top-handle bag"
       },
       "sizeLabel": "One size",
-      "sizes": ["One size"],
-      "colors": [{ "id": "blush", "name": "Blush", "hex": "#E9BEB6" }],
-      "variants": [{ "sku": "SM-BAG-SM2-02-BLUSH", "color": "blush", "size": "One size", "price": 175 }],
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "blush",
+          "name": "Blush",
+          "hex": "#E9BEB6"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-SM2-02-BLUSH",
+          "color": "blush",
+          "size": "One size",
+          "price": 175
+        }
+      ],
       "images": [
-        { "src": "/media/products/serif-s-lock-top-handle/01-primary-blush.webp", "kind": "primary", "color": "blush", "alt": "Serif S-Lock Top-Handle in Blush", "width": 1312, "height": 1640 }
+        {
+          "src": "/media/products/serif-s-lock-top-handle/01-primary-blush.webp",
+          "kind": "primary",
+          "color": "blush",
+          "alt": "Serif S-Lock Top-Handle in Blush",
+          "width": 1312,
+          "height": 1640
+        }
       ],
       "featured": false,
       "newArrival": true,
@@ -153,11 +197,33 @@
         "Style": "Structured tote"
       },
       "sizeLabel": "One size",
-      "sizes": ["One size"],
-      "colors": [{ "id": "taupe", "name": "Taupe", "hex": "#92755E" }],
-      "variants": [{ "sku": "SM-BAG-SM2-03-TAUPE", "color": "taupe", "size": "One size", "price": 185 }],
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "taupe",
+          "name": "Taupe",
+          "hex": "#92755E"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-SM2-03-TAUPE",
+          "color": "taupe",
+          "size": "One size",
+          "price": 185
+        }
+      ],
       "images": [
-        { "src": "/media/products/atelier-tab-tote/01-primary-taupe.webp", "kind": "primary", "color": "taupe", "alt": "Atelier Tab Tote in Taupe", "width": 1254, "height": 1566 }
+        {
+          "src": "/media/products/atelier-tab-tote/01-primary-taupe.webp",
+          "kind": "primary",
+          "color": "taupe",
+          "alt": "Atelier Tab Tote in Taupe",
+          "width": 1254,
+          "height": 1566
+        }
       ],
       "featured": false,
       "newArrival": true,
@@ -209,11 +275,33 @@
         "Style": "Shoulder bag"
       },
       "sizeLabel": "One size",
-      "sizes": ["One size"],
-      "colors": [{ "id": "noir", "name": "Noir", "hex": "#252524" }],
-      "variants": [{ "sku": "SM-BAG-SM2-04-NOIR", "color": "noir", "size": "One size", "price": 165 }],
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "noir",
+          "name": "Noir",
+          "hex": "#252524"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-SM2-04-NOIR",
+          "color": "noir",
+          "size": "One size",
+          "price": 165
+        }
+      ],
       "images": [
-        { "src": "/media/products/orbe-turn-lock-shoulder-bag/01-primary-noir.webp", "kind": "primary", "color": "noir", "alt": "Orbe Turn-Lock Shoulder Bag in Noir", "width": 1312, "height": 1640 }
+        {
+          "src": "/media/products/orbe-turn-lock-shoulder-bag/01-primary-noir.webp",
+          "kind": "primary",
+          "color": "noir",
+          "alt": "Orbe Turn-Lock Shoulder Bag in Noir",
+          "width": 1312,
+          "height": 1640
+        }
       ],
       "featured": false,
       "newArrival": true,
@@ -221,6 +309,83 @@
       "createdAt": "2026-10-02T00:00:00.000Z",
       "provenance": {
         "photo": "owner upload 2 Oct 2026 (13.webp)",
+        "imageProcessing": "background extended top/bottom to 4:5; WebP q90",
+        "priceStatus": "proposed",
+        "specStatus": "dimensions, weight and materials proposed; confirm with supplier",
+        "copyStatus": "written for Super Mimic from the photo"
+      }
+    },
+    {
+      "sourceId": "BAG-SM2-05",
+      "slug": "plisse-top-handle",
+      "title": "Plissé Top-Handle",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Top-handle bag",
+      "collection": "originals",
+      "price": 180,
+      "currency": "USD",
+      "shortDescription": "A soft ivory top-handle with pleated sides and a square gold clasp.",
+      "description": "A rounded top-handle bag in ivory smooth leather. Softly pleated side panels let it open wide while the shape stays neat. The curved flap closes with a small square gold clasp, and a padded rolled handle sits on gold links.",
+      "details": [
+        "Pleated accordion side panels",
+        "Curved flap with square gold clasp",
+        "Padded rolled top handle",
+        "Gold-tone handle links",
+        "Protective base"
+      ],
+      "materials": "Smooth leather; microsuede lining",
+      "care": [
+        "Wipe clean with a soft, dry cloth.",
+        "Store stuffed and in the dust bag provided.",
+        "Light colours can take on dye from denim; avoid prolonged contact."
+      ],
+      "specifications": {
+        "Dimensions": "27 × 18 × 13 cm (W × H × D)",
+        "Handle drop": "10 cm",
+        "Closure": "Flap with push clasp",
+        "Interior": "One slip pocket, two compartments",
+        "Hardware": "Polished gold-tone",
+        "Weight": "Approx. 0.6 kg",
+        "Colour": "Ivory",
+        "Style": "Top-handle bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": [
+        "One size"
+      ],
+      "colors": [
+        {
+          "id": "ivory",
+          "name": "Ivory",
+          "hex": "#E6DDCB"
+        }
+      ],
+      "variants": [
+        {
+          "sku": "SM-BAG-SM2-05-IVORY",
+          "color": "ivory",
+          "size": "One size",
+          "price": 180
+        }
+      ],
+      "images": [
+        {
+          "src": "/media/products/plisse-top-handle/01-primary-ivory.webp",
+          "kind": "primary",
+          "color": "ivory",
+          "alt": "Plissé Top-Handle in Ivory",
+          "width": 1254,
+          "height": 1568
+        }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "provenance": {
+        "photo": "owner upload 2 Oct 2026 (14.webp)",
         "imageProcessing": "background extended top/bottom to 4:5; WebP q90",
         "priceStatus": "proposed",
         "specStatus": "dimensions, weight and materials proposed; confirm with supplier",

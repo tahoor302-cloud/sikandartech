@@ -2215,5 +2215,19 @@
         "src": "/media/products/orbe-turn-lock-shoulder-bag/01-primary-noir.webp"
       }
     ]
+  },
+  {
+    "id": "SM-000127",
+    "sourceId": "BAG-SM2-05",
+    "name": "Plissé Top-Handle",
+    "price": 180,
+    "currency": "USD",
+    "images": [
+      {
+        "kind": "primary",
+        "color": "ivory",
+        "src": "/media/products/plisse-top-handle/01-primary-ivory.webp"
+      }
+    ]
   }
 ]

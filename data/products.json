@@ -13927,5 +13927,86 @@
     "newArrival": true,
     "trending": false,
     "createdAt": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "SM-000127",
+    "sourceId": "BAG-SM2-05",
+    "source": "super-mimic-bags-2",
+    "slug": "plisse-top-handle",
+    "name": "Plissé Top-Handle",
+    "brand": "Super Mimic Maison",
+    "category": "bags",
+    "subcategory": "top-handle",
+    "productType": "Top-handle bag",
+    "collection": "originals",
+    "tags": [
+      "bags",
+      "top-handle",
+      "originals",
+      "ivory"
+    ],
+    "price": 180,
+    "currency": "USD",
+    "images": [
+      {
+        "src": "/media/products/plisse-top-handle/01-primary-ivory.webp",
+        "alt": "Plissé Top-Handle in Ivory",
+        "kind": "primary",
+        "width": 1254,
+        "height": 1568,
+        "color": "ivory"
+      }
+    ],
+    "shortDescription": "A soft ivory top-handle with pleated sides and a square gold clasp.",
+    "description": "A rounded top-handle bag in ivory smooth leather. Softly pleated side panels let it open wide while the shape stays neat. The curved flap closes with a small square gold clasp, and a padded rolled handle sits on gold links.",
+    "colors": [
+      {
+        "id": "ivory",
+        "name": "Ivory",
+        "hex": "#E6DDCB"
+      }
+    ],
+    "sizes": [
+      "One size"
+    ],
+    "sizeLabel": "One size",
+    "variants": [
+      {
+        "id": "SM-000127-ivory-one-size",
+        "sku": "SM-BAG-SM2-05-IVORY",
+        "color": "ivory",
+        "size": "One size",
+        "price": 180,
+        "available": true
+      }
+    ],
+    "availability": "in-stock",
+    "specifications": {
+      "Dimensions": "27 × 18 × 13 cm (W × H × D)",
+      "Handle drop": "10 cm",
+      "Closure": "Flap with push clasp",
+      "Interior": "One slip pocket, two compartments",
+      "Hardware": "Polished gold-tone",
+      "Weight": "Approx. 0.6 kg",
+      "Colour": "Ivory",
+      "Style": "Top-handle bag"
+    },
+    "details": [
+      "Pleated accordion side panels",
+      "Curved flap with square gold clasp",
+      "Padded rolled top handle",
+      "Gold-tone handle links",
+      "Protective base"
+    ],
+    "materials": "Smooth leather; microsuede lining",
+    "care": [
+      "Wipe clean with a soft, dry cloth.",
+      "Store stuffed and in the dust bag provided.",
+      "Light colours can take on dye from denim; avoid prolonged contact."
+    ],
+    "featured": false,
+    "newArrival": true,
+    "trending": false,
+    "createdAt": "2026-10-02T00:00:00.000Z"
   }
 ]

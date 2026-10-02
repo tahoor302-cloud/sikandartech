@@ -1,6 +1,6 @@
 {
   "prefix": "SM",
-  "next": 127,
+  "next": 128,
   "entries": {
     "super-mimic-master:SMM-0001": "SM-000001",
     "super-mimic-master:SMM-0002": "SM-000002",
@@ -127,6 +127,7 @@
     "super-mimic-bags-2:BAG-SM2-01": "SM-000123",
     "super-mimic-bags-2:BAG-SM2-02": "SM-000124",
     "super-mimic-bags-2:BAG-SM2-03": "SM-000125",
-    "super-mimic-bags-2:BAG-SM2-04": "SM-000126"
+    "super-mimic-bags-2:BAG-SM2-04": "SM-000126",
+    "super-mimic-bags-2:BAG-SM2-05": "SM-000127"
   }
 }

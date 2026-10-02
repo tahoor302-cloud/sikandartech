@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T01:06:15.084Z",
+  "generatedAt": "2026-10-02T01:17:31.164Z",
   "sources": [
     {
       "source": "super-mimic-bags-2",
       "file": "data/source/super-mimic-bags-2.json",
-      "records": 4,
+      "records": 5,
       "authorised": "Owner-supplied studio photography (uploaded 2 Oct 2026), described by the owner as Super Mimic designs. Names, copy, dimensions, materials and prices were proposed for launch and need owner review."
     },
     {
@@ -39,8 +39,8 @@
     }
   ],
   "totals": {
-    "sourceRecords": 126,
-    "imported": 126,
+    "sourceRecords": 127,
+    "imported": 127,
     "invalid": 0,
     "missing": 0,
     "duplicates": 0,
@@ -82,14 +82,14 @@
       }
     },
     "bags": {
-      "total": 30,
+      "total": 31,
       "subcategories": {
         "totes": 3,
         "crossbody": 3,
         "travel": 1,
         "clutches": 3,
         "backpacks": 1,
-        "top-handle": 7,
+        "top-handle": 8,
         "shoulder": 5,
         "hobo": 5,
         "bucket": 1,
@@ -119,8 +119,8 @@
   },
   "reconciliation": {
     "bags": {
-      "source": 30,
-      "imported": 30,
+      "source": 31,
+      "imported": 31,
       "invalid": 0,
       "missing": 0
     },
@@ -199,6 +199,16 @@
       "reason": "All four bags reproduce the signature designs of one third-party luxury house (a turn-lock top-handle with belted flaps and padlock straps, a trapezoid flap bag with a belted clasp, a perforated-logo crossbody and a drawstring bucket), and the crossbody carries that house's perforated logo. Selling copies of these designs is not authorised, so none were added and no image was copied into the site.",
       "imported": 0,
       "unblock": "Use original Super Mimic designs with new photography instead (as with BAG-SM2-01 to 04)."
+    },
+    {
+      "source": "chat-upload-2026-10-02-branded-bags",
+      "url": "",
+      "role": "4 bag photos sent in chat (15-18.webp), with a statement that the owner is an authorised seller",
+      "reviewed": "2026-10-02",
+      "status": "not-authorised",
+      "reason": "The bags reproduce signature designs of two third-party luxury houses: a half-moon hobo with a piston clasp, a flap bag whose clasp is the house monogram, a cannage-quilted top-handle with the house's letter charms, and a saddle bag. Two carry the house's logo. The photos are renders, not official brand imagery, and they would be sold unnamed on a Super Mimic storefront, so they were not added and no image was copied into the site. The same applies to the 4-bag sheet (chat-upload-2026-10-02-bag-sheet).",
+      "imported": 0,
+      "unblock": "Genuine authorised stock would be listed under the brand's own name with its official imagery, backed by the dealer agreement and image licence. Without that, use original Super Mimic designs (as with BAG-SM2-01 to 05)."
     }
   ],
   "duplicates": [],
