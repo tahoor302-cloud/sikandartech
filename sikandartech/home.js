@@ -138,18 +138,23 @@ const pick = (ids) => ids.map((id) => productById[id]).filter((p) => p && NO_PHO
 // ---------- B: Categories ----------
 (function categories() {
   $("cat-summary").textContent = `${PRODUCTS.length} products in ${CATEGORIES.length} categories`;
-  const featured = ["audio", "wearables", "drones-robotics", "gaming", "smart-home", "cameras"];
+  // Six large tiles: categories that have a photo come first, then the defaults
+  const preferred = ["audio", "wearables", "drones-robotics", "gaming", "smart-home", "cameras", "kitchen-appliances", "power", "xr", "computers"];
+  const ordered = [...preferred, ...CATEGORIES.map((c) => c.id).filter((id) => !preferred.includes(id))];
+  const featured = [...ordered.filter((id) => catById[id].photo), ...ordered.filter((id) => !catById[id].photo)].slice(0, 6);
   $("cat-feature").innerHTML = featured
     .map((id, i) => {
       const c = catById[id];
-      return `<a class="cat-big s${i + 1} rv" style="--c:${c.color};--d:${i * 0.06}s" href="products.html?cat=${c.id}">
+      return `<a class="cat-big s${i + 1} rv${c.photo ? " has-photo" : ""}" style="--c:${c.color};--d:${i * 0.06}s" href="products.html?cat=${c.id}">
         ${c.photo
           ? `<div class="art photo"><img src="${c.photo}" alt="" loading="lazy" decoding="async"></div>`
           : `<div class="art" style="--c:${c.color}"><span class="art-ring"></span>${iconSvg(c.icon, "art-icon")}</div>`}
         <span class="go">${iconSvg("arrow-right")}</span>
-        <span class="num">${String(CATEGORIES.indexOf(c) + 1).padStart(2, "0")} / ${c.count} products</span>
-        <h3>${esc(c.name)}</h3>
-        <p>${esc(c.tagline)}</p>
+        <span class="cat-copy">
+          <span class="num">${String(CATEGORIES.indexOf(c) + 1).padStart(2, "0")} / ${c.count} products</span>
+          <h3>${esc(c.name)}</h3>
+          <p>${esc(c.tagline)}</p>
+        </span>
       </a>`;
     })
     .join("");

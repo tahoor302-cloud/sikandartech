@@ -39,6 +39,7 @@ const CATEGORIES = [
   "icon": "device-watch",
   "color": "#16a34a",
   "tagline": "Smartwatches, rings, trackers and connected wearables for health and sport.",
+  "photo": "images/categories/wearables.webp",
   "count": 28
  },
  {
@@ -71,6 +72,7 @@ const CATEGORIES = [
   "icon": "device-gamepad-2",
   "color": "#dc2626",
   "tagline": "Consoles, handhelds, sim racing and gear for serious gamers.",
+  "photo": "images/categories/gaming.webp",
   "count": 34
  },
  {
@@ -79,6 +81,7 @@ const CATEGORIES = [
   "icon": "smart-home",
   "color": "#0284c7",
   "tagline": "Hubs, lighting, security, sensors and automation for a connected home.",
+  "photo": "images/categories/smart-home.webp",
   "count": 34
  },
  {
@@ -87,6 +90,7 @@ const CATEGORIES = [
   "icon": "tools-kitchen-2",
   "color": "#b45309",
   "tagline": "Connected kitchen appliances, laundry and climate control.",
+  "photo": "images/categories/kitchen-appliances.webp",
   "count": 32
  },
  {
