@@ -94,7 +94,8 @@ p { margin-bottom: .75rem; }
 /* Contact */
 .contact { display: grid; grid-template-columns: 1fr 1fr; gap: 48px; align-items: start; }
 .contact-list { list-style: none; margin: 1rem 0; display: grid; gap: 8px; }
-.socials { display: flex; gap: 12px; }
+.socials { display: flex; flex-wrap: wrap; gap: 12px; }
+.socials a[hidden] { display: none; }
 .socials a { border: 1px solid var(--border); background: #fff; padding: 8px 16px; border-radius: 999px; font-weight: 500; }
 .contact-form { display: grid; gap: 14px; }
 .contact-form:hover { transform: none; }

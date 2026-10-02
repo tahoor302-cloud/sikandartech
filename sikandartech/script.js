@@ -6,7 +6,8 @@ const CONTACT = {
   whatsappDisplay: "+92 302 222 5991",
   wechat: "+92 302 222 5991",
   phone: "+86 136 4022 5991", // China phone
-  email: "info@sikandartech.com"
+  email: "info@sikandartech.com",
+  tiktok: ""                // TikTok username without @; empty hides the button
 };
 const WHATSAPP_NUMBER = CONTACT.whatsapp;
 
@@ -104,4 +105,8 @@ const emailEl = document.getElementById("email-link");
 emailEl.textContent = CONTACT.email;
 emailEl.href = "mailto:" + CONTACT.email;
 document.getElementById("whatsapp-float").href = hello;
+
+const tiktokEl = document.getElementById("tiktok-link");
+tiktokEl.href = "https://www.tiktok.com/@" + CONTACT.tiktok.replace(/^@/, "");
+tiktokEl.hidden = !CONTACT.tiktok;
 document.getElementById("year").textContent = new Date().getFullYear();
