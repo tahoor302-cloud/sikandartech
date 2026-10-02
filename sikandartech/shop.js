@@ -49,6 +49,10 @@ function render({ animate = true } = {}) {
   $("shop-kicker").textContent = c ? `Collection / ${String(CATEGORIES.indexOf(c) + 1).padStart(2, "0")}` : "Collection";
   $("shop-tagline").textContent = c ? c.tagline : "Advanced tech and gadgets sourced direct from China, with quality inspection and worldwide shipping.";
   document.title = (c ? c.name : "Product Catalogue") + " | SikandarTech";
+  const media = $("shop-hero-media");
+  media.hidden = !(c && c.photo);
+  media.parentElement.classList.toggle("has-media", !!(c && c.photo));
+  media.innerHTML = c && c.photo ? `<img src="${c.photo}" alt="${esc(c.name)}" width="1200" height="900">` : "";
 
   $("shop-count").textContent = `${list.length} product${list.length === 1 ? "" : "s"}${state.q ? ` for “${state.q}”` : ""}`;
   $("shop-grid").innerHTML = list.length

@@ -107,6 +107,7 @@ const CATEGORIES = [
   "icon": "router",
   "color": "#0369a1",
   "tagline": "Wi-Fi, 5G, satellite, servers and tracking devices.",
+  "photo": "images/categories/networking.webp",
   "count": 29
  },
  {
@@ -115,6 +116,7 @@ const CATEGORIES = [
   "icon": "database",
   "color": "#475569",
   "tagline": "SSDs, NAS, docks, capture and creator tools.",
+  "photo": "images/categories/storage.webp",
   "count": 27
  },
  {
@@ -123,6 +125,7 @@ const CATEGORIES = [
   "icon": "device-tv",
   "color": "#9333ea",
   "tagline": "TVs, projectors, signage and home-theatre gear.",
+  "photo": "images/categories/displays.webp",
   "count": 27
  },
  {
@@ -131,6 +134,7 @@ const CATEGORIES = [
   "icon": "scooter-electric",
   "color": "#be123c",
   "tagline": "E-mobility, dashcams, EV charging and car electronics.",
+  "photo": "images/categories/automotive.webp",
   "count": 31
  },
  {
@@ -139,6 +143,7 @@ const CATEGORIES = [
   "icon": "heartbeat",
   "color": "#e11d48",
   "tagline": "Fitness equipment, recovery tools and wellness monitors.",
+  "photo": "images/categories/health-fitness.webp",
   "count": 29
  },
  {
