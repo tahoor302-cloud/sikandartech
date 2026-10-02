@@ -1,0 +1,215 @@
+# audio | Audio & Sound | headphones | #ea580c | Earbuds, headphones, speakers, DACs and microphones.
+True wireless stereo earbuds | device-airpods | A | Compact wireless earbuds with rich sound and a pocket charging case. | Bluetooth 5.3+; 30 h with case; Touch controls; IPX4+
+AI translation earbuds | language | A | Earbuds that translate conversations in real time between languages. | 40+ languages; Two-way translation; Offline modes; App
+Open-ear earbuds | ear | A | Earbuds that sit outside the ear canal so you stay aware of surroundings. | Open-ear design; Directional audio; Secure hooks; IPX5
+Open-ear clip headphones | ear | A | Cuff-style clip earbuds that stay comfortable all day. | Clip-on design; Air-conduction; 8 h playback; Multipoint
+Bone-conduction headphones | headphones | A | Headphones that transmit sound through cheekbones for safe sports listening. | Bone conduction; IP67; Titanium band; 10 h battery
+Air-conduction headphones | headphones | A | Open-ear headphones that beam sound toward the ear for comfort. | Air conduction; Lightweight; Ear-hook fit; IPX5
+Sleep earbuds | moon | A | Ultra-small earbuds designed for side sleeping with noise masking. | Low-profile fit; Noise masking; Sleep tracking; Soft silicone
+Noise-cancelling headphones | headphones | A | Over-ear headphones that block noise for travel and focus. | Hybrid ANC; 30–60 h battery; Multipoint; Foldable
+Adaptive ANC headphones | headphones | A | Headphones that adjust noise cancelling automatically to your environment. | Adaptive ANC; Transparency mode; Hi-Res wireless; Spatial audio
+Spatial-audio headphones | headphones | A | Headphones with head tracking for 3D surround sound. | Head-tracked spatial audio; Dolby Atmos; ANC; Multipoint
+Audiophile headphones | headphones | A | Reference-grade wired headphones for critical listening. | Large dynamic drivers; Open / closed back; Detachable cable; Hi-Res
+Planar-magnetic headphones | headphones | A | Planar drivers for fast, detailed, low-distortion sound. | Planar magnetic driver; Low distortion; Open back; Balanced cable
+Electrostatic headphones | headphones | A | Ultra-high-end electrostatic headphones with dedicated energiser. | Electrostatic driver; Dedicated amplifier; Ultra-low distortion; Premium build
+Gaming headsets | headset | A | Headsets with clear mics and positional sound for gaming. | 7.1 / spatial audio; Detachable mic; 2.4GHz wireless; RGB
+Wireless studio headphones | headphones | A | Studio monitoring headphones with low-latency wireless. | Flat response; Low-latency wireless; Wired mode; Swivel cups
+Bluetooth speakers | device-speaker | A | Portable speakers with big sound for home and outdoors. | 20–60W; IP67; 12–24 h battery; Stereo pairing
+Portable Hi-Fi speakers | device-speaker | A | Premium portable speakers with high-resolution audio. | LDAC / aptX HD; Wi-Fi streaming; Room calibration; Battery
+Smart speakers | device-speaker | A | Voice-controlled speakers for music and smart-home control. | Voice assistant; Multi-room; Wi-Fi; Matter hub
+Spatial-audio speakers | device-speaker | A | Speakers that create immersive 3D sound in your room. | Up-firing drivers; Dolby Atmos; Room correction; Wi-Fi
+Premium desktop speakers | device-speaker | A | Powered bookshelf speakers for desk and studio. | Bi-amplified; USB / optical / Bluetooth; Hi-Res; Wooden cabinet
+Wireless surround-sound systems | volume | A | Wireless 5.1/7.1 speaker systems for home cinema. | Wireless rears; Subwoofer; Dolby Atmos; App control
+Soundbars | volume-2 | A | Slim TV soundbars with Dolby Atmos and wireless subwoofer. | 3.1–9.1.4 channels; Dolby Atmos; HDMI eARC; Wireless sub
+Portable DACs | music | A | Dongle and pocket DACs that upgrade phone and laptop audio. | ESS / AKM DAC; 32-bit/768kHz; USB-C; 3.5 / 4.4 mm out
+USB DAC amplifiers | music | A | Desktop DAC/amps for driving demanding headphones. | Balanced output; High power; MQA / DSD; Remote control
+Bluetooth audio transmitters | bluetooth | A | Add wireless audio to TVs, planes and older stereos. | aptX Low Latency; Dual-link; Optical / AUX; Rechargeable
+Wireless microphones | microphone | A | Clip-on wireless mics for creators, phones and cameras. | 2.4GHz; 250m range; Noise cancelling; Charging case
+AI transcription microphones | microphone-2 | A | Microphones with built-in AI transcription and noise removal. | AI noise removal; Live transcription; USB-C; App
+Podcasting microphones | microphone | A | USB/XLR mics for podcasts, streaming and voice-over. | Dynamic / condenser; USB + XLR; Headphone monitoring; Mute button
+Conference speakerphones | speakerphone | A | Speakerphones for clear conference calls in small and medium rooms. | 360° mics; Echo cancellation; USB / Bluetooth; Daisy-chain
+Digital audio players | player-play | A | Dedicated Hi-Res music players for audiophiles. | Dual DAC; Balanced output; Android streaming; 256GB+
+Network music streamers | playlist | A | Stream lossless music from apps and NAS to your hi-fi. | Wi-Fi / Ethernet; Roon / AirPlay / Chromecast; DAC built-in; App
+Smart hearing protection | ear | A | Earplugs that let speech through while blocking harmful noise. | Adaptive filtering; App modes; Rechargeable; Comfortable fit
+Assistive listening devices | ear-scan | A | Personal amplifiers and streamers for clearer TV and conversation. | Speech amplification; TV streaming; Noise reduction; Easy controls
+
+# cameras | Cameras, Photography & Imaging | camera | #0f766e | Cameras, lighting and imaging systems for every creator.
+Full-frame mirrorless cameras | camera | A | Professional full-frame cameras for photo and video. | 24–61MP full-frame; 4K/8K video; IBIS; AI autofocus
+Medium-format cameras | camera | A | Large-sensor cameras for ultimate image quality. | 50–100MP medium format; 16-bit RAW; IBIS; Weather sealed
+APS-C cameras | camera | A | Compact, capable cameras for enthusiasts and travel. | 24–40MP APS-C; 4K video; Subject tracking AF; Flip screen
+Compact premium cameras | camera | A | Pocketable cameras with large sensors and fast lenses. | 1" / APS-C sensor; Fast zoom lens; 4K; Pocket size
+Cinema cameras | movie | A | Professional cinema cameras with RAW recording. | 6K–8K RAW; Dual native ISO; Pro I/O; Internal ND
+Action cameras | camera | A | Rugged waterproof cameras for sports and adventure. | 4K/5.3K 60fps; Waterproof 10m; HyperSmooth stabilisation; Front screen
+360-degree cameras | world | A | Capture everything around you and reframe later. | 5.7K–8K 360°; Invisible selfie stick; FlowState; Waterproof
+VR cameras | cardboards | A | Stereoscopic 3D cameras for VR and immersive video. | 3D 180° / 360°; 8K; Spatial audio; Live streaming
+AI tracking cameras | camera-ai | A | Cameras that automatically follow subjects for streaming and sports. | AI auto-tracking; Gesture control; 4K; Auto zoom
+Vlogging cameras | video | A | Compact cameras optimised for vloggers and creators. | Flip screen; Directional mic; Product showcase mode; 4K
+Pocket cinema cameras | movie | A | Small form cinema cameras with pro codecs. | 4K–6K RAW; Super35 / MFT; Pro codecs; Large screen
+PTZ cameras | device-cctv | A | Pan-tilt-zoom cameras for live production, churches and classrooms. | 20–30× optical zoom; NDI / SDI / HDMI; Auto tracking; Remote control
+Panoramic cameras | photo | A | Wide panoramic cameras for real estate, meetings and events. | 180°+ field of view; Stitching; 4K; USB / Wi-Fi
+Thermal cameras | temperature | A | Infrared cameras to see heat for inspections and diagnostics. | 160–640 px thermal; Temperature measurement; Visual blend; Reports
+Night-vision cameras | moon-stars | A | Cameras that see clearly in low light and darkness. | Starlight sensor; IR illumination; Colour night vision; Recording
+Multispectral cameras | photo-sensor | A | Cameras capturing multiple light bands for agriculture and science. | 4–10 spectral bands; Calibration panel; Drone mount; Analysis software
+Hyperspectral imaging systems | prism | A | Hundreds of spectral bands for research, food and mineral analysis. | 200+ bands; Push-broom / snapshot; Lab & field; Analysis suite
+LiDAR cameras | radar | A | Depth cameras using LiDAR for 3D mapping and robotics. | ToF / LiDAR sensor; Depth range up to 10m+; SDK; USB-C
+3D depth cameras | device-3d-camera | A | Stereo / ToF depth cameras for robotics and gesture recognition. | Depth + RGB; IMU; ROS / SDK; USB 3
+Machine-vision cameras | photo-sensor-2 | A | Industrial cameras for inspection and automation. | Global shutter; GigE / USB3; C-mount; Trigger I/O
+Industrial inspection cameras | scan-eye | A | Borescopes and inspection cameras for engines, pipes and walls. | Articulating probe; IP67; 1080p; Built-in screen
+High-speed cameras | stopwatch | A | Cameras recording thousands of frames per second for analysis. | 1,000–100,000 fps; Slow-motion analysis; Trigger; Lab use
+Trail cameras | plant | A | Motion-activated cameras for wildlife and property. | 4K video; No-glow IR; PIR trigger; LTE option
+Wildlife cameras | binoculars | A | Weatherproof cameras for observing and recording wildlife. | Weatherproof; Solar options; Night vision; App alerts
+Instant cameras | photo | A | Cameras that print photos instantly. | Instant film / Zink; Selfie mirror; Auto exposure; Fun modes
+Portable photo printers | printer | A | Pocket printers for printing photos from your phone. | Zink / dye-sub; Bluetooth; Sticker paper; Rechargeable
+Smartphone camera rigs | aspect-ratio | A | Cages and rigs for mounting lights, mics and lenses to phones. | Aluminium cage; Cold shoes; Lens mount; Grip handles
+Electronic camera stabilizers | focus-centered | A | 3-axis gimbals for mirrorless and cinema cameras. | 3-axis; 3–4.5kg payload; Follow modes; Wireless control
+Wireless video transmitters | broadcast | A | Send live camera video wirelessly to monitors and directors. | 1080p / 4K; 150–300m range; Low latency; HDMI / SDI
+External camera monitors | device-screen | A | On-camera monitors and recorders with pro tools. | 5–7" 1000+ nits; ProRes RAW recording; LUTs; Waveform
+Wireless follow-focus systems | focus | A | Motorised focus control for cinema lenses. | Wireless motor; Hand unit; Lens calibration; Long range
+Professional LED lighting | bulb | A | Bi-colour and RGB LED lights for photo and video. | High CRI 95+; Bi-colour / RGB; App control; Bowens mount
+Portable studio flash systems | bolt | A | Battery-powered strobes for location photography. | 200–600Ws; TTL / HSS; Wireless trigger; Li-ion battery
+Camera sliders | ruler | A | Linear sliders for smooth cinematic camera moves. | Carbon / aluminium; Motorised options; Time-lapse; Tripod mount
+Motorized camera dollies | truck | A | Motorised dollies and robotic arms for repeatable shots. | Programmable moves; App control; Payload rated; Time-lapse
+3D scanners | scan | A | Scanners that turn real objects into 3D models. | 0.05mm accuracy; Structured light / laser; Colour texture; Handheld
+
+# drones-robotics | Drones, Robotics & Autonomous Machines | drone | #4f46e5 | Drones, robots and autonomous machines for home, industry and education.
+Professional camera drones | drone | A | High-end drones with large sensors for aerial photography and film. | 4/3 sensor; 5.1K video; Obstacle avoidance; 40+ min flight
+Compact travel drones | drone | A | Lightweight foldable drones under 249g for travel. | Under 249g; 4K HDR; 30+ min flight; Foldable
+FPV drones | drone | A | First-person-view drones with goggles for immersive flight. | FPV goggles; Motion controller; 4K; Emergency brake
+Racing drones | drone | A | High-speed drones for competitive racing. | 5" frame; High KV motors; Low-latency video; Durable carbon
+Cinematic FPV drones | drone | A | Ducted cinewhoop drones for smooth indoor and close-proximity shots. | Ducted propellers; 4K stabilised; Compact; GoPro mount
+Autonomous inspection drones | drone | A | Drones that inspect infrastructure automatically. | Autonomous routes; Dock station; Zoom + thermal; AI analysis
+Enterprise mapping drones | map | A | Survey drones for mapping, GIS and construction. | RTK positioning; Mechanical shutter; LiDAR option; Mapping software
+Agricultural drones | plant-2 | A | Spraying and spreading drones for precision farming. | 20–50L tank; Terrain following; Spray & spread; Field mapping
+Thermal-imaging drones | temperature | A | Drones with thermal cameras for rescue, firefighting and inspection. | 640 px thermal; Zoom camera; Spotlight; IP rating
+Indoor micro-drones | drone | A | Small safe drones for indoor flying and inventory scanning. | Prop guards; Optical flow; Indoor stable; Lightweight
+Educational drones | school | A | Programmable drones for STEM classrooms. | Block / Python coding; Prop guards; Swarm mode; Classroom kits
+Programmable robotics drones | code | A | Drones with SDKs for research and developers. | Open SDK; Onboard computer; Sensors; ROS support
+Underwater remotely operated vehicles | submarine | A | Underwater drones for exploration, fishing and inspection. | 100–200m depth; 4K camera; Tethered; Lights
+Underwater inspection robots | submarine | A | Professional ROVs for hull, pipe and dam inspection. | Thrusters; Sonar; Robotic arm; Positioning
+Unmanned surface boats | speedboat | A | Autonomous boats for water sampling and surveys. | GPS autopilot; Sonar / sampling; Long range; Solar options
+Robot dogs | dog | A | Quadruped robots for research, inspection and entertainment. | Quadruped; LiDAR; SDK; 2–4 h runtime
+Humanoid robots | robot | A | Bipedal humanoid robots for research, education and demonstration. | Bipedal; 20+ DoF; AI SDK; Research platform
+Home assistant robots | robot | C | Robots that help around the home with monitoring and simple tasks. | Navigation; Camera & voice; Smart-home control; App
+Educational robots | school | A | Robots that teach coding and engineering to students. | Block & Python coding; Sensors; Curriculum; Rechargeable
+Robotic arms | robot | A | Industrial and collaborative robot arms for automation. | 6-axis; 3–20kg payload; Collaborative safety; Teach pendant
+Desktop robotic arms | robot | A | Small robot arms for education, laser engraving and prototyping. | 4–6 axis; Interchangeable tools; Python / Blockly; Desktop size
+Autonomous delivery robots | truck-delivery | A | Self-driving robots that deliver food and parcels in buildings and campuses. | Autonomous navigation; Secure compartments; Elevator integration; Fleet software
+Warehouse robots | forklift | A | AMRs that move goods and shelves in warehouses. | Autonomous mobile; 300kg+ payload; Fleet management; Safety lidar
+Telepresence robots | device-ipad | A | Robots with screens that let you be present remotely. | Video calling; Remote driving; Auto docking; Wi-Fi
+Security patrol robots | shield | A | Robots that patrol premises with cameras and alerts. | 360° cameras; Thermal; Patrol routes; Alarm integration
+Companion robots | mood-smile | A | Emotional companion robots for families and elderly users. | Expressive face; Voice chat; Reminders; Video calls
+Social robots | robot-face | A | Interactive robots for reception, retail and education. | Touchscreen; Speech; Face recognition; Custom apps
+Robotic lawn mowers | plant | A | Autonomous mowers with wire-free RTK or vision navigation. | Wire-free RTK / vision; Rain sensor; App zones; Anti-theft
+Window-cleaning robots | window | A | Robots that clean windows and glass walls automatically. | Suction adhesion; Edge detection; Spray system; Safety rope
+Robotic pool cleaners | swimming | A | Cordless robots that clean pool floors and walls. | Cordless; Wall climbing; Filter basket; Smart routes
+Robotic vacuum cleaners | vacuum-cleaner | A | Robot vacuums that map and clean your home automatically. | LiDAR mapping; 8000Pa+ suction; Obstacle avoidance; App control
+Robot vacuum-mop systems | vacuum-cleaner | A | All-in-one robots that vacuum, mop and self-clean. | Auto-empty; Mop washing & drying; Hot water; Carpet detection
+Stair-climbing cleaning robots | vacuum-cleaner | C | Next-gen cleaning robots that climb stairs between floors. | Stair-climbing mechanism; Multi-floor maps; Vacuum & mop; AI vision
+Autonomous mobile robots | robot | A | AMRs for factories, hospitals and logistics. | SLAM navigation; Payload modules; Fleet software; Safety certified
+Exoskeleton assistance devices | walk | A | Powered exoskeletons that reduce strain while lifting or walking. | Hip / back assist; Lightweight; Battery powered; Industrial / mobility
+
+# gaming | Gaming & Immersive Entertainment | device-gamepad-2 | #dc2626 | Consoles, handhelds, sim racing and gear for serious gamers.
+Gaming consoles | device-gamepad | A | Latest home consoles for 4K gaming and streaming. | 4K 120fps; SSD storage; Ray tracing; Online services
+Handheld gaming PCs | device-nintendo | A | Portable PCs that play your PC game library anywhere. | 7–8" 120Hz screen; AMD APU; Windows / SteamOS; 1TB SSD
+Portable gaming consoles | device-nintendo | A | Hybrid and portable consoles for gaming on the go. | Handheld / docked; Detachable controllers; OLED options; Cartridges
+Cloud gaming devices | cloud | A | Handhelds built for streaming games from the cloud. | Cloud streaming; Wi-Fi 6; Low latency; Long battery
+Retro gaming handhelds | device-gamepad-3 | A | Handhelds that play classic games and emulators. | IPS screen; Emulation; Wi-Fi; Pocket size
+Android gaming handhelds | device-gamepad-3 | A | Android handhelds with physical controls for mobile and streaming games. | Snapdragon G-series; Hall sticks; Active cooling; Google Play
+VR gaming headsets | cardboards | A | Headsets designed for immersive VR gaming. | Standalone / PC VR; 120Hz; Tracked controllers; Mixed reality
+AR gaming glasses | augmented-reality | A | AR glasses for playing on a giant virtual screen. | 200" virtual screen; Low latency; Console / PC compatible; Lightweight
+OLED gaming monitors | device-desktop | A | OLED monitors with instant response for gaming. | 240–480Hz OLED; 0.03 ms; HDR; Anti-burn-in care
+High-refresh-rate monitors | device-desktop | A | 144–540Hz monitors for smooth competitive play. | 144–540Hz; Adaptive sync; 1 ms; Height-adjustable
+Ultrawide gaming displays | device-desktop | A | Curved ultrawide displays for immersive gaming. | 34–49" curved; 165–240Hz; HDR; PBP
+Mini-LED gaming displays | device-desktop | A | Bright HDR gaming monitors with Mini-LED backlight. | Mini-LED; HDR1000; 4K 160Hz; Local dimming
+Mechanical keyboards | keyboard | A | Mechanical keyboards with tactile switches and RGB. | Hot-swap switches; Gasket mount; RGB; Wireless tri-mode
+Hall-effect keyboards | keyboard | A | Magnetic Hall-effect keyboards with adjustable actuation and rapid trigger. | Hall-effect switches; Adjustable actuation; Rapid trigger; 8000Hz
+Magnetic-switch keyboards | keyboard | A | Keyboards with magnetic switches for ultra-fast esports input. | Magnetic switches; 0.1mm actuation; Rapid trigger; Aluminium case
+Low-latency gaming mice | mouse | A | Ultralight wireless mice with flawless sensors. | 26K–30K DPI sensor; Under 60g; 2.4GHz; 90 h battery
+High-polling-rate gaming mice | mouse-2 | A | 4K–8K Hz polling mice for the lowest input lag. | 8000Hz polling; Optical switches; Lightweight; Wireless
+Gaming controllers | device-gamepad-2 | A | Wireless controllers for PC, console and mobile. | Multi-platform; Back paddles; Rumble; Rechargeable
+Hall-effect controllers | device-gamepad-2 | A | Controllers with drift-free Hall-effect sticks and triggers. | Hall sticks & triggers; No stick drift; Back buttons; Wireless
+Fight sticks | device-gamepad | A | Arcade sticks for fighting games. | Sanwa-style parts; Leverless options; Multi-platform; Mod-friendly
+Racing wheels | steering-wheel | A | Force-feedback wheels for racing games. | Force feedback; 900° rotation; Pedals; PC / console
+Direct-drive wheelbases | steering-wheel | A | Direct-drive bases for realistic sim racing force feedback. | 5–25Nm torque; Quick release; Wheel rims; PC software
+Racing pedals | gauge | A | Load-cell pedals for precise braking. | Load-cell brake; Adjustable; 2–3 pedals; USB
+Flight simulation controls | plane | A | Joysticks, throttles and yokes for flight sims. | HOTAS / yoke; Hall sensors; Programmable buttons; PC
+Sim-racing cockpits | armchair | A | Rigid cockpits for wheels, pedals and seats. | Aluminium profile; Adjustable; Monitor mount; Seat included options
+Haptic gaming accessories | hand-click | A | Vests, cushions and pads that let you feel gameplay. | Haptic motors; Game integration; Wireless; Audio-driven
+Gaming capture cards | cast | A | Capture console and PC gameplay for streaming. | 4K60 pass-through; 1080p60 capture; USB-C / PCIe; Low latency
+External streaming devices | broadcast | A | All-in-one boxes for live streaming without a PC. | Multi-input; RTMP streaming; Recording; Touchscreen
+Streaming control decks | layout-board | A | Customisable button decks for streaming and shortcuts. | LCD keys; Dials; Plugins; USB-C
+Gaming DACs | music | A | DAC/amps tuned for gaming audio and voice chat. | Virtual surround; Mic input; USB; Game/chat mix
+Portable gaming SSDs | device-floppy | A | Fast portable SSDs for console and PC game libraries. | 1–4TB; 1000–2000 MB/s; Console certified; RGB options
+Gaming routers | router | A | Routers that prioritise gaming traffic for lower ping. | Wi-Fi 7; Game QoS; 2.5–10G ports; Gaming VPN
+Gaming chairs | armchair-2 | A | Ergonomic chairs for long gaming sessions. | 4D armrests; Lumbar support; Recline; Breathable fabric
+Motion simulator platforms | armchair | A | Motion rigs that move with racing and flight games. | 2–6DoF; Telemetry; Payload rated; PC software
+
+# smart-home | Smart Home & Connected Living | smart-home | #0284c7 | Hubs, lighting, security, sensors and automation for a connected home.
+Smart home hubs | home-signal | A | Central hubs that connect and automate all your smart devices. | Matter / Thread / Zigbee; Local automation; App; Voice assistant
+Matter-compatible controllers | home-bolt | A | Controllers that bring Matter devices from any brand together. | Matter controller; Thread border router; Multi-admin; Wi-Fi / Ethernet
+Smart lighting | bulb | A | Wi-Fi and Zigbee smart bulbs with colour and scenes. | 16M colours; Tunable white; Voice control; Schedules
+Smart LED strips | bulb | A | App-controlled LED strips for rooms, TVs and desks. | RGBIC; Music sync; 5–20m; App & voice
+Addressable lighting systems | sparkles | A | Pixel-addressable lights for effects and architecture. | Per-pixel control; DMX / WLED; Outdoor rated; Effects library
+Smart switches | power | A | Wall switches that add app and voice control to lights. | Neutral / no-neutral; Matter; Scenes; Energy monitoring
+Smart plugs | outlet | A | Plugs that make any appliance smart. | Wi-Fi / Matter; Energy monitoring; Schedules; Compact
+Smart dimmers | bulb | A | Smart dimmer switches for smooth lighting control. | Dimming; Scenes; Voice control; LED compatible
+Smart thermostats | temperature | A | Learning thermostats that save energy automatically. | Learning schedules; Geofencing; Energy reports; Remote sensors
+Smart air-quality sensors | lungs | A | Monitors for PM2.5, CO2, VOC, temperature and humidity. | PM2.5 / CO2 / VOC; Display; Alerts; Automation triggers
+Smart locks | lock | A | Keyless locks with app, code and auto-unlock. | App / code / key; Auto-lock; Guest access; Matter options
+Fingerprint door locks | fingerprint | A | Biometric locks that open with your fingerprint or face. | Fingerprint / face; PIN & card; App; Alarm
+Smart doorbells | bell | A | Video doorbells with motion alerts and two-way talk. | 2K video; Head-to-toe view; Package detection; Chime
+Video intercoms | device-ipad | A | Video intercom systems for homes and apartments. | Indoor monitor; Door station; App unlock; Multi-apartment
+Smart security cameras | device-cctv | A | Indoor and outdoor Wi-Fi cameras with app alerts. | 2K/4K; Night vision; Two-way audio; Cloud / local storage
+AI surveillance cameras | camera-ai | A | Cameras with AI analytics for people, vehicles and faces. | AI detection; ANPR options; NVR support; PoE
+Pan-tilt-zoom cameras | device-cctv | A | PTZ cameras that rotate and zoom to cover large areas. | 355° pan; Optical zoom; Auto tracking; PoE / Wi-Fi
+Smart alarm systems | alarm | A | DIY alarm systems with sensors, sirens and monitoring. | Hub & sensors; Siren; App alerts; Professional monitoring
+Glass-break sensors | window | A | Sensors that detect the sound of breaking glass. | Acoustic detection; Wireless; Battery; Alarm integration
+Water-leak detectors | droplet | A | Sensors that alert you to leaks before damage occurs. | Leak alerts; Auto shut-off options; Wireless; Long battery
+Smoke and carbon-monoxide detectors | alarm-smoke | A | Connected smoke and CO alarms with phone alerts. | Smoke + CO; App alerts; Interconnect; 10-year battery
+Smart blinds | blind | A | Motorised blinds controlled by app, voice or schedule. | Motorised; Rechargeable / wired; Schedules; Voice control
+Smart curtains | blind | A | Curtain motors that open and close automatically. | Retrofit motor; Sunrise mode; App; Quiet operation
+Smart mirrors | device-ipad | A | Mirrors with built-in displays, lighting and touch controls. | Hidden display; LED lighting; Anti-fog; Touch controls
+Smart bathroom scales | scale | A | Scales that sync weight and body composition to apps. | Body composition; Multi-user; Wi-Fi / Bluetooth; App
+Smart water monitors | droplet | A | Monitors that track household water use and detect leaks. | Flow sensing; Leak detection; Usage reports; App
+Smart irrigation systems | plant | A | Sprinkler controllers that water based on weather. | Weather-based; Multi-zone; App; Water savings
+Smart garage controllers | car-garage | A | Open and monitor your garage door from your phone. | Remote open/close; Status alerts; Schedules; Voice
+Smart energy meters | gauge | A | Monitor whole-home and circuit-level electricity use. | Real-time usage; Solar monitoring; CT clamps; App
+Whole-home automation controllers | smart-home | A | Professional controllers for lighting, climate, AV and security. | Multi-protocol; Touch panels; Scenes; Installer programmed
+Smart pet feeders | paw | A | Automatic feeders with schedules and camera. | Scheduled meals; Camera; App; Portion control
+Automatic pet water fountains | droplet | A | Filtered fountains that keep pet water fresh. | Filtration; Quiet pump; Low-water alert; App options
+Smart aquariums | fish | A | Aquariums with app-controlled lighting, filtration and feeding. | LED lighting; Filtration; Auto feeder; App
+Connected air purifiers | wind | A | Air purifiers with sensors and app control. | HEPA H13; PM2.5 sensor; App; Auto mode
+
+# kitchen-appliances | Smart Kitchen & Home Appliances | tools-kitchen-2 | #b45309 | Connected kitchen appliances, laundry and climate control.
+AI-enabled refrigerators | fridge | A | Refrigerators with AI food recognition and inventory tracking. | Internal cameras; AI food ID; Touch screen; Inverter compressor
+Smart refrigerators with internal cameras | fridge | A | See inside your fridge from your phone while shopping. | Interior cameras; App view; Wi-Fi; Energy efficient
+Smart freezers | fridge | A | Connected freezers with temperature alerts. | Temperature alerts; Fast freeze; App; Inverter
+Smart ovens | cooker | A | Ovens with cameras, recipes and remote control. | Built-in camera; Guided cooking; Steam; App
+Connected microwave ovens | microwave | A | Microwaves with app and voice control. | Voice control; Sensor cooking; Scan-to-cook; Inverter
+Smart induction cooktops | flame | A | Induction hobs with precise temperature control and app recipes. | Flex zones; Temperature probe; App; Hood sync
+Precision sous-vide machines | temperature | A | Sous-vide cookers for restaurant-quality results. | ±0.1°C accuracy; Wi-Fi; App recipes; 1000W+
+Smart air fryers | chef-hat | A | Air fryers with presets, app control and viewing window. | 5–10L; App recipes; Dual basket; Window
+Smart espresso machines | coffee | A | Espresso machines with grinder, presets and app. | Built-in grinder; Milk system; App recipes; PID control
+Connected coffee makers | coffee | A | Coffee makers you can schedule from your phone. | Scheduling; Strength control; App; Thermal carafe
+Automatic milk frothers | milk | A | Frothers for hot and cold milk foam. | Hot / cold foam; Induction; Dishwasher safe; One-touch
+Smart kettles | cup | A | Kettles with precise temperature and keep-warm. | Variable temperature; Keep warm; App; Gooseneck options
+Smart blenders | blender | A | Blenders with programs and app recipes. | Preset programs; Self-clean; App; High power
+High-speed vacuum blenders | blender | A | Blenders that remove air for fresher smoothies. | Vacuum blending; 1500W+; Programs; Noise cover
+Smart kitchen scales | scale | A | Scales that track nutrition and guide recipes. | Nutrition app; 0.1g precision; Bluetooth; Waterproof
+Connected food thermometers | thermometer | A | Wireless meat thermometers with app alerts. | Wireless probes; Long range; App alerts; Dishwasher safe
+Smart multicookers | soup | A | Pressure cookers with app control and many programs. | Pressure / slow / sauté; App; Programs; Delay start
+Automatic cooking machines | chef-hat | A | Machines that cook recipes automatically from start to finish. | Auto stirring; Recipe library; Ingredient dispensing; Touch screen
+Smart dishwashers | wash-machine | A | Dishwashers with auto-dosing and remote monitoring. | Auto dose; Quiet; App; Energy efficient
+Heat-pump dryers | wash-dry-1 | A | Energy-efficient dryers that are gentle on clothes. | Heat-pump; A+++ efficiency; Sensor drying; App
+Smart washing machines | wash-machine | A | Washers with AI wash cycles and auto dosing. | AI wash; Auto dosing; Steam; App
+Robot window cleaners | window | A | Window-cleaning robots for glass and smooth surfaces. | Suction; Spray; Edge detection; Remote control
+Robot vacuum-mop cleaners | vacuum-cleaner | A | Robots that vacuum and mop with self-emptying docks. | Self-empty; Mop lifting; App maps; Obstacle avoidance
+Air-quality monitors | lungs | A | Indoor monitors for CO2, PM2.5 and VOCs. | Multi-sensor; Display; App history; Alerts
+Smart humidifiers | droplet | A | Humidifiers with target humidity and app control. | Auto humidity; Ultrasonic / evaporative; App; Quiet
+Smart dehumidifiers | droplet | A | Dehumidifiers with app control and auto drain. | 20–50L/day; Auto mode; App; Continuous drain
+Portable air conditioners | air-conditioning | A | Movable AC units with Wi-Fi control. | 9000–14000 BTU; Wi-Fi; Dehumidify; Window kit
+Smart fans | wind | A | Quiet DC fans with app, voice and auto modes. | DC motor; Oscillation; App; Air circulator
+Smart water dispensers | bottle | A | Hot and cold water dispensers with filtration. | Instant hot; Filtration; Child lock; Touch panel
+Automatic garment steamers | ironing-steam | A | Steamers that refresh clothes quickly. | Fast heat-up; Vertical steaming; Large tank; Auto off
+Smart clothing-care systems | hanger | A | Cabinets that refresh, sanitise and de-wrinkle clothes. | Steam refresh; Sanitise; Gentle dry; App
+UV-cleaning home devices | sun | A | UV-C devices for disinfecting phones, keys and surfaces. | UV-C LEDs; Auto timer; Safety lock; Portable

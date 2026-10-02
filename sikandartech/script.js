@@ -14,99 +14,89 @@ const WHATSAPP_NUMBER = CONTACT.whatsapp;
 const waLink = (text) =>
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
 
+const $ = (id) => document.getElementById(id);
+
+// Inline SVG for a Tabler icon name (see icons.js)
+function iconSvg(name, cls = "") {
+  const body = (typeof ICONS !== "undefined" && ICONS[name]) || "";
+  return `<svg class="${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${body}</svg>`;
+}
+
 // ---------- Mobile menu ----------
 const toggle = document.querySelector(".nav-toggle");
 const links = document.querySelector(".nav-links");
-toggle.addEventListener("click", () => {
-  const open = links.classList.toggle("open");
-  toggle.setAttribute("aria-expanded", open);
-});
-links.querySelectorAll("a").forEach((a) =>
-  a.addEventListener("click", () => {
-    links.classList.remove("open");
-    toggle.setAttribute("aria-expanded", false);
-  })
-);
-
-// ---------- Products ----------
-const grid = document.getElementById("product-grid");
-const filtersEl = document.getElementById("filters");
-const searchEl = document.getElementById("search");
-const countEl = document.getElementById("result-count");
-
-const categories = ["All", ...new Set(PRODUCTS.map((p) => p.category))];
-let activeCategory = "All";
-
-categories.forEach((cat) => {
-  const btn = document.createElement("button");
-  btn.className = "filter" + (cat === "All" ? " active" : "");
-  btn.textContent = cat;
-  btn.addEventListener("click", () => {
-    activeCategory = cat;
-    filtersEl.querySelectorAll(".filter").forEach((b) => b.classList.toggle("active", b === btn));
-    render();
+if (toggle && links) {
+  toggle.addEventListener("click", () => {
+    const open = links.classList.toggle("open");
+    toggle.setAttribute("aria-expanded", open);
   });
-  filtersEl.appendChild(btn);
-});
-
-function render() {
-  const q = searchEl.value.trim().toLowerCase();
-  const list = PRODUCTS.filter(
-    (p) =>
-      (activeCategory === "All" || p.category === activeCategory) &&
-      (p.name + " " + p.features + " " + p.category).toLowerCase().includes(q)
+  links.querySelectorAll("a").forEach((a) =>
+    a.addEventListener("click", () => {
+      links.classList.remove("open");
+      toggle.setAttribute("aria-expanded", false);
+    })
   );
-
-  grid.innerHTML = "";
-  list.forEach((p) => {
-    const card = document.createElement("article");
-    card.className = "card product";
-    card.innerHTML = `
-      <div class="product-icon">${p.icon}</div>
-      <span class="tag">${p.category}</span>
-      <h3>${p.name}</h3>
-      <p>${p.features}</p>
-      <a class="btn btn-sm" target="_blank" rel="noopener"
-         href="${waLink(`Hi Sikandar Tech, I want a quote for: ${p.name}`)}">Get Quote</a>`;
-    grid.appendChild(card);
-  });
-
-  countEl.textContent = `${list.length} product${list.length === 1 ? "" : "s"}`;
 }
 
-searchEl.addEventListener("input", render);
-render();
+// ---------- Home: categories ----------
+if (typeof CATEGORIES !== "undefined") {
+  const total = PRODUCTS.length;
+  const rounded = Math.floor(total / 10) * 10 + "+";
+  if ($("stat-products")) $("stat-products").textContent = rounded;
+  if ($("cat-summary")) $("cat-summary").textContent = `${total} products in ${CATEGORIES.length} categories`;
+
+  const grid = $("cat-grid");
+  if (grid) {
+    grid.innerHTML = CATEGORIES.map(
+      (c) => `
+      <a class="cat-tile" href="products.html?cat=${c.id}" style="--c:${c.color}">
+        <span class="cat-icon">${iconSvg(c.icon)}</span>
+        <span class="cat-text">
+          <strong>${c.name}</strong>
+          <small>${c.count} products</small>
+        </span>
+        <span class="cat-arrow">&rarr;</span>
+      </a>`
+    ).join("");
+  }
+  document.querySelectorAll("[data-icon]").forEach((el) => (el.innerHTML = iconSvg(el.dataset.icon)));
+}
 
 // ---------- Contact form -> WhatsApp ----------
-document.getElementById("contact-form").addEventListener("submit", (e) => {
-  e.preventDefault();
-  const d = new FormData(e.target);
-  const text =
-    `Name: ${d.get("name")}\nContact: ${d.get("contact")}\n` +
-    `Product: ${d.get("product")}\nMessage: ${d.get("message")}`;
-  window.open(waLink(text), "_blank");
-});
+const form = $("contact-form");
+if (form) {
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const d = new FormData(e.target);
+    const text =
+      `Name: ${d.get("name")}\nContact: ${d.get("contact")}\n` +
+      `Product: ${d.get("product")}\nMessage: ${d.get("message")}`;
+    window.open(waLink(text), "_blank");
+  });
+}
 
-// ---------- Misc ----------
+// ---------- Contact details ----------
 const hello = waLink("Hi Sikandar Tech, I need help sourcing a product.");
-const waEl = document.getElementById("whatsapp-link");
-waEl.href = hello;
-waEl.textContent = CONTACT.whatsappDisplay;
-
-document.getElementById("wechat-id").textContent = CONTACT.wechat;
-document.getElementById("wechat-row").hidden = !CONTACT.wechat;
-
-const phoneEl = document.getElementById("phone-link");
-phoneEl.textContent = CONTACT.phone;
-phoneEl.href = "tel:" + CONTACT.phone.replace(/[^\d+]/g, "");
-document.getElementById("phone-row").hidden = !CONTACT.phone;
-
-const emailEl = document.getElementById("email-link");
-emailEl.textContent = CONTACT.email;
-emailEl.href = "mailto:" + CONTACT.email;
-document.getElementById("whatsapp-float").href = hello;
-
-const tiktokEl = document.getElementById("tiktok-link");
-tiktokEl.href = "https://www.tiktok.com/@" + CONTACT.tiktok.replace(/^@/, "");
-tiktokEl.hidden = !CONTACT.tiktok;
-document.getElementById("year").textContent = new Date().getFullYear();
+if ($("whatsapp-link")) {
+  $("whatsapp-link").href = hello;
+  $("whatsapp-link").textContent = CONTACT.whatsappDisplay;
+}
+if ($("wechat-id")) {
+  $("wechat-id").textContent = CONTACT.wechat;
+  $("wechat-row").hidden = !CONTACT.wechat;
+}
+if ($("phone-link")) {
+  $("phone-link").textContent = CONTACT.phone;
+  $("phone-link").href = "tel:" + CONTACT.phone.replace(/[^\d+]/g, "");
+  $("phone-row").hidden = !CONTACT.phone;
+}
+if ($("email-link")) {
+  $("email-link").textContent = CONTACT.email;
+  $("email-link").href = "mailto:" + CONTACT.email;
+}
+if ($("whatsapp-float")) $("whatsapp-float").href = hello;
+if ($("tiktok-link")) {
+  $("tiktok-link").href = "https://www.tiktok.com/@" + CONTACT.tiktok.replace(/^@/, "");
+  $("tiktok-link").hidden = !CONTACT.tiktok;
+}
+if ($("year")) $("year").textContent = new Date().getFullYear();

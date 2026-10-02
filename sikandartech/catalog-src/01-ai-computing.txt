@@ -1,0 +1,151 @@
+# Product catalogue source. Rebuild with: python3 catalog-src/build.py
+# Category line:  # slug | Category name | icon | color | tagline
+# Product line:   Name | icon | status | description | spec; spec; spec; spec
+# status: A = Available now, C = Coming soon, E = Emerging technology
+
+# ai-gadgets | AI Gadgets & Personal AI | sparkles | #7c3aed | Assistants, recorders and translators powered by on-device and cloud AI.
+AI smart glasses | eyeglass-2 | A | Everyday glasses with a built-in voice assistant, camera and open-ear audio for hands-free AI help. | 12MP camera; Open-ear speakers; Voice assistant; 4–6 h battery
+Display-equipped AI glasses | eyeglass-2 | A | Smart glasses with a discreet in-lens display for notifications, navigation and live captions. | Monocular waveguide display; Touch & voice control; Live captions; Charging case
+Camera-enabled smart glasses | eyeglass | A | Capture photos and first-person video straight from your glasses and share instantly. | 12MP photo; 1080p/3K video; LED capture indicator; Wi-Fi & Bluetooth
+Audio smart glasses | eyeglass | A | Stylish frames with directional speakers for music and calls without earbuds. | Open-ear speakers; Dual microphones; Touch controls; UV400 lenses
+Real-time translation glasses | language | A | Glasses that listen and show or speak translations during face-to-face conversations. | 40+ languages; Live subtitles; Noise-reduction mics; App companion
+AI wearable assistants | sparkles | A | Clip-on or wrist-worn assistants that answer questions, take notes and set reminders. | Voice activation; LLM-powered answers; All-day battery; Privacy LED
+AI voice recorders | microphone-2 | A | Pocket recorders that transcribe, summarise and translate meetings and calls automatically. | 64GB storage; 30 h recording; AI summaries; 100+ languages
+AI meeting transcription devices | file-text-ai | A | Dedicated devices that record meetings and deliver searchable transcripts and action items. | Multi-mic array; Speaker identification; Cloud sync; 20 h battery
+AI note-taking pendants | sparkles | A | Wearable pendants that capture conversations and turn them into concise notes. | Magnetic clip/necklace; Beamforming mics; AI notes; USB-C charging
+AI pins and wearable assistants | pin | A | Pin-style wearables that respond to voice and gestures without a phone in hand. | Magnetic mount; Voice & touch; Camera module; LTE / Wi-Fi
+AI desktop companions | robot-face | A | Expressive desktop robots that chat, remind and keep you company at your workspace. | Animated display face; Voice interaction; Facial recognition; App control
+AI voice assistant devices | device-speaker | A | Compact speakers with conversational AI for questions, music and smart-home control. | Far-field mics; 360° sound; Smart-home hub; Wi-Fi & Bluetooth
+AI translation devices | language | A | Handheld two-way translators for travel and business, online or offline. | 130+ languages online; Offline packs; Photo translation; 4" touchscreen
+AI reading pens | ballpen | A | Scan printed text to hear it read aloud, translated and explained instantly. | OCR scanning; Text-to-speech; 100+ languages; Offline dictionary
+AI scanning pens | scan | A | Scan lines of text into your computer or phone with AI correction and translation. | 300 DPI scan head; Bluetooth / USB; Excel & Word export; Rechargeable
+AI learning companions | school | A | Interactive learning devices that tutor children with voice, quizzes and stories. | Child-safe AI; Curriculum content; Parental controls; Touch display
+AI-powered dictation devices | microphone | A | Professional dictation recorders with AI transcription for legal and medical workflows. | Noise-cancelling mic; Push-to-record; Encrypted files; Workflow software
+AI-enabled earbuds | earphone-bluetooth | A | Wireless earbuds with built-in AI assistant, live translation and smart noise control. | Adaptive ANC; Live translation; Voice assistant; 30 h with case
+AI security cameras | camera-ai | A | Cameras with on-device AI that recognise people, vehicles and parcels to cut false alerts. | 2K/4K video; Person & vehicle detection; Local storage; Night vision
+AI robotic assistants | robot | A | Mobile home robots that patrol, monitor and interact through voice and video. | Autonomous navigation; HD camera; Two-way talk; App control
+AI-powered smart displays | device-ipad-horizontal | A | Smart screens with AI assistant for calls, recipes, calendars and home control. | 8–15" touchscreen; Video calling; Smart-home hub; Privacy shutter
+AI document scanners | scan | A | Fast document scanners with AI cropping, OCR and automatic file naming. | 30–60 ppm duplex; OCR to PDF/Word; Wi-Fi; Auto document feeder
+AI-powered conference speakerphones | speakerphone | A | Speakerphones that isolate voices, remove noise and transcribe calls with AI. | 360° beamforming; AI noise removal; USB-C & Bluetooth; Teams/Zoom ready
+Context-aware wearable devices | sparkles | C | Next-generation wearables that understand location and activity to offer proactive help. | Multi-sensor fusion; On-device AI; Proactive suggestions; Low-power chip
+
+# computers | Computers, Laptops & Advanced Computing | device-laptop | #2563eb | AI PCs, workstations, mini PCs and displays for work, creation and play.
+AI laptops | device-laptop | A | Laptops with a dedicated NPU for fast on-device AI features and long battery life. | 40+ TOPS NPU; 16–32GB RAM; 1TB SSD; All-day battery
+Copilot-enabled PCs | device-laptop | A | Windows PCs built for Copilot+ AI features such as recall, live captions and image tools. | Copilot key; 40+ TOPS NPU; 16GB+ RAM; Windows 11
+AI workstations | device-workstation | A | High-end workstations for AI training, rendering and simulation workloads. | Pro GPU up to 48GB+; 64–256GB RAM; Multi-core CPU; ISV certified
+AI mini PCs | cpu | A | Compact desktop computers with AI acceleration for office and edge workloads. | Ryzen AI / Core Ultra; NPU built-in; Dual 4K output; Wi-Fi 6E
+Gaming laptops | device-laptop | A | High-refresh gaming laptops with powerful GPUs and advanced cooling. | RTX-class GPU; 165–240Hz display; RGB keyboard; Vapour-chamber cooling
+Creator laptops | device-laptop | A | Colour-accurate laptops for photo, video and 3D creators. | OLED / Mini-LED 100% DCI-P3; Pro GPU; 32GB RAM; Thunderbolt 4
+Business laptops | briefcase | A | Secure, lightweight laptops for professionals with enterprise management. | Fingerprint & IR login; TPM 2.0; 14" lightweight; 3-year warranty options
+ARM-based laptops | cpu-2 | A | Efficient ARM laptops with exceptional battery life and instant wake. | ARM SoC with NPU; 20+ h battery; Fanless options; 5G options
+OLED laptops | device-laptop | A | Laptops with deep-black OLED displays for vivid media and creative work. | 2.8K–4K OLED; 120Hz; HDR True Black; Slim aluminium body
+Dual-screen laptops | device-laptop | A | Laptops with a second full or secondary display for multitasking. | Dual OLED screens; Detachable keyboard; Stylus support; Multiple modes
+Foldable laptops | device-laptop | A | Laptops with a single folding screen that work as tablet, laptop or desktop. | 16–17" foldable OLED; Bluetooth keyboard; Kickstand; Pen support
+Rollable-display laptops | device-laptop | C | Laptops whose display rolls upward to expand screen space on demand. | Motorised rollable OLED; 14" to 16.7" area; Premium build; Limited release
+Modular laptops | tools | A | Repairable laptops with swappable ports, keyboards and upgradeable parts. | Expansion card ports; User-replaceable parts; Upgradeable mainboard; DIY editions
+Rugged laptops | shield-check | A | Military-grade laptops built for field work, factories and extreme conditions. | MIL-STD-810H; IP65; Sunlight-readable screen; Hot-swap batteries
+Solar-assisted laptops | solar-panel | C | Laptops with integrated solar panels for off-grid top-up charging. | Built-in solar lid; Low-power CPU; Long battery; Field-ready design
+Mini PCs | cpu | A | Small, quiet desktop PCs for home, office and digital signage. | Intel / AMD CPU; 16GB RAM; 512GB SSD; Triple display
+Fanless mini computers | cpu | A | Silent, dust-proof computers for industrial and 24/7 use. | Passive cooling; Wide temperature range; Dual LAN; COM ports
+Compact AI computing systems | cpu-2 | A | Desktop AI supercomputers for running large models locally. | Unified memory 64–128GB; AI accelerator; Compact chassis; Linux AI stack
+Small-form-factor gaming PCs | device-desktop | A | Console-size gaming PCs with desktop-class graphics. | RTX-class GPU; Liquid / air cooling; Under 10L; Wi-Fi 7
+Desktop workstations | device-desktop | A | Tower workstations for engineering, CAD and media production. | Xeon / Threadripper; ECC memory; Pro GPU; Tool-less chassis
+All-in-one PCs | device-imac | A | Clean desk PCs with the computer built into a high-resolution display. | 24–32" 4K display; Pop-up webcam; Speakers built-in; Wireless keyboard & mouse
+High-performance desktop computers | device-desktop | A | Powerful desktops for gaming, streaming and heavy multitasking. | Latest CPU; RTX-class GPU; 32GB DDR5; Liquid cooling
+AI edge-computing computers | server | A | Rugged edge computers that run AI vision and analytics close to the source. | GPU / NPU module; PoE inputs; Fanless; DIN-rail mount
+Single-board computers | cpu | A | Credit-card-size computers for learning, prototyping and IoT. | Quad / octa-core ARM; GPIO header; HDMI out; Linux support
+External GPUs | cpu-2 | A | Graphics enclosures that boost laptop performance through Thunderbolt or OCuLink. | Full-size GPU support; Thunderbolt / OCuLink; Built-in PSU; Laptop charging
+GPU accelerator systems | server-bolt | A | Multi-GPU servers for AI training, inference and HPC. | 4–8 GPUs; NVLink options; Rack mount; Redundant PSU
+AI development workstations | code-ai | A | Ready-to-use workstations preloaded with AI frameworks for developers. | Pro GPU; 128GB RAM; AI software stack; Ubuntu / Windows
+Computer-on-module systems | cpu | A | Compact compute modules for building custom embedded products. | SoM with carrier board; NPU options; Industrial grade; Long-term supply
+Portable monitors | device-screen | A | Slim USB-C screens for laptops, phones and consoles on the go. | 15.6–18" IPS/OLED; USB-C one-cable; Built-in stand; Lightweight
+OLED monitors | device-desktop | A | OLED monitors with perfect blacks and instant response for gaming and creation. | 27–34" OLED; 240Hz; 0.03 ms response; HDR True Black 400
+QD-OLED monitors | device-desktop | A | Quantum-dot OLED monitors with brighter, wider colour. | QD-OLED panel; 99% DCI-P3; 175–360Hz; HDR
+Mini-LED monitors | device-desktop | A | High-brightness monitors with thousands of local dimming zones. | 1000+ dimming zones; HDR1000; 4K 144Hz; Quantum dot
+4K, 5K and 6K monitors | device-desktop | A | Ultra-sharp monitors for designers, editors and Mac users. | 4K–6K resolution; Thunderbolt hub; Factory calibrated; Height-adjustable
+Ultrawide monitors | device-desktop | A | 21:9 and 32:9 curved monitors for immersive gaming and multitasking. | 34–57" curved; 3440×1440 to 7680×2160; 144–240Hz; PBP / PIP
+High-refresh-rate gaming monitors | device-desktop | A | Ultra-fast monitors for competitive esports gaming. | 360–540Hz; 1 ms GtG; G-Sync / FreeSync; Esports stand
+E-ink monitors | device-desktop | A | Paper-like monitors that are easy on the eyes for long reading and coding. | 13.3–25.3" E-ink; Fast refresh modes; Front light; HDMI / USB-C
+Portable USB-C displays | device-screen | A | Lightweight second screens powered by a single USB-C cable. | 13–16" FHD; USB-C power & video; Magnetic cover; Touch options
+
+# tablets | Tablets, E-Readers & Digital Notebooks | device-tablet | #0891b2 | Tablets, E-ink notebooks and pen displays for reading, notes and creativity.
+AI tablets | device-tablet | A | Tablets with built-in AI for note summaries, translation and image editing. | 11–13" display; AI features; Stylus support; 8000mAh+ battery
+OLED tablets | device-tablet | A | Tablets with vivid OLED screens for streaming, drawing and reading. | 11–14.6" OLED; 120Hz; Quad speakers; Keyboard support
+Mini-LED tablets | device-tablet | A | High-brightness tablets with Mini-LED backlight for HDR content. | Mini-LED HDR; 1000+ nits; 120Hz; Pro chipset
+Android tablets | device-tablet | A | Versatile Android tablets for entertainment, study and work. | 10–12" display; Octa-core CPU; Wi-Fi / LTE; Google Play
+Professional creative tablets | device-ipad | A | Powerful tablets for artists and designers with pro pen input. | 4096+ pressure levels; Tilt support; Colour-accurate screen; Pro apps
+Rugged industrial tablets | shield-check | A | Tough tablets for warehouses, field service and logistics. | IP68 / MIL-STD; Barcode scanner option; Glove touch; Hot-swap battery
+E-ink tablets | notebook | A | Paper-feel tablets for reading, handwriting and annotating PDFs. | 10.3" E-ink; Stylus included; Front light; Weeks of battery
+Color E-ink tablets | notebook | A | Colour E-ink tablets for comics, charts and coloured notes. | Kaleido / Gallery colour E-ink; Pen support; Android apps; Front light
+Digital paper notebooks | notebook | A | Ultra-thin digital notebooks that feel like writing on paper. | 10.3" paper-like screen; Low-latency pen; Cloud sync; Handwriting to text
+Electronic writing tablets | writing | A | LCD writing boards for notes, sketches and kids' drawing. | 8.5–16" LCD; One-tap erase; Lock function; Coin battery
+Smart notebooks | notebook | A | Reusable notebooks that digitise handwritten pages to the cloud. | Reusable pages; App scanning; Cloud upload; Erasable with water
+Digital sketchpads | brush | A | Pen tablets for drawing directly into your computer. | 8192 pressure levels; Battery-free pen; Express keys; Win / Mac
+Drawing displays | device-ipad-horizontal | A | Pen displays that let you draw directly on a colour-accurate screen. | 13–24" laminated screen; 16K pressure levels; Tilt; 99% sRGB
+Standalone pen displays | device-ipad-horizontal | A | Drawing computers with built-in OS, no PC required. | Built-in processor; Android / Windows; Pro pen; Portable
+Digital whiteboards | chalkboard | A | Interactive touchscreen whiteboards for teams and classrooms. | 55–86" 4K touch; Multi-user writing; Video conferencing; Cloud sharing
+Interactive portable displays | device-ipad-horizontal | A | Portable touch displays for presentations and collaboration. | Touch screen; Battery powered; Wireless casting; Rolling stand
+Large-format digital note-taking devices | notebook | A | A4/A5-size digital notebooks for meetings, research and study. | 13.3" E-ink; Pen included; Template library; PDF annotation
+Smart pens | ballpen | A | Pens that record what you write and sync it to your phone or PC. | Digital ink capture; Audio sync; Bluetooth; Handwriting OCR
+Digital styluses | pencil | A | Precision active styluses for tablets and touchscreen laptops. | Palm rejection; Tilt sensitivity; Magnetic charging; USI / MPP
+E-book readers | book | A | Glare-free E-ink readers with weeks of battery life. | 6–7" 300ppi E-ink; Warm light; Waterproof; Weeks of battery
+Color e-readers | book-2 | A | E-readers with colour E-ink for comics, magazines and highlights. | Colour E-ink; Warm front light; Page-turn buttons; Audiobook support
+Dual-screen reading devices | book | C | Book-style devices with two E-ink screens for a natural reading experience. | Dual E-ink panels; Book fold; Pen input; Long battery
+Portable document scanners | scan | A | Battery-powered scanners for documents, receipts and photos on the move. | Wand / sheet-fed; 900 DPI; Wi-Fi; MicroSD storage
+
+# xr | Smart Glasses, AR, VR & Spatial Computing | device-vision-pro | #db2777 | Immersive headsets, AR glasses, haptics and spatial-computing gear.
+AI glasses | eyeglass-2 | A | Lightweight glasses with AI assistant, camera and audio for daily use. | Voice AI; Camera; Open-ear audio; Charging case
+Augmented-reality glasses | augmented-reality | A | AR glasses that project a large virtual screen and 3D content in front of you. | Micro-OLED display; 100–200" virtual screen; 3DoF / 6DoF; USB-C DisplayPort
+Optical see-through AR glasses | augmented-reality-2 | A | Transparent-lens AR glasses that overlay digital content on the real world. | Waveguide optics; SLAM tracking; Hand tracking; Enterprise SDK
+Display-free smart glasses | eyeglass | A | Smart glasses without a display focused on audio, camera and AI. | Camera; Speakers; Voice assistant; Prescription ready
+Waveguide-display glasses | augmented-reality | A | Glasses with thin waveguide lenses for bright, discreet digital overlays. | Diffractive waveguide; Monochrome / colour; Lightweight frame; Touch control
+Mixed-reality headsets | device-vision-pro | A | Headsets that blend virtual objects with your real surroundings via colour passthrough. | Colour passthrough; 4K+ per eye; Hand & eye tracking; Spatial audio
+Virtual-reality headsets | cardboards | A | Standalone VR headsets for gaming, fitness and social experiences. | Standalone; 2K–4K per eye; 6DoF controllers; 120Hz
+Spatial-computing headsets | device-vision-pro | A | Premium headsets that turn any room into an infinite workspace. | Micro-OLED displays; Eye & hand input; Spatial apps; High-res passthrough
+Lightweight VR headsets | cardboards | A | Compact pancake-lens VR headsets that are comfortable for long sessions. | Pancake lenses; Under 400g; PC VR / standalone; Adjustable IPD
+Enterprise AR headsets | augmented-reality-2 | A | Hands-free AR headsets for remote assistance, training and maintenance. | Industrial design; Remote expert video; Voice control; Hard-hat mount
+Industrial smart glasses | helmet | A | Rugged smart glasses for warehouse picking and field service. | IP-rated; Barcode scanning; Workflow apps; Long shift battery
+Medical AR devices | stethoscope | C | AR systems for surgical planning, training and visualisation (professional use). | 3D anatomy overlays; Sterile workflows; Medical imaging import; Regulatory approval required
+XR development headsets | code | A | Developer headsets and kits for building AR/VR applications. | Open SDK; Eye / hand tracking; PC tethered; Developer support
+VR motion controllers | device-gamepad-3 | A | Tracked controllers for precise interaction in virtual reality. | 6DoF tracking; Haptic feedback; Finger tracking; Rechargeable
+Hand-tracking systems | hand-grab | A | Sensors that track hands and fingers for controller-free XR interaction. | Infrared sensors; Low latency; Unity / Unreal SDK; USB connection
+Eye-tracking accessories | eye | A | Eye trackers for VR headsets, research and accessibility. | 120–250Hz tracking; Foveated rendering; Calibration software; SDK
+Haptic gloves | hand-click | A | Gloves that let you feel virtual objects through force and vibration feedback. | Force feedback; Finger tracking; Wireless; VR SDK
+Haptic vests | shirt-sport | A | Wearable vests that deliver touch sensations for gaming and training. | 30–40 haptic points; Wireless; Game integration; Adjustable fit
+Full-body tracking systems | walk | A | Trackers that bring your whole body into VR and motion capture. | 6–11 trackers; Inertial / optical; Low drift; VRChat & mocap
+VR treadmills | treadmill | A | Omni-directional treadmills for walking and running in VR. | 360° movement; Harness system; Low-friction surface; PC VR
+Motion simulator seats | armchair | A | Motion platforms that move with racing, flight and VR content. | 2–6DoF motion; Game telemetry; Seat & rig; Low-latency actuators
+Spatial-computing accessories | device-vision-pro | A | Head straps, battery packs, lens inserts and cases for XR headsets. | Comfort straps; Extra batteries; Prescription inserts; Carry cases
+3D capture systems | device-3d-camera | A | Systems that scan people and objects into 3D models for XR. | Multi-camera rig; Photogrammetry; Texture capture; Export to OBJ/GLB
+Volumetric display systems | cube-3d-sphere | E | Displays that show true 3D images viewable from multiple angles. | Light-field / volumetric; Glasses-free 3D; Multi-viewer; Developer tools
+Holographic display prototypes | sphere | E | Experimental holographic displays for research and showcases. | Holographic optics; Real-time content; Research hardware; Limited availability
+
+# wearables | Smartwatches, Rings & Wearable Tech | device-watch | #16a34a | Smartwatches, rings, trackers and connected wearables for health and sport.
+AI smartwatches | device-watch | A | Smartwatches with AI coaching, health insights and voice assistant. | AMOLED display; AI health coach; GPS; ECG / SpO2 sensors
+Rugged smartwatches | device-watch | A | Tough smartwatches built for outdoor, military and adventure use. | MIL-STD-810; Sapphire glass; Dual-band GPS; 20+ day battery
+Outdoor GPS watches | device-watch-stats | A | Adventure watches with maps, navigation and altimeter. | Topo maps; Barometric altimeter; Compass; Solar charging options
+Multisport watches | device-watch-stats-2 | A | Training watches for running, cycling, swimming and triathlon. | 100+ sport modes; Training load; Dual-band GPS; Water resistant 10ATM
+Diving smartwatches | device-watch | A | Dive computers with smartwatch features. | 100m+ dive rating; Dive log; Decompression data; Sapphire lens
+LTE smartwatches | device-watch-bolt | A | Smartwatches with eSIM for calls and data without a phone. | eSIM LTE; Calls & messages; GPS; NFC payments
+Smart rings | rings | A | Discreet rings that track sleep, heart rate, activity and recovery. | Titanium body; HR & SpO2; Sleep staging; 5–7 day battery
+Sleep-tracking rings | moon-stars | A | Rings focused on detailed sleep and recovery insights. | Sleep stages; Skin temperature; HRV; Readiness score
+Fitness bands | activity | A | Lightweight bands tracking steps, heart rate and sleep. | AMOLED display; 100+ sports; SpO2; 14-day battery
+Screenless health trackers | heartbeat | A | Display-free bands for 24/7 health and recovery data. | Continuous HR; Strain & recovery; Waterproof; Subscription app
+Smart pendants | sparkles | A | Pendant wearables for AI notes, safety alerts or health tracking. | Microphone / sensors; Bluetooth; Magnetic clasp; App
+AI wearable recorders | microphone-2 | A | Wearable recorders that capture and summarise your day's conversations. | All-day recording; AI summaries; Privacy controls; Clip mount
+GPS pet trackers | paw | A | Collar trackers that show your pet's live location and activity. | GPS + LTE; Geofence alerts; Activity tracking; Waterproof
+Wearable cameras | camera | A | Body-worn cameras for creators, security and lifelogging. | 1080p–4K; Magnetic clip; Wide angle; Night mode
+Smart necklaces | sparkles-2 | A | Jewellery-style wearables with notifications, safety or audio. | Discreet sensors; Vibration alerts; SOS options; Bluetooth
+Smart bracelets | device-watch | A | Bracelets combining style with fitness tracking and alerts. | Hidden display / LED; Step & sleep; Notifications; Interchangeable straps
+Smart badges | id-badge | A | Connected ID badges for access, voice notes and team communication. | NFC / RFID; Push-to-talk; Location; Long battery
+Smart clothing | shirt | A | Garments with built-in sensors for heart rate, posture and muscle activity. | Textile sensors; Removable pod; Washable; App analytics
+Connected running shoes | shoe | A | Running shoes or pods that measure cadence, stride and power. | Foot pod sensor; Running power; Cadence & GCT; Bluetooth
+Smart cycling sensors | bike | A | Speed, cadence and power sensors for bikes and indoor trainers. | ANT+ & Bluetooth; Speed / cadence; Power meter options; 400 h battery
+Wearable posture monitors | stretching | A | Small trackers that vibrate to correct slouching. | Vibration reminders; Posture analytics; Clip / adhesive; App
+Sports performance sensors | run | A | Pods that measure sprint speed, jump height and load for athletes. | IMU + GPS; Team dashboard; Live data; Vest / clip mount
+Wearable navigation devices | compass | A | Wearables that guide you with vibrations or a mini display. | Turn-by-turn haptics; GPS; App routes; Water resistant
+Electronic hearing protection | ear | A | Earmuffs and earbuds that block loud noise while boosting speech. | Active noise limiting; Ambient sound boost; NRR 25+ dB; Bluetooth
+Connected hearing aids | ear-scan | A | Bluetooth hearing aids that stream calls and music (where approved). | Bluetooth streaming; App tuning; Rechargeable; Requires hearing assessment
+Biometric chest straps | heart-rate-monitor | A | Chest straps for accurate ECG-grade heart-rate data during training. | ECG-accurate HR; HRV; ANT+ & Bluetooth; Waterproof
+Wearable temperature sensors | thermometer | A | Patches and bands that track body temperature continuously. | Continuous readings; Fever alerts; Bluetooth; Wellness use
+Smart safety helmets | helmet | A | Helmets with lights, crash detection, intercom or cameras. | Crash detection; Integrated lights; Bluetooth intercom; SOS alert

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Product Catalogue | SikandarTech</title>
+  <meta name="description" content="Browse advanced tech and gadgets sourced direct from China: AI devices, computers, wearables, audio, cameras, drones, robotics, smart home and more.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="shop-page">
+
+  <header class="header" id="top">
+    <div class="container nav">
+      <a href="index.html" class="logo">Sikandar<span>Tech</span></a>
+      <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">&#9776;</button>
+      <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#services">Services</a>
+        <a href="products.html" class="active">Products</a>
+        <a href="index.html#process">How It Works</a>
+        <a href="index.html#contact" class="btn btn-sm">Get a Quote</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="shop-hero">
+    <div class="container">
+      <p class="eyebrow">Product Catalogue</p>
+      <h1 id="shop-title">All Products</h1>
+      <p id="shop-tagline">Advanced tech and gadgets sourced direct from China, with quality inspection and worldwide shipping.</p>
+    </div>
+  </section>
+
+  <section class="shop">
+    <div class="container shop-layout">
+      <aside class="shop-sidebar" aria-label="Categories">
+        <h2>Categories</h2>
+        <nav id="cat-list"></nav>
+      </aside>
+
+      <div class="shop-main">
+        <div class="shop-toolbar">
+          <div class="search-wrap">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <input type="search" id="shop-search" placeholder="Search 680+ products..." aria-label="Search products">
+          </div>
+          <div class="status-filter" id="status-filter" role="group" aria-label="Availability">
+            <button data-status="all" class="active">All</button>
+            <button data-status="available">Available now</button>
+            <button data-status="coming">Coming soon</button>
+            <button data-status="emerging">Emerging</button>
+          </div>
+        </div>
+        <div class="cat-chips" id="cat-chips"></div>
+        <p class="result-count" id="shop-count"></p>
+        <div class="product-grid" id="shop-grid"></div>
+        <div class="center-cta"><button class="btn btn-ghost" id="load-more">Load more</button></div>
+        <p class="spec-note">Specifications shown are typical for each product type. Exact brand, model, price and MOQ are confirmed in your quotation.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Product detail -->
+  <dialog class="product-modal" id="product-modal" aria-labelledby="modal-name">
+    <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+    <div class="modal-body">
+      <div class="modal-media" id="modal-media"></div>
+      <div class="modal-info">
+        <a class="modal-cat" id="modal-cat" href="#"></a>
+        <h2 id="modal-name"></h2>
+        <span class="status-badge" id="modal-status"></span>
+        <p class="modal-desc" id="modal-desc"></p>
+        <h3>Key Specifications</h3>
+        <ul class="spec-list" id="modal-specs"></ul>
+        <p class="spec-note">Typical specifications for this product type. Exact brand, model, price and MOQ are confirmed in your quotation.</p>
+        <div class="modal-actions">
+          <a class="btn" id="modal-quote" target="_blank" rel="noopener">Get Quote on WhatsApp</a>
+          <button class="btn btn-ghost" id="modal-share">Copy link</button>
+        </div>
+      </div>
+    </div>
+    <div class="modal-related">
+      <h3>More in this category</h3>
+      <div class="related-grid" id="modal-related"></div>
+    </div>
+  </dialog>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <a href="index.html" class="logo">Sikandar<span>Tech</span></a>
+      <p>&copy; <span id="year"></span> SikandarTech &middot; Bringing Tomorrow’s Tech Today.</p>
+    </div>
+  </footer>
+
+  <a class="whatsapp-float" id="whatsapp-float" href="#" aria-label="Chat on WhatsApp">&#128172;</a>
+
+  <script src="icons.js"></script>
+  <script src="catalog.js"></script>
+  <script src="script.js"></script>
+  <script src="shop.js"></script>
+</body>
+</html>
