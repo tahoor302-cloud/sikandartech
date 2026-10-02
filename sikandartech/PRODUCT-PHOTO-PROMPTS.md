@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**608 products still need a photo** (72 done). One prompt per product, ready to copy.
+**604 products still need a photo** (76 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,39 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (2)
-
-### ST-0060 · E-ink monitors
-- [ ] File: `e-ink-monitors.jpg`
-
-```
-Studio product photo: E-ink monitors. Paper-like monitors that are easy on the eyes for long reading and coding. Show design details that suggest: 13.3–25.3" e-ink, fast refresh modes, front light. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0061 · Portable USB-C displays
-- [ ] File: `portable-usb-c-displays.jpg`
-
-```
-Studio product photo: Portable USB-C displays. Lightweight second screens powered by a single USB-C cable. Show design details that suggest: 13–16" fhd, usb-c power & video, magnetic cover. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Tablets, E-Readers & Digital Notebooks (22)
-
-### ST-0063 · OLED tablets
-- [ ] File: `oled-tablets.jpg`
-
-```
-Studio product photo: OLED tablets. Tablets with vivid OLED screens for streaming, drawing and reading. Show design details that suggest: 11–14.6" oled, 120hz, quad speakers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0064 · Mini-LED tablets
-- [ ] File: `mini-led-tablets.jpg`
-
-```
-Studio product photo: Mini-LED tablets. High-brightness tablets with Mini-LED backlight for HDR content. Show design details that suggest: mini-led hdr, 1000+ nits, 120hz. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Tablets, E-Readers & Digital Notebooks (20)
 
 ### ST-0065 · Android tablets
 - [ ] File: `android-tablets.jpg`
