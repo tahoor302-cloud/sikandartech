@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**663 products still need a photo** (17 done). One prompt per product, ready to copy.
+**658 products still need a photo** (22 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## AI Gadgets & Personal AI (19)
-
-### ST-0006 · AI wearable assistants
-- [ ] File: `ai-wearable-assistants.jpg`
-
-```
-Studio product photo: AI wearable assistants. Clip-on or wrist-worn assistants that answer questions, take notes and set reminders. Show design details that suggest: llm-powered answers, all-day battery, privacy led. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0007 · AI voice recorders
-- [ ] File: `ai-voice-recorders.jpg`
-
-```
-Studio product photo: AI voice recorders. Pocket recorders that transcribe, summarise and translate meetings and calls automatically. Show design details that suggest: 64gb storage, 30 h recording, 100+ languages. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0008 · AI meeting transcription devices
-- [ ] File: `ai-meeting-transcription-devices.jpg`
-
-```
-Studio product photo: AI meeting transcription devices. Dedicated devices that record meetings and deliver searchable transcripts and action items. Show design details that suggest: multi-mic array, speaker identification, 20 h battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0009 · AI note-taking pendants
-- [ ] File: `ai-note-taking-pendants.jpg`
-
-```
-Studio product photo: AI note-taking pendants. Wearable pendants that capture conversations and turn them into concise notes. Show design details that suggest: magnetic clip/necklace, beamforming mics, usb-c charging. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0010 · AI pins and wearable assistants
-- [ ] File: `ai-pins-and-wearable-assistants.jpg`
-
-```
-Studio product photo: AI pins and wearable assistants. Show design details that suggest: magnetic mount, camera module, lte / wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## AI Gadgets & Personal AI (14)
 
 ### ST-0011 · AI desktop companions
 - [ ] File: `ai-desktop-companions.jpg`
