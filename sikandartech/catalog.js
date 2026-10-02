@@ -196,6 +196,7 @@ const CATEGORIES = [
   "icon": "spray",
   "color": "#c026d3",
   "tagline": "Cleaning robots, hair tools, skincare and grooming tech.",
+  "photo": "images/categories/care-beauty.webp",
   "count": 19
  },
  {
@@ -204,6 +205,7 @@ const CATEGORIES = [
   "icon": "plug-connected",
   "color": "#57534e",
   "tagline": "Stands, cables, chargers, trackers and everyday tech accessories.",
+  "photo": "images/categories/accessories.webp",
   "count": 30
  }
 ];
