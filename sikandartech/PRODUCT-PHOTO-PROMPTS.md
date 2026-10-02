@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**668 products still need a photo** (12 done). One prompt per product, ready to copy.
+**663 products still need a photo** (17 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## AI Gadgets & Personal AI (24)
-
-### ST-0001 · AI smart glasses
-- [ ] File: `ai-smart-glasses.jpg`
-
-```
-Studio product photo: AI smart glasses. Everyday glasses with a built-in voice assistant, camera and open-ear audio for hands-free AI help. Show design details that suggest: 12mp camera, open-ear speakers, 4–6 h battery. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0002 · Display-equipped AI glasses
-- [ ] File: `display-equipped-ai-glasses.jpg`
-
-```
-Studio product photo: Display-equipped AI glasses. Smart glasses with a discreet in-lens display for notifications, navigation and live captions. Show design details that suggest: monocular waveguide display, live captions, charging case. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0003 · Camera-enabled smart glasses
-- [ ] File: `camera-enabled-smart-glasses.jpg`
-
-```
-Studio product photo: Camera-enabled smart glasses. Capture photos and first-person video straight from your glasses and share instantly. Show design details that suggest: 12mp photo, 1080p/3k video, led capture indicator. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0004 · Audio smart glasses
-- [ ] File: `audio-smart-glasses.jpg`
-
-```
-Studio product photo: Audio smart glasses. Stylish frames with directional speakers for music and calls without earbuds. Show design details that suggest: open-ear speakers, touch controls, uv400 lenses. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0005 · Real-time translation glasses
-- [ ] File: `real-time-translation-glasses.jpg`
-
-```
-Studio product photo: Real-time translation glasses. Glasses that listen and show or speak translations during face-to-face conversations. Show design details that suggest: 40+ languages, live subtitles, noise-reduction mics. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## AI Gadgets & Personal AI (19)
 
 ### ST-0006 · AI wearable assistants
 - [ ] File: `ai-wearable-assistants.jpg`
