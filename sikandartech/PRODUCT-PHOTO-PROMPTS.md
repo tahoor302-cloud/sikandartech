@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**604 products still need a photo** (76 done). One prompt per product, ready to copy.
+**599 products still need a photo** (81 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Tablets, E-Readers & Digital Notebooks (20)
-
-### ST-0065 · Android tablets
-- [ ] File: `android-tablets.jpg`
-
-```
-Studio product photo: Android tablets. Versatile Android tablets for entertainment, study and work. Show design details that suggest: 10–12" display, octa-core cpu, wi-fi / lte. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0066 · Professional creative tablets
-- [ ] File: `professional-creative-tablets.jpg`
-
-```
-Studio product photo: Professional creative tablets. Powerful tablets for artists and designers with pro pen input. Show design details that suggest: 4096+ pressure levels, tilt support, colour-accurate screen. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0067 · Rugged industrial tablets
-- [ ] File: `rugged-industrial-tablets.jpg`
-
-```
-Studio product photo: Rugged industrial tablets. Tough tablets for warehouses, field service and logistics. Show design details that suggest: ip68 / mil-std, barcode scanner option, glove touch. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0068 · E-ink tablets
-- [ ] File: `e-ink-tablets.jpg`
-
-```
-Studio product photo: E-ink tablets. Paper-feel tablets for reading, handwriting and annotating PDFs. Show design details that suggest: 10.3" e-ink, stylus included, front light. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0069 · Color E-ink tablets
-- [ ] File: `color-e-ink-tablets.jpg`
-
-```
-Studio product photo: Color E-ink tablets. Colour E-ink tablets for comics, charts and coloured notes. Show design details that suggest: kaleido / gallery colour e-ink, pen support, front light. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Tablets, E-Readers & Digital Notebooks (15)
 
 ### ST-0070 · Digital paper notebooks
 - [ ] File: `digital-paper-notebooks.jpg`
