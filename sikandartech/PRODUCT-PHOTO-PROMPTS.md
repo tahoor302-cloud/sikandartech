@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**633 products still need a photo** (47 done). One prompt per product, ready to copy.
+**628 products still need a photo** (52 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (27)
-
-### ST-0035 · Foldable laptops
-- [ ] File: `foldable-laptops.jpg`
-
-```
-Studio product photo: Foldable laptops. Laptops with a single folding screen that work as tablet, laptop or desktop. Show design details that suggest: 16–17" foldable oled, bluetooth keyboard, kickstand. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0036 · Rollable-display laptops
-- [ ] File: `rollable-display-laptops.jpg`
-
-```
-Studio product photo: Rollable-display laptops. Laptops whose display rolls upward to expand screen space on demand. Show design details that suggest: motorised rollable oled, 14" to 16.7" area, premium build. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0037 · Modular laptops
-- [ ] File: `modular-laptops.jpg`
-
-```
-Studio product photo: Modular laptops. Repairable laptops with swappable ports, keyboards and upgradeable parts. Show design details that suggest: expansion card ports, user-replaceable parts, upgradeable mainboard. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0038 · Rugged laptops
-- [ ] File: `rugged-laptops.jpg`
-
-```
-Studio product photo: Rugged laptops. Military-grade laptops built for field work, factories and extreme conditions. Show design details that suggest: mil-std-810h, ip65, sunlight-readable screen. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0039 · Solar-assisted laptops
-- [ ] File: `solar-assisted-laptops.jpg`
-
-```
-Studio product photo: Solar-assisted laptops. Laptops with integrated solar panels for off-grid top-up charging. Show design details that suggest: built-in solar lid, low-power cpu, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Computers, Laptops & Advanced Computing (22)
 
 ### ST-0040 · Mini PCs
 - [ ] File: `mini-pcs.jpg`
