@@ -55,13 +55,13 @@
     "description": "Totes, crossbodies, clutches and travel pieces in calf leather, canvas and technical nylon.",
     "image": "/media/products/maison-tote/04-editorial.webp",
     "banner": "/media/hero/scene-03.webp",
-    "count": 26,
+    "count": 30,
     "subcategories": [
       {
         "id": "totes",
         "slug": "totes",
         "name": "Totes",
-        "count": 2
+        "count": 3
       },
       {
         "id": "crossbody",
@@ -73,7 +73,13 @@
         "id": "shoulder",
         "slug": "shoulder",
         "name": "Shoulder Bags",
-        "count": 4
+        "count": 5
+      },
+      {
+        "id": "handbags",
+        "slug": "handbags",
+        "name": "Handbags",
+        "count": 1
       },
       {
         "id": "clutches",
@@ -97,7 +103,7 @@
         "id": "top-handle",
         "slug": "top-handle",
         "name": "Top-Handle Bags",
-        "count": 6
+        "count": 7
       },
       {
         "id": "hobo",

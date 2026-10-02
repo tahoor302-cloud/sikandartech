@@ -1,6 +1,6 @@
 {
   "prefix": "SM",
-  "next": 123,
+  "next": 127,
   "entries": {
     "super-mimic-master:SMM-0001": "SM-000001",
     "super-mimic-master:SMM-0002": "SM-000002",
@@ -123,6 +123,10 @@
     "super-mimic-watches-ref:WAT-REF-33": "SM-000119",
     "super-mimic-watches-ref:WAT-REF-34": "SM-000120",
     "super-mimic-watches-ref:WAT-REF-35": "SM-000121",
-    "super-mimic-watches-ref:WAT-REF-36": "SM-000122"
+    "super-mimic-watches-ref:WAT-REF-36": "SM-000122",
+    "super-mimic-bags-2:BAG-SM2-01": "SM-000123",
+    "super-mimic-bags-2:BAG-SM2-02": "SM-000124",
+    "super-mimic-bags-2:BAG-SM2-03": "SM-000125",
+    "super-mimic-bags-2:BAG-SM2-04": "SM-000126"
   }
 }

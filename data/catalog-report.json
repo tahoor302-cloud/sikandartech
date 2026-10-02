@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-09-30T02:32:58.558Z",
+  "generatedAt": "2026-10-02T01:06:15.084Z",
   "sources": [
+    {
+      "source": "super-mimic-bags-2",
+      "file": "data/source/super-mimic-bags-2.json",
+      "records": 4,
+      "authorised": "Owner-supplied studio photography (uploaded 2 Oct 2026), described by the owner as Super Mimic designs. Names, copy, dimensions, materials and prices were proposed for launch and need owner review."
+    },
     {
       "source": "super-mimic-bags-ref",
       "file": "data/source/super-mimic-bags-ref.json",
@@ -33,8 +39,8 @@
     }
   ],
   "totals": {
-    "sourceRecords": 122,
-    "imported": 122,
+    "sourceRecords": 126,
+    "imported": 126,
     "invalid": 0,
     "missing": 0,
     "duplicates": 0,
@@ -76,17 +82,18 @@
       }
     },
     "bags": {
-      "total": 26,
+      "total": 30,
       "subcategories": {
-        "totes": 2,
+        "totes": 3,
         "crossbody": 3,
         "travel": 1,
         "clutches": 3,
         "backpacks": 1,
-        "top-handle": 6,
-        "shoulder": 4,
+        "top-handle": 7,
+        "shoulder": 5,
         "hobo": 5,
-        "bucket": 1
+        "bucket": 1,
+        "handbags": 1
       }
     },
     "accessories": {
@@ -112,8 +119,8 @@
   },
   "reconciliation": {
     "bags": {
-      "source": 26,
-      "imported": 26,
+      "source": 30,
+      "imported": 30,
       "invalid": 0,
       "missing": 0
     },
@@ -182,6 +189,16 @@
       "reason": "Page 4 (Cream Retro Runner) shows a large 'N' side logo, and page 7 (Black High-Top Basketball Sneaker) shows a jumping-silhouette logo on the collar. Both are registered trademarks of other footwear companies, so these two were not imported. The other 26 pages were imported.",
       "imported": 0,
       "unblock": "Send photos of these designs without third-party logos (or with Super Mimic's own mark) and they can be added."
+    },
+    {
+      "source": "chat-upload-2026-10-02-bag-sheet",
+      "url": "",
+      "role": "1 photo sheet sent in chat with 4 handbags (9.webp)",
+      "reviewed": "2026-10-02",
+      "status": "not-authorised",
+      "reason": "All four bags reproduce the signature designs of one third-party luxury house (a turn-lock top-handle with belted flaps and padlock straps, a trapezoid flap bag with a belted clasp, a perforated-logo crossbody and a drawstring bucket), and the crossbody carries that house's perforated logo. Selling copies of these designs is not authorised, so none were added and no image was copied into the site.",
+      "imported": 0,
+      "unblock": "Use original Super Mimic designs with new photography instead (as with BAG-SM2-01 to 04)."
     }
   ],
   "duplicates": [],

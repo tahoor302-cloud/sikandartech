@@ -1,0 +1,231 @@
+{
+  "source": "super-mimic-bags-2",
+  "authorised": "Owner-supplied studio photography (uploaded 2 Oct 2026), described by the owner as Super Mimic designs. Names, copy, dimensions, materials and prices were proposed for launch and need owner review.",
+  "importedAt": "2026-10-02T00:00:00.000Z",
+  "records": [
+    {
+      "sourceId": "BAG-SM2-01",
+      "slug": "rotonde-dome-satchel",
+      "title": "Rotonde Dome Satchel",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "handbags",
+      "productType": "Dome satchel",
+      "collection": "originals",
+      "price": 195,
+      "currency": "USD",
+      "shortDescription": "A rounded dome satchel in deep bordeaux grained leather.",
+      "description": "A softly domed satchel in bordeaux grained leather, built on a flat structured base. A two-way gold zip runs over the top, and two rolled handles sit on stitched diamond tabs. A detachable, adjustable strap lets it go from hand to crossbody.",
+      "details": [
+        "Two-way gold zip closure",
+        "Rolled top handles on diamond tabs",
+        "Detachable adjustable shoulder strap",
+        "Structured base with stitched welt",
+        "Brushed gold hardware"
+      ],
+      "materials": "Grained leather; fabric lining",
+      "care": [
+        "Wipe clean with a soft, dry cloth.",
+        "Store stuffed and in the dust bag provided.",
+        "Keep away from water, direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Dimensions": "30 × 23 × 14 cm (W × H × D)",
+        "Handle drop": "10 cm",
+        "Strap drop": "50–58 cm, adjustable",
+        "Closure": "Two-way zip",
+        "Interior": "One zip pocket, two slip pockets",
+        "Hardware": "Brushed gold-tone",
+        "Weight": "Approx. 0.8 kg",
+        "Colour": "Bordeaux",
+        "Style": "Dome satchel"
+      },
+      "sizeLabel": "One size",
+      "sizes": ["One size"],
+      "colors": [{ "id": "bordeaux", "name": "Bordeaux", "hex": "#582D2E" }],
+      "variants": [{ "sku": "SM-BAG-SM2-01-BORDEAUX", "color": "bordeaux", "size": "One size", "price": 195 }],
+      "images": [
+        { "src": "/media/products/rotonde-dome-satchel/01-primary-bordeaux.webp", "kind": "primary", "color": "bordeaux", "alt": "Rotonde Dome Satchel in Bordeaux", "width": 1312, "height": 1640 }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "provenance": {
+        "photo": "owner upload 2 Oct 2026 (10.webp)",
+        "imageProcessing": "background extended top/bottom to 4:5; WebP q90",
+        "priceStatus": "proposed",
+        "specStatus": "dimensions, weight and materials proposed; confirm with supplier",
+        "copyStatus": "written for Super Mimic from the photo"
+      }
+    },
+    {
+      "sourceId": "BAG-SM2-02",
+      "slug": "serif-s-lock-top-handle",
+      "title": "Serif S-Lock Top-Handle",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "top-handle",
+      "productType": "Top-handle bag",
+      "collection": "originals",
+      "price": 175,
+      "currency": "USD",
+      "shortDescription": "A blush top-handle bag closed with a sculpted gold S turn-lock.",
+      "description": "A neat trapezoid top-handle in soft blush leather. The curved front flap closes with a sculpted gold S turn-lock, a nod to the Super Mimic mark. A padded top handle and a detachable shoulder strap make it a day-to-evening piece.",
+      "details": [
+        "Sculpted gold S turn-lock",
+        "Curved front flap",
+        "Padded rolled top handle",
+        "Detachable adjustable shoulder strap",
+        "Protective metal feet"
+      ],
+      "materials": "Smooth leather; microsuede lining",
+      "care": [
+        "Wipe clean with a soft, dry cloth.",
+        "Store stuffed and in the dust bag provided.",
+        "Light colours can take on dye from denim; avoid prolonged contact."
+      ],
+      "specifications": {
+        "Dimensions": "24 × 18 × 11 cm (W × H × D)",
+        "Handle drop": "9 cm",
+        "Strap drop": "48–55 cm, adjustable",
+        "Closure": "Flap with S turn-lock",
+        "Interior": "One slip pocket",
+        "Hardware": "Polished gold-tone",
+        "Weight": "Approx. 0.6 kg",
+        "Colour": "Blush",
+        "Style": "Top-handle bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": ["One size"],
+      "colors": [{ "id": "blush", "name": "Blush", "hex": "#E9BEB6" }],
+      "variants": [{ "sku": "SM-BAG-SM2-02-BLUSH", "color": "blush", "size": "One size", "price": 175 }],
+      "images": [
+        { "src": "/media/products/serif-s-lock-top-handle/01-primary-blush.webp", "kind": "primary", "color": "blush", "alt": "Serif S-Lock Top-Handle in Blush", "width": 1312, "height": 1640 }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "provenance": {
+        "photo": "owner upload 2 Oct 2026 (11.webp)",
+        "imageProcessing": "background extended top/bottom to 4:5; WebP q90",
+        "priceStatus": "proposed",
+        "specStatus": "dimensions, weight and materials proposed; confirm with supplier",
+        "copyStatus": "written for Super Mimic from the photo"
+      }
+    },
+    {
+      "sourceId": "BAG-SM2-03",
+      "slug": "atelier-tab-tote",
+      "title": "Atelier Tab Tote",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "totes",
+      "productType": "Structured tote",
+      "collection": "originals",
+      "price": 185,
+      "currency": "USD",
+      "shortDescription": "A structured taupe tote with a gold-bar tab closure.",
+      "description": "A roomy, structured tote in taupe pebbled leather with clean side gussets. A leather tab with a slim gold bar closes the centre, two rolled handles sit on teardrop tabs, and a detachable strap is included for crossbody wear.",
+      "details": [
+        "Leather tab closure with gold bar",
+        "Rolled handles on teardrop tabs",
+        "Detachable adjustable shoulder strap",
+        "Three interior compartments",
+        "Gold-tone hardware"
+      ],
+      "materials": "Pebbled leather; fabric lining",
+      "care": [
+        "Wipe clean with a soft, dry cloth.",
+        "Store stuffed and in the dust bag provided.",
+        "Keep away from water, direct heat and prolonged sunlight."
+      ],
+      "specifications": {
+        "Dimensions": "32 × 24 × 13 cm (W × H × D)",
+        "Handle drop": "11 cm",
+        "Strap drop": "50–60 cm, adjustable",
+        "Closure": "Tab with magnetic snap",
+        "Interior": "Three compartments, one zip pocket",
+        "Hardware": "Gold-tone",
+        "Weight": "Approx. 0.9 kg",
+        "Colour": "Taupe",
+        "Style": "Structured tote"
+      },
+      "sizeLabel": "One size",
+      "sizes": ["One size"],
+      "colors": [{ "id": "taupe", "name": "Taupe", "hex": "#92755E" }],
+      "variants": [{ "sku": "SM-BAG-SM2-03-TAUPE", "color": "taupe", "size": "One size", "price": 185 }],
+      "images": [
+        { "src": "/media/products/atelier-tab-tote/01-primary-taupe.webp", "kind": "primary", "color": "taupe", "alt": "Atelier Tab Tote in Taupe", "width": 1254, "height": 1566 }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "provenance": {
+        "photo": "owner upload 2 Oct 2026 (12.webp)",
+        "imageProcessing": "background extended top/bottom to 4:5; WebP q90",
+        "priceStatus": "proposed",
+        "specStatus": "dimensions, weight and materials proposed; confirm with supplier",
+        "copyStatus": "written for Super Mimic from the photo"
+      }
+    },
+    {
+      "sourceId": "BAG-SM2-04",
+      "slug": "orbe-turn-lock-shoulder-bag",
+      "title": "Orbe Turn-Lock Shoulder Bag",
+      "line": "Super Mimic Maison",
+      "category": "bags",
+      "subcategory": "shoulder",
+      "productType": "Shoulder bag",
+      "collection": "originals",
+      "price": 165,
+      "currency": "USD",
+      "shortDescription": "A black flap shoulder bag with a round gold turn-lock and chain strap.",
+      "description": "A compact flap bag in black grained leather that sits close under the arm. A round gold turn-lock closes the flap. Wear it on the leather shoulder strap, or switch to the detachable gold chain for a longer crossbody drop.",
+      "details": [
+        "Round gold turn-lock",
+        "Front flap",
+        "Leather shoulder strap",
+        "Detachable gold chain strap",
+        "Gold-tone hardware"
+      ],
+      "materials": "Grained leather; microsuede lining",
+      "care": [
+        "Wipe clean with a soft, dry cloth.",
+        "Store flat in the dust bag provided.",
+        "Wipe the chain with a dry cloth to keep its shine."
+      ],
+      "specifications": {
+        "Dimensions": "26 × 15 × 8 cm (W × H × D)",
+        "Shoulder strap drop": "22 cm",
+        "Chain strap drop": "55 cm",
+        "Closure": "Flap with turn-lock",
+        "Interior": "One slip pocket",
+        "Hardware": "Polished gold-tone",
+        "Weight": "Approx. 0.55 kg",
+        "Colour": "Noir",
+        "Style": "Shoulder bag"
+      },
+      "sizeLabel": "One size",
+      "sizes": ["One size"],
+      "colors": [{ "id": "noir", "name": "Noir", "hex": "#252524" }],
+      "variants": [{ "sku": "SM-BAG-SM2-04-NOIR", "color": "noir", "size": "One size", "price": 165 }],
+      "images": [
+        { "src": "/media/products/orbe-turn-lock-shoulder-bag/01-primary-noir.webp", "kind": "primary", "color": "noir", "alt": "Orbe Turn-Lock Shoulder Bag in Noir", "width": 1312, "height": 1640 }
+      ],
+      "featured": false,
+      "newArrival": true,
+      "trending": false,
+      "createdAt": "2026-10-02T00:00:00.000Z",
+      "provenance": {
+        "photo": "owner upload 2 Oct 2026 (13.webp)",
+        "imageProcessing": "background extended top/bottom to 4:5; WebP q90",
+        "priceStatus": "proposed",
+        "specStatus": "dimensions, weight and materials proposed; confirm with supplier",
+        "copyStatus": "written for Super Mimic from the photo"
+      }
+    }
+  ]
+}

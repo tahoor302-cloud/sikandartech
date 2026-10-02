@@ -2159,5 +2159,61 @@
         "src": "/media/products/black-minimal-chronograph/01-primary-noir.webp"
       }
     ]
+  },
+  {
+    "id": "SM-000123",
+    "sourceId": "BAG-SM2-01",
+    "name": "Rotonde Dome Satchel",
+    "price": 195,
+    "currency": "USD",
+    "images": [
+      {
+        "kind": "primary",
+        "color": "bordeaux",
+        "src": "/media/products/rotonde-dome-satchel/01-primary-bordeaux.webp"
+      }
+    ]
+  },
+  {
+    "id": "SM-000124",
+    "sourceId": "BAG-SM2-02",
+    "name": "Serif S-Lock Top-Handle",
+    "price": 175,
+    "currency": "USD",
+    "images": [
+      {
+        "kind": "primary",
+        "color": "blush",
+        "src": "/media/products/serif-s-lock-top-handle/01-primary-blush.webp"
+      }
+    ]
+  },
+  {
+    "id": "SM-000125",
+    "sourceId": "BAG-SM2-03",
+    "name": "Atelier Tab Tote",
+    "price": 185,
+    "currency": "USD",
+    "images": [
+      {
+        "kind": "primary",
+        "color": "taupe",
+        "src": "/media/products/atelier-tab-tote/01-primary-taupe.webp"
+      }
+    ]
+  },
+  {
+    "id": "SM-000126",
+    "sourceId": "BAG-SM2-04",
+    "name": "Orbe Turn-Lock Shoulder Bag",
+    "price": 165,
+    "currency": "USD",
+    "images": [
+      {
+        "kind": "primary",
+        "color": "noir",
+        "src": "/media/products/orbe-turn-lock-shoulder-bag/01-primary-noir.webp"
+      }
+    ]
   }
 ]
