@@ -25,6 +25,7 @@ const CATEGORIES = [
   "icon": "device-tablet",
   "color": "#0891b2",
   "tagline": "Tablets, E-ink notebooks and pen displays for reading, notes and creativity.",
+  "photo": "images/categories/tablets.webp",
   "count": 23
  },
  {
@@ -69,6 +70,7 @@ const CATEGORIES = [
   "icon": "drone",
   "color": "#4f46e5",
   "tagline": "Drones, robots and autonomous machines for home, industry and education.",
+  "photo": "images/categories/drones-robotics.webp",
   "count": 35
  },
  {
@@ -104,6 +106,7 @@ const CATEGORIES = [
   "icon": "battery-charging",
   "color": "#65a30d",
   "tagline": "Chargers, power banks, power stations and solar.",
+  "photo": "images/categories/power.webp",
   "count": 28
  },
  {
@@ -184,6 +187,7 @@ const CATEGORIES = [
   "icon": "tent",
   "color": "#15803d",
   "tagline": "Navigation, power, optics and gadgets for travel and adventure.",
+  "photo": "images/categories/travel-outdoor.webp",
   "count": 21
  },
  {
