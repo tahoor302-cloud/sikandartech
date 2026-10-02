@@ -10,6 +10,9 @@ that respects `prefers-reduced-motion`.
 - `products.html`: full catalogue (680 products, 24 categories) with category sidebar, search,
   availability filter, quick view, save and quote list. Shareable links: `?cat=audio`, `?q=drone`,
   `?status=coming`, `#product-id`.
+- `product.html?id=<product-id>`: product detail page for every product: photo, highlights, quantity +
+  quote list, overview, key features, "ideal for", labelled specifications table, sourcing & shipping
+  details, FAQ, related products, printable spec sheet, Product/Breadcrumb structured data.
 - `ugc.html`: community feed (portrait video/image cards with muted autoplay, one-sound-at-a-time,
   progress, product tag and "Shop this") and the "Share your setup" submission form.
 
@@ -21,6 +24,8 @@ The heart icon saves products. Both are stored in the visitor's browser (localSt
 ## Files
 - `script.js`: **site settings** (`CONTACT` block: WhatsApp, WeChat, phone, email, socials; `MEDIA` block:
   hero photo override), header/menu, scroll reveals, contact form
+- `product-info.js`: product detail content (spec labels, sourcing details, ideal-for, FAQ)
+- `product.js`: product detail page
 - `shop-core.js`: product art/cards, product popup, saved items, quote list drawer, toasts
 - `home.js`, `shop.js`, `ugc.js`: page scripts
 - `ugc-data.js`: community posts (`UGC_ITEMS`) and the upload backend URL (`UGC_ENDPOINT`)
@@ -50,6 +55,15 @@ To accept uploads on the site, point `UGC_ENDPOINT` at a backend that accepts th
 `multipart/form-data` (fields: `name`, `handle`, `contact`, `product`, `caption`, `media`,
 `consent_rights`, `consent_usage`) and returns HTTP 2xx. Approved posts are added to `UGC_ITEMS`.
 
-## Hosting
-Upload the folder contents to any static host (Netlify, Vercel, GitHub Pages, cPanel) and point
-`sikandartech.com` to it.
+## Hosting (GitHub Pages)
+`.github/workflows/deploy-sikandartech.yml` publishes this folder to the `gh-pages` branch on every push
+(build sources, screenshots and prompt files are left out). One-time setup in GitHub:
+**Settings → Pages → Build and deployment → Source: Deploy from a branch → `gh-pages` / `(root)`**.
+The site is then live at `https://tahoor302-cloud.github.io/supermimic/`.
+
+Custom domain `sikandartech.com`: add the domain in Settings → Pages → Custom domain, add a `CNAME`
+file containing `sikandartech.com` to this folder (so deploys keep it), and at the domain registrar create
+`A` records for `@` → 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153 and a `CNAME`
+record for `www` → `tahoor302-cloud.github.io`. Then tick "Enforce HTTPS".
+
+`sitemap.xml` (all pages and products) and `robots.txt` are generated/kept here for search engines.

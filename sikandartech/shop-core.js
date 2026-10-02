@@ -29,10 +29,10 @@ function productCard(p, { reveal = false, delay = 0 } = {}) {
   const saved = Store.isSaved(p.id);
   return `<article class="p-card${reveal ? " rv" : ""}" style="--d:${delay}s" data-id="${p.id}" data-tilt>
     <button class="icon-btn p-save${saved ? " is-on" : ""}" data-save="${p.id}" aria-pressed="${saved}" aria-label="${saved ? "Remove from saved" : "Save"}: ${esc(p.name)}">${iconSvg("heart")}</button>
-    <a href="products.html#${p.id}" data-open="${p.id}" aria-label="Quick view: ${esc(p.name)}">${productArt(p)}</a>
+    <a href="product.html?id=${p.id}" aria-label="${esc(p.name)}: product details">${productArt(p)}</a>
     <div class="p-body">
       <div class="p-meta"><span class="p-cat">${esc(c.name)}</span>${statusTag(p)}</div>
-      <h3><a href="products.html#${p.id}" data-open="${p.id}">${esc(p.name)}</a></h3>
+      <h3><a href="product.html?id=${p.id}">${esc(p.name)}</a></h3>
       <p class="p-desc">${esc(p.desc)}</p>
       <ul class="p-specs">${p.specs.slice(0, 3).map((s) => `<li>${esc(s)}</li>`).join("")}</ul>
       <div class="p-price"><strong>Price on request</strong><span>Factory quote</span></div>
@@ -240,6 +240,7 @@ modal.innerHTML = `
       <div class="modal-actions">
         <button class="btn" id="modal-quote">Add to quote list</button>
         <button class="icon-btn" id="modal-save" aria-label="Save">${iconSvg("heart")}</button>
+        <a class="btn btn-line" id="modal-full" href="products.html">Full details</a>
         <a class="btn btn-line" id="modal-wa" href="${waLink("Hi SikandarTech, I need a quote.")}" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask now</a>
       </div>
     </div>
@@ -259,7 +260,8 @@ function openProduct(id) {
   $("modal-name").textContent = p.name;
   $("modal-status").innerHTML = statusTag(p);
   $("modal-desc").textContent = p.desc;
-  $("modal-specs").innerHTML = p.specs.map((s, i) => `<li><span>${String(i + 1).padStart(2, "0")}</span>${esc(s)}</li>`).join("");
+  $("modal-specs").innerHTML = specRows(p).map(([k, v]) => `<li><span>${esc(k)}</span>${esc(v)}</li>`).join("");
+  $("modal-full").href = "product.html?id=" + p.id;
   $("modal-wa").href = waLink(`Hi SikandarTech, I want a quote for: ${p.name} (${c.name}). Please share price, MOQ and shipping.`);
   const saved = Store.isSaved(p.id);
   $("modal-save").classList.toggle("is-on", saved);

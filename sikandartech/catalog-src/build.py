@@ -118,4 +118,12 @@ with open(os.path.join(SITE, "icons.js"), "w") as f:
     f.write(header + "// Icons: Tabler Icons (MIT License, https://tabler.io/icons)\n")
     f.write("const ICONS = " + json.dumps(icons, separators=(",", ":")).replace('","', '",\n"') + ";\n")
 
+SITE_URL = "https://sikandartech.com/"
+urls = ["", "products.html", "ugc.html"] + [f"products.html?cat={c['id']}" for c in categories] + [f"product.html?id={p['id']}" for p in products]
+with open(os.path.join(SITE, "sitemap.xml"), "w") as f:
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+    for u in urls:
+        f.write(f"  <url><loc>{SITE_URL}{u.replace('&', '&amp;')}</loc></url>\n")
+    f.write("</urlset>\n")
+
 print(f"{len(categories)} categories, {len(products)} products, {len(icons)} icons, {len(photos)} product photos, {len(cat_photos)} category photos, hero: {hero or 'none'}")

@@ -1,0 +1,39 @@
+# Publishes the static SikandarTech site (sikandartech/) to the gh-pages branch.
+# One-time setup: repo Settings -> Pages -> Source "Deploy from a branch" -> gh-pages / (root).
+name: Deploy SikandarTech site
+
+on:
+  push:
+    branches: [claude/eager-brahmagupta-6b77t3]
+    paths: ["sikandartech/**", ".github/workflows/deploy-sikandartech.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sikandartech-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp -r sikandartech/. _site/
+          # Not needed on the live site
+          rm -rf _site/catalog-src _site/screenshots _site/IMAGE-PROMPTS.md _site/README.md
+          touch _site/.nojekyll
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./_site
+          force_orphan: true
+          commit_message: "Deploy SikandarTech site"
