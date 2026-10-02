@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**628 products still need a photo** (52 done). One prompt per product, ready to copy.
+**623 products still need a photo** (57 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (22)
-
-### ST-0040 · Mini PCs
-- [ ] File: `mini-pcs.jpg`
-
-```
-Studio product photo: Mini PCs. Small, quiet desktop PCs for home, office and digital signage. Show design details that suggest: intel / amd cpu, 16gb ram, 512gb ssd. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0041 · Fanless mini computers
-- [ ] File: `fanless-mini-computers.jpg`
-
-```
-Studio product photo: Fanless mini computers. Silent, dust-proof computers for industrial and 24/7 use. Show design details that suggest: passive cooling, wide temperature range, dual lan. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0042 · Compact AI computing systems
-- [ ] File: `compact-ai-computing-systems.jpg`
-
-```
-Studio product photo: Compact AI computing systems. Desktop AI supercomputers for running large models locally. Show design details that suggest: unified memory 64–128gb, compact chassis. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0043 · Small-form-factor gaming PCs
-- [ ] File: `small-form-factor-gaming-pcs.jpg`
-
-```
-Studio product photo: Small-form-factor gaming PCs. Console-size gaming PCs with desktop-class graphics. Show design details that suggest: rtx-class gpu, liquid / air cooling, under 10l. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0044 · Desktop workstations
-- [ ] File: `desktop-workstations.jpg`
-
-```
-Studio product photo: Desktop workstations. Tower workstations for engineering, CAD and media production. Show design details that suggest: xeon / threadripper, ecc memory, pro gpu. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Computers, Laptops & Advanced Computing (17)
 
 ### ST-0045 · All-in-one PCs
 - [ ] File: `all-in-one-pcs.jpg`
