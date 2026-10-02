@@ -41,6 +41,7 @@ The heart icon saves products. Both are stored in the visitor's browser (localSt
 3. Run `python3 catalog-src/build.py` to regenerate `catalog.js` and `icons.js`.
 
 ## Photos
+All remaining product prompts: `PRODUCT-PHOTO-PROMPTS.md` / `product-photo-prompts.csv` (regenerate with `python3 catalog-src/make-prompts.py`).
 Products and categories show illustrations until real photos are added. See **`IMAGE-PROMPTS.md`** for
 the exact prompts, file names and sizes.
 - Product photo: `images/products/<product-id>.jpg`, then run the build.

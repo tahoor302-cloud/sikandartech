@@ -26,7 +26,7 @@ jobs:
           mkdir -p _site
           cp -r sikandartech/. _site/
           # Not needed on the live site
-          rm -rf _site/catalog-src _site/screenshots _site/IMAGE-PROMPTS.md _site/README.md
+          rm -rf _site/catalog-src _site/screenshots _site/IMAGE-PROMPTS.md _site/PRODUCT-PHOTO-PROMPTS.md _site/product-photo-prompts.csv _site/README.md
           touch _site/.nojekyll
 
       - name: Publish to gh-pages
