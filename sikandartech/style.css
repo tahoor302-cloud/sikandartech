@@ -183,8 +183,9 @@ body.intro-4 .scroll-cue { opacity: 1; }
 .art .art-icon { position: relative; width: 38%; height: auto; stroke-width: 1; filter: drop-shadow(0 0 18px color-mix(in srgb, var(--c) 60%, transparent)); transition: transform .8s var(--ease-out); }
 .art .art-code { position: absolute; top: 20px; left: 22px; font-family: var(--f-mono); font-size: .6rem; letter-spacing: .14em; color: var(--dim); text-transform: uppercase; }
 .art .art-dot { position: absolute; top: 22px; right: 22px; width: 7px; height: 7px; border-radius: 50%; background: var(--c); box-shadow: 0 0 10px var(--c); }
-.art.photo { background: #fff; }
-.art.photo img { width: 100%; height: 100%; object-fit: contain; padding: 14px; }
+.art.photo { background: #efefea; }
+.art.photo img { width: 100%; height: 100%; object-fit: cover; transition: transform 1s var(--ease-out); }
+.p-card:hover .art.photo img, .show-stage .art.photo img { transform: scale(1.04); }
 .art.photo::before { display: none; }
 
 /* ---------- Product card ---------- */
@@ -662,7 +663,7 @@ body.intro-4 .scroll-cue { opacity: 1; }
 .icon-btn > [data-ui-icon] svg, .icon-btn > svg { width: 19px; height: 19px; }
 .search-wrap [data-ui-icon] { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: var(--muted); }
 .search-wrap [data-ui-icon] svg { position: static; transform: none; width: 18px; height: 18px; }
-.hero-photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.hero-photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; mix-blend-mode: multiply; -webkit-mask-image: radial-gradient(closest-side at 50% 52%, #000 55%, transparent 100%); mask-image: radial-gradient(closest-side at 50% 52%, #000 55%, transparent 100%); }
 .has-photo .hero-svg { display: none; }
 .cat-big .art .art-frame, .cat-big .art .art-code { display: none; }
 .story-visual .art::before { background-size: 18px 18px; }
