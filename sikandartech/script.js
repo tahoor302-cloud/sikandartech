@@ -1,5 +1,14 @@
-// TODO: set the real WhatsApp number (country code + number, digits only)
-const WHATSAPP_NUMBER = "000000000000";
+// ===== Contact details: edit only this block =====
+// whatsapp: country code + number, digits only (used for wa.me links)
+// Leave wechat or phone empty ("") to hide that row.
+const CONTACT = {
+  whatsapp: "923022225991",
+  whatsappDisplay: "+92 302 222 5991",
+  wechat: "+92 302 222 5991",
+  phone: "+86 136 4022 5991", // China phone
+  email: "info@sikandartech.com"
+};
+const WHATSAPP_NUMBER = CONTACT.whatsapp;
 
 const waLink = (text) =>
   `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`;
@@ -79,6 +88,20 @@ document.getElementById("contact-form").addEventListener("submit", (e) => {
 
 // ---------- Misc ----------
 const hello = waLink("Hi Sikandar Tech, I need help sourcing a product.");
-document.getElementById("whatsapp-link").href = hello;
+const waEl = document.getElementById("whatsapp-link");
+waEl.href = hello;
+waEl.textContent = CONTACT.whatsappDisplay;
+
+document.getElementById("wechat-id").textContent = CONTACT.wechat;
+document.getElementById("wechat-row").hidden = !CONTACT.wechat;
+
+const phoneEl = document.getElementById("phone-link");
+phoneEl.textContent = CONTACT.phone;
+phoneEl.href = "tel:" + CONTACT.phone.replace(/[^\d+]/g, "");
+document.getElementById("phone-row").hidden = !CONTACT.phone;
+
+const emailEl = document.getElementById("email-link");
+emailEl.textContent = CONTACT.email;
+emailEl.href = "mailto:" + CONTACT.email;
 document.getElementById("whatsapp-float").href = hello;
 document.getElementById("year").textContent = new Date().getFullYear();

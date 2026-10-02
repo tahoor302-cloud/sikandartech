@@ -8,10 +8,11 @@ A simple static website (HTML + CSS + JS, no build step) for Sikandar Tech: sour
 - `script.js`: product filter/search, WhatsApp quote links, mobile menu
 - `style.css`: styling
 
-## Before going live
-1. Put the real WhatsApp number in `script.js` (`WHATSAPP_NUMBER`, digits only with country code, e.g. `923001234567`).
-2. Replace the placeholder number and email in the Contact section of `index.html`.
-3. Optional: swap the emoji icons for real product photos.
+## Contact details
+All contact info (WhatsApp, WeChat, China phone, email) is in the `CONTACT` block at the top of `script.js`. Empty WeChat/phone rows are hidden automatically.
+
+## Optional
+- Swap the emoji icons for real product photos.
 
 ## Run locally
 Open `index.html` in a browser, or run `python3 -m http.server -d sikandartech`.

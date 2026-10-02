@@ -132,3 +132,7 @@ p { margin-bottom: .75rem; }
   .product-icon { height: 80px; font-size: 2rem; }
   .product h3 { font-size: .92rem; }
 }
+
+/* Markets */
+.markets { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; }
+.markets span { background: var(--bg-alt); border: 1px solid var(--border); border-radius: 999px; padding: 10px 22px; font-weight: 600; color: var(--dark); }
