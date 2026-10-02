@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**623 products still need a photo** (57 done). One prompt per product, ready to copy.
+**618 products still need a photo** (62 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (17)
-
-### ST-0045 · All-in-one PCs
-- [ ] File: `all-in-one-pcs.jpg`
-
-```
-Studio product photo: All-in-one PCs. Clean desk PCs with the computer built into a high-resolution display. Show design details that suggest: 24–32" 4k display, pop-up webcam, speakers built-in. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0046 · High-performance desktop computers
-- [ ] File: `high-performance-desktop-computers.jpg`
-
-```
-Studio product photo: High-performance desktop computers. Powerful desktops for gaming, streaming and heavy multitasking. Show design details that suggest: latest cpu, rtx-class gpu, 32gb ddr5. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0047 · AI edge-computing computers
-- [ ] File: `ai-edge-computing-computers.jpg`
-
-```
-Studio product photo: AI edge-computing computers. Rugged edge computers that run AI vision and analytics close to the source. Show design details that suggest: gpu / npu module, poe inputs, fanless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0048 · Single-board computers
-- [ ] File: `single-board-computers.jpg`
-
-```
-Studio product photo: Single-board computers. Credit-card-size computers for learning, prototyping and IoT. Show design details that suggest: quad / octa-core arm, gpio header, hdmi out. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0049 · External GPUs
-- [ ] File: `external-gpus.jpg`
-
-```
-Studio product photo: External GPUs. Graphics enclosures that boost laptop performance through Thunderbolt or OCuLink. Show design details that suggest: full-size gpu support, thunderbolt / oculink, built-in psu. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Computers, Laptops & Advanced Computing (12)
 
 ### ST-0050 · GPU accelerator systems
 - [ ] File: `gpu-accelerator-systems.jpg`
