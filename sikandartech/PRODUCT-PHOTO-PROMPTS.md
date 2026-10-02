@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**618 products still need a photo** (62 done). One prompt per product, ready to copy.
+**613 products still need a photo** (67 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (12)
-
-### ST-0050 · GPU accelerator systems
-- [ ] File: `gpu-accelerator-systems.jpg`
-
-```
-Studio product photo: GPU accelerator systems. Multi-GPU servers for AI training, inference and HPC. Show design details that suggest: 4–8 gpus, nvlink options, rack mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0051 · AI development workstations
-- [ ] File: `ai-development-workstations.jpg`
-
-```
-Studio product photo: AI development workstations. Ready-to-use workstations preloaded with AI frameworks for developers. Show design details that suggest: pro gpu, 128gb ram, ubuntu / windows. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0052 · Computer-on-module systems
-- [ ] File: `computer-on-module-systems.jpg`
-
-```
-Studio product photo: Computer-on-module systems. Compact compute modules for building custom embedded products. Show design details that suggest: som with carrier board, npu options, industrial grade. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0053 · Portable monitors
-- [ ] File: `portable-monitors.jpg`
-
-```
-Studio product photo: Portable monitors. Show design details that suggest: 15.6–18" ips/oled, usb-c one-cable, built-in stand. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0054 · OLED monitors
-- [ ] File: `oled-monitors.jpg`
-
-```
-Studio product photo: OLED monitors. OLED monitors with perfect blacks and instant response for gaming and creation. Show design details that suggest: 27–34" oled, 240hz, 0.03 ms response. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Computers, Laptops & Advanced Computing (7)
 
 ### ST-0055 · QD-OLED monitors
 - [ ] File: `qd-oled-monitors.jpg`
