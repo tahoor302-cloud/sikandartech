@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**613 products still need a photo** (67 done). One prompt per product, ready to copy.
+**608 products still need a photo** (72 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Computers, Laptops & Advanced Computing (7)
-
-### ST-0055 · QD-OLED monitors
-- [ ] File: `qd-oled-monitors.jpg`
-
-```
-Studio product photo: QD-OLED monitors. Quantum-dot OLED monitors with brighter, wider colour. Show design details that suggest: qd-oled panel, 99% dci-p3, 175–360hz. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0056 · Mini-LED monitors
-- [ ] File: `mini-led-monitors.jpg`
-
-```
-Studio product photo: Mini-LED monitors. High-brightness monitors with thousands of local dimming zones. Show design details that suggest: 1000+ dimming zones, hdr1000, 4k 144hz. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0057 · 4K, 5K and 6K monitors
-- [ ] File: `4k-5k-and-6k-monitors.jpg`
-
-```
-Studio product photo: 4K, 5K and 6K monitors. Ultra-sharp monitors for designers, editors and Mac users. Show design details that suggest: 4k–6k resolution, thunderbolt hub, factory calibrated. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0058 · Ultrawide monitors
-- [ ] File: `ultrawide-monitors.jpg`
-
-```
-Studio product photo: Ultrawide monitors. 21:9 and 32:9 curved monitors for immersive gaming and multitasking. Show design details that suggest: 34–57" curved, 3440×1440 to 7680×2160, 144–240hz. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0059 · High-refresh-rate gaming monitors
-- [ ] File: `high-refresh-rate-gaming-monitors.jpg`
-
-```
-Studio product photo: High-refresh-rate gaming monitors. Ultra-fast monitors for competitive esports gaming. Show design details that suggest: 360–540hz, 1 ms gtg, g-sync / freesync. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Computers, Laptops & Advanced Computing (2)
 
 ### ST-0060 · E-ink monitors
 - [ ] File: `e-ink-monitors.jpg`
