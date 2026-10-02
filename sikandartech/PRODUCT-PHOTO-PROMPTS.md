@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**658 products still need a photo** (22 done). One prompt per product, ready to copy.
+**653 products still need a photo** (27 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## AI Gadgets & Personal AI (14)
-
-### ST-0011 · AI desktop companions
-- [ ] File: `ai-desktop-companions.jpg`
-
-```
-Studio product photo: AI desktop companions. Expressive desktop robots that chat, remind and keep you company at your workspace. Show design details that suggest: animated display face, facial recognition. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0012 · AI voice assistant devices
-- [ ] File: `ai-voice-assistant-devices.jpg`
-
-```
-Studio product photo: AI voice assistant devices. Compact speakers with conversational AI for questions, music and smart-home control. Show design details that suggest: far-field mics, 360° sound, smart-home hub. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0013 · AI translation devices
-- [ ] File: `ai-translation-devices.jpg`
-
-```
-Studio product photo: AI translation devices. Handheld two-way translators for travel and business, online or offline. Show design details that suggest: 130+ languages online, offline packs, photo translation. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0014 · AI reading pens
-- [ ] File: `ai-reading-pens.jpg`
-
-```
-Studio product photo: AI reading pens. Scan printed text to hear it read aloud, translated and explained instantly. Show design details that suggest: ocr scanning, text-to-speech, 100+ languages. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0015 · AI scanning pens
-- [ ] File: `ai-scanning-pens.jpg`
-
-```
-Studio product photo: AI scanning pens. Show design details that suggest: 300 dpi scan head, bluetooth / usb, excel & word export. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## AI Gadgets & Personal AI (9)
 
 ### ST-0016 · AI learning companions
 - [ ] File: `ai-learning-companions.jpg`
