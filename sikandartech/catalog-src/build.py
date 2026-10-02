@@ -39,6 +39,13 @@ photos = {
     if f.lower().endswith((".jpg", ".jpeg", ".webp", ".png"))
 }
 
+cat_dir = os.path.join(SITE, "images", "categories")
+cat_photos = {
+    os.path.splitext(f)[0]: f
+    for f in (os.listdir(cat_dir) if os.path.isdir(cat_dir) else [])
+    if f.lower().endswith((".jpg", ".jpeg", ".webp", ".png"))
+}
+
 for fname in sorted(f for f in os.listdir(HERE) if f.endswith(".txt")):
     cat = None
     for n, line in enumerate(open(os.path.join(HERE, fname)), 1):
@@ -50,6 +57,8 @@ for fname in sorted(f for f in os.listdir(HERE) if f.endswith(".txt")):
             if len(parts) == 5 and re.fullmatch(r"[a-z0-9-]+", parts[0]):
                 cslug, name, icon, color, tagline = parts
                 cat = {"id": cslug, "name": name, "icon": icon, "color": color, "tagline": tagline}
+                if cslug in cat_photos:
+                    cat["photo"] = "images/categories/" + cat_photos[cslug]
                 categories.append(cat)
             continue
         parts = [p.strip() for p in line.split("|")]
@@ -76,8 +85,13 @@ for fname in sorted(f for f in os.listdir(HERE) if f.endswith(".txt")):
             p["photo"] = "images/products/" + photos[pid]
         products.append(p)
 
+# Interface icons used by the site scripts
+UI_ICONS = ["heart", "shopping-bag", "arrow-right", "arrow-up-right", "menu", "x", "search", "eye",
+            "player-play", "player-pause", "volume", "volume-off", "upload", "brand-whatsapp",
+            "brand-tiktok", "brand-instagram", "brand-facebook", "check", "layout-grid", "plus", "minus"]
+
 icons = {}
-for name in sorted({c["icon"] for c in categories} | {p["icon"] for p in products}):
+for name in sorted({c["icon"] for c in categories} | {p["icon"] for p in products} | set(UI_ICONS)):
     body = load_icon(name)
     if body is None:
         errors.append(f"missing icon: {name}")
@@ -100,4 +114,4 @@ with open(os.path.join(SITE, "icons.js"), "w") as f:
     f.write(header + "// Icons: Tabler Icons (MIT License, https://tabler.io/icons)\n")
     f.write("const ICONS = " + json.dumps(icons, separators=(",", ":")).replace('","', '",\n"') + ";\n")
 
-print(f"{len(categories)} categories, {len(products)} products, {len(icons)} icons, {len(photos)} photos")
+print(f"{len(categories)} categories, {len(products)} products, {len(icons)} icons, {len(photos)} product photos, {len(cat_photos)} category photos")

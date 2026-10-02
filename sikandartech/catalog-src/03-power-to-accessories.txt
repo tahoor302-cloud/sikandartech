@@ -224,7 +224,7 @@ Powered mobility-assistance systems | wheelchair | C | Advanced powered devices 
 Brain-computer interface research devices | brain | E | EEG-based BCI headsets for research and development. | EEG channels; SDK; Research use; Wireless
 Neural-interface development hardware | brain | E | Development hardware for neural signal research. | Biosignal acquisition; Open-source tools; Research use; Modular
 Smart contact-lens prototypes | eye | E | Contact lenses with displays or sensors in development. | Micro display / sensor; Research stage; Not for sale; Medical regulation
-Flexible electronic displays | device-mobile-rotated | E | Bendable displays for wearables and new form factors. | Flexible OLED; Bendable; Development kits; Limited supply
+Flexible electronic displays | wave-sine | E | Bendable displays for wearables and new form factors. | Flexible OLED; Bendable; Development kits; Limited supply
 Rollable OLED displays | device-tv | C | Displays that roll away when not in use. | Rollable OLED; Motorised; Premium; Limited release
 Transparent displays | device-tv | E | See-through OLED/LED panels for showcases and design. | Transparent OLED; Showcase use; Commercial; Limited supply
 Holographic visualization systems | sphere | E | Systems for viewing 3D holographic content. | Light-field display; 3D visualisation; Developer tools; Research
