@@ -22,13 +22,17 @@ export function ProductGallery({ images, name }: { images: ProductImage[]; name:
   const lenis = useLenis();
   const key = images.map((i) => i.src).join("|");
 
-  // Colour change → soft cross-fade of the whole gallery
+  // Colour change → the new colourway draws across like a silk curtain (left to right, image settling
+  // from a slight zoom), one frame after another. Skipped on first render so the page opens instantly.
+  const first = useRef(true);
   useEffect(() => {
     setActive(0);
-    if (prefersReducedMotion()) return;
-    const els = refs.current.filter(Boolean);
-    gsap.fromTo(els, { opacity: 0.2, scale: 1.015 }, { opacity: 1, scale: 1, duration: 0.8, ease: EASE.out, stagger: 0.05 });
     track.current?.scrollTo({ left: 0 });
+    if (first.current) { first.current = false; return; }
+    if (prefersReducedMotion()) return;
+    const els = refs.current.filter(Boolean) as HTMLDivElement[];
+    gsap.fromTo(els, { clipPath: "inset(0% 100% 0% 0%)" }, { clipPath: "inset(0% 0% 0% 0%)", duration: 1.1, ease: "expo.inOut", stagger: 0.08, clearProps: "clipPath" });
+    gsap.fromTo(els.map((e) => e.querySelector("img")).filter(Boolean), { scale: 1.08 }, { scale: 1, duration: 1.6, ease: EASE.out, stagger: 0.08, clearProps: "transform" });
   }, [key]);
 
   // Track which stacked image is in view (desktop)

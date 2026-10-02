@@ -87,6 +87,27 @@ export const heroScenes: HeroScene[] = [
   { id: "look-4", type: "image", src: "/media/hero/studio-04.webp", caption: "Overshirt and crossbody", tone: "light", href: "/collections/all" },
 ];
 
+/** Homepage lookbook hero: one model, one look per category. Desktop scrubs through the looks on scroll
+ *  (`src`, 16:9); phones rotate through them (`portrait`). `menu` ties a look to its item in `heroMenu`. */
+export type HeroLook = { id: string; menu: string; src: string; portrait: string; alt: string; caption: string };
+export const heroLooks: HeroLook[] = [
+  { id: "look-01", menu: "eyewear", src: "/media/hero/looks/look-01-eyewear.webp", portrait: "/media/hero/looks/look-01-eyewear-portrait.webp", alt: "Model in a cream ribbed tank and black cargo trousers, wearing round gold-frame sunglasses", caption: "Round gold-frame sunglasses" },
+  { id: "look-02", menu: "knitwear", src: "/media/hero/looks/look-02-knitwear.webp", portrait: "/media/hero/looks/look-02-knitwear-portrait.webp", alt: "Model in a sand fine-knit top and pleated beige trousers", caption: "Fine knit, pleated trousers" },
+  { id: "look-03", menu: "shirts", src: "/media/hero/looks/look-03-shirts.webp", portrait: "/media/hero/looks/look-03-shirts-portrait.webp", alt: "Model in an ivory silk shirt, charcoal wool trousers, tan belt and black loafers", caption: "Silk shirt, wool trousers" },
+  { id: "look-04", menu: "sneakers", src: "/media/hero/looks/look-04-sneakers.webp", portrait: "/media/hero/looks/look-04-sneakers-portrait.webp", alt: "Model in a cream tank, cropped light-blue jeans and plain white leather sneakers", caption: "Clean white leather sneakers" },
+  { id: "look-05", menu: "watches", src: "/media/hero/looks/look-05-watches.webp", portrait: "/media/hero/looks/look-05-watches-portrait.webp", alt: "Model in an ivory shirt and dark jeans, wearing a gold bracelet watch", caption: "Gold bracelet watch" },
+];
+export const heroMenu = [
+  { id: "collections", label: "Collections", href: "/collections" },
+  { id: "eyewear", label: "Eyewear", href: "/category/accessories/sunglasses" },
+  { id: "knitwear", label: "Knitwear", href: "/category/clothing/knitwear" },
+  { id: "shirts", label: "Shirts", href: "/category/clothing/shirts" },
+  { id: "sneakers", label: "Sneakers", href: "/category/shoes/sneakers" },
+  { id: "watches", label: "Watches", href: "/category/watches" },
+  { id: "bags", label: "Bags", href: "/category/bags" },
+  { id: "accessories", label: "Accessories", href: "/category/accessories" },
+];
+
 /** Optional ambient soundtrack (licensed MP3/OGG). If empty, a soft generative pad is used. */
 /** Full-screen opening film shown once per session before the site (components/intro). */
 export const intro = { enabled: true, src: "/media/intro/intro.mp4", tryAudio: true, maxWaitMs: 4000, maxTotalMs: 14000 };

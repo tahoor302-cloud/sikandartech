@@ -1,5 +1,5 @@
 "use client";
-import { memo } from "react";
+import { memo, type PointerEvent } from "react";
 import { Link } from "@/components/ui/link";
 import { Media } from "@/components/ui/media";
 import { Price } from "@/components/ui/price";
@@ -27,6 +27,23 @@ interface Props {
  * info lifts 4px, a champagne hairline draws in and quick-view fades up.
  */
 export const ProductCard = memo(function ProductCard({ product: p, priority, sizes = "(min-width:1280px) 25vw, (min-width:768px) 33vw, 50vw", className, variant = "default" }: Props) {
+  // Mouse only: the image tilts toward the pointer and a soft highlight follows it across the surface.
+  const tilt = (e: PointerEvent<HTMLDivElement>) => {
+    if (e.pointerType !== "mouse") return;
+    const el = e.currentTarget, r = el.getBoundingClientRect();
+    const x = (e.clientX - r.left) / r.width, y = (e.clientY - r.top) / r.height;
+    el.style.setProperty("--tilt-y", `${((x - 0.5) * 7).toFixed(2)}deg`);
+    el.style.setProperty("--tilt-x", `${((0.5 - y) * 6).toFixed(2)}deg`);
+    el.style.setProperty("--sheen-x", `${(x * 100).toFixed(1)}%`);
+    el.style.setProperty("--sheen-y", `${(y * 100).toFixed(1)}%`);
+    el.dataset.tilting = "";
+  };
+  const untilt = (e: PointerEvent<HTMLDivElement>) => {
+    const el = e.currentTarget;
+    el.style.setProperty("--tilt-x", "0deg");
+    el.style.setProperty("--tilt-y", "0deg");
+    delete el.dataset.tilting;
+  };
   const a = primaryImage(p);
   const b = secondaryImage(p);
   const sizeCount = p.sizes.length;
@@ -34,7 +51,8 @@ export const ProductCard = memo(function ProductCard({ product: p, priority, siz
     <article className={cn("group/card relative", className)} data-product-card>
       <div className="relative">
       <Link href={`/product/${p.id}`} className="block" data-cursor="View" aria-label={`${p.name}, ${p.brand}`}>
-        <div className="relative aspect-[4/5] overflow-hidden bg-ivory-2">
+        <div className="card-tilt relative aspect-[4/5] overflow-hidden bg-ivory-2" onPointerMove={tilt} onPointerLeave={untilt}>
+          <span aria-hidden className="card-sheen" />
           {a && (
             <Media src={a.src} alt={a.alt} fill sizes={sizes} priority={priority} className="object-cover transition-transform duration-[1100ms] ease-luxe group-hover/card:scale-[1.04]" />
           )}

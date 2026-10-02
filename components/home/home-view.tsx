@@ -1,5 +1,7 @@
 "use client";
 import { Hero } from "@/components/hero/hero";
+import { HeroLookbook } from "@/components/hero/hero-lookbook";
+import { heroLooks } from "@/data/site";
 import { FeaturedCollection } from "./featured-collection";
 import { SignatureScroll } from "./signature-scroll";
 import { ProductSection } from "./product-rail";
@@ -28,7 +30,7 @@ export function HomeView({ originals, newArrivals, featured, trending, categorie
   const ctaImages = rails.flatMap((r) => r.products.slice(0, 2)).map((p) => p.images.find((i) => i.kind === "editorial")?.src ?? p.images[0].src);
   return (
     <>
-      <Hero />
+      {heroLooks.length > 0 ? <HeroLookbook /> : <Hero />}
       <FeaturedCollection products={originals} />
       <SignatureScroll />
       <ProductSection eyebrow="Season 01" title="New arrivals" href="/collections/new-arrivals" products={newArrivals} />

@@ -395,6 +395,41 @@ html.js [data-mask] .mask > span {
   0%, 100% { height: 3px; }
   50% { height: 12px; }
 }
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ---------- Lookbook hero: each look dissolves outward through a feathered circle centred on the model.
+   GSAP tweens --reveal (-24% = hidden, 100% = fully shown); the 24% feather keeps the edge soft. ---------- */
+.look-frame {
+  --reveal: 100%;
+  -webkit-mask-image: radial-gradient(circle at 50% 46%, #000 var(--reveal), transparent calc(var(--reveal) + 24%));
+  mask-image: radial-gradient(circle at 50% 46%, #000 var(--reveal), transparent calc(var(--reveal) + 24%));
+}
+
+/* ---------- Product card: 3D tilt + specular sheen (fine pointers only; set by ProductCard) ---------- */
+.card-tilt {
+  transform: perspective(1000px) rotateX(var(--tilt-x, 0deg)) rotateY(var(--tilt-y, 0deg));
+  transition: transform 0.7s var(--ease-luxe);
+  transform-style: preserve-3d;
+}
+.card-tilt[data-tilting] { transition-duration: 0.15s; }
+.card-sheen {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  opacity: 0;
+  background: radial-gradient(circle at var(--sheen-x, 50%) var(--sheen-y, 30%), rgb(255 252 242 / 0.42), rgb(240 223 180 / 0.12) 28%, transparent 55%);
+  mix-blend-mode: soft-light;
+  transition: opacity 0.6s var(--ease-luxe);
+}
+.card-tilt[data-tilting] .card-sheen { opacity: 1; }
+@media (prefers-reduced-motion: reduce) {
+  .card-tilt { transform: none !important; }
+  .card-sheen { display: none; }
+}
 
 html.js [data-hero-in] { opacity: 0; }
 html.js [data-hero-word] .mask > span { transform: translateY(120%); }
