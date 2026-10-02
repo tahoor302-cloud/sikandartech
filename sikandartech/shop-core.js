@@ -229,7 +229,7 @@ modal.innerHTML = `
   <div class="modal-body">
     <div class="modal-media" id="modal-media"></div>
     <div class="modal-info">
-      <a class="modal-cat" id="modal-cat" href="#"></a>
+      <a class="modal-cat" id="modal-cat" href="products.html">Collection</a>
       <h2 id="modal-name"></h2>
       <span id="modal-status"></span>
       <p class="modal-desc" id="modal-desc"></p>
@@ -240,7 +240,7 @@ modal.innerHTML = `
       <div class="modal-actions">
         <button class="btn" id="modal-quote">Add to quote list</button>
         <button class="icon-btn" id="modal-save" aria-label="Save">${iconSvg("heart")}</button>
-        <a class="btn btn-line" id="modal-wa" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask now</a>
+        <a class="btn btn-line" id="modal-wa" href="${waLink("Hi SikandarTech, I need a quote.")}" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask now</a>
       </div>
     </div>
   </div>

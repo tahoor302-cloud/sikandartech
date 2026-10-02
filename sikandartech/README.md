@@ -7,7 +7,7 @@ that respects `prefers-reduced-motion`.
 ## Pages
 - `index.html`: home. Cinematic hero, featured product showcase, editorial categories, product showroom,
   drone story (sticky, scroll-driven), Guangzhou → world route network, about/founder, community, final CTA + contact.
-- `products.html`: full catalogue (687 products, 24 categories) with category sidebar, search,
+- `products.html`: full catalogue (680 products, 24 categories) with category sidebar, search,
   availability filter, quick view, save and quote list. Shareable links: `?cat=audio`, `?q=drone`,
   `?status=coming`, `#product-id`.
 - `ugc.html`: community feed (portrait video/image cards with muted autoplay, one-sound-at-a-time,
@@ -20,7 +20,7 @@ The heart icon saves products. Both are stored in the visitor's browser (localSt
 
 ## Files
 - `script.js`: **site settings** (`CONTACT` block: WhatsApp, WeChat, phone, email, socials; `MEDIA` block:
-  hero photo), header/menu, scroll reveals, contact form
+  hero photo override), header/menu, scroll reveals, contact form
 - `shop-core.js`: product art/cards, product popup, saved items, quote list drawer, toasts
 - `home.js`, `shop.js`, `ugc.js`: page scripts
 - `ugc-data.js`: community posts (`UGC_ITEMS`) and the upload backend URL (`UGC_ENDPOINT`)
@@ -40,7 +40,7 @@ Products and categories show illustrations until real photos are added. See **`I
 the exact prompts, file names and sizes.
 - Product photo: `images/products/<product-id>.jpg`, then run the build.
 - Category photo: `images/categories/<category-id>.jpg`, then run the build.
-- Hero photo: put it in `images/hero/` and set `MEDIA.hero` in `script.js`.
+- Hero photo: `images/hero/hero.png` (or .webp/.jpg), then run the build.
 - About photo: `images/about.jpg` (4:5).
 
 ## Community uploads

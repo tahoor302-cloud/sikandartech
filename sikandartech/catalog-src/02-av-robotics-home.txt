@@ -60,7 +60,6 @@ Trail cameras | plant | A | Motion-activated cameras for wildlife and property. 
 Wildlife cameras | binoculars | A | Weatherproof cameras for observing and recording wildlife. | Weatherproof; Solar options; Night vision; App alerts
 Instant cameras | photo | A | Cameras that print photos instantly. | Instant film / Zink; Selfie mirror; Auto exposure; Fun modes
 Portable photo printers | printer | A | Pocket printers for printing photos from your phone. | Zink / dye-sub; Bluetooth; Sticker paper; Rechargeable
-Smartphone camera rigs | aspect-ratio | A | Cages and rigs for mounting lights, mics and lenses to phones. | Aluminium cage; Cold shoes; Lens mount; Grip handles
 Electronic camera stabilizers | focus-centered | A | 3-axis gimbals for mirrorless and cinema cameras. | 3-axis; 3–4.5kg payload; Follow modes; Wireless control
 Wireless video transmitters | broadcast | A | Send live camera video wirelessly to monitors and directors. | 1080p / 4K; 150–300m range; Low latency; HDMI / SDI
 External camera monitors | device-screen | A | On-camera monitors and recorders with pro tools. | 5–7" 1000+ nits; ProRes RAW recording; LUTs; Waveform

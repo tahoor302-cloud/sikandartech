@@ -174,7 +174,7 @@ Connected thermometers | thermometer | A | Infrared and smart thermometers that 
 Consumer pulse oximeters | heartbeat | A | Fingertip oximeters for SpO2 and pulse (wellness use). | SpO2 & pulse; OLED display; Bluetooth options; Wellness use
 Electronic blood-pressure monitors | heart-rate-monitor | A | Automatic blood-pressure monitors (certified models available). | Upper-arm cuff; Memory; Bluetooth; Clinically validated models
 Home ECG devices | activity-heartbeat | A | Personal ECG devices for heart-rhythm recordings (where approved). | Single / 6-lead; App reports; Share with doctor; Regulatory-cleared models
-Portable ultrasound systems for professional use | stethoscope | A | Handheld ultrasound probes for healthcare professionals. | Handheld probe; Smartphone / tablet app; Multiple presets; Professional use only
+Portable ultrasound systems for professional use | stethoscope | A | Handheld ultrasound probes for healthcare professionals. | Handheld probe; Tablet app; Multiple presets; Professional use only
 Wearable fall-detection devices | walk | A | Wearables that detect falls and call for help. | Fall detection; SOS button; GPS; Caregiver alerts
 Personal emergency alert devices | sos | A | Emergency buttons and pendants for seniors. | One-touch SOS; Two-way voice; GPS; Waterproof
 Smart mobility aids | wheelchair | A | Smart walkers, canes and wheelchairs with sensors. | Obstacle sensors; Fall alerts; Lights; App
@@ -333,14 +333,8 @@ Laser hair-removal devices | sparkles | A | At-home IPL and laser hair removal. 
 At-home skin imaging devices | photo-scan | A | Devices that capture close-up skin images for tracking. | Magnified imaging; App; Lighting; Tracking
 
 # accessories | Accessories & Everyday Tech | plug-connected | #57534e | Stands, cables, chargers, trackers and everyday tech accessories.
-Smartphone camera grips | camera | A | Grips that turn your phone into a camera with shutter button. | Shutter button; Bluetooth; Battery; Wrist strap
-Magnetic phone accessories | magnet | A | Magnetic mounts, wallets and stands. | Magnetic; Wallet / stand / mount; Strong hold; Slim
-Smartphone cooling systems | wind | A | Clip-on coolers for gaming and streaming. | Semiconductor cooling; RGB; Magnetic / clip; USB-C
-Mobile gaming controllers | device-gamepad-2 | A | Controllers that turn phones into handhelds. | Telescopic; Hall sticks; USB-C; Pass-through charging
-Smartphone gimbals | focus-centered | A | 3-axis gimbals for smooth phone video. | 3-axis; AI tracking; Foldable; Extension rod
 Portable thermal printers | printer | A | Pocket printers for labels, notes and photos. | Thermal; Bluetooth; Inkless; Rechargeable
 Multi-device wireless chargers | battery-charging | A | Chargers for phone, watch and earbuds. | 3-in-1; Fast charge; Foldable; Stand
-Magnetic phone stands | magnet | A | Adjustable magnetic stands for desk and nightstand. | Magnetic; Adjustable; Aluminium; Charging options
 Adjustable laptop stands | device-laptop | A | Ergonomic laptop stands. | Height adjustable; Aluminium; Foldable; Ventilated
 Laptop cooling pads | wind | A | Cooling pads with fans for laptops. | Multiple fans; Adjustable height; USB; RGB
 Premium USB-C cables | plug-connected | A | Durable braided cables for fast charging and data. | 100–240W; 10–40Gbps; Braided; E-marker

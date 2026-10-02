@@ -12,10 +12,11 @@ const CONTACT = {
   facebook: "https://www.facebook.com/sikandar.punjwani/"
 };
 
-// ===== Site photos: set a path once the image is in the folder =====
-// hero: main hero product photo (transparent PNG/WebP on dark works best), e.g. "images/hero/hero.webp"
+// ===== Site photos =====
+// The hero photo is picked up automatically from images/hero/hero.(png|webp|jpg) by
+// catalog-src/build.py. Set a path here only to override it.
 const MEDIA = {
-  hero: ""
+  hero: (typeof SITE_MEDIA !== "undefined" && SITE_MEDIA.hero) || ""
 };
 
 const waLink = (text) => `https://wa.me/${CONTACT.whatsapp}?text=${encodeURIComponent(text)}`;
