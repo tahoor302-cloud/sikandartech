@@ -53,7 +53,11 @@
   <section class="section" id="about">
     <div class="container about">
       <div class="about-img">
-        <div class="avatar">ST</div>
+        <!-- Photo: add images/about.jpg; "ST" shows until the file exists -->
+        <div class="avatar">
+          <span>ST</span>
+          <img src="images/about.jpg" alt="Sikandar Tech in Guangzhou, China" onerror="this.remove()">
+        </div>
       </div>
       <div>
         <p class="eyebrow">About Us</p>

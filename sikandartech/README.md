@@ -12,6 +12,7 @@ A simple static website (HTML + CSS + JS, no build step) for Sikandar Tech: sour
 All contact info (WhatsApp, WeChat, China phone, email) is in the `CONTACT` block at the top of `script.js`. Empty WeChat/phone rows are hidden automatically.
 
 ## Optional
+- About photo: save a portrait photo as `images/about.jpg` (4:5, e.g. 800x1000). Until then the "ST" placeholder shows.
 - Swap the emoji icons for real product photos.
 
 ## Run locally
