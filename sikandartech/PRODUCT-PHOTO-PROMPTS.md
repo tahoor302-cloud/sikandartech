@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**594 products still need a photo** (86 done). One prompt per product, ready to copy.
+**590 products still need a photo** (90 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,35 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Tablets, E-Readers & Digital Notebooks (10)
-
-### ST-0075 · Standalone pen displays
-- [ ] File: `standalone-pen-displays.jpg`
-
-```
-Studio product photo: Standalone pen displays. Drawing computers with built-in OS, no PC required. Show design details that suggest: built-in processor, android / windows, pro pen. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0076 · Digital whiteboards
-- [ ] File: `digital-whiteboards.jpg`
-
-```
-Studio product photo: Digital whiteboards. Interactive touchscreen whiteboards for teams and classrooms. Show design details that suggest: 55–86" 4k touch, multi-user writing, video conferencing. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0077 · Interactive portable displays
-- [ ] File: `interactive-portable-displays.jpg`
-
-```
-Studio product photo: Interactive portable displays. Portable touch displays for presentations and collaboration. Show design details that suggest: touch screen, battery powered, wireless casting. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0078 · Large-format digital note-taking devices
-- [ ] File: `large-format-digital-note-taking-devices.jpg`
-
-```
-Studio product photo: Large-format digital note-taking devices. A4/A5-size digital notebooks for meetings, research and study. Show design details that suggest: 13.3" e-ink, pen included, template library. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Tablets, E-Readers & Digital Notebooks (6)
 
 ### ST-0079 · Smart pens
 - [ ] File: `smart-pens.jpg`
