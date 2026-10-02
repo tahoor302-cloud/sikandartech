@@ -7,7 +7,7 @@ const CONTACT = {
   wechat: "+92 302 222 5991",
   phone: "+86 136 4022 5991", // China phone
   email: "info@sikandartech.com",
-  tiktok: ""                // TikTok username without @; empty hides the button
+  tiktok: "sikandarpanjwani1" // TikTok username without @; empty hides the button
 };
 const WHATSAPP_NUMBER = CONTACT.whatsapp;
 
