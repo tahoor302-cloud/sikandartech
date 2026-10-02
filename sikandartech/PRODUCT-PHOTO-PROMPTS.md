@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**653 products still need a photo** (27 done). One prompt per product, ready to copy.
+**648 products still need a photo** (32 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## AI Gadgets & Personal AI (9)
-
-### ST-0016 · AI learning companions
-- [ ] File: `ai-learning-companions.jpg`
-
-```
-Studio product photo: AI learning companions. Interactive learning devices that tutor children with voice, quizzes and stories. Show design details that suggest: curriculum content, parental controls, touch display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0017 · AI-powered dictation devices
-- [ ] File: `ai-powered-dictation-devices.jpg`
-
-```
-Studio product photo: AI-powered dictation devices. Professional dictation recorders with AI transcription for legal and medical workflows. Show design details that suggest: noise-cancelling mic, push-to-record, encrypted files. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0018 · AI-enabled earbuds
-- [ ] File: `ai-enabled-earbuds.jpg`
-
-```
-Studio product photo: AI-enabled earbuds. Wireless earbuds with built-in AI assistant, live translation and smart noise control. Show design details that suggest: adaptive anc, live translation, 30 h with case. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0019 · AI security cameras
-- [ ] File: `ai-security-cameras.jpg`
-
-```
-Studio product photo: AI security cameras. Cameras with on-device AI that recognise people, vehicles and parcels to cut false alerts. Show design details that suggest: 2k/4k video, person & vehicle detection, local storage. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0020 · AI robotic assistants
-- [ ] File: `ai-robotic-assistants.jpg`
-
-```
-Studio product photo: AI robotic assistants. Mobile home robots that patrol, monitor and interact through voice and video. Show design details that suggest: autonomous navigation, hd camera, two-way talk. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## AI Gadgets & Personal AI (4)
 
 ### ST-0021 · AI-powered smart displays
 - [ ] File: `ai-powered-smart-displays.jpg`
