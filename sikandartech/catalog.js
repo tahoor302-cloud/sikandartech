@@ -16,6 +16,7 @@ const CATEGORIES = [
   "icon": "device-laptop",
   "color": "#2563eb",
   "tagline": "AI PCs, workstations, mini PCs and displays for work, creation and play.",
+  "photo": "images/categories/computers.webp",
   "count": 37
  },
  {
@@ -32,6 +33,7 @@ const CATEGORIES = [
   "icon": "device-vision-pro",
   "color": "#db2777",
   "tagline": "Immersive headsets, AR glasses, haptics and spatial-computing gear.",
+  "photo": "images/categories/xr.webp",
   "count": 25
  },
  {
@@ -49,6 +51,7 @@ const CATEGORIES = [
   "icon": "headphones",
   "color": "#ea580c",
   "tagline": "Earbuds, headphones, speakers, DACs and microphones.",
+  "photo": "images/categories/audio.webp",
   "count": 33
  },
  {
@@ -57,6 +60,7 @@ const CATEGORIES = [
   "icon": "camera",
   "color": "#0f766e",
   "tagline": "Cameras, lighting and imaging systems for every creator.",
+  "photo": "images/categories/cameras.webp",
   "count": 35
  },
  {
