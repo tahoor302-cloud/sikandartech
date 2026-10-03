@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**358 products still need a photo** (289 done). One prompt per product, ready to copy.
+**354 products still need a photo** (293 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -233,35 +233,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Smart Home & Connected Living (18)
-
-### ST-0283 · AI surveillance cameras
-- [ ] File: `ai-surveillance-cameras.jpg`
-
-```
-Studio product photo: AI surveillance cameras. Cameras with AI analytics for people, vehicles and faces. Show design details that suggest: anpr options, nvr support, poe. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0284 · Pan-tilt-zoom cameras
-- [ ] File: `pan-tilt-zoom-cameras.jpg`
-
-```
-Studio product photo: Pan-tilt-zoom cameras. PTZ cameras that rotate and zoom to cover large areas. Show design details that suggest: 355° pan, optical zoom, auto tracking. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0285 · Smart alarm systems
-- [ ] File: `smart-alarm-systems.jpg`
-
-```
-Studio product photo: Smart alarm systems. DIY alarm systems with sensors, sirens and monitoring. Show design details that suggest: hub & sensors, siren, professional monitoring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0286 · Glass-break sensors
-- [ ] File: `glass-break-sensors.jpg`
-
-```
-Studio product photo: Glass-break sensors. Sensors that detect the sound of breaking glass. Show design details that suggest: acoustic detection, wireless, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Home & Connected Living (14)
 
 ### ST-0287 · Water-leak detectors
 - [ ] File: `water-leak-detectors.jpg`
