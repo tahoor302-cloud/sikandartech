@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**468 products still need a photo** (179 done). One prompt per product, ready to copy.
+**463 products still need a photo** (184 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (10)
+## Smartwatches, Rings & Wearable Tech (5)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
@@ -35,20 +35,6 @@ Studio product photo: GPS pet trackers. Collar trackers that show your pet's liv
 Studio product photo: Smart badges. Connected ID badges for access, voice notes and team communication. Show design details that suggest: nfc / rfid, push-to-talk, location. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0123 · Connected running shoes
-- [ ] File: `connected-running-shoes.jpg`
-
-```
-Studio product photo: Connected running shoes. Running shoes or pods that measure cadence, stride and power. Show design details that suggest: foot pod sensor, running power, cadence & gct. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0124 · Smart cycling sensors
-- [ ] File: `smart-cycling-sensors.jpg`
-
-```
-Studio product photo: Smart cycling sensors. Speed, cadence and power sensors for bikes and indoor trainers. Show design details that suggest: ant+ & bluetooth, speed / cadence, power meter options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0125 · Wearable posture monitors
 - [ ] File: `wearable-posture-monitors.jpg`
 
@@ -56,32 +42,11 @@ Studio product photo: Smart cycling sensors. Speed, cadence and power sensors fo
 Studio product photo: Wearable posture monitors. Small trackers that vibrate to correct slouching. Show design details that suggest: vibration reminders, posture analytics, clip / adhesive. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0126 · Sports performance sensors
-- [ ] File: `sports-performance-sensors.jpg`
-
-```
-Studio product photo: Sports performance sensors. Pods that measure sprint speed, jump height and load for athletes. Show design details that suggest: imu + gps, team dashboard, live data. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0127 · Wearable navigation devices
 - [ ] File: `wearable-navigation-devices.jpg`
 
 ```
 Studio product photo: Wearable navigation devices. Wearables that guide you with vibrations or a mini display. Show design details that suggest: turn-by-turn haptics, gps, water resistant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0130 · Biometric chest straps
-- [ ] File: `biometric-chest-straps.jpg`
-
-```
-Studio product photo: Biometric chest straps. Chest straps for accurate ECG-grade heart-rate data during training. Show design details that suggest: ecg-accurate hr, hrv, ant+ & bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0131 · Wearable temperature sensors
-- [ ] File: `wearable-temperature-sensors.jpg`
-
-```
-Studio product photo: Wearable temperature sensors. Patches and bands that track body temperature continuously. Show design details that suggest: continuous readings, fever alerts, bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
