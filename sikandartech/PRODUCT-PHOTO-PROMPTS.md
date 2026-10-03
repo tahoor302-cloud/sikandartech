@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**547 products still need a photo** (100 done). One prompt per product, ready to copy.
+**542 products still need a photo** (105 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Glasses, AR, VR & Spatial Computing (18)
+## Smart Glasses, AR, VR & Spatial Computing (13)
 
 ### ST-0087 · Virtual-reality headsets
 - [ ] File: `virtual-reality-headsets.jpg`
@@ -56,13 +56,6 @@ Studio product photo: Industrial smart glasses. Rugged smart glasses for warehou
 Studio product photo: Medical AR devices. AR systems for surgical planning, training and visualisation (professional use). Show design details that suggest: 3d anatomy overlays, sterile workflows, medical imaging import. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0093 · XR development headsets
-- [ ] File: `xr-development-headsets.jpg`
-
-```
-Studio product photo: XR development headsets. Developer headsets and kits for building AR/VR applications. Show design details that suggest: eye / hand tracking, pc tethered, developer support. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0094 · VR motion controllers
 - [ ] File: `vr-motion-controllers.jpg`
 
@@ -82,34 +75,6 @@ Studio product photo: Hand-tracking systems. Sensors that track hands and finger
 
 ```
 Studio product photo: Eye-tracking accessories. Eye trackers for VR headsets, research and accessibility. Show design details that suggest: 120–250hz tracking, foveated rendering. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0097 · Haptic gloves
-- [ ] File: `haptic-gloves.jpg`
-
-```
-Studio product photo: Haptic gloves. Gloves that let you feel virtual objects through force and vibration feedback. Show design details that suggest: force feedback, finger tracking, wireless. Displayed on a plain grey hand-shaped mannequin form, not a real hand. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0098 · Haptic vests
-- [ ] File: `haptic-vests.jpg`
-
-```
-Studio product photo: Haptic vests. Wearable vests that deliver touch sensations for gaming and training. Show design details that suggest: 30–40 haptic points, wireless, game integration. Shown on a plain grey mannequin form, no head, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0099 · Full-body tracking systems
-- [ ] File: `full-body-tracking-systems.jpg`
-
-```
-Studio product photo: Full-body tracking systems. Trackers that bring your whole body into VR and motion capture. Show design details that suggest: 6–11 trackers, inertial / optical, low drift. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0100 · VR treadmills
-- [ ] File: `vr-treadmills.jpg`
-
-```
-Studio product photo: VR treadmills. Omni-directional treadmills for walking and running in VR. Show design details that suggest: 360° movement, harness system, low-friction surface. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0101 · Spatial-computing accessories
