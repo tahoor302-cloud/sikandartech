@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**495 products still need a photo** (152 done). One prompt per product, ready to copy.
+**494 products still need a photo** (153 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,20 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Glasses, AR, VR & Spatial Computing (13)
+## Smart Glasses, AR, VR & Spatial Computing (12)
 
 ### ST-0087 · Virtual-reality headsets
 - [ ] File: `virtual-reality-headsets.jpg`
 
 ```
 Studio product photo: Virtual-reality headsets. Standalone VR headsets for gaming, fitness and social experiences. Show design details that suggest: standalone, 2k–4k per eye, 6dof controllers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0088 · Spatial-computing headsets
-- [ ] File: `spatial-computing-headsets.jpg`
-
-```
-Studio product photo: Spatial-computing headsets. Premium headsets that turn any room into an infinite workspace. Show design details that suggest: micro-oled displays, eye & hand input, high-res passthrough. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0089 · Lightweight VR headsets
