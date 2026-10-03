@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**485 products still need a photo** (162 done). One prompt per product, ready to copy.
+**483 products still need a photo** (164 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -93,20 +93,13 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (16)
+## Smartwatches, Rings & Wearable Tech (14)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
 
 ```
 Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigation and altimeter. Show design details that suggest: topo maps, barometric altimeter, compass. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0110 · LTE smartwatches
-- [ ] File: `lte-smartwatches.jpg`
-
-```
-Studio product photo: LTE smartwatches. Smartwatches with built-in LTE for calls, messages and GPS without another device. Show design details that suggest: esim lte, calls & messages, gps. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0114 · Screenless health trackers
@@ -184,13 +177,6 @@ Studio product photo: Sports performance sensors. Pods that measure sprint speed
 
 ```
 Studio product photo: Wearable navigation devices. Wearables that guide you with vibrations or a mini display. Show design details that suggest: turn-by-turn haptics, gps, water resistant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0128 · Electronic hearing protection
-- [ ] File: `electronic-hearing-protection.jpg`
-
-```
-Studio product photo: Electronic hearing protection. Earmuffs and earbuds that block loud noise while boosting speech. Show design details that suggest: active noise limiting, ambient sound boost, nrr 25+ db. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0130 · Biometric chest straps
