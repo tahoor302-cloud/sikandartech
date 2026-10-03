@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**430 products still need a photo** (217 done). One prompt per product, ready to copy.
+**425 products still need a photo** (222 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,28 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Audio & Sound (6)
-
-### ST-0136 · Open-ear clip headphones
-- [ ] File: `open-ear-clip-headphones.jpg`
-
-```
-Studio product photo: Open-ear clip headphones. Cuff-style clip earbuds that stay comfortable all day. Show design details that suggest: clip-on design, air-conduction, 8 h playback. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0138 · Air-conduction headphones
-- [ ] File: `air-conduction-headphones.jpg`
-
-```
-Studio product photo: Air-conduction headphones. Open-ear headphones that beam sound toward the ear for comfort. Show design details that suggest: air conduction, lightweight, ear-hook fit. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0142 · Spatial-audio headphones
-- [ ] File: `spatial-audio-headphones.jpg`
-
-```
-Studio product photo: Spatial-audio headphones. Headphones with head tracking for 3D surround sound. Show design details that suggest: head-tracked spatial audio, anc, multipoint. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Audio & Sound (3)
 
 ### ST-0149 · Portable Hi-Fi speakers
 - [ ] File: `portable-hi-fi-speakers.jpg`
@@ -377,24 +356,6 @@ Studio product photo: Autonomous mobile robots. AMRs for factories, hospitals an
 
 ```
 Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that reduce strain while lifting or walking. Show design details that suggest: hip / back assist, lightweight, battery powered. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Gaming & Immersive Entertainment (2)
-
-### ST-0238 · Cloud gaming devices
-- [ ] File: `cloud-gaming-devices.jpg`
-
-```
-Studio product photo: Cloud gaming devices. Handhelds built for streaming games from the cloud. Show design details that suggest: wi-fi 6, low latency, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0263 · Gaming DACs
-- [ ] File: `gaming-dacs.jpg`
-
-```
-Studio product photo: Gaming DACs. DAC/amps tuned for gaming audio and voice chat. Show design details that suggest: virtual surround, mic input, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
