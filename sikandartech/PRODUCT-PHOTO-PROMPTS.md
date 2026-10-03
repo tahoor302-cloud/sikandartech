@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**498 products still need a photo** (149 done). One prompt per product, ready to copy.
+**495 products still need a photo** (152 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (16)
+## Audio & Sound (13)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -314,27 +314,6 @@ Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with hi
 
 ```
 Studio product photo: Soundbars. Slim TV soundbars with Dolby Atmos and wireless subwoofer. Show design details that suggest: 3.1–9.1.4 channels, hdmi earc, wireless sub. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0156 · USB DAC amplifiers
-- [ ] File: `usb-dac-amplifiers.jpg`
-
-```
-Studio product photo: USB DAC amplifiers. Desktop DAC/amps for driving demanding headphones. Show design details that suggest: balanced output, high power, remote control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0157 · Bluetooth audio transmitters
-- [ ] File: `bluetooth-audio-transmitters.jpg`
-
-```
-Studio product photo: Bluetooth audio transmitters. Add wireless audio to TVs, planes and older stereos. Show design details that suggest: dual-link, optical / aux, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0159 · AI transcription microphones
-- [ ] File: `ai-transcription-microphones.jpg`
-
-```
-Studio product photo: AI transcription microphones. Microphones with built-in AI transcription and noise removal. Show design details that suggest: live transcription, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0164 · Smart hearing protection
