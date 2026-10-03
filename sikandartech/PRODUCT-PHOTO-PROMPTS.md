@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**482 products still need a photo** (165 done). One prompt per product, ready to copy.
+**479 products still need a photo** (168 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -93,34 +93,13 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (13)
+## Smartwatches, Rings & Wearable Tech (10)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
 
 ```
 Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigation and altimeter. Show design details that suggest: topo maps, barometric altimeter, compass. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0114 · Screenless health trackers
-- [ ] File: `screenless-health-trackers.jpg`
-
-```
-Studio product photo: Screenless health trackers. Display-free bands for 24/7 health and recovery data. Show design details that suggest: continuous hr, strain & recovery, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0115 · Smart pendants
-- [ ] File: `smart-pendants.jpg`
-
-```
-Studio product photo: Smart pendants. Pendant wearables for AI notes, safety alerts or health tracking. Show design details that suggest: bluetooth, magnetic clasp. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0116 · AI wearable recorders
-- [ ] File: `ai-wearable-recorders.jpg`
-
-```
-Studio product photo: AI wearable recorders. Wearable recorders that capture and summarise your day's conversations. Show design details that suggest: all-day recording, privacy controls, clip mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0117 · GPS pet trackers
