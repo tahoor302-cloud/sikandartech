@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**404 products still need a photo** (243 done). One prompt per product, ready to copy.
+**400 products still need a photo** (247 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2272,28 +2272,7 @@ Studio product photo: Advanced machine-vision systems. AI vision systems for ins
 
 ---
 
-## Security, Privacy & Digital Protection (13)
-
-### ST-0559 · Physical microphone mute switches
-- [ ] File: `physical-microphone-mute-switches.jpg`
-
-```
-Studio product photo: Physical microphone mute switches. Hardware switches that physically cut microphones. Show design details that suggest: physical cut-off, usb, plug & play. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0560 · Secure network appliances
-- [ ] File: `secure-network-appliances.jpg`
-
-```
-Studio product photo: Secure network appliances. Network security boxes for homes and small offices. Show design details that suggest: firewall, threat blocking, vpn. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0561 · Smart door access systems
-- [ ] File: `smart-door-access-systems.jpg`
-
-```
-Studio product photo: Smart door access systems. Access control with cards, codes and mobile credentials. Show design details that suggest: card / pin / mobile, logs, door controller. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Security, Privacy & Digital Protection (9)
 
 ### ST-0562 · Biometric access readers
 - [ ] File: `biometric-access-readers.jpg`
@@ -2314,13 +2293,6 @@ Studio product photo: AI perimeter cameras. Cameras with AI line-crossing and in
 
 ```
 Studio product photo: Portable security alarms. Door and travel alarms for hotels and homes. Show design details that suggest: loud siren, portable, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0565 · Smart safes
-- [ ] File: `smart-safes.jpg`
-
-```
-Studio product photo: Smart safes. Safes with biometric, app and keypad access. Show design details that suggest: tamper alerts, steel body, logs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0566 · Privacy-screen filters
