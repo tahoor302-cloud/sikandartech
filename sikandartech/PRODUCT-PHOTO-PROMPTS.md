@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**495 products still need a photo** (152 done). One prompt per product, ready to copy.
+**493 products still need a photo** (154 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -223,7 +223,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (14)
+## Audio & Sound (12)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -274,25 +274,11 @@ Studio product photo: Planar-magnetic headphones. Planar drivers for fast, detai
 Studio product photo: Electrostatic headphones. Ultra-high-end electrostatic headphones with dedicated energiser. Show design details that suggest: electrostatic driver, dedicated amplifier, ultra-low distortion. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0146 · Gaming headsets
-- [ ] File: `gaming-headsets.jpg`
-
-```
-Studio product photo: Gaming headsets. Headsets with clear mics and positional sound for gaming. Show design details that suggest: 7.1 / spatial audio, detachable mic, 2.4ghz wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0147 · Wireless studio headphones
 - [ ] File: `wireless-studio-headphones.jpg`
 
 ```
 Studio product photo: Wireless studio headphones. Studio monitoring headphones with low-latency wireless. Show design details that suggest: flat response, low-latency wireless, wired mode. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0148 · Bluetooth speakers
-- [ ] File: `bluetooth-speakers.jpg`
-
-```
-Studio product photo: Bluetooth speakers. Portable speakers with big sound for home and outdoors. Show design details that suggest: 20–60w, ip67, 12–24 h battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0149 · Portable Hi-Fi speakers
