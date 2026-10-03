@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**335 products still need a photo** (312 done). One prompt per product, ready to copy.
+**330 products still need a photo** (317 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -1623,42 +1623,7 @@ Studio product photo: Consumer biofeedback devices. Devices for stress, breathin
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (26)
-
-### ST-0502 · Handheld laser scanners
-- [ ] File: `handheld-laser-scanners.jpg`
-
-```
-Studio product photo: Handheld laser scanners. Metrology-grade laser scanners for engineering. Show design details that suggest: blue laser lines, 0.02mm accuracy, handheld. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0503 · Desktop laser engravers
-- [ ] File: `desktop-laser-engravers.jpg`
-
-```
-Studio product photo: Desktop laser engravers. Diode and CO2 laser engravers for wood, leather and acrylic. Show design details that suggest: 10–40w diode, air assist, camera. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0504 · Laser cutters
-- [ ] File: `laser-cutters.jpg`
-
-```
-Studio product photo: Laser cutters. CO2 and fibre laser cutters for making and small business. Show design details that suggest: 40–150w co2, cutting bed, water cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0505 · Desktop CNC routers
-- [ ] File: `desktop-cnc-routers.jpg`
-
-```
-Studio product photo: Desktop CNC routers. Small CNC routers for wood, plastic and aluminium. Show design details that suggest: 300×300mm+, spindle, grbl. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0506 · CNC milling machines
-- [ ] File: `cnc-milling-machines.jpg`
-
-```
-Studio product photo: CNC milling machines. CNC mills for metal parts. Show design details that suggest: rigid frame, atc options, coolant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Maker Tech, 3D Printing & Engineering (21)
 
 ### ST-0507 · PCB milling machines
 - [ ] File: `pcb-milling-machines.jpg`
