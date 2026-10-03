@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**400 products still need a photo** (247 done). One prompt per product, ready to copy.
+**399 products still need a photo** (248 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -9,17 +9,6 @@ How to use:
 
 The same list is in `product-photo-prompts.csv` for bulk tools (columns: code, file, product, category, prompt).
 Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding photos.
-
----
-
-## Cameras, Photography & Imaging (1)
-
-### ST-0189 · Instant cameras
-- [ ] File: `instant-cameras.jpg`
-
-```
-Studio product photo: Instant cameras. Cameras that print photos instantly. Show design details that suggest: instant film / zink, selfie mirror, auto exposure. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
 
 ---
 
