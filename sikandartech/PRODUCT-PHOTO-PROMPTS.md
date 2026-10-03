@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**528 products still need a photo** (119 done). One prompt per product, ready to copy.
+**524 products still need a photo** (123 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (27)
+## Audio & Sound (23)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -316,27 +316,6 @@ Studio product photo: Bluetooth speakers. Portable speakers with big sound for h
 Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with high-resolution audio. Show design details that suggest: wi-fi streaming, room calibration, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0151 · Spatial-audio speakers
-- [ ] File: `spatial-audio-speakers.jpg`
-
-```
-Studio product photo: Spatial-audio speakers. Speakers that create immersive 3D sound in your room. Show design details that suggest: up-firing drivers, room correction, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0152 · Premium desktop speakers
-- [ ] File: `premium-desktop-speakers.jpg`
-
-```
-Studio product photo: Premium desktop speakers. Powered bookshelf speakers for desk and studio. Show design details that suggest: bi-amplified, usb / optical / bluetooth, hi-res. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0153 · Wireless surround-sound systems
-- [ ] File: `wireless-surround-sound-systems.jpg`
-
-```
-Studio product photo: Wireless surround-sound systems. Wireless 5.1/7.1 speaker systems for home cinema. Show design details that suggest: wireless rears, subwoofer. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0154 · Soundbars
 - [ ] File: `soundbars.jpg`
 
@@ -363,13 +342,6 @@ Studio product photo: USB DAC amplifiers. Desktop DAC/amps for driving demanding
 
 ```
 Studio product photo: Bluetooth audio transmitters. Add wireless audio to TVs, planes and older stereos. Show design details that suggest: dual-link, optical / aux, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0158 · Wireless microphones
-- [ ] File: `wireless-microphones.jpg`
-
-```
-Studio product photo: Wireless microphones. Tiny clip-on wireless microphones with a charging case receiver for creators and interviews. Show design details that suggest: 2.4ghz, 250m range, noise cancelling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0159 · AI transcription microphones
