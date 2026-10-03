@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**418 products still need a photo** (229 done). One prompt per product, ready to copy.
+**414 products still need a photo** (233 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,41 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Cameras, Photography & Imaging (10)
+## Cameras, Photography & Imaging (6)
 
 ### ST-0189 · Instant cameras
 - [ ] File: `instant-cameras.jpg`
 
 ```
 Studio product photo: Instant cameras. Cameras that print photos instantly. Show design details that suggest: instant film / zink, selfie mirror, auto exposure. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0190 · Portable photo printers
-- [ ] File: `portable-photo-printers.jpg`
-
-```
-Studio product photo: Portable photo printers. Show design details that suggest: zink / dye-sub, bluetooth, sticker paper. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0191 · Electronic camera stabilizers
-- [ ] File: `electronic-camera-stabilizers.jpg`
-
-```
-Studio product photo: Electronic camera stabilizers. 3-axis gimbals for mirrorless and cinema cameras. Show design details that suggest: 3-axis, 3–4.5kg payload, follow modes. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0192 · Wireless video transmitters
-- [ ] File: `wireless-video-transmitters.jpg`
-
-```
-Studio product photo: Wireless video transmitters. Send live camera video wirelessly to monitors and directors. Show design details that suggest: 1080p / 4k, 150–300m range, low latency. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0193 · External camera monitors
-- [ ] File: `external-camera-monitors.jpg`
-
-```
-Studio product photo: External camera monitors. On-camera monitors and recorders with pro tools. Show design details that suggest: 5–7" 1000+ nits, prores raw recording, luts. No brand name or text on the body, top plate or lens ring. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0194 · Wireless follow-focus systems
