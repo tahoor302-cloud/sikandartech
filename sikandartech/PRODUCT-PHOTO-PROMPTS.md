@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**534 products still need a photo** (113 done). One prompt per product, ready to copy.
+**529 products still need a photo** (118 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -107,7 +107,7 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (18)
+## Smartwatches, Rings & Wearable Tech (17)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
@@ -228,30 +228,9 @@ Studio product photo: Biometric chest straps. Chest straps for accurate ECG-grad
 Studio product photo: Wearable temperature sensors. Patches and bands that track body temperature continuously. Show design details that suggest: continuous readings, fever alerts, bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0132 · Smart safety helmets
-- [ ] File: `smart-safety-helmets.jpg`
-
-```
-Studio product photo: Smart safety helmets. Helmets with lights, crash detection, intercom or cameras. Show design details that suggest: crash detection, integrated lights, bluetooth intercom. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ---
 
-## Audio & Sound (32)
-
-### ST-0133 · True wireless stereo earbuds
-- [ ] File: `true-wireless-stereo-earbuds.jpg`
-
-```
-Studio product photo: True wireless stereo earbuds. Compact wireless earbuds with rich sound and a pocket charging case. Show design details that suggest: bluetooth 5.3+, 30 h with case, touch controls. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0134 · AI translation earbuds
-- [ ] File: `ai-translation-earbuds.jpg`
-
-```
-Studio product photo: AI translation earbuds. Earbuds that translate conversations in real time between languages. Show design details that suggest: 40+ languages, two-way translation, offline modes. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Audio & Sound (28)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -265,13 +244,6 @@ Studio product photo: Open-ear earbuds. Earbuds that sit outside the ear canal s
 
 ```
 Studio product photo: Open-ear clip headphones. Cuff-style clip earbuds that stay comfortable all day. Show design details that suggest: clip-on design, air-conduction, 8 h playback. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0137 · Bone-conduction headphones
-- [ ] File: `bone-conduction-headphones.jpg`
-
-```
-Studio product photo: Bone-conduction headphones. Headphones that transmit sound through cheekbones for safe sports listening. Show design details that suggest: bone conduction, ip67, titanium band. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0138 · Air-conduction headphones
@@ -300,13 +272,6 @@ Studio product photo: Adaptive ANC headphones. Headphones that adjust noise canc
 
 ```
 Studio product photo: Spatial-audio headphones. Headphones with head tracking for 3D surround sound. Show design details that suggest: head-tracked spatial audio, anc, multipoint. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0143 · Audiophile headphones
-- [ ] File: `audiophile-headphones.jpg`
-
-```
-Studio product photo: Audiophile headphones. Reference-grade wired headphones for critical listening. Show design details that suggest: large dynamic drivers, open / closed back, detachable cable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0144 · Planar-magnetic headphones
