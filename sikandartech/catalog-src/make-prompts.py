@@ -51,7 +51,13 @@ FALLBACK_DESC = {
 }
 
 # Trademarked feature names: generators tend to print them as logos.
-BRANDED = r"dolby|atmos|airplay|chromecast|roon|flowstate|ldac|aptx|\bess\b|akm|mqa|g-sync|freesync|matter|ndi|plex|jellyfin|thunderbolt|qi2|wi-fi 7|android"
+BRANDED = r"arduino|raspberry|carplay|android auto|dolby|atmos|airplay|chromecast|roon|flowstate|ldac|aptx|\bess\b|akm|mqa|g-sync|freesync|matter|ndi|plex|jellyfin|thunderbolt|qi2|wi-fi 7|android"
+
+# Brand-named products: describe them generically so no logo or look-alike board is drawn.
+GENERIC = {
+    "raspberry-pi-boards": ("Single-board computer", "A credit-card-size single-board computer on a matte black circuit board (not green), silver processor heat spreader, a row of gold header pins along one edge, USB and Ethernet ports."),
+    "arduino-development-boards": ("Microcontroller development board", "A small microcontroller board on a dark blue-grey circuit board, black chip in the centre, black header sockets along both edges, a tiny reset button and a USB-C port."),
+}
 
 # Extra direction for products that generators often get wrong (fake text, look-alike brands).
 EXTRAS = [
@@ -89,6 +95,9 @@ for i, p in enumerate(prods):
         continue
     name = p["name"]
     desc = clean(p["desc"]) or FALLBACK_DESC.get(p["id"], "")
+    desc = re.sub(r"\bCarPlay\b", "dashboard", desc)
+    if p["id"] in GENERIC:
+        name, desc = GENERIC[p["id"]]
     visible = [s for s in p["specs"] if not re.search(r"app|voice|ai\b|software|sdk|cloud|warranty|phone|" + BRANDED, s, re.I)]
     parts = [f"Studio product photo: {name}."]
     if desc:
@@ -104,7 +113,7 @@ for i, p in enumerate(prods):
     rows.append({
         "code": "ST-" + str(i + 1).zfill(4),
         "file": p["id"] + ".jpg",
-        "product": name,
+        "product": p["name"],
         "category": cat_by[p["cat"]]["name"],
         "prompt": " ".join(parts),
     })

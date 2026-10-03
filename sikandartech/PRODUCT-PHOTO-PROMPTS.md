@@ -1383,7 +1383,7 @@ Studio product photo: Aftermarket parking sensors. Parking sensors with distance
 - [ ] File: `in-car-ai-assistants.jpg`
 
 ```
-Studio product photo: In-car AI assistants. Voice assistants and CarPlay screens that bring AI to any car. Show design details that suggest: navigation, dash mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: In-car AI assistants. Voice assistants and dashboard screens that bring AI to any car. Show design details that suggest: navigation, dash mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0463 · Automotive thermal cameras
@@ -1664,14 +1664,14 @@ Studio product photo: Programmable DC power supplies. Lab power supplies with pr
 - [ ] File: `raspberry-pi-boards.jpg`
 
 ```
-Studio product photo: Raspberry Pi boards. Popular single-board computers for makers. Show design details that suggest: quad-core arm, gpio, hdmi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Single-board computer. A credit-card-size single-board computer on a matte black circuit board (not green), silver processor heat spreader, a row of gold header pins along one edge, USB and Ethernet ports. Show design details that suggest: quad-core arm, gpio, hdmi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0517 · Arduino development boards
 - [ ] File: `arduino-development-boards.jpg`
 
 ```
-Studio product photo: Arduino development boards. Microcontroller boards for learning and prototyping. Show design details that suggest: avr / arm mcu, arduino ide, shields. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Microcontroller development board. A small microcontroller board on a dark blue-grey circuit board, black chip in the centre, black header sockets along both edges, a tiny reset button and a USB-C port. Show design details that suggest: avr / arm mcu, shields, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0518 · ESP32 development boards
