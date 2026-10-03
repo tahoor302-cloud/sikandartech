@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**507 products still need a photo** (140 done). One prompt per product, ready to copy.
+**504 products still need a photo** (143 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (23)
+## Audio & Sound (22)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -386,30 +386,9 @@ Studio product photo: Network music streamers. Stream lossless music from apps a
 Studio product photo: Smart hearing protection. Earplugs that let speech through while blocking harmful noise. Show design details that suggest: adaptive filtering, rechargeable, comfortable fit. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0165 · Assistive listening devices
-- [ ] File: `assistive-listening-devices.jpg`
-
-```
-Studio product photo: Assistive listening devices. Personal amplifiers and streamers for clearer TV and conversation. Show design details that suggest: speech amplification, tv streaming, noise reduction. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ---
 
-## Cameras, Photography & Imaging (16)
-
-### ST-0167 · Medium-format cameras
-- [ ] File: `medium-format-cameras.jpg`
-
-```
-Studio product photo: Medium-format cameras. Large-sensor cameras for ultimate image quality. Show design details that suggest: 50–100mp medium format, 16-bit raw, ibis. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0169 · Compact premium cameras
-- [ ] File: `compact-premium-cameras.jpg`
-
-```
-Studio product photo: Compact premium cameras. Pocketable cameras with large sensors and fast lenses. Show design details that suggest: 1" / aps-c sensor, fast zoom lens, 4k. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Cameras, Photography & Imaging (14)
 
 ### ST-0186 · Industrial inspection cameras
 - [ ] File: `industrial-inspection-cameras.jpg`
