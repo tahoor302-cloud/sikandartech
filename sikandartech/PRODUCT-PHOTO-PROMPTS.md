@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**393 products still need a photo** (254 done). One prompt per product, ready to copy.
+**390 products still need a photo** (257 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2257,31 +2257,6 @@ Studio product photo: Autonomous navigation sensors. Lidar, radar and IMU sensor
 
 ```
 Studio product photo: Advanced machine-vision systems. AI vision systems for inspection and robotics. Show design details that suggest: high-res cameras, edge compute, integration tools. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Security, Privacy & Digital Protection (3)
-
-### ST-0569 · Enterprise device management hardware
-- [ ] File: `enterprise-device-management-hardware.jpg`
-
-```
-Studio product photo: Enterprise device management hardware. Hardware for managing and securing company devices. Show design details that suggest: remote management, asset tracking, secure boot. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0570 · Smart access-control panels
-- [ ] File: `smart-access-control-panels.jpg`
-
-```
-Studio product photo: Smart access-control panels. Panels managing doors and alarms across buildings. Show design details that suggest: multi-door, alarm integration, api. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0571 · Home network monitoring appliances
-- [ ] File: `home-network-monitoring-appliances.jpg`
-
-```
-Studio product photo: Home network monitoring appliances. Devices that monitor home networks for threats. Show design details that suggest: device discovery, threat alerts, parental controls. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
