@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**439 products still need a photo** (208 done). One prompt per product, ready to copy.
+**434 products still need a photo** (213 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -381,48 +381,13 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Gaming & Immersive Entertainment (11)
+## Gaming & Immersive Entertainment (6)
 
 ### ST-0238 · Cloud gaming devices
 - [ ] File: `cloud-gaming-devices.jpg`
 
 ```
 Studio product photo: Cloud gaming devices. Handhelds built for streaming games from the cloud. Show design details that suggest: wi-fi 6, low latency, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0240 · Android gaming handhelds
-- [ ] File: `android-gaming-handhelds.jpg`
-
-```
-Studio product photo: Android gaming handhelds. Android handhelds with physical controls for mobile and streaming games. Show design details that suggest: snapdragon g-series, hall sticks, active cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0241 · AR gaming glasses
-- [ ] File: `ar-gaming-glasses.jpg`
-
-```
-Studio product photo: AR gaming glasses. AR glasses for playing on a giant virtual screen. Show design details that suggest: 200" virtual screen, low latency, console / pc compatible. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0244 · Ultrawide gaming displays
-- [ ] File: `ultrawide-gaming-displays.jpg`
-
-```
-Studio product photo: Ultrawide gaming displays. Curved ultrawide displays for immersive gaming. Show design details that suggest: 34–49" curved, 165–240hz, hdr. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0245 · Mini-LED gaming displays
-- [ ] File: `mini-led-gaming-displays.jpg`
-
-```
-Studio product photo: Mini-LED gaming displays. Bright HDR gaming monitors with Mini-LED backlight. Show design details that suggest: mini-led, hdr1000, 4k 160hz. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0248 · Magnetic-switch keyboards
-- [ ] File: `magnetic-switch-keyboards.jpg`
-
-```
-Studio product photo: Magnetic-switch keyboards. Keyboards with magnetic switches for ultra-fast esports input. Show design details that suggest: magnetic switches, 0.1mm actuation, rapid trigger. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0250 · High-polling-rate gaming mice
