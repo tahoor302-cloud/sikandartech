@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**448 products still need a photo** (199 done). One prompt per product, ready to copy.
+**443 products still need a photo** (204 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -381,7 +381,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Gaming & Immersive Entertainment (20)
+## Gaming & Immersive Entertainment (15)
 
 ### ST-0238 · Cloud gaming devices
 - [ ] File: `cloud-gaming-devices.jpg`
@@ -453,27 +453,6 @@ Studio product photo: High-polling-rate gaming mice. 4K–8K Hz polling mice for
 Studio product photo: Hall-effect controllers. Controllers with drift-free Hall-effect sticks and triggers. Show design details that suggest: hall sticks & triggers, no stick drift, back buttons. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0255 · Direct-drive wheelbases
-- [ ] File: `direct-drive-wheelbases.jpg`
-
-```
-Studio product photo: Direct-drive wheelbases. Direct-drive bases for realistic sim racing force feedback. Show design details that suggest: 5–25nm torque, quick release, wheel rims. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0257 · Flight simulation controls
-- [ ] File: `flight-simulation-controls.jpg`
-
-```
-Studio product photo: Flight simulation controls. Joysticks, throttles and yokes for flight sims. Show design details that suggest: hotas / yoke, hall sensors, programmable buttons. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0258 · Sim-racing cockpits
-- [ ] File: `sim-racing-cockpits.jpg`
-
-```
-Studio product photo: Sim-racing cockpits. Rigid cockpits for wheels, pedals and seats. Show design details that suggest: aluminium profile, adjustable, monitor mount. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0259 · Haptic gaming accessories
 - [ ] File: `haptic-gaming-accessories.jpg`
 
@@ -500,20 +479,6 @@ Studio product photo: Streaming control decks. Customisable button decks for str
 
 ```
 Studio product photo: Gaming DACs. DAC/amps tuned for gaming audio and voice chat. Show design details that suggest: virtual surround, mic input, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0264 · Portable gaming SSDs
-- [ ] File: `portable-gaming-ssds.jpg`
-
-```
-Studio product photo: Portable gaming SSDs. Fast portable SSDs for console and PC game libraries. Show design details that suggest: 1–4tb, 1000–2000 mb/s, console certified. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0265 · Gaming routers
-- [ ] File: `gaming-routers.jpg`
-
-```
-Studio product photo: Gaming routers. Routers that prioritise gaming traffic for lower ping. Show design details that suggest: game qos, 2.5–10g ports, gaming vpn. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0267 · Motion simulator platforms
