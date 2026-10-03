@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**529 products still need a photo** (118 done). One prompt per product, ready to copy.
+**528 products still need a photo** (119 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (28)
+## Audio & Sound (27)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -314,13 +314,6 @@ Studio product photo: Bluetooth speakers. Portable speakers with big sound for h
 
 ```
 Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with high-resolution audio. Show design details that suggest: wi-fi streaming, room calibration, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0150 · Smart speakers
-- [ ] File: `smart-speakers.jpg`
-
-```
-Studio product photo: Smart speakers. Voice-controlled speakers for music and smart-home control. Show design details that suggest: multi-room, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0151 · Spatial-audio speakers
