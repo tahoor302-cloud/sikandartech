@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**483 products still need a photo** (164 done). One prompt per product, ready to copy.
+**482 products still need a photo** (165 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -93,7 +93,7 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (14)
+## Smartwatches, Rings & Wearable Tech (13)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
@@ -128,13 +128,6 @@ Studio product photo: AI wearable recorders. Wearable recorders that capture and
 
 ```
 Studio product photo: GPS pet trackers. Collar trackers that show your pet's live location and activity. Show design details that suggest: gps + lte, geofence alerts, activity tracking. Attached to a small plain pet collar. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0120 · Smart bracelets
-- [ ] File: `smart-bracelets.jpg`
-
-```
-Studio product photo: Smart bracelets. Bracelets combining style with fitness tracking and alerts. Show design details that suggest: hidden display / led, step & sleep, notifications. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0121 · Smart badges
