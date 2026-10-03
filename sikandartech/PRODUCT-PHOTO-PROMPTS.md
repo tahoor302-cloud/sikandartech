@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**458 products still need a photo** (189 done). One prompt per product, ready to copy.
+**453 products still need a photo** (194 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -381,21 +381,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Gaming & Immersive Entertainment (30)
-
-### ST-0235 · Gaming consoles
-- [ ] File: `gaming-consoles.jpg`
-
-```
-Studio product photo: Gaming consoles. Latest home consoles for 4K gaming and streaming. Show design details that suggest: 4k 120fps, ssd storage, ray tracing. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0237 · Portable gaming consoles
-- [ ] File: `portable-gaming-consoles.jpg`
-
-```
-Studio product photo: Portable gaming consoles. Hybrid and portable consoles for gaming on the go. Show design details that suggest: handheld / docked, detachable controllers, oled options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Gaming & Immersive Entertainment (25)
 
 ### ST-0238 · Cloud gaming devices
 - [ ] File: `cloud-gaming-devices.jpg`
@@ -474,13 +460,6 @@ Studio product photo: Low-latency gaming mice. Ultralight wireless mice with fla
 Studio product photo: High-polling-rate gaming mice. 4K–8K Hz polling mice for the lowest input lag. Show design details that suggest: 8000hz polling, optical switches, lightweight. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0251 · Gaming controllers
-- [ ] File: `gaming-controllers.jpg`
-
-```
-Studio product photo: Gaming controllers. Wireless controllers for PC, console and mobile. Show design details that suggest: multi-platform, back paddles, rumble. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0252 · Hall-effect controllers
 - [ ] File: `hall-effect-controllers.jpg`
 
@@ -493,13 +472,6 @@ Studio product photo: Hall-effect controllers. Controllers with drift-free Hall-
 
 ```
 Studio product photo: Fight sticks. Arcade sticks for fighting games. Show design details that suggest: sanwa-style parts, leverless options, multi-platform. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0254 · Racing wheels
-- [ ] File: `racing-wheels.jpg`
-
-```
-Studio product photo: Racing wheels. Force-feedback wheels for racing games. Show design details that suggest: force feedback, 900° rotation, pedals. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0255 · Direct-drive wheelbases
@@ -577,13 +549,6 @@ Studio product photo: Portable gaming SSDs. Fast portable SSDs for console and P
 
 ```
 Studio product photo: Gaming routers. Routers that prioritise gaming traffic for lower ping. Show design details that suggest: game qos, 2.5–10g ports, gaming vpn. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0266 · Gaming chairs
-- [ ] File: `gaming-chairs.jpg`
-
-```
-Studio product photo: Gaming chairs. Ergonomic chairs for long gaming sessions. Show design details that suggest: 4d armrests, lumbar support, recline. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0267 · Motion simulator platforms
