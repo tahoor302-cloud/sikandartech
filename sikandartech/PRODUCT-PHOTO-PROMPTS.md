@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**330 products still need a photo** (317 done). One prompt per product, ready to copy.
+**326 products still need a photo** (321 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -1623,35 +1623,7 @@ Studio product photo: Consumer biofeedback devices. Devices for stress, breathin
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (21)
-
-### ST-0507 · PCB milling machines
-- [ ] File: `pcb-milling-machines.jpg`
-
-```
-Studio product photo: PCB milling machines. Mill your own circuit boards for prototyping. Show design details that suggest: precision spindle, auto levelling, desktop. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0508 · PCB prototyping machines
-- [ ] File: `pcb-prototyping-machines.jpg`
-
-```
-Studio product photo: PCB prototyping machines. Machines for fast PCB fabrication and assembly. Show design details that suggest: dispensing / pick-and-place, reflow, desktop. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0509 · Electronics soldering stations
-- [ ] File: `electronics-soldering-stations.jpg`
-
-```
-Studio product photo: Electronics soldering stations. Temperature-controlled soldering stations. Show design details that suggest: 60–120w, fast heat, temperature control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0510 · Hot-air rework stations
-- [ ] File: `hot-air-rework-stations.jpg`
-
-```
-Studio product photo: Hot-air rework stations. Hot-air stations for SMD repair. Show design details that suggest: hot air + iron, digital control, nozzles. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Maker Tech, 3D Printing & Engineering (17)
 
 ### ST-0511 · Smart multimeters
 - [ ] File: `smart-multimeters.jpg`
