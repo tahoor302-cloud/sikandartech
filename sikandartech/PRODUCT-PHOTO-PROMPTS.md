@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**340 products still need a photo** (307 done). One prompt per product, ready to copy.
+**335 products still need a photo** (312 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -1623,42 +1623,7 @@ Studio product photo: Consumer biofeedback devices. Devices for stress, breathin
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (31)
-
-### ST-0497 · Resin 3D printers
-- [ ] File: `resin-3d-printers.jpg`
-
-```
-Studio product photo: Resin 3D printers. High-detail resin printers for miniatures and jewellery. Show design details that suggest: 8–16k lcd, 0.02mm layers, large vat. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0498 · Multi-material 3D printers
-- [ ] File: `multi-material-3d-printers.jpg`
-
-```
-Studio product photo: Multi-material 3D printers. Printers that print multiple colours and materials. Show design details that suggest: 4–16 colours, ams system, enclosed. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0499 · Large-format 3D printers
-- [ ] File: `large-format-3d-printers.jpg`
-
-```
-Studio product photo: Large-format 3D printers. Big-volume printers for large parts. Show design details that suggest: 400–1000mm build, heated bed, dual extruder. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0500 · High-speed 3D printers
-- [ ] File: `high-speed-3d-printers.jpg`
-
-```
-Studio product photo: High-speed 3D printers. CoreXY printers reaching 500–1000mm/s. Show design details that suggest: corexy, input shaping, 20,000mm/s² acceleration. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0501 · Portable 3D printers
-- [ ] File: `portable-3d-printers.jpg`
-
-```
-Studio product photo: Portable 3D printers. Compact foldable printers for travel and classrooms. Show design details that suggest: compact, foldable, quiet. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Maker Tech, 3D Printing & Engineering (26)
 
 ### ST-0502 · Handheld laser scanners
 - [ ] File: `handheld-laser-scanners.jpg`
