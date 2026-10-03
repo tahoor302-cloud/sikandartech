@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**537 products still need a photo** (110 done). One prompt per product, ready to copy.
+**534 products still need a photo** (113 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -107,7 +107,7 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (21)
+## Smartwatches, Rings & Wearable Tech (18)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
@@ -151,20 +151,6 @@ Studio product photo: AI wearable recorders. Wearable recorders that capture and
 Studio product photo: GPS pet trackers. Collar trackers that show your pet's live location and activity. Show design details that suggest: gps + lte, geofence alerts, activity tracking. Attached to a small plain pet collar. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0118 · Wearable cameras
-- [ ] File: `wearable-cameras.jpg`
-
-```
-Studio product photo: Wearable cameras. Body-worn cameras for creators, security and lifelogging. Show design details that suggest: 1080p–4k, magnetic clip, wide angle. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0119 · Smart necklaces
-- [ ] File: `smart-necklaces.jpg`
-
-```
-Studio product photo: Smart necklaces. Jewellery-style wearables with notifications, safety or audio. Show design details that suggest: discreet sensors, vibration alerts, sos options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0120 · Smart bracelets
 - [ ] File: `smart-bracelets.jpg`
 
@@ -177,13 +163,6 @@ Studio product photo: Smart bracelets. Bracelets combining style with fitness tr
 
 ```
 Studio product photo: Smart badges. Connected ID badges for access, voice notes and team communication. Show design details that suggest: nfc / rfid, push-to-talk, location. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0122 · Smart clothing
-- [ ] File: `smart-clothing.jpg`
-
-```
-Studio product photo: Smart clothing. Garments with built-in sensors for heart rate, posture and muscle activity. Show design details that suggest: textile sensors, removable pod, washable. Shown on a plain grey mannequin form, no head, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0123 · Connected running shoes
