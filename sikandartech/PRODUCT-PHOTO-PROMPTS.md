@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**425 products still need a photo** (222 done). One prompt per product, ready to copy.
+**420 products still need a photo** (227 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,46 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Audio & Sound (3)
-
-### ST-0149 · Portable Hi-Fi speakers
-- [ ] File: `portable-hi-fi-speakers.jpg`
-
-```
-Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with high-resolution audio. Show design details that suggest: wi-fi streaming, room calibration, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0154 · Soundbars
-- [ ] File: `soundbars.jpg`
-
-```
-Studio product photo: Soundbars. Slim TV soundbars with Dolby Atmos and wireless subwoofer. Show design details that suggest: 3.1–9.1.4 channels, hdmi earc, wireless sub. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0164 · Smart hearing protection
-- [ ] File: `smart-hearing-protection.jpg`
-
-```
-Studio product photo: Smart hearing protection. Earplugs that let speech through while blocking harmful noise. Show design details that suggest: adaptive filtering, rechargeable, comfortable fit. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Cameras, Photography & Imaging (14)
-
-### ST-0186 · Industrial inspection cameras
-- [ ] File: `industrial-inspection-cameras.jpg`
-
-```
-Studio product photo: Industrial inspection cameras. Borescopes and inspection cameras for engines, pipes and walls. Show design details that suggest: articulating probe, ip67, 1080p. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0187 · High-speed cameras
-- [ ] File: `high-speed-cameras.jpg`
-
-```
-Studio product photo: High-speed cameras. Cameras recording thousands of frames per second for analysis. Show design details that suggest: 1,000–100,000 fps, slow-motion analysis, trigger. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Cameras, Photography & Imaging (12)
 
 ### ST-0188 · Trail cameras
 - [ ] File: `trail-cameras.jpg`
