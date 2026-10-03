@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**434 products still need a photo** (213 done). One prompt per product, ready to copy.
+**430 products still need a photo** (217 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -381,41 +381,13 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Gaming & Immersive Entertainment (6)
+## Gaming & Immersive Entertainment (2)
 
 ### ST-0238 · Cloud gaming devices
 - [ ] File: `cloud-gaming-devices.jpg`
 
 ```
 Studio product photo: Cloud gaming devices. Handhelds built for streaming games from the cloud. Show design details that suggest: wi-fi 6, low latency, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0250 · High-polling-rate gaming mice
-- [ ] File: `high-polling-rate-gaming-mice.jpg`
-
-```
-Studio product photo: High-polling-rate gaming mice. 4K–8K Hz polling mice for the lowest input lag. Show design details that suggest: 8000hz polling, optical switches, lightweight. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0252 · Hall-effect controllers
-- [ ] File: `hall-effect-controllers.jpg`
-
-```
-Studio product photo: Hall-effect controllers. Controllers with drift-free Hall-effect sticks and triggers. Show design details that suggest: hall sticks & triggers, no stick drift, back buttons. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0259 · Haptic gaming accessories
-- [ ] File: `haptic-gaming-accessories.jpg`
-
-```
-Studio product photo: Haptic gaming accessories. Vests, cushions and pads that let you feel gameplay. Show design details that suggest: haptic motors, game integration, wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0261 · External streaming devices
-- [ ] File: `external-streaming-devices.jpg`
-
-```
-Studio product photo: External streaming devices. All-in-one boxes for live streaming without a PC. Show design details that suggest: multi-input, rtmp streaming, recording. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0263 · Gaming DACs
