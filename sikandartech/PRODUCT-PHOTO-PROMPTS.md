@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**552 products still need a photo** (95 done). One prompt per product, ready to copy.
+**547 products still need a photo** (100 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,46 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Tablets, E-Readers & Digital Notebooks (1)
-
-### ST-0080 · Color e-readers
-- [ ] File: `color-e-readers.jpg`
-
-```
-Studio product photo: Color e-readers. E-readers with colour E-ink for comics, magazines and highlights. Show design details that suggest: colour e-ink, warm front light, page-turn buttons. The screen shows a simple soft abstract pattern, no book page, no comic, no writing, no page numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Smart Glasses, AR, VR & Spatial Computing (22)
-
-### ST-0083 · Augmented-reality glasses
-- [ ] File: `augmented-reality-glasses.jpg`
-
-```
-Studio product photo: Augmented-reality glasses. AR glasses that project a large virtual screen and 3D content in front of you. Show design details that suggest: micro-oled display, 100–200" virtual screen, 3dof / 6dof. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0084 · Optical see-through AR glasses
-- [ ] File: `optical-see-through-ar-glasses.jpg`
-
-```
-Studio product photo: Optical see-through AR glasses. Transparent-lens AR glasses that overlay digital content on the real world. Show design details that suggest: waveguide optics, slam tracking, hand tracking. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0085 · Waveguide-display glasses
-- [ ] File: `waveguide-display-glasses.jpg`
-
-```
-Studio product photo: Waveguide-display glasses. Glasses with thin waveguide lenses for bright, discreet digital overlays. Show design details that suggest: diffractive waveguide, monochrome / colour, lightweight frame. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0086 · Mixed-reality headsets
-- [ ] File: `mixed-reality-headsets.jpg`
-
-```
-Studio product photo: Mixed-reality headsets. Headsets that blend virtual objects with your real surroundings via colour passthrough. Show design details that suggest: colour passthrough, 4k+ per eye, hand & eye tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Glasses, AR, VR & Spatial Computing (18)
 
 ### ST-0087 · Virtual-reality headsets
 - [ ] File: `virtual-reality-headsets.jpg`
