@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**349 products still need a photo** (298 done). One prompt per product, ready to copy.
+**344 products still need a photo** (303 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -233,42 +233,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Smart Home & Connected Living (9)
-
-### ST-0292 · Smart water monitors
-- [ ] File: `smart-water-monitors.jpg`
-
-```
-Studio product photo: Smart water monitors. Monitors that track household water use and detect leaks. Show design details that suggest: flow sensing, leak detection, usage reports. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0293 · Smart irrigation systems
-- [ ] File: `smart-irrigation-systems.jpg`
-
-```
-Studio product photo: Smart irrigation systems. Sprinkler controllers that water based on weather. Show design details that suggest: weather-based, multi-zone, water savings. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0294 · Smart garage controllers
-- [ ] File: `smart-garage-controllers.jpg`
-
-```
-Studio product photo: Smart garage controllers. Show design details that suggest: remote open/close, status alerts, schedules. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0295 · Smart energy meters
-- [ ] File: `smart-energy-meters.jpg`
-
-```
-Studio product photo: Smart energy meters. Monitor whole-home and circuit-level electricity use. Show design details that suggest: real-time usage, solar monitoring, ct clamps. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0296 · Whole-home automation controllers
-- [ ] File: `whole-home-automation-controllers.jpg`
-
-```
-Studio product photo: Whole-home automation controllers. Professional controllers for lighting, climate, AV and security. Show design details that suggest: multi-protocol, touch panels, scenes. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Home & Connected Living (4)
 
 ### ST-0297 · Smart pet feeders
 - [ ] File: `smart-pet-feeders.jpg`
