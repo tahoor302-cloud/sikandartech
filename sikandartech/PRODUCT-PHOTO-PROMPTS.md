@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**363 products still need a photo** (284 done). One prompt per product, ready to copy.
+**358 products still need a photo** (289 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -233,42 +233,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Smart Home & Connected Living (23)
-
-### ST-0278 · Smart locks
-- [ ] File: `smart-locks.jpg`
-
-```
-Studio product photo: Smart locks. Keyless locks with app, code and auto-unlock. Show design details that suggest: auto-lock, guest access. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0279 · Fingerprint door locks
-- [ ] File: `fingerprint-door-locks.jpg`
-
-```
-Studio product photo: Fingerprint door locks. Biometric locks that open with your fingerprint or face. Show design details that suggest: fingerprint / face, pin & card, alarm. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0280 · Smart doorbells
-- [ ] File: `smart-doorbells.jpg`
-
-```
-Studio product photo: Smart doorbells. Video doorbells with motion alerts and two-way talk. Show design details that suggest: 2k video, head-to-toe view, package detection. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0281 · Video intercoms
-- [ ] File: `video-intercoms.jpg`
-
-```
-Studio product photo: Video intercoms. Video intercom systems for homes and apartments. Show design details that suggest: indoor monitor, door station, multi-apartment. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0282 · Smart security cameras
-- [ ] File: `smart-security-cameras.jpg`
-
-```
-Studio product photo: Smart security cameras. Indoor and outdoor Wi-Fi cameras with app alerts. Show design details that suggest: 2k/4k, night vision, two-way audio. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Home & Connected Living (18)
 
 ### ST-0283 · AI surveillance cameras
 - [ ] File: `ai-surveillance-cameras.jpg`
