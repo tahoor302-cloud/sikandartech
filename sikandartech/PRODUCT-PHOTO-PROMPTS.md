@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**379 products still need a photo** (268 done). One prompt per product, ready to copy.
+**375 products still need a photo** (272 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2370,35 +2370,7 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 
 ---
 
-## Office, Education & Productivity (6)
-
-### ST-0599 · Digital signage players
-- [ ] File: `digital-signage-players.jpg`
-
-```
-Studio product photo: Digital signage players. Media players that drive signage screens. Show design details that suggest: 4k output, cms, scheduling. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0600 · Classroom robotics kits
-- [ ] File: `classroom-robotics-kits.jpg`
-
-```
-Studio product photo: Classroom robotics kits. Robotics kits designed for classroom teaching. Show design details that suggest: curriculum, sensors & motors, block / python. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0601 · STEM electronics kits
-- [ ] File: `stem-electronics-kits.jpg`
-
-```
-Studio product photo: STEM electronics kits. Electronics kits that teach circuits and coding. Show design details that suggest: snap / breadboard, projects, coding. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0602 · Smart language-learning devices
-- [ ] File: `smart-language-learning-devices.jpg`
-
-```
-Studio product photo: Smart language-learning devices. Devices for learning languages with speech practice. Show design details that suggest: speech recognition, lessons, offline. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Office, Education & Productivity (2)
 
 ### ST-0603 · Digital voice recorders
 - [ ] File: `digital-voice-recorders.jpg`
