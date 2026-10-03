@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**524 products still need a photo** (123 done). One prompt per product, ready to copy.
+**519 products still need a photo** (128 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -395,7 +395,7 @@ Studio product photo: Assistive listening devices. Personal amplifiers and strea
 
 ---
 
-## Cameras, Photography & Imaging (33)
+## Cameras, Photography & Imaging (28)
 
 ### ST-0166 · Full-frame mirrorless cameras
 - [ ] File: `full-frame-mirrorless-cameras.jpg`
@@ -493,41 +493,6 @@ Studio product photo: Thermal cameras. Infrared cameras to see heat for inspecti
 
 ```
 Studio product photo: Night-vision cameras. Cameras that see clearly in low light and darkness. Show design details that suggest: starlight sensor, ir illumination, colour night vision. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0181 · Multispectral cameras
-- [ ] File: `multispectral-cameras.jpg`
-
-```
-Studio product photo: Multispectral cameras. Cameras capturing multiple light bands for agriculture and science. Show design details that suggest: 4–10 spectral bands, calibration panel, drone mount. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0182 · Hyperspectral imaging systems
-- [ ] File: `hyperspectral-imaging-systems.jpg`
-
-```
-Studio product photo: Hyperspectral imaging systems. Hundreds of spectral bands for research, food and mineral analysis. Show design details that suggest: 200+ bands, push-broom / snapshot, lab & field. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0183 · LiDAR cameras
-- [ ] File: `lidar-cameras.jpg`
-
-```
-Studio product photo: LiDAR cameras. Depth cameras using LiDAR for 3D mapping and robotics. Show design details that suggest: tof / lidar sensor, depth range up to 10m+, usb-c. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0184 · 3D depth cameras
-- [ ] File: `3d-depth-cameras.jpg`
-
-```
-Studio product photo: 3D depth cameras. Stereo / ToF depth cameras for robotics and gesture recognition. Show design details that suggest: depth + rgb, imu, usb 3. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0185 · Machine-vision cameras
-- [ ] File: `machine-vision-cameras.jpg`
-
-```
-Studio product photo: Machine-vision cameras. Industrial cameras for inspection and automation. Show design details that suggest: global shutter, gige / usb3, c-mount. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0186 · Industrial inspection cameras
