@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**512 products still need a photo** (135 done). One prompt per product, ready to copy.
+**507 products still need a photo** (140 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -395,7 +395,7 @@ Studio product photo: Assistive listening devices. Personal amplifiers and strea
 
 ---
 
-## Cameras, Photography & Imaging (21)
+## Cameras, Photography & Imaging (16)
 
 ### ST-0167 · Medium-format cameras
 - [ ] File: `medium-format-cameras.jpg`
@@ -409,41 +409,6 @@ Studio product photo: Medium-format cameras. Large-sensor cameras for ultimate i
 
 ```
 Studio product photo: Compact premium cameras. Pocketable cameras with large sensors and fast lenses. Show design details that suggest: 1" / aps-c sensor, fast zoom lens, 4k. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0170 · Cinema cameras
-- [ ] File: `cinema-cameras.jpg`
-
-```
-Studio product photo: Cinema cameras. Professional cinema cameras with RAW recording. Show design details that suggest: 6k–8k raw, dual native iso, pro i/o. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0172 · 360-degree cameras
-- [ ] File: `360-degree-cameras.jpg`
-
-```
-Studio product photo: 360-degree cameras. Capture everything around you and reframe later. Show design details that suggest: 5.7k–8k 360°, invisible selfie stick, waterproof. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0173 · VR cameras
-- [ ] File: `vr-cameras.jpg`
-
-```
-Studio product photo: VR cameras. Stereoscopic 3D cameras for VR and immersive video. Show design details that suggest: 3d 180° / 360°, 8k, spatial audio. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0174 · AI tracking cameras
-- [ ] File: `ai-tracking-cameras.jpg`
-
-```
-Studio product photo: AI tracking cameras. Cameras that automatically follow subjects for streaming and sports. Show design details that suggest: gesture control, 4k, auto zoom. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0178 · Panoramic cameras
-- [ ] File: `panoramic-cameras.jpg`
-
-```
-Studio product photo: Panoramic cameras. Wide panoramic cameras for real estate, meetings and events. Show design details that suggest: 180°+ field of view, stitching, 4k. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0186 · Industrial inspection cameras
