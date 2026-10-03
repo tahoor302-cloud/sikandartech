@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**354 products still need a photo** (293 done). One prompt per product, ready to copy.
+**349 products still need a photo** (298 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -233,42 +233,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Smart Home & Connected Living (14)
-
-### ST-0287 · Water-leak detectors
-- [ ] File: `water-leak-detectors.jpg`
-
-```
-Studio product photo: Water-leak detectors. Sensors that alert you to leaks before damage occurs. Show design details that suggest: leak alerts, auto shut-off options, wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0288 · Smoke and carbon-monoxide detectors
-- [ ] File: `smoke-and-carbon-monoxide-detectors.jpg`
-
-```
-Studio product photo: Smoke and carbon-monoxide detectors. Show design details that suggest: smoke + co, interconnect, 10-year battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0289 · Smart blinds
-- [ ] File: `smart-blinds.jpg`
-
-```
-Studio product photo: Smart blinds. Motorised blinds controlled by app, voice or schedule. Show design details that suggest: motorised, rechargeable / wired, schedules. Shown installed on a window in a bright minimal room, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0290 · Smart curtains
-- [ ] File: `smart-curtains.jpg`
-
-```
-Studio product photo: Smart curtains. Curtain motors that open and close automatically. Show design details that suggest: retrofit motor, sunrise mode, quiet operation. Shown installed on a window in a bright minimal room, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0291 · Smart mirrors
-- [ ] File: `smart-mirrors.jpg`
-
-```
-Studio product photo: Smart mirrors. Mirrors with built-in displays, lighting and touch controls. Show design details that suggest: hidden display, led lighting, anti-fog. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Home & Connected Living (9)
 
 ### ST-0292 · Smart water monitors
 - [ ] File: `smart-water-monitors.jpg`
