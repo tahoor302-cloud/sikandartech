@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**443 products still need a photo** (204 done). One prompt per product, ready to copy.
+**439 products still need a photo** (208 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -381,20 +381,13 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Gaming & Immersive Entertainment (15)
+## Gaming & Immersive Entertainment (11)
 
 ### ST-0238 · Cloud gaming devices
 - [ ] File: `cloud-gaming-devices.jpg`
 
 ```
 Studio product photo: Cloud gaming devices. Handhelds built for streaming games from the cloud. Show design details that suggest: wi-fi 6, low latency, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0239 · Retro gaming handhelds
-- [ ] File: `retro-gaming-handhelds.jpg`
-
-```
-Studio product photo: Retro gaming handhelds. Handhelds that play classic games and emulators. Show design details that suggest: ips screen, emulation, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0240 · Android gaming handhelds
@@ -409,13 +402,6 @@ Studio product photo: Android gaming handhelds. Android handhelds with physical 
 
 ```
 Studio product photo: AR gaming glasses. AR glasses for playing on a giant virtual screen. Show design details that suggest: 200" virtual screen, low latency, console / pc compatible. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0242 · OLED gaming monitors
-- [ ] File: `oled-gaming-monitors.jpg`
-
-```
-Studio product photo: OLED gaming monitors. OLED monitors with instant response for gaming. Show design details that suggest: 240–480hz oled, 0.03 ms, hdr. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0244 · Ultrawide gaming displays
@@ -467,25 +453,11 @@ Studio product photo: Haptic gaming accessories. Vests, cushions and pads that l
 Studio product photo: External streaming devices. All-in-one boxes for live streaming without a PC. Show design details that suggest: multi-input, rtmp streaming, recording. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0262 · Streaming control decks
-- [ ] File: `streaming-control-decks.jpg`
-
-```
-Studio product photo: Streaming control decks. Customisable button decks for streaming and shortcuts. Show design details that suggest: lcd keys, dials, plugins. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0263 · Gaming DACs
 - [ ] File: `gaming-dacs.jpg`
 
 ```
 Studio product photo: Gaming DACs. DAC/amps tuned for gaming audio and voice chat. Show design details that suggest: virtual surround, mic input, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0267 · Motion simulator platforms
-- [ ] File: `motion-simulator-platforms.jpg`
-
-```
-Studio product photo: Motion simulator platforms. Motion rigs that move with racing and flight games. Show design details that suggest: 2–6dof, telemetry, payload rated. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
