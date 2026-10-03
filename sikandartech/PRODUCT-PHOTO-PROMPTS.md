@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**486 products still need a photo** (161 done). One prompt per product, ready to copy.
+**485 products still need a photo** (162 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -93,7 +93,7 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (17)
+## Smartwatches, Rings & Wearable Tech (16)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
@@ -191,13 +191,6 @@ Studio product photo: Wearable navigation devices. Wearables that guide you with
 
 ```
 Studio product photo: Electronic hearing protection. Earmuffs and earbuds that block loud noise while boosting speech. Show design details that suggest: active noise limiting, ambient sound boost, nrr 25+ db. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0129 · Connected hearing aids
-- [ ] File: `connected-hearing-aids.jpg`
-
-```
-Studio product photo: Connected hearing aids. Bluetooth hearing aids that stream calls and music (where approved). Show design details that suggest: bluetooth streaming, rechargeable, requires hearing assessment. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0130 · Biometric chest straps
