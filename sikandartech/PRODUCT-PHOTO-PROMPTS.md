@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**491 products still need a photo** (156 done). One prompt per product, ready to copy.
+**486 products still need a photo** (161 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Glasses, AR, VR & Spatial Computing (12)
+## Smart Glasses, AR, VR & Spatial Computing (11)
 
 ### ST-0087 · Virtual-reality headsets
 - [ ] File: `virtual-reality-headsets.jpg`
@@ -33,13 +33,6 @@ Studio product photo: Lightweight VR headsets. Compact pancake-lens VR headsets 
 
 ```
 Studio product photo: Enterprise AR headsets. Hands-free AR headsets for remote assistance, training and maintenance. Show design details that suggest: industrial design, remote expert video, hard-hat mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0091 · Industrial smart glasses
-- [ ] File: `industrial-smart-glasses.jpg`
-
-```
-Studio product photo: Industrial smart glasses. Rugged smart glasses for warehouse picking and field service. Show design details that suggest: ip-rated, barcode scanning, long shift battery. Resting on a small light stone block. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0092 · Medical AR devices
@@ -223,14 +216,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (10)
-
-### ST-0135 · Open-ear earbuds
-- [ ] File: `open-ear-earbuds.jpg`
-
-```
-Studio product photo: Open-ear earbuds. Earbuds that sit outside the ear canal so you stay aware of surroundings. Show design details that suggest: open-ear design, directional audio, secure hooks. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Audio & Sound (6)
 
 ### ST-0136 · Open-ear clip headphones
 - [ ] File: `open-ear-clip-headphones.jpg`
@@ -253,32 +239,11 @@ Studio product photo: Air-conduction headphones. Open-ear headphones that beam s
 Studio product photo: Spatial-audio headphones. Headphones with head tracking for 3D surround sound. Show design details that suggest: head-tracked spatial audio, anc, multipoint. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0145 · Electrostatic headphones
-- [ ] File: `electrostatic-headphones.jpg`
-
-```
-Studio product photo: Electrostatic headphones. Ultra-high-end electrostatic headphones with dedicated energiser. Show design details that suggest: electrostatic driver, dedicated amplifier, ultra-low distortion. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0147 · Wireless studio headphones
-- [ ] File: `wireless-studio-headphones.jpg`
-
-```
-Studio product photo: Wireless studio headphones. Studio monitoring headphones with low-latency wireless. Show design details that suggest: flat response, low-latency wireless, wired mode. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0149 · Portable Hi-Fi speakers
 - [ ] File: `portable-hi-fi-speakers.jpg`
 
 ```
 Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with high-resolution audio. Show design details that suggest: wi-fi streaming, room calibration, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0150 · Smart speakers
-- [ ] File: `smart-speakers.jpg`
-
-```
-Studio product photo: Smart speakers. Voice-controlled speakers for music and smart-home control. Show design details that suggest: multi-room, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0154 · Soundbars
