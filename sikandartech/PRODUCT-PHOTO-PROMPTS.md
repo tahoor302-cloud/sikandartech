@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**420 products still need a photo** (227 done). One prompt per product, ready to copy.
+**418 products still need a photo** (229 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,14 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Cameras, Photography & Imaging (12)
-
-### ST-0188 · Trail cameras
-- [ ] File: `trail-cameras.jpg`
-
-```
-Studio product photo: Trail cameras. Motion-activated cameras for wildlife and property. Show design details that suggest: 4k video, no-glow ir, pir trigger. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Cameras, Photography & Imaging (10)
 
 ### ST-0189 · Instant cameras
 - [ ] File: `instant-cameras.jpg`
@@ -89,13 +82,6 @@ Studio product photo: Camera sliders. Linear sliders for smooth cinematic camera
 
 ```
 Studio product photo: Motorized camera dollies. Motorised dollies and robotic arms for repeatable shots. Show design details that suggest: programmable moves, payload rated, time-lapse. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0199 · 3D scanners
-- [ ] File: `3d-scanners.jpg`
-
-```
-Studio product photo: 3D scanners. Scanners that turn real objects into 3D models. Show design details that suggest: 0.05mm accuracy, structured light / laser, colour texture. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
