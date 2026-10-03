@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**492 products still need a photo** (155 done). One prompt per product, ready to copy.
+**491 products still need a photo** (156 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -223,7 +223,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (11)
+## Audio & Sound (10)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -244,13 +244,6 @@ Studio product photo: Open-ear clip headphones. Cuff-style clip earbuds that sta
 
 ```
 Studio product photo: Air-conduction headphones. Open-ear headphones that beam sound toward the ear for comfort. Show design details that suggest: air conduction, lightweight, ear-hook fit. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0141 · Adaptive ANC headphones
-- [ ] File: `adaptive-anc-headphones.jpg`
-
-```
-Studio product photo: Adaptive ANC headphones. Headphones that adjust noise cancelling automatically to your environment. Show design details that suggest: adaptive anc, transparency mode, hi-res wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0142 · Spatial-audio headphones
