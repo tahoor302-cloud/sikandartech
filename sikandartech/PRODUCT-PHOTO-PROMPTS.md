@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**390 products still need a photo** (257 done). One prompt per product, ready to copy.
+**385 products still need a photo** (262 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2370,42 +2370,7 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 
 ---
 
-## Office, Education & Productivity (17)
-
-### ST-0587 · Smart webcams
-- [ ] File: `smart-webcams.jpg`
-
-```
-Studio product photo: Smart webcams. Webcams with AI framing, HDR and noise reduction. Show design details that suggest: 1080p–4k, hdr, privacy shutter. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0588 · 4K webcams
-- [ ] File: `4k-webcams.jpg`
-
-```
-Studio product photo: 4K webcams. Ultra-sharp webcams for streaming and meetings. Show design details that suggest: 4k 30fps, hdr, dual mics. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0589 · AI auto-framing cameras
-- [ ] File: `ai-auto-framing-cameras.jpg`
-
-```
-Studio product photo: AI auto-framing cameras. Conference cameras that frame speakers automatically. Show design details that suggest: speaker tracking, 4k, usb. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0590 · Video conferencing bars
-- [ ] File: `video-conferencing-bars.jpg`
-
-```
-Studio product photo: Video conferencing bars. All-in-one camera, mic and speaker bars for meeting rooms. Show design details that suggest: 4k camera, beamforming mics, speakers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0591 · Wireless presentation systems
-- [ ] File: `wireless-presentation-systems.jpg`
-
-```
-Studio product photo: Wireless presentation systems. Share laptop screens to displays wirelessly. Show design details that suggest: one-click share, 4k, multi-user. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Office, Education & Productivity (12)
 
 ### ST-0593 · Ergonomic keyboards
 - [ ] File: `ergonomic-keyboards.jpg`
