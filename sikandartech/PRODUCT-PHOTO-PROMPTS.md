@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**414 products still need a photo** (233 done). One prompt per product, ready to copy.
+**409 products still need a photo** (238 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,48 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Cameras, Photography & Imaging (6)
+## Cameras, Photography & Imaging (1)
 
 ### ST-0189 · Instant cameras
 - [ ] File: `instant-cameras.jpg`
 
 ```
 Studio product photo: Instant cameras. Cameras that print photos instantly. Show design details that suggest: instant film / zink, selfie mirror, auto exposure. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0194 · Wireless follow-focus systems
-- [ ] File: `wireless-follow-focus-systems.jpg`
-
-```
-Studio product photo: Wireless follow-focus systems. Motorised focus control for cinema lenses. Show design details that suggest: wireless motor, hand unit, lens calibration. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0195 · Professional LED lighting
-- [ ] File: `professional-led-lighting.jpg`
-
-```
-Studio product photo: Professional LED lighting. Bi-colour and RGB LED lights for photo and video. Show design details that suggest: high cri 95+, bi-colour / rgb, bowens mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0196 · Portable studio flash systems
-- [ ] File: `portable-studio-flash-systems.jpg`
-
-```
-Studio product photo: Portable studio flash systems. Battery-powered strobes for location photography. Show design details that suggest: 200–600ws, ttl / hss, wireless trigger. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0197 · Camera sliders
-- [ ] File: `camera-sliders.jpg`
-
-```
-Studio product photo: Camera sliders. Linear sliders for smooth cinematic camera moves. Show design details that suggest: carbon / aluminium, motorised options, time-lapse. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0198 · Motorized camera dollies
-- [ ] File: `motorized-camera-dollies.jpg`
-
-```
-Studio product photo: Motorized camera dollies. Motorised dollies and robotic arms for repeatable shots. Show design details that suggest: programmable moves, payload rated, time-lapse. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
