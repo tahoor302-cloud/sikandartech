@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**409 products still need a photo** (238 done). One prompt per product, ready to copy.
+**404 products still need a photo** (243 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2272,42 +2272,7 @@ Studio product photo: Advanced machine-vision systems. AI vision systems for ins
 
 ---
 
-## Security, Privacy & Digital Protection (18)
-
-### ST-0554 · Hardware security keys
-- [ ] File: `hardware-security-keys.jpg`
-
-```
-Studio product photo: Hardware security keys. Physical keys that protect accounts with phishing-resistant login. Show design details that suggest: fido2 / u2f, usb-c / nfc, passkeys. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0555 · FIDO2 authentication keys
-- [ ] File: `fido2-authentication-keys.jpg`
-
-```
-Studio product photo: FIDO2 authentication keys. Passkey-ready authentication keys for business and personal use. Show design details that suggest: fido2, biometric options, usb / nfc. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0556 · Biometric USB security devices
-- [ ] File: `biometric-usb-security-devices.jpg`
-
-```
-Studio product photo: Biometric USB security devices. USB keys with fingerprint readers for secure login. Show design details that suggest: fingerprint sensor, fido2, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0557 · Encrypted external drives
-- [ ] File: `encrypted-external-drives.jpg`
-
-```
-Studio product photo: Encrypted external drives. External drives with hardware encryption. Show design details that suggest: aes-256, pin / fingerprint, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0558 · Privacy webcam shutters
-- [ ] File: `privacy-webcam-shutters.jpg`
-
-```
-Studio product photo: Privacy webcam shutters. Slide covers that block webcams when not in use. Show design details that suggest: ultra-thin, adhesive, multi-pack. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Security, Privacy & Digital Protection (13)
 
 ### ST-0559 · Physical microphone mute switches
 - [ ] File: `physical-microphone-mute-switches.jpg`
