@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**373 products still need a photo** (274 done). One prompt per product, ready to copy.
+**368 products still need a photo** (279 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -233,42 +233,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Smart Home & Connected Living (33)
-
-### ST-0268 · Smart home hubs
-- [ ] File: `smart-home-hubs.jpg`
-
-```
-Studio product photo: Smart home hubs. Central hubs that connect and automate all your smart devices. Show design details that suggest: local automation. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0269 · Matter-compatible controllers
-- [ ] File: `matter-compatible-controllers.jpg`
-
-```
-Studio product photo: Matter-compatible controllers. Controllers that bring Matter devices from any brand together. Show design details that suggest: thread border router, multi-admin, wi-fi / ethernet. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0270 · Smart lighting
-- [ ] File: `smart-lighting.jpg`
-
-```
-Studio product photo: Smart lighting. Wi-Fi and Zigbee smart bulbs with colour and scenes. Show design details that suggest: 16m colours, tunable white, schedules. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0271 · Smart LED strips
-- [ ] File: `smart-led-strips.jpg`
-
-```
-Studio product photo: Smart LED strips. App-controlled LED strips for rooms, TVs and desks. Show design details that suggest: rgbic, music sync, 5–20m. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0272 · Addressable lighting systems
-- [ ] File: `addressable-lighting-systems.jpg`
-
-```
-Studio product photo: Addressable lighting systems. Pixel-addressable lights for effects and architecture. Show design details that suggest: per-pixel control, dmx / wled, outdoor rated. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Home & Connected Living (28)
 
 ### ST-0273 · Smart switches
 - [ ] File: `smart-switches.jpg`
