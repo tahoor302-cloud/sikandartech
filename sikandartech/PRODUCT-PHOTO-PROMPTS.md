@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**471 products still need a photo** (176 done). One prompt per product, ready to copy.
+**468 products still need a photo** (179 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -9,31 +9,6 @@ How to use:
 
 The same list is in `product-photo-prompts.csv` for bulk tools (columns: code, file, product, category, prompt).
 Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding photos.
-
----
-
-## Smart Glasses, AR, VR & Spatial Computing (3)
-
-### ST-0089 · Lightweight VR headsets
-- [ ] File: `lightweight-vr-headsets.jpg`
-
-```
-Studio product photo: Lightweight VR headsets. Compact pancake-lens VR headsets that are comfortable for long sessions. Show design details that suggest: pancake lenses, under 400g, pc vr / standalone. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0090 · Enterprise AR headsets
-- [ ] File: `enterprise-ar-headsets.jpg`
-
-```
-Studio product photo: Enterprise AR headsets. Hands-free AR headsets for remote assistance, training and maintenance. Show design details that suggest: industrial design, remote expert video, hard-hat mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0092 · Medical AR devices
-- [ ] File: `medical-ar-devices.jpg`
-
-```
-Studio product photo: Medical AR devices. AR systems for surgical planning, training and visualisation (professional use). Show design details that suggest: 3d anatomy overlays, sterile workflows, medical imaging import. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
 
 ---
 
