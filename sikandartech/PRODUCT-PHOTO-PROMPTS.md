@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**368 products still need a photo** (279 done). One prompt per product, ready to copy.
+**363 products still need a photo** (284 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -233,42 +233,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Smart Home & Connected Living (28)
-
-### ST-0273 · Smart switches
-- [ ] File: `smart-switches.jpg`
-
-```
-Studio product photo: Smart switches. Wall switches that add app and voice control to lights. Show design details that suggest: neutral / no-neutral, scenes, energy monitoring. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0274 · Smart plugs
-- [ ] File: `smart-plugs.jpg`
-
-```
-Studio product photo: Smart plugs. Plugs that make any appliance smart. Show design details that suggest: energy monitoring, schedules, compact. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0275 · Smart dimmers
-- [ ] File: `smart-dimmers.jpg`
-
-```
-Studio product photo: Smart dimmers. Smart dimmer switches for smooth lighting control. Show design details that suggest: dimming, scenes, led compatible. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0276 · Smart thermostats
-- [ ] File: `smart-thermostats.jpg`
-
-```
-Studio product photo: Smart thermostats. Learning thermostats that save energy automatically. Show design details that suggest: learning schedules, geofencing, energy reports. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0277 · Smart air-quality sensors
-- [ ] File: `smart-air-quality-sensors.jpg`
-
-```
-Studio product photo: Smart air-quality sensors. Monitors for PM2.5, CO2, VOC, temperature and humidity. Show design details that suggest: pm2.5 / co2 / voc, display, alerts. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Home & Connected Living (23)
 
 ### ST-0278 · Smart locks
 - [ ] File: `smart-locks.jpg`
