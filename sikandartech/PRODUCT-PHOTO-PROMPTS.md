@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**504 products still need a photo** (143 done). One prompt per product, ready to copy.
+**499 products still need a photo** (148 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: Wearable temperature sensors. Patches and bands that track
 
 ---
 
-## Audio & Sound (22)
+## Audio & Sound (17)
 
 ### ST-0135 · Open-ear earbuds
 - [ ] File: `open-ear-earbuds.jpg`
@@ -251,13 +251,6 @@ Studio product photo: Open-ear clip headphones. Cuff-style clip earbuds that sta
 
 ```
 Studio product photo: Air-conduction headphones. Open-ear headphones that beam sound toward the ear for comfort. Show design details that suggest: air conduction, lightweight, ear-hook fit. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0139 · Sleep earbuds
-- [ ] File: `sleep-earbuds.jpg`
-
-```
-Studio product photo: Sleep earbuds. Ultra-small earbuds designed for side sleeping with noise masking. Show design details that suggest: low-profile fit, noise masking, sleep tracking. Original generic design that does not resemble any famous brand's product. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0141 · Adaptive ANC headphones
@@ -349,34 +342,6 @@ Studio product photo: Bluetooth audio transmitters. Add wireless audio to TVs, p
 
 ```
 Studio product photo: AI transcription microphones. Microphones with built-in AI transcription and noise removal. Show design details that suggest: live transcription, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0160 · Podcasting microphones
-- [ ] File: `podcasting-microphones.jpg`
-
-```
-Studio product photo: Podcasting microphones. USB/XLR mics for podcasts, streaming and voice-over. Show design details that suggest: dynamic / condenser, usb + xlr, mute button. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0161 · Conference speakerphones
-- [ ] File: `conference-speakerphones.jpg`
-
-```
-Studio product photo: Conference speakerphones. Speakerphones for clear conference calls in small and medium rooms. Show design details that suggest: 360° mics, echo cancellation, usb / bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0162 · Digital audio players
-- [ ] File: `digital-audio-players.jpg`
-
-```
-Studio product photo: Digital audio players. Dedicated Hi-Res music players for audiophiles. Show design details that suggest: dual dac, balanced output, 256gb+. A compact dedicated music player with a small screen and a large volume knob, clearly not a phone. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0163 · Network music streamers
-- [ ] File: `network-music-streamers.jpg`
-
-```
-Studio product photo: Network music streamers. Stream lossless music from apps and NAS to your hi-fi. Show design details that suggest: wi-fi / ethernet, dac built-in. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0164 · Smart hearing protection
