@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**463 products still need a photo** (184 done). One prompt per product, ready to copy.
+**460 products still need a photo** (187 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,14 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (5)
-
-### ST-0107 · Outdoor GPS watches
-- [ ] File: `outdoor-gps-watches.jpg`
-
-```
-Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigation and altimeter. Show design details that suggest: topo maps, barometric altimeter, compass. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smartwatches, Rings & Wearable Tech (2)
 
 ### ST-0117 · GPS pet trackers
 - [ ] File: `gps-pet-trackers.jpg`
@@ -28,25 +21,11 @@ Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigati
 Studio product photo: GPS pet trackers. Collar trackers that show your pet's live location and activity. Show design details that suggest: gps + lte, geofence alerts, activity tracking. Attached to a small plain pet collar. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0121 · Smart badges
-- [ ] File: `smart-badges.jpg`
-
-```
-Studio product photo: Smart badges. Connected ID badges for access, voice notes and team communication. Show design details that suggest: nfc / rfid, push-to-talk, location. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0125 · Wearable posture monitors
 - [ ] File: `wearable-posture-monitors.jpg`
 
 ```
 Studio product photo: Wearable posture monitors. Small trackers that vibrate to correct slouching. Show design details that suggest: vibration reminders, posture analytics, clip / adhesive. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0127 · Wearable navigation devices
-- [ ] File: `wearable-navigation-devices.jpg`
-
-```
-Studio product photo: Wearable navigation devices. Wearables that guide you with vibrations or a mini display. Show design details that suggest: turn-by-turn haptics, gps, water resistant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
