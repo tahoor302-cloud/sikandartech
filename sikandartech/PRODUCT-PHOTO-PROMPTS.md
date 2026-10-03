@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**375 products still need a photo** (272 done). One prompt per product, ready to copy.
+**373 products still need a photo** (274 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2366,24 +2366,6 @@ Studio product photo: Electronic navigation compasses. Digital compasses with al
 
 ```
 Studio product photo: Emergency radio systems. Hand-crank and solar radios with flashlight and charging. Show design details that suggest: am / fm / noaa, hand crank, solar. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Office, Education & Productivity (2)
-
-### ST-0603 · Digital voice recorders
-- [ ] File: `digital-voice-recorders.jpg`
-
-```
-Studio product photo: Digital voice recorders. Recorders for lectures, interviews and meetings. Show design details that suggest: stereo mics, long recording, noise reduction. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0604 · Desktop AI assistants
-- [ ] File: `desktop-ai-assistants.jpg`
-
-```
-Studio product photo: Desktop AI assistants. Desktop devices with AI for scheduling, notes and answers. Show design details that suggest: display, calendar, smart-home control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
