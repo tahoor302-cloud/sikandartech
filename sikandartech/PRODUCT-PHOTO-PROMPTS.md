@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**453 products still need a photo** (194 done). One prompt per product, ready to copy.
+**448 products still need a photo** (199 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -381,7 +381,7 @@ Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that 
 
 ---
 
-## Gaming & Immersive Entertainment (25)
+## Gaming & Immersive Entertainment (20)
 
 ### ST-0238 · Cloud gaming devices
 - [ ] File: `cloud-gaming-devices.jpg`
@@ -432,25 +432,11 @@ Studio product photo: Ultrawide gaming displays. Curved ultrawide displays for i
 Studio product photo: Mini-LED gaming displays. Bright HDR gaming monitors with Mini-LED backlight. Show design details that suggest: mini-led, hdr1000, 4k 160hz. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0247 · Hall-effect keyboards
-- [ ] File: `hall-effect-keyboards.jpg`
-
-```
-Studio product photo: Hall-effect keyboards. Magnetic Hall-effect keyboards with adjustable actuation and rapid trigger. Show design details that suggest: hall-effect switches, adjustable actuation, rapid trigger. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0248 · Magnetic-switch keyboards
 - [ ] File: `magnetic-switch-keyboards.jpg`
 
 ```
 Studio product photo: Magnetic-switch keyboards. Keyboards with magnetic switches for ultra-fast esports input. Show design details that suggest: magnetic switches, 0.1mm actuation, rapid trigger. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0249 · Low-latency gaming mice
-- [ ] File: `low-latency-gaming-mice.jpg`
-
-```
-Studio product photo: Low-latency gaming mice. Ultralight wireless mice with flawless sensors. Show design details that suggest: 26k–30k dpi sensor, under 60g, 2.4ghz. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0250 · High-polling-rate gaming mice
@@ -467,25 +453,11 @@ Studio product photo: High-polling-rate gaming mice. 4K–8K Hz polling mice for
 Studio product photo: Hall-effect controllers. Controllers with drift-free Hall-effect sticks and triggers. Show design details that suggest: hall sticks & triggers, no stick drift, back buttons. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0253 · Fight sticks
-- [ ] File: `fight-sticks.jpg`
-
-```
-Studio product photo: Fight sticks. Arcade sticks for fighting games. Show design details that suggest: sanwa-style parts, leverless options, multi-platform. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0255 · Direct-drive wheelbases
 - [ ] File: `direct-drive-wheelbases.jpg`
 
 ```
 Studio product photo: Direct-drive wheelbases. Direct-drive bases for realistic sim racing force feedback. Show design details that suggest: 5–25nm torque, quick release, wheel rims. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0256 · Racing pedals
-- [ ] File: `racing-pedals.jpg`
-
-```
-Studio product photo: Racing pedals. Load-cell pedals for precise braking. Show design details that suggest: load-cell brake, adjustable, 2–3 pedals. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0257 · Flight simulation controls
@@ -507,13 +479,6 @@ Studio product photo: Sim-racing cockpits. Rigid cockpits for wheels, pedals and
 
 ```
 Studio product photo: Haptic gaming accessories. Vests, cushions and pads that let you feel gameplay. Show design details that suggest: haptic motors, game integration, wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0260 · Gaming capture cards
-- [ ] File: `gaming-capture-cards.jpg`
-
-```
-Studio product photo: Gaming capture cards. Capture console and PC gameplay for streaming. Show design details that suggest: 4k60 pass-through, 1080p60 capture, usb-c / pcie. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0261 · External streaming devices
