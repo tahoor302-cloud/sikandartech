@@ -264,7 +264,7 @@ Studio product photo: GPS pet trackers. Collar trackers that show your pet's liv
 - [ ] File: `wearable-cameras.jpg`
 
 ```
-Studio product photo: Wearable cameras. Body-worn cameras for creators, security and lifelogging. Show design details that suggest: 1080p–4k, magnetic clip, wide angle. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Wearable cameras. Body-worn cameras for creators, security and lifelogging. Show design details that suggest: 1080p–4k, magnetic clip, wide angle. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0119 · Smart necklaces
@@ -429,7 +429,7 @@ Studio product photo: Adaptive ANC headphones. Headphones that adjust noise canc
 - [ ] File: `spatial-audio-headphones.jpg`
 
 ```
-Studio product photo: Spatial-audio headphones. Headphones with head tracking for 3D surround sound. Show design details that suggest: head-tracked spatial audio, dolby atmos, anc. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Spatial-audio headphones. Headphones with head tracking for 3D surround sound. Show design details that suggest: head-tracked spatial audio, anc, multipoint. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0143 · Audiophile headphones
@@ -478,21 +478,21 @@ Studio product photo: Bluetooth speakers. Portable speakers with big sound for h
 - [ ] File: `portable-hi-fi-speakers.jpg`
 
 ```
-Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with high-resolution audio. Show design details that suggest: ldac / aptx hd, wi-fi streaming, room calibration. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Portable Hi-Fi speakers. Premium portable speakers with high-resolution audio. Show design details that suggest: wi-fi streaming, room calibration, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0150 · Smart speakers
 - [ ] File: `smart-speakers.jpg`
 
 ```
-Studio product photo: Smart speakers. Voice-controlled speakers for music and smart-home control. Show design details that suggest: multi-room, wi-fi, matter hub. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart speakers. Voice-controlled speakers for music and smart-home control. Show design details that suggest: multi-room, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0151 · Spatial-audio speakers
 - [ ] File: `spatial-audio-speakers.jpg`
 
 ```
-Studio product photo: Spatial-audio speakers. Speakers that create immersive 3D sound in your room. Show design details that suggest: up-firing drivers, dolby atmos, room correction. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Spatial-audio speakers. Speakers that create immersive 3D sound in your room. Show design details that suggest: up-firing drivers, room correction, wi-fi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0152 · Premium desktop speakers
@@ -506,42 +506,42 @@ Studio product photo: Premium desktop speakers. Powered bookshelf speakers for d
 - [ ] File: `wireless-surround-sound-systems.jpg`
 
 ```
-Studio product photo: Wireless surround-sound systems. Wireless 5.1/7.1 speaker systems for home cinema. Show design details that suggest: wireless rears, subwoofer, dolby atmos. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Wireless surround-sound systems. Wireless 5.1/7.1 speaker systems for home cinema. Show design details that suggest: wireless rears, subwoofer. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0154 · Soundbars
 - [ ] File: `soundbars.jpg`
 
 ```
-Studio product photo: Soundbars. Slim TV soundbars with Dolby Atmos and wireless subwoofer. Show design details that suggest: 3.1–9.1.4 channels, dolby atmos, hdmi earc. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Soundbars. Slim TV soundbars with Dolby Atmos and wireless subwoofer. Show design details that suggest: 3.1–9.1.4 channels, hdmi earc, wireless sub. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0155 · Portable DACs
 - [ ] File: `portable-dacs.jpg`
 
 ```
-Studio product photo: Portable DACs. Show design details that suggest: ess / akm dac, 32-bit/768khz, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Portable DACs. Pocket-size DAC and headphone amplifier dongle that improves wired headphone sound. Show design details that suggest: 32-bit/768khz, usb-c, 3.5 / 4.4 mm out. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0156 · USB DAC amplifiers
 - [ ] File: `usb-dac-amplifiers.jpg`
 
 ```
-Studio product photo: USB DAC amplifiers. Desktop DAC/amps for driving demanding headphones. Show design details that suggest: balanced output, high power, mqa / dsd. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: USB DAC amplifiers. Desktop DAC/amps for driving demanding headphones. Show design details that suggest: balanced output, high power, remote control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0157 · Bluetooth audio transmitters
 - [ ] File: `bluetooth-audio-transmitters.jpg`
 
 ```
-Studio product photo: Bluetooth audio transmitters. Add wireless audio to TVs, planes and older stereos. Show design details that suggest: aptx low latency, dual-link, optical / aux. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Bluetooth audio transmitters. Add wireless audio to TVs, planes and older stereos. Show design details that suggest: dual-link, optical / aux, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0158 · Wireless microphones
 - [ ] File: `wireless-microphones.jpg`
 
 ```
-Studio product photo: Wireless microphones. Show design details that suggest: 2.4ghz, 250m range, noise cancelling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Wireless microphones. Tiny clip-on wireless microphones with a charging case receiver for creators and interviews. Show design details that suggest: 2.4ghz, 250m range, noise cancelling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0159 · AI transcription microphones
@@ -569,14 +569,14 @@ Studio product photo: Conference speakerphones. Speakerphones for clear conferen
 - [ ] File: `digital-audio-players.jpg`
 
 ```
-Studio product photo: Digital audio players. Dedicated Hi-Res music players for audiophiles. Show design details that suggest: dual dac, balanced output, android streaming. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Digital audio players. Dedicated Hi-Res music players for audiophiles. Show design details that suggest: dual dac, balanced output, 256gb+. A compact dedicated music player with a small screen and a large volume knob, clearly not a phone. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0163 · Network music streamers
 - [ ] File: `network-music-streamers.jpg`
 
 ```
-Studio product photo: Network music streamers. Stream lossless music from apps and NAS to your hi-fi. Show design details that suggest: wi-fi / ethernet, roon / airplay / chromecast, dac built-in. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Network music streamers. Stream lossless music from apps and NAS to your hi-fi. Show design details that suggest: wi-fi / ethernet, dac built-in. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0164 · Smart hearing protection
@@ -601,105 +601,105 @@ Studio product photo: Assistive listening devices. Personal amplifiers and strea
 - [ ] File: `full-frame-mirrorless-cameras.jpg`
 
 ```
-Studio product photo: Full-frame mirrorless cameras. Professional full-frame cameras for photo and video. Show design details that suggest: 24–61mp full-frame, 4k/8k video, ibis. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Full-frame mirrorless cameras. Professional full-frame cameras for photo and video. Show design details that suggest: 24–61mp full-frame, 4k/8k video, ibis. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0167 · Medium-format cameras
 - [ ] File: `medium-format-cameras.jpg`
 
 ```
-Studio product photo: Medium-format cameras. Large-sensor cameras for ultimate image quality. Show design details that suggest: 50–100mp medium format, 16-bit raw, ibis. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Medium-format cameras. Large-sensor cameras for ultimate image quality. Show design details that suggest: 50–100mp medium format, 16-bit raw, ibis. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0168 · APS-C cameras
 - [ ] File: `aps-c-cameras.jpg`
 
 ```
-Studio product photo: APS-C cameras. Compact, capable cameras for enthusiasts and travel. Show design details that suggest: 24–40mp aps-c, 4k video, subject tracking af. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: APS-C cameras. Compact, capable cameras for enthusiasts and travel. Show design details that suggest: 24–40mp aps-c, 4k video, subject tracking af. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0169 · Compact premium cameras
 - [ ] File: `compact-premium-cameras.jpg`
 
 ```
-Studio product photo: Compact premium cameras. Pocketable cameras with large sensors and fast lenses. Show design details that suggest: 1" / aps-c sensor, fast zoom lens, 4k. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Compact premium cameras. Pocketable cameras with large sensors and fast lenses. Show design details that suggest: 1" / aps-c sensor, fast zoom lens, 4k. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0170 · Cinema cameras
 - [ ] File: `cinema-cameras.jpg`
 
 ```
-Studio product photo: Cinema cameras. Professional cinema cameras with RAW recording. Show design details that suggest: 6k–8k raw, dual native iso, pro i/o. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Cinema cameras. Professional cinema cameras with RAW recording. Show design details that suggest: 6k–8k raw, dual native iso, pro i/o. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0172 · 360-degree cameras
 - [ ] File: `360-degree-cameras.jpg`
 
 ```
-Studio product photo: 360-degree cameras. Capture everything around you and reframe later. Show design details that suggest: 5.7k–8k 360°, invisible selfie stick, flowstate. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: 360-degree cameras. Capture everything around you and reframe later. Show design details that suggest: 5.7k–8k 360°, invisible selfie stick, waterproof. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0173 · VR cameras
 - [ ] File: `vr-cameras.jpg`
 
 ```
-Studio product photo: VR cameras. Stereoscopic 3D cameras for VR and immersive video. Show design details that suggest: 3d 180° / 360°, 8k, spatial audio. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: VR cameras. Stereoscopic 3D cameras for VR and immersive video. Show design details that suggest: 3d 180° / 360°, 8k, spatial audio. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0174 · AI tracking cameras
 - [ ] File: `ai-tracking-cameras.jpg`
 
 ```
-Studio product photo: AI tracking cameras. Cameras that automatically follow subjects for streaming and sports. Show design details that suggest: gesture control, 4k, auto zoom. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI tracking cameras. Cameras that automatically follow subjects for streaming and sports. Show design details that suggest: gesture control, 4k, auto zoom. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0175 · Vlogging cameras
 - [ ] File: `vlogging-cameras.jpg`
 
 ```
-Studio product photo: Vlogging cameras. Compact cameras optimised for vloggers and creators. Show design details that suggest: flip screen, directional mic, product showcase mode. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Vlogging cameras. Compact cameras optimised for vloggers and creators. Show design details that suggest: flip screen, directional mic, product showcase mode. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0176 · Pocket cinema cameras
 - [ ] File: `pocket-cinema-cameras.jpg`
 
 ```
-Studio product photo: Pocket cinema cameras. Small form cinema cameras with pro codecs. Show design details that suggest: 4k–6k raw, super35 / mft, pro codecs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Pocket cinema cameras. Small form cinema cameras with pro codecs. Show design details that suggest: 4k–6k raw, super35 / mft, pro codecs. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0177 · PTZ cameras
 - [ ] File: `ptz-cameras.jpg`
 
 ```
-Studio product photo: PTZ cameras. Pan-tilt-zoom cameras for live production, churches and classrooms. Show design details that suggest: 20–30× optical zoom, ndi / sdi / hdmi, auto tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: PTZ cameras. Pan-tilt-zoom cameras for live production, churches and classrooms. Show design details that suggest: 20–30× optical zoom, auto tracking, remote control. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0178 · Panoramic cameras
 - [ ] File: `panoramic-cameras.jpg`
 
 ```
-Studio product photo: Panoramic cameras. Wide panoramic cameras for real estate, meetings and events. Show design details that suggest: 180°+ field of view, stitching, 4k. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Panoramic cameras. Wide panoramic cameras for real estate, meetings and events. Show design details that suggest: 180°+ field of view, stitching, 4k. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0179 · Thermal cameras
 - [ ] File: `thermal-cameras.jpg`
 
 ```
-Studio product photo: Thermal cameras. Infrared cameras to see heat for inspections and diagnostics. Show design details that suggest: 160–640 px thermal, temperature measurement, visual blend. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Thermal cameras. Infrared cameras to see heat for inspections and diagnostics. Show design details that suggest: 160–640 px thermal, temperature measurement, visual blend. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0180 · Night-vision cameras
 - [ ] File: `night-vision-cameras.jpg`
 
 ```
-Studio product photo: Night-vision cameras. Cameras that see clearly in low light and darkness. Show design details that suggest: starlight sensor, ir illumination, colour night vision. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Night-vision cameras. Cameras that see clearly in low light and darkness. Show design details that suggest: starlight sensor, ir illumination, colour night vision. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0181 · Multispectral cameras
 - [ ] File: `multispectral-cameras.jpg`
 
 ```
-Studio product photo: Multispectral cameras. Cameras capturing multiple light bands for agriculture and science. Show design details that suggest: 4–10 spectral bands, calibration panel, drone mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Multispectral cameras. Cameras capturing multiple light bands for agriculture and science. Show design details that suggest: 4–10 spectral bands, calibration panel, drone mount. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0182 · Hyperspectral imaging systems
@@ -713,49 +713,49 @@ Studio product photo: Hyperspectral imaging systems. Hundreds of spectral bands 
 - [ ] File: `lidar-cameras.jpg`
 
 ```
-Studio product photo: LiDAR cameras. Depth cameras using LiDAR for 3D mapping and robotics. Show design details that suggest: tof / lidar sensor, depth range up to 10m+, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: LiDAR cameras. Depth cameras using LiDAR for 3D mapping and robotics. Show design details that suggest: tof / lidar sensor, depth range up to 10m+, usb-c. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0184 · 3D depth cameras
 - [ ] File: `3d-depth-cameras.jpg`
 
 ```
-Studio product photo: 3D depth cameras. Stereo / ToF depth cameras for robotics and gesture recognition. Show design details that suggest: depth + rgb, imu, usb 3. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: 3D depth cameras. Stereo / ToF depth cameras for robotics and gesture recognition. Show design details that suggest: depth + rgb, imu, usb 3. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0185 · Machine-vision cameras
 - [ ] File: `machine-vision-cameras.jpg`
 
 ```
-Studio product photo: Machine-vision cameras. Industrial cameras for inspection and automation. Show design details that suggest: global shutter, gige / usb3, c-mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Machine-vision cameras. Industrial cameras for inspection and automation. Show design details that suggest: global shutter, gige / usb3, c-mount. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0186 · Industrial inspection cameras
 - [ ] File: `industrial-inspection-cameras.jpg`
 
 ```
-Studio product photo: Industrial inspection cameras. Borescopes and inspection cameras for engines, pipes and walls. Show design details that suggest: articulating probe, ip67, 1080p. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Industrial inspection cameras. Borescopes and inspection cameras for engines, pipes and walls. Show design details that suggest: articulating probe, ip67, 1080p. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0187 · High-speed cameras
 - [ ] File: `high-speed-cameras.jpg`
 
 ```
-Studio product photo: High-speed cameras. Cameras recording thousands of frames per second for analysis. Show design details that suggest: 1,000–100,000 fps, slow-motion analysis, trigger. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: High-speed cameras. Cameras recording thousands of frames per second for analysis. Show design details that suggest: 1,000–100,000 fps, slow-motion analysis, trigger. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0188 · Trail cameras
 - [ ] File: `trail-cameras.jpg`
 
 ```
-Studio product photo: Trail cameras. Motion-activated cameras for wildlife and property. Show design details that suggest: 4k video, no-glow ir, pir trigger. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Trail cameras. Motion-activated cameras for wildlife and property. Show design details that suggest: 4k video, no-glow ir, pir trigger. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0189 · Instant cameras
 - [ ] File: `instant-cameras.jpg`
 
 ```
-Studio product photo: Instant cameras. Cameras that print photos instantly. Show design details that suggest: instant film / zink, selfie mirror, auto exposure. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Instant cameras. Cameras that print photos instantly. Show design details that suggest: instant film / zink, selfie mirror, auto exposure. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0190 · Portable photo printers
@@ -769,7 +769,7 @@ Studio product photo: Portable photo printers. Show design details that suggest:
 - [ ] File: `electronic-camera-stabilizers.jpg`
 
 ```
-Studio product photo: Electronic camera stabilizers. 3-axis gimbals for mirrorless and cinema cameras. Show design details that suggest: 3-axis, 3–4.5kg payload, follow modes. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Electronic camera stabilizers. 3-axis gimbals for mirrorless and cinema cameras. Show design details that suggest: 3-axis, 3–4.5kg payload, follow modes. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0192 · Wireless video transmitters
@@ -783,7 +783,7 @@ Studio product photo: Wireless video transmitters. Send live camera video wirele
 - [ ] File: `external-camera-monitors.jpg`
 
 ```
-Studio product photo: External camera monitors. On-camera monitors and recorders with pro tools. Show design details that suggest: 5–7" 1000+ nits, prores raw recording, luts. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: External camera monitors. On-camera monitors and recorders with pro tools. Show design details that suggest: 5–7" 1000+ nits, prores raw recording, luts. No brand name or text on the body, top plate or lens ring. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0194 · Wireless follow-focus systems
@@ -811,14 +811,14 @@ Studio product photo: Portable studio flash systems. Battery-powered strobes for
 - [ ] File: `camera-sliders.jpg`
 
 ```
-Studio product photo: Camera sliders. Linear sliders for smooth cinematic camera moves. Show design details that suggest: carbon / aluminium, motorised options, time-lapse. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Camera sliders. Linear sliders for smooth cinematic camera moves. Show design details that suggest: carbon / aluminium, motorised options, time-lapse. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0198 · Motorized camera dollies
 - [ ] File: `motorized-camera-dollies.jpg`
 
 ```
-Studio product photo: Motorized camera dollies. Motorised dollies and robotic arms for repeatable shots. Show design details that suggest: programmable moves, payload rated, time-lapse. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Motorized camera dollies. Motorised dollies and robotic arms for repeatable shots. Show design details that suggest: programmable moves, payload rated, time-lapse. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0199 · 3D scanners
@@ -1246,7 +1246,7 @@ Studio product photo: Portable gaming SSDs. Fast portable SSDs for console and P
 - [ ] File: `gaming-routers.jpg`
 
 ```
-Studio product photo: Gaming routers. Routers that prioritise gaming traffic for lower ping. Show design details that suggest: wi-fi 7, game qos, 2.5–10g ports. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Gaming routers. Routers that prioritise gaming traffic for lower ping. Show design details that suggest: game qos, 2.5–10g ports, gaming vpn. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0266 · Gaming chairs
@@ -1271,14 +1271,14 @@ Studio product photo: Motion simulator platforms. Motion rigs that move with rac
 - [ ] File: `smart-home-hubs.jpg`
 
 ```
-Studio product photo: Smart home hubs. Central hubs that connect and automate all your smart devices. Show design details that suggest: matter / thread / zigbee, local automation. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart home hubs. Central hubs that connect and automate all your smart devices. Show design details that suggest: local automation. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0269 · Matter-compatible controllers
 - [ ] File: `matter-compatible-controllers.jpg`
 
 ```
-Studio product photo: Matter-compatible controllers. Controllers that bring Matter devices from any brand together. Show design details that suggest: matter controller, thread border router, multi-admin. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Matter-compatible controllers. Controllers that bring Matter devices from any brand together. Show design details that suggest: thread border router, multi-admin, wi-fi / ethernet. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0270 · Smart lighting
@@ -1306,14 +1306,14 @@ Studio product photo: Addressable lighting systems. Pixel-addressable lights for
 - [ ] File: `smart-switches.jpg`
 
 ```
-Studio product photo: Smart switches. Wall switches that add app and voice control to lights. Show design details that suggest: neutral / no-neutral, matter, scenes. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart switches. Wall switches that add app and voice control to lights. Show design details that suggest: neutral / no-neutral, scenes, energy monitoring. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0274 · Smart plugs
 - [ ] File: `smart-plugs.jpg`
 
 ```
-Studio product photo: Smart plugs. Plugs that make any appliance smart. Show design details that suggest: wi-fi / matter, energy monitoring, schedules. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart plugs. Plugs that make any appliance smart. Show design details that suggest: energy monitoring, schedules, compact. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0275 · Smart dimmers
@@ -1341,7 +1341,7 @@ Studio product photo: Smart air-quality sensors. Monitors for PM2.5, CO2, VOC, t
 - [ ] File: `smart-locks.jpg`
 
 ```
-Studio product photo: Smart locks. Keyless locks with app, code and auto-unlock. Show design details that suggest: auto-lock, guest access, matter options. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart locks. Keyless locks with app, code and auto-unlock. Show design details that suggest: auto-lock, guest access. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0279 · Fingerprint door locks
@@ -1369,21 +1369,21 @@ Studio product photo: Video intercoms. Video intercom systems for homes and apar
 - [ ] File: `smart-security-cameras.jpg`
 
 ```
-Studio product photo: Smart security cameras. Indoor and outdoor Wi-Fi cameras with app alerts. Show design details that suggest: 2k/4k, night vision, two-way audio. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart security cameras. Indoor and outdoor Wi-Fi cameras with app alerts. Show design details that suggest: 2k/4k, night vision, two-way audio. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0283 · AI surveillance cameras
 - [ ] File: `ai-surveillance-cameras.jpg`
 
 ```
-Studio product photo: AI surveillance cameras. Cameras with AI analytics for people, vehicles and faces. Show design details that suggest: anpr options, nvr support, poe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI surveillance cameras. Cameras with AI analytics for people, vehicles and faces. Show design details that suggest: anpr options, nvr support, poe. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0284 · Pan-tilt-zoom cameras
 - [ ] File: `pan-tilt-zoom-cameras.jpg`
 
 ```
-Studio product photo: Pan-tilt-zoom cameras. PTZ cameras that rotate and zoom to cover large areas. Show design details that suggest: 355° pan, optical zoom, auto tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Pan-tilt-zoom cameras. PTZ cameras that rotate and zoom to cover large areas. Show design details that suggest: 355° pan, optical zoom, auto tracking. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0285 · Smart alarm systems
@@ -1513,7 +1513,7 @@ Studio product photo: AI-enabled refrigerators. Refrigerators with AI food recog
 - [ ] File: `smart-refrigerators-with-internal-cameras.jpg`
 
 ```
-Studio product photo: Smart refrigerators with internal cameras. Show design details that suggest: interior cameras, wi-fi, energy efficient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart refrigerators with internal cameras. Show design details that suggest: interior cameras, wi-fi, energy efficient. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0303 · Smart freezers
@@ -1597,7 +1597,7 @@ Studio product photo: Smart blenders. Blenders with programs and app recipes. Sh
 - [ ] File: `high-speed-vacuum-blenders.jpg`
 
 ```
-Studio product photo: High-speed vacuum blenders. Blenders that remove air for fresher smoothies. Show design details that suggest: vacuum blending, 1500w+, programs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: High-speed vacuum blenders. Blenders that remove air for fresher smoothies. Show design details that suggest: 1500w+, programs, noise cover. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0315 · Smart kitchen scales
@@ -1741,7 +1741,7 @@ Studio product photo: Wireless charging pads. Show design details that suggest: 
 - [ ] File: `qi2-compatible-chargers.jpg`
 
 ```
-Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, aligned wireless charging. Show design details that suggest: qi2 15–25w, magnetic alignment, certified. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, aligned wireless charging. Show design details that suggest: magnetic alignment, certified, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0335 · Magnetic wireless chargers
@@ -1906,7 +1906,7 @@ Studio product photo: Portable emergency power systems. Emergency power kits for
 - [ ] File: `wi-fi-7-routers.jpg`
 
 ```
-Studio product photo: Wi-Fi 7 routers. Next-generation routers with multi-gigabit speeds and low latency. Show design details that suggest: wi-fi 7 tri-band, 10g port, mlo. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Wi-Fi 7 routers. Next-generation routers with multi-gigabit speeds and low latency. Show design details that suggest: 10g port, mlo, wpa3. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0359 · Mesh Wi-Fi systems
@@ -2039,7 +2039,7 @@ Studio product photo: Bluetooth trackers. Small tags to find keys, bags and wall
 - [ ] File: `uwb-tracking-devices.jpg`
 
 ```
-Studio product photo: UWB tracking devices. Ultra-wideband trackers for precise item finding. Show design details that suggest: uwb precision, directional finding, bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: UWB tracking devices. Ultra-wideband trackers for precise item finding. Show design details that suggest: uwb precision, bluetooth, water resistant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0378 · GPS tracking devices
@@ -2113,7 +2113,7 @@ Studio product photo: Portable SSDs. Pocket-size SSDs for fast file transfer and
 - [ ] File: `high-speed-external-ssds.jpg`
 
 ```
-Studio product photo: High-speed external SSDs. Thunderbolt and USB4 SSDs for pro workflows. Show design details that suggest: 2800–3800 mb/s, thunderbolt / usb4, aluminium. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: High-speed external SSDs. Thunderbolt and USB4 SSDs for pro workflows. Show design details that suggest: 2800–3800 mb/s, aluminium, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0388 · Internal NVMe SSDs
@@ -2176,7 +2176,7 @@ Studio product photo: CFexpress cards. Pro memory cards for 8K and high-speed ph
 - [ ] File: `professional-card-readers.jpg`
 
 ```
-Studio product photo: Professional card readers. Fast readers for SD, CFexpress and microSD. Show design details that suggest: usb 3.2 / thunderbolt, multi-slot, aluminium. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Professional card readers. Fast readers for SD, CFexpress and microSD. Show design details that suggest: multi-slot, aluminium, stackable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0397 · NAS storage systems
@@ -2190,21 +2190,21 @@ Studio product photo: NAS storage systems. Network storage for teams and creator
 - [ ] File: `das-storage-systems.jpg`
 
 ```
-Studio product photo: DAS storage systems. Direct-attached multi-drive storage. Show design details that suggest: thunderbolt / usb-c, raid, 2–8 bays. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: DAS storage systems. Direct-attached multi-drive storage. Show design details that suggest: raid, 2–8 bays, fast. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0399 · RAID enclosures
 - [ ] File: `raid-enclosures.jpg`
 
 ```
-Studio product photo: RAID enclosures. Enclosures for building RAID arrays. Show design details that suggest: raid 0/1/5/10, hot-swap, usb-c / thunderbolt. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: RAID enclosures. Enclosures for building RAID arrays. Show design details that suggest: raid 0/1/5/10, hot-swap, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0400 · Home media servers
 - [ ] File: `home-media-servers.jpg`
 
 ```
-Studio product photo: Home media servers. Servers for streaming your movies and music at home. Show design details that suggest: plex / jellyfin, 4k transcoding, multi-drive. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Home media servers. Servers for streaming your movies and music at home. Show design details that suggest: 4k transcoding, multi-drive, remote streaming. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0401 · Backup appliances
@@ -2225,7 +2225,7 @@ Studio product photo: Portable backup drives. Portable HDDs for affordable backu
 - [ ] File: `thunderbolt-docks.jpg`
 
 ```
-Studio product photo: Thunderbolt docks. Docks that connect displays, storage and power through one cable. Show design details that suggest: thunderbolt 4 / 5, dual 4k / 8k, 96w+ charging. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Thunderbolt docks. Docks that connect displays, storage and power through one cable. Show design details that suggest: dual 4k / 8k, 96w+ charging, 2.5gbe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0404 · USB4 docks
@@ -2292,7 +2292,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 - [ ] File: `oled-televisions.jpg`
 
 ```
-Studio product photo: OLED televisions. OLED TVs with perfect blacks and cinematic colour. Show design details that suggest: 55–97" 4k oled, 120–144hz, dolby vision. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: OLED televisions. OLED TVs with perfect blacks and cinematic colour. Show design details that suggest: 55–97" 4k oled, 120–144hz, hdmi 2.1. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0413 · QD-OLED televisions
@@ -2383,7 +2383,7 @@ Studio product photo: Tri-fold portable projectors. Novel folding projectors for
 - [ ] File: `smart-portable-projectors.jpg`
 
 ```
-Studio product photo: Smart portable projectors. Compact smart projectors with streaming apps. Show design details that suggest: 1080p / 4k, android tv, auto focus. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Smart portable projectors. Compact smart projectors with streaming apps. Show design details that suggest: 1080p / 4k, auto focus, speaker. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0427 · Outdoor projectors
@@ -2453,14 +2453,14 @@ Studio product photo: Wireless HDMI systems. Send HDMI video wirelessly from sou
 - [ ] File: `streaming-media-players.jpg`
 
 ```
-Studio product photo: Streaming media players. Streaming boxes and sticks for 4K apps. Show design details that suggest: 4k hdr, dolby vision / atmos, wi-fi 6. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Streaming media players. Streaming boxes and sticks for 4K apps. Show design details that suggest: 4k hdr, wi-fi 6. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0437 · Home theater receivers
 - [ ] File: `home-theater-receivers.jpg`
 
 ```
-Studio product photo: Home theater receivers. AV receivers powering surround-sound systems. Show design details that suggest: 7.2–11.2 ch, dolby atmos, 8k hdmi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Home theater receivers. AV receivers powering surround-sound systems. Show design details that suggest: 7.2–11.2 ch, 8k hdmi, room correction. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0438 · AV processors
@@ -2548,7 +2548,7 @@ Studio product photo: Multi-channel dashcams. Front, rear and cabin dashcams for
 - [ ] File: `ai-driver-monitoring-cameras.jpg`
 
 ```
-Studio product photo: AI driver-monitoring cameras. Cameras that detect fatigue and distraction. Show design details that suggest: alerts, fleet reporting, ir. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI driver-monitoring cameras. Cameras that detect fatigue and distraction. Show design details that suggest: alerts, fleet reporting, ir. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0450 · Tire-pressure monitoring systems
@@ -2639,14 +2639,14 @@ Studio product photo: Aftermarket parking sensors. Parking sensors with distance
 - [ ] File: `in-car-ai-assistants.jpg`
 
 ```
-Studio product photo: In-car AI assistants. Voice assistants and CarPlay screens that bring AI to any car. Show design details that suggest: carplay / android auto, navigation, dash mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: In-car AI assistants. Voice assistants and CarPlay screens that bring AI to any car. Show design details that suggest: navigation, dash mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0463 · Automotive thermal cameras
 - [ ] File: `automotive-thermal-cameras.jpg`
 
 ```
-Studio product photo: Automotive thermal cameras. Night-driving thermal cameras that see pedestrians and animals. Show design details that suggest: thermal sensor, night detection, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Automotive thermal cameras. Night-driving thermal cameras that see pedestrians and animals. Show design details that suggest: thermal sensor, night detection, display. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0464 · Electric skateboard systems
@@ -3334,7 +3334,7 @@ Studio product photo: Privacy webcam shutters. Slide covers that block webcams w
 - [ ] File: `physical-microphone-mute-switches.jpg`
 
 ```
-Studio product photo: Physical microphone mute switches. Hardware switches that physically cut microphones. Show design details that suggest: physical cut-off, usb, led indicator. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Physical microphone mute switches. Hardware switches that physically cut microphones. Show design details that suggest: physical cut-off, usb, plug & play. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0560 · Secure network appliances
@@ -3362,7 +3362,7 @@ Studio product photo: Biometric access readers. Fingerprint and face readers for
 - [ ] File: `ai-perimeter-cameras.jpg`
 
 ```
-Studio product photo: AI perimeter cameras. Cameras with AI line-crossing and intrusion detection. Show design details that suggest: siren & strobe, night colour, poe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI perimeter cameras. Cameras with AI line-crossing and intrusion detection. Show design details that suggest: siren & strobe, night colour, poe. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0564 · Portable security alarms
@@ -3397,7 +3397,7 @@ Studio product photo: Hardware password managers. Offline devices that store and
 - [ ] File: `secure-document-scanners.jpg`
 
 ```
-Studio product photo: Secure document scanners. Scanners with secure scanning and encrypted storage. Show design details that suggest: encrypted output, duplex, ocr. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Secure document scanners. Scanners with secure scanning and encrypted storage. Show design details that suggest: encrypted output, ocr, audit logs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0569 · Enterprise device management hardware
@@ -3499,7 +3499,7 @@ Studio product photo: Smart bike lights. Bike lights that adapt to speed and amb
 - [ ] File: `waterproof-camera-housings.jpg`
 
 ```
-Studio product photo: Waterproof camera housings. Show design details that suggest: 40–60m depth, button access, clear optics. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Waterproof camera housings. Show design details that suggest: 40–60m depth, button access, clear optics. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0583 · Portable water-quality meters
@@ -3552,7 +3552,7 @@ Studio product photo: 4K webcams. Ultra-sharp webcams for streaming and meetings
 - [ ] File: `ai-auto-framing-cameras.jpg`
 
 ```
-Studio product photo: AI auto-framing cameras. Conference cameras that frame speakers automatically. Show design details that suggest: speaker tracking, 4k, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: AI auto-framing cameras. Conference cameras that frame speakers automatically. Show design details that suggest: speaker tracking, 4k, usb. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0590 · Video conferencing bars
@@ -3875,7 +3875,7 @@ Studio product photo: Smart luggage accessories. Tags, scales, locks and tracker
 - [ ] File: `camera-backpacks.jpg`
 
 ```
-Studio product photo: Camera backpacks. Protective backpacks for cameras and drones. Show design details that suggest: padded dividers, side access, tripod holder. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
+Studio product photo: Camera backpacks. Protective backpacks for cameras and drones. Show design details that suggest: padded dividers, side access, tripod holder. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0636 · Modular desk accessories

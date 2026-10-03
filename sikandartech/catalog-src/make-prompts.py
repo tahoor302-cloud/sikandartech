@@ -43,10 +43,22 @@ SCENES = [
     (r"television|tv\b|display(?! glasses)|(?<!posture )(?<!quality )monitors?\b|projector|signage|whiteboard", "screen showing a soft abstract colour gradient"),
 ]
 
+# Used when the catalogue description only talks about phones (that sentence is dropped).
+FALLBACK_DESC = {
+    "lte-smartwatches": "Smartwatches with built-in LTE for calls, messages and GPS without another device.",
+    "portable-dacs": "Pocket-size DAC and headphone amplifier dongle that improves wired headphone sound.",
+    "wireless-microphones": "Tiny clip-on wireless microphones with a charging case receiver for creators and interviews.",
+}
+
+# Trademarked feature names: generators tend to print them as logos.
+BRANDED = r"dolby|atmos|airplay|chromecast|roon|flowstate|ldac|aptx|\bess\b|akm|mqa|g-sync|freesync|matter|ndi|plex|jellyfin|thunderbolt|qi2|wi-fi 7|android"
+
 # Extra direction for products that generators often get wrong (fake text, look-alike brands).
 EXTRAS = [
     (r"watch", "The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers."),
     (r"earbud|hearing aid", "Original generic design that does not resemble any famous brand's product."),
+    (r"camera(?!.*drone)", "No brand name or text on the body, top plate or lens ring."),
+    (r"digital audio player", "A compact dedicated music player with a small screen and a large volume knob, clearly not a phone."),
     (r"glove", "Displayed on a plain grey hand-shaped mannequin form, not a real hand."),
     (r"motion controllers", "A matching left and right pair."),
     (r"pet tracker", "Attached to a small plain pet collar."),
@@ -76,8 +88,8 @@ for i, p in enumerate(prods):
     if p["id"] in have:
         continue
     name = p["name"]
-    desc = clean(p["desc"]) or {"lte-smartwatches": "Smartwatches with built-in LTE for calls, messages and GPS without another device."}.get(p["id"], "")
-    visible = [s for s in p["specs"] if not re.search(r"app|voice|ai\b|software|sdk|cloud|warranty|phone", s, re.I)]
+    desc = clean(p["desc"]) or FALLBACK_DESC.get(p["id"], "")
+    visible = [s for s in p["specs"] if not re.search(r"app|voice|ai\b|software|sdk|cloud|warranty|phone|" + BRANDED, s, re.I)]
     parts = [f"Studio product photo: {name}."]
     if desc:
         parts.append(desc)
