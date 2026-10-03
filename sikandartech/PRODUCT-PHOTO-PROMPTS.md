@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**398 products still need a photo** (249 done). One prompt per product, ready to copy.
+**393 products still need a photo** (254 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -2261,42 +2261,7 @@ Studio product photo: Advanced machine-vision systems. AI vision systems for ins
 
 ---
 
-## Security, Privacy & Digital Protection (8)
-
-### ST-0563 · AI perimeter cameras
-- [ ] File: `ai-perimeter-cameras.jpg`
-
-```
-Studio product photo: AI perimeter cameras. Cameras with AI line-crossing and intrusion detection. Show design details that suggest: siren & strobe, night colour, poe. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0564 · Portable security alarms
-- [ ] File: `portable-security-alarms.jpg`
-
-```
-Studio product photo: Portable security alarms. Door and travel alarms for hotels and homes. Show design details that suggest: loud siren, portable, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0566 · Privacy-screen filters
-- [ ] File: `privacy-screen-filters.jpg`
-
-```
-Studio product photo: Privacy-screen filters. Filters that block side viewing of screens. Show design details that suggest: anti-peek, anti-glare, magnetic / adhesive. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0567 · Hardware password managers
-- [ ] File: `hardware-password-managers.jpg`
-
-```
-Studio product photo: Hardware password managers. Offline devices that store and type your passwords. Show design details that suggest: offline vault, encrypted, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0568 · Secure document scanners
-- [ ] File: `secure-document-scanners.jpg`
-
-```
-Studio product photo: Secure document scanners. Scanners with secure scanning and encrypted storage. Show design details that suggest: encrypted output, ocr, audit logs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Security, Privacy & Digital Protection (3)
 
 ### ST-0569 · Enterprise device management hardware
 - [ ] File: `enterprise-device-management-hardware.jpg`
