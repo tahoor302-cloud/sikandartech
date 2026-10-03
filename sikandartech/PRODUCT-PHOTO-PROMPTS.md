@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**542 products still need a photo** (105 done). One prompt per product, ready to copy.
+**537 products still need a photo** (110 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -107,14 +107,7 @@ Studio product photo: Holographic display prototypes. Experimental holographic d
 
 ---
 
-## Smartwatches, Rings & Wearable Tech (26)
-
-### ST-0106 · Rugged smartwatches
-- [ ] File: `rugged-smartwatches.jpg`
-
-```
-Studio product photo: Rugged smartwatches. Tough smartwatches built for outdoor, military and adventure use. Show design details that suggest: mil-std-810, dual-band gps, 20+ day battery. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smartwatches, Rings & Wearable Tech (21)
 
 ### ST-0107 · Outdoor GPS watches
 - [ ] File: `outdoor-gps-watches.jpg`
@@ -123,39 +116,11 @@ Studio product photo: Rugged smartwatches. Tough smartwatches built for outdoor,
 Studio product photo: Outdoor GPS watches. Adventure watches with maps, navigation and altimeter. Show design details that suggest: topo maps, barometric altimeter, compass. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0108 · Multisport watches
-- [ ] File: `multisport-watches.jpg`
-
-```
-Studio product photo: Multisport watches. Training watches for running, cycling, swimming and triathlon. Show design details that suggest: 100+ sport modes, training load, dual-band gps. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0109 · Diving smartwatches
-- [ ] File: `diving-smartwatches.jpg`
-
-```
-Studio product photo: Diving smartwatches. Dive computers with smartwatch features. Show design details that suggest: 100m+ dive rating, dive log, decompression data. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0110 · LTE smartwatches
 - [ ] File: `lte-smartwatches.jpg`
 
 ```
 Studio product photo: LTE smartwatches. Smartwatches with built-in LTE for calls, messages and GPS without another device. Show design details that suggest: esim lte, calls & messages, gps. The watch face shows a simple glowing abstract ring graphic, no digits and no clock numbers. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0112 · Sleep-tracking rings
-- [ ] File: `sleep-tracking-rings.jpg`
-
-```
-Studio product photo: Sleep-tracking rings. Rings focused on detailed sleep and recovery insights. Show design details that suggest: sleep stages, skin temperature, hrv. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0113 · Fitness bands
-- [ ] File: `fitness-bands.jpg`
-
-```
-Studio product photo: Fitness bands. Lightweight bands tracking steps, heart rate and sleep. Show design details that suggest: amoled display, 100+ sports, spo2. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0114 · Screenless health trackers
