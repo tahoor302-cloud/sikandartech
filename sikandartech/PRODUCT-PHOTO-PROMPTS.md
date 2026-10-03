@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**479 products still need a photo** (168 done). One prompt per product, ready to copy.
+**475 products still need a photo** (172 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Glasses, AR, VR & Spatial Computing (11)
+## Smart Glasses, AR, VR & Spatial Computing (7)
 
 ### ST-0087 · Virtual-reality headsets
 - [ ] File: `virtual-reality-headsets.jpg`
@@ -61,34 +61,6 @@ Studio product photo: Hand-tracking systems. Sensors that track hands and finger
 
 ```
 Studio product photo: Eye-tracking accessories. Eye trackers for VR headsets, research and accessibility. Show design details that suggest: 120–250hz tracking, foveated rendering. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0101 · Spatial-computing accessories
-- [ ] File: `spatial-computing-accessories.jpg`
-
-```
-Studio product photo: Spatial-computing accessories. Head straps, battery packs, lens inserts and cases for XR headsets. Show design details that suggest: comfort straps, extra batteries, prescription inserts. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0102 · 3D capture systems
-- [ ] File: `3d-capture-systems.jpg`
-
-```
-Studio product photo: 3D capture systems. Systems that scan people and objects into 3D models for XR. Show design details that suggest: multi-camera rig, photogrammetry, texture capture. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0103 · Volumetric display systems
-- [ ] File: `volumetric-display-systems.jpg`
-
-```
-Studio product photo: Volumetric display systems. Displays that show true 3D images viewable from multiple angles. Show design details that suggest: light-field / volumetric, glasses-free 3d, multi-viewer. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0104 · Holographic display prototypes
-- [ ] File: `holographic-display-prototypes.jpg`
-
-```
-Studio product photo: Holographic display prototypes. Experimental holographic displays for research and showcases. Show design details that suggest: holographic optics, real-time content, research hardware. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
