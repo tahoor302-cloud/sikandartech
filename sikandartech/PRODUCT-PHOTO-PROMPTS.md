@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**475 products still need a photo** (172 done). One prompt per product, ready to copy.
+**474 products still need a photo** (173 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Glasses, AR, VR & Spatial Computing (7)
+## Smart Glasses, AR, VR & Spatial Computing (6)
 
 ### ST-0087 · Virtual-reality headsets
 - [ ] File: `virtual-reality-headsets.jpg`
@@ -47,13 +47,6 @@ Studio product photo: Medical AR devices. AR systems for surgical planning, trai
 
 ```
 Studio product photo: VR motion controllers. Tracked controllers for precise interaction in virtual reality. Show design details that suggest: 6dof tracking, haptic feedback, finger tracking. A matching left and right pair. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0095 · Hand-tracking systems
-- [ ] File: `hand-tracking-systems.jpg`
-
-```
-Studio product photo: Hand-tracking systems. Sensors that track hands and fingers for controller-free XR interaction. Show design details that suggest: infrared sensors, low latency, usb connection. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0096 · Eye-tracking accessories
