@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**259 products still need a photo** (388 done). One prompt per product, ready to copy.
+**254 products still need a photo** (393 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -423,48 +423,13 @@ Studio product photo: Portable emergency power systems. Emergency power kits for
 
 ---
 
-## Networking, Connectivity & Communications (28)
-
-### ST-0358 · Wi-Fi 7 routers
-- [ ] File: `wi-fi-7-routers.jpg`
-
-```
-Studio product photo: Wi-Fi 7 routers. Next-generation routers with multi-gigabit speeds and low latency. Show design details that suggest: 10g port, mlo, wpa3. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0359 · Mesh Wi-Fi systems
-- [ ] File: `mesh-wi-fi-systems.jpg`
-
-```
-Studio product photo: Mesh Wi-Fi systems. Whole-home Wi-Fi with seamless roaming. Show design details that suggest: 2–3 nodes, wi-fi 6e / 7, wired backhaul. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0360 · Multi-gigabit routers
-- [ ] File: `multi-gigabit-routers.jpg`
-
-```
-Studio product photo: Multi-gigabit routers. Routers with 2.5G and 10G ports for fibre connections. Show design details that suggest: 2.5g / 10g wan, link aggregation, vpn. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0361 · 5G home routers
-- [ ] File: `5g-home-routers.jpg`
-
-```
-Studio product photo: 5G home routers. Home internet over 5G with Wi-Fi 6. Show design details that suggest: 5g sa/nsa, wi-fi 6, ethernet ports. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Networking, Connectivity & Communications (23)
 
 ### ST-0362 · Portable 5G hotspots
 - [ ] File: `portable-5g-hotspots.jpg`
 
 ```
 Studio product photo: Portable 5G hotspots. Pocket 5G hotspots for travel and remote work. Show design details that suggest: 5g, wi-fi 6, 10+ h battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0363 · Travel routers
-- [ ] File: `travel-routers.jpg`
-
-```
-Studio product photo: Travel routers. Pocket routers that secure hotel and public Wi-Fi. Show design details that suggest: vpn, repeater mode, usb-c power. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0364 · Enterprise Wi-Fi access points
