@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**293 products still need a photo** (354 done). One prompt per product, ready to copy.
+**292 products still need a photo** (355 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (4)
+## Drones, Robotics & Autonomous Machines (3)
 
 ### ST-0221 · Autonomous delivery robots
 - [ ] File: `autonomous-delivery-robots.jpg`
@@ -26,13 +26,6 @@ Studio product photo: Autonomous delivery robots. Self-driving robots that deliv
 
 ```
 Studio product photo: Warehouse robots. AMRs that move goods and shelves in warehouses. Show design details that suggest: autonomous mobile, 300kg+ payload, fleet management. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0226 · Social robots
-- [ ] File: `social-robots.jpg`
-
-```
-Studio product photo: Social robots. Interactive robots for reception, retail and education. Show design details that suggest: touchscreen, speech, face recognition. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0228 · Window-cleaning robots
