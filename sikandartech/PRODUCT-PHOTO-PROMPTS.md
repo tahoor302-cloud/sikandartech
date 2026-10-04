@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**226 products still need a photo** (421 done). One prompt per product, ready to copy.
+**222 products still need a photo** (425 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: UV-cleaning home devices. Show design details that suggest
 
 ---
 
-## Charging, Batteries & Portable Power (22)
+## Charging, Batteries & Portable Power (18)
 
 ### ST-0334 · Qi2-compatible chargers
 - [ ] File: `qi2-compatible-chargers.jpg`
@@ -244,34 +244,6 @@ Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, 
 
 ```
 Studio product photo: Multi-device charging stations. Show design details that suggest: 3-in-1, foldable, 15w. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0337 · Foldable travel chargers
-- [ ] File: `foldable-travel-chargers.jpg`
-
-```
-Studio product photo: Foldable travel chargers. Pocket chargers with folding plugs for travel. Show design details that suggest: folding prongs, gan, 2–3 ports. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0338 · Universal travel adapters
-- [ ] File: `universal-travel-adapters.jpg`
-
-```
-Studio product photo: Universal travel adapters. One adapter for 150+ countries with USB charging. Show design details that suggest: us / uk / eu / au, usb-c pd, fuse protection. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0339 · High-capacity power banks
-- [ ] File: `high-capacity-power-banks.jpg`
-
-```
-Studio product photo: High-capacity power banks. Large power banks for multiple full charges. Show design details that suggest: 20,000–30,000mah, 65–140w, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0340 · Magnetic power banks
-- [ ] File: `magnetic-power-banks.jpg`
-
-```
-Studio product photo: Magnetic power banks. Show design details that suggest: 5,000–10,000mah, magnetic, kickstand. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0341 · Laptop power banks
