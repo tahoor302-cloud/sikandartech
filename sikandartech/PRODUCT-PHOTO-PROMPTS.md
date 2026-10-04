@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**279 products still need a photo** (368 done). One prompt per product, ready to copy.
+**274 products still need a photo** (373 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -995,42 +995,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Automotive, Mobility & Transport Tech (20)
-
-### ST-0449 · AI driver-monitoring cameras
-- [ ] File: `ai-driver-monitoring-cameras.jpg`
-
-```
-Studio product photo: AI driver-monitoring cameras. Cameras that detect fatigue and distraction. Show design details that suggest: alerts, fleet reporting, ir. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0450 · Tire-pressure monitoring systems
-- [ ] File: `tire-pressure-monitoring-systems.jpg`
-
-```
-Studio product photo: Tire-pressure monitoring systems. Sensors that alert you to low tyre pressure. Show design details that suggest: 4 sensors, solar display, real-time pressure. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0451 · OBD-II diagnostic scanners
-- [ ] File: `obd-ii-diagnostic-scanners.jpg`
-
-```
-Studio product photo: OBD-II diagnostic scanners. Read and clear fault codes and live engine data. Show design details that suggest: obd-ii, bluetooth / display, live data. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0452 · Vehicle GPS trackers
-- [ ] File: `vehicle-gps-trackers.jpg`
-
-```
-Studio product photo: Vehicle GPS trackers. Track vehicles in real time with alerts. Show design details that suggest: gps + lte, geofence, ignition alerts. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0453 · Portable EV chargers
-- [ ] File: `portable-ev-chargers.jpg`
-
-```
-Studio product photo: Portable EV chargers. Portable chargers for electric vehicles. Show design details that suggest: type 1 / 2, 3.5–11kw, adjustable current. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Automotive, Mobility & Transport Tech (15)
 
 ### ST-0454 · Home EV charging stations
 - [ ] File: `home-ev-charging-stations.jpg`
