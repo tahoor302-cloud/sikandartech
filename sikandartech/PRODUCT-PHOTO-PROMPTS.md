@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**205 products still need a photo** (442 done). One prompt per product, ready to copy.
+**200 products still need a photo** (447 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -613,42 +613,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Health, Fitness & Wellness Tech (27)
-
-### ST-0469 · Smart scales
-- [ ] File: `smart-scales.jpg`
-
-```
-Studio product photo: Smart scales. Scales that track weight trends in your app. Show design details that suggest: multi-user, wi-fi / bluetooth, trend charts. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0470 · Body-composition analyzers
-- [ ] File: `body-composition-analyzers.jpg`
-
-```
-Studio product photo: Body-composition analyzers. Scales and analysers measuring fat, muscle and water. Show design details that suggest: bioimpedance, segmental analysis, multi-user. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0471 · Sleep trackers
-- [ ] File: `sleep-trackers.jpg`
-
-```
-Studio product photo: Sleep trackers. Under-mattress and bedside sleep trackers. Show design details that suggest: sleep stages, snoring detection, non-wearable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0472 · Smart sleep masks
-- [ ] File: `smart-sleep-masks.jpg`
-
-```
-Studio product photo: Smart sleep masks. Masks with audio, light therapy or sleep tracking. Show design details that suggest: bluetooth audio, blackout, sleep tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0473 · Smart mattresses
-- [ ] File: `smart-mattresses.jpg`
-
-```
-Studio product photo: Smart mattresses. Mattresses with temperature control and sleep tracking. Show design details that suggest: climate control, sleep tracking, adjustable firmness. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Health, Fitness & Wellness Tech (22)
 
 ### ST-0474 · Connected sleep pads
 - [ ] File: `connected-sleep-pads.jpg`
