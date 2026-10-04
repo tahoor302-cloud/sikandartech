@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**191 products still need a photo** (456 done). One prompt per product, ready to copy.
+**186 products still need a photo** (461 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -613,48 +613,13 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Health, Fitness & Wellness Tech (13)
+## Health, Fitness & Wellness Tech (8)
 
 ### ST-0481 · Smart strength-training systems
 - [ ] File: `smart-strength-training-systems.jpg`
 
 ```
 Studio product photo: Smart strength-training systems. Digital weights and home gyms with AI coaching. Show design details that suggest: digital resistance, form feedback, programs. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0484 · Smart water bottles
-- [ ] File: `smart-water-bottles.jpg`
-
-```
-Studio product photo: Smart water bottles. Bottles that track hydration and remind you to drink. Show design details that suggest: hydration tracking, glow reminders, bpa-free. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0485 · Personal air-quality monitors
-- [ ] File: `personal-air-quality-monitors.jpg`
-
-```
-Studio product photo: Personal air-quality monitors. Portable monitors for PM2.5 and CO2 on the go. Show design details that suggest: portable, pm2.5 / co2, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0486 · Connected thermometers
-- [ ] File: `connected-thermometers.jpg`
-
-```
-Studio product photo: Connected thermometers. Infrared and smart thermometers that log readings. Show design details that suggest: infrared / contact, fever alert, fast read. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0487 · Consumer pulse oximeters
-- [ ] File: `consumer-pulse-oximeters.jpg`
-
-```
-Studio product photo: Consumer pulse oximeters. Fingertip oximeters for SpO2 and pulse (wellness use). Show design details that suggest: spo2 & pulse, oled display, bluetooth options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0488 · Electronic blood-pressure monitors
-- [ ] File: `electronic-blood-pressure-monitors.jpg`
-
-```
-Studio product photo: Electronic blood-pressure monitors. Automatic blood-pressure monitors (certified models available). Show design details that suggest: upper-arm cuff, memory, bluetooth. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0489 · Home ECG devices
