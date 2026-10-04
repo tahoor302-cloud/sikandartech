@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**261 products still need a photo** (386 done). One prompt per product, ready to copy.
+**260 products still need a photo** (387 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -995,14 +995,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Automotive, Mobility & Transport Tech (2)
-
-### ST-0463 · Automotive thermal cameras
-- [ ] File: `automotive-thermal-cameras.jpg`
-
-```
-Studio product photo: Automotive thermal cameras. Night-driving thermal cameras that see pedestrians and animals. Show design details that suggest: thermal sensor, night detection, display. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Automotive, Mobility & Transport Tech (1)
 
 ### ST-0468 · Advanced driver-assistance development hardware
 - [ ] File: `advanced-driver-assistance-development-hardware.jpg`
