@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**302 products still need a photo** (345 done). One prompt per product, ready to copy.
+**298 products still need a photo** (349 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,14 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (13)
-
-### ST-0220 · Desktop robotic arms
-- [ ] File: `desktop-robotic-arms.jpg`
-
-```
-Studio product photo: Desktop robotic arms. Small robot arms for education, laser engraving and prototyping. Show design details that suggest: 4–6 axis, interchangeable tools, python / blockly. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Drones, Robotics & Autonomous Machines (9)
 
 ### ST-0221 · Autonomous delivery robots
 - [ ] File: `autonomous-delivery-robots.jpg`
@@ -33,27 +26,6 @@ Studio product photo: Autonomous delivery robots. Self-driving robots that deliv
 
 ```
 Studio product photo: Warehouse robots. AMRs that move goods and shelves in warehouses. Show design details that suggest: autonomous mobile, 300kg+ payload, fleet management. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0223 · Telepresence robots
-- [ ] File: `telepresence-robots.jpg`
-
-```
-Studio product photo: Telepresence robots. Robots with screens that let you be present remotely. Show design details that suggest: video calling, remote driving, auto docking. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0224 · Security patrol robots
-- [ ] File: `security-patrol-robots.jpg`
-
-```
-Studio product photo: Security patrol robots. Robots that patrol premises with cameras and alerts. Show design details that suggest: 360° cameras, thermal, patrol routes. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0225 · Companion robots
-- [ ] File: `companion-robots.jpg`
-
-```
-Studio product photo: Companion robots. Emotional companion robots for families and elderly users. Show design details that suggest: expressive face, reminders, video calls. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0226 · Social robots
