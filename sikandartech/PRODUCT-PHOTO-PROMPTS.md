@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**181 products still need a photo** (466 done). One prompt per product, ready to copy.
+**178 products still need a photo** (469 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -609,31 +609,6 @@ Studio product photo: Home theater receivers. AV receivers powering surround-sou
 
 ```
 Studio product photo: AV processors. High-end surround processors for separates systems. Show design details that suggest: 16 ch processing, room correction, balanced outputs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Health, Fitness & Wellness Tech (3)
-
-### ST-0481 · Smart strength-training systems
-- [ ] File: `smart-strength-training-systems.jpg`
-
-```
-Studio product photo: Smart strength-training systems. Digital weights and home gyms with AI coaching. Show design details that suggest: digital resistance, form feedback, programs. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0494 · Rehabilitation robotics
-- [ ] File: `rehabilitation-robotics.jpg`
-
-```
-Studio product photo: Rehabilitation robotics. Robotic devices for physical therapy and rehabilitation. Show design details that suggest: assisted movement, therapy programs, progress tracking. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0495 · Consumer biofeedback devices
-- [ ] File: `consumer-biofeedback-devices.jpg`
-
-```
-Studio product photo: Consumer biofeedback devices. Devices for stress, breathing and meditation biofeedback. Show design details that suggest: hrv / eeg sensing, guided sessions, wellness use. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
