@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**241 products still need a photo** (406 done). One prompt per product, ready to copy.
+**236 products still need a photo** (411 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -423,7 +423,7 @@ Studio product photo: Portable emergency power systems. Emergency power kits for
 
 ---
 
-## Networking, Connectivity & Communications (10)
+## Networking, Connectivity & Communications (5)
 
 ### ST-0375 · Satellite communicators
 - [ ] File: `satellite-communicators.jpg`
@@ -437,41 +437,6 @@ Studio product photo: Satellite communicators. Two-way satellite messengers for 
 
 ```
 Studio product photo: UWB tracking devices. Ultra-wideband trackers for precise item finding. Show design details that suggest: uwb precision, bluetooth, water resistant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0378 · GPS tracking devices
-- [ ] File: `gps-tracking-devices.jpg`
-
-```
-Studio product photo: GPS tracking devices. Real-time GPS trackers for vehicles, assets and people. Show design details that suggest: gps + lte, geofence, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0379 · LoRaWAN gateways
-- [ ] File: `lorawan-gateways.jpg`
-
-```
-Studio product photo: LoRaWAN gateways. Long-range IoT gateways for sensors across cities and farms. Show design details that suggest: lorawan, outdoor / indoor, ethernet / lte. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0380 · Software-defined radios
-- [ ] File: `software-defined-radios.jpg`
-
-```
-Studio product photo: Software-defined radios. Wideband radios for listening, research and development. Show design details that suggest: wide frequency range, usb, antennas. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0381 · Satellite emergency messengers
-- [ ] File: `satellite-emergency-messengers.jpg`
-
-```
-Studio product photo: Satellite emergency messengers. Personal locator beacons and SOS messengers. Show design details that suggest: global sos, gps, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0382 · Digital radio systems
-- [ ] File: `digital-radio-systems.jpg`
-
-```
-Studio product photo: Digital radio systems. DMR / digital two-way radios for teams. Show design details that suggest: digital & analog, encryption, long range. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0383 · Mesh communication devices
