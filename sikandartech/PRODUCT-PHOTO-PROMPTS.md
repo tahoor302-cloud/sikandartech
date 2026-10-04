@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**317 products still need a photo** (330 done). One prompt per product, ready to copy.
+**314 products still need a photo** (333 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (28)
+## Drones, Robotics & Autonomous Machines (25)
 
 ### ST-0205 · Autonomous inspection drones
 - [ ] File: `autonomous-inspection-drones.jpg`
@@ -21,32 +21,11 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 Studio product photo: Autonomous inspection drones. Drones that inspect infrastructure automatically. Show design details that suggest: autonomous routes, dock station, zoom + thermal. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0206 · Enterprise mapping drones
-- [ ] File: `enterprise-mapping-drones.jpg`
-
-```
-Studio product photo: Enterprise mapping drones. Survey drones for mapping, GIS and construction. Show design details that suggest: rtk positioning, mechanical shutter, lidar option. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0207 · Agricultural drones
-- [ ] File: `agricultural-drones.jpg`
-
-```
-Studio product photo: Agricultural drones. Spraying and spreading drones for precision farming. Show design details that suggest: 20–50l tank, terrain following, spray & spread. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0208 · Thermal-imaging drones
 - [ ] File: `thermal-imaging-drones.jpg`
 
 ```
 Studio product photo: Thermal-imaging drones. Drones with thermal cameras for rescue, firefighting and inspection. Show design details that suggest: 640 px thermal, zoom camera, spotlight. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0209 · Indoor micro-drones
-- [ ] File: `indoor-micro-drones.jpg`
-
-```
-Studio product photo: Indoor micro-drones. Small safe drones for indoor flying and inventory scanning. Show design details that suggest: prop guards, optical flow, indoor stable. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0210 · Educational drones
