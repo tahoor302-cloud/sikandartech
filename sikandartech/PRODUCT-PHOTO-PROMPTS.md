@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**236 products still need a photo** (411 done). One prompt per product, ready to copy.
+**231 products still need a photo** (416 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -419,45 +419,6 @@ Studio product photo: Wireless charging furniture. Desks, tables and lamps with 
 
 ```
 Studio product photo: Portable emergency power systems. Emergency power kits for outages and disasters. Show design details that suggest: power station, radio & light, solar charging. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Networking, Connectivity & Communications (5)
-
-### ST-0375 · Satellite communicators
-- [ ] File: `satellite-communicators.jpg`
-
-```
-Studio product photo: Satellite communicators. Two-way satellite messengers for off-grid communication. Show design details that suggest: two-way messaging, sos, gps tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0377 · UWB tracking devices
-- [ ] File: `uwb-tracking-devices.jpg`
-
-```
-Studio product photo: UWB tracking devices. Ultra-wideband trackers for precise item finding. Show design details that suggest: uwb precision, bluetooth, water resistant. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0383 · Mesh communication devices
-- [ ] File: `mesh-communication-devices.jpg`
-
-```
-Studio product photo: Mesh communication devices. Off-grid mesh radios for text messaging without signal. Show design details that suggest: lora mesh, gps, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0384 · USB cellular modems
-- [ ] File: `usb-cellular-modems.jpg`
-
-```
-Studio product photo: USB cellular modems. Plug-in 4G/5G modems for laptops and routers. Show design details that suggest: 4g / 5g, usb, external antenna. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0385 · KVM-over-IP devices
-- [ ] File: `kvm-over-ip-devices.jpg`
-
-```
-Studio product photo: KVM-over-IP devices. Control servers and PCs remotely at BIOS level. Show design details that suggest: remote kvm, virtual media, web interface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
