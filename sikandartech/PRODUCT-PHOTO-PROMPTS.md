@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**254 products still need a photo** (393 done). One prompt per product, ready to copy.
+**249 products still need a photo** (398 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -423,42 +423,7 @@ Studio product photo: Portable emergency power systems. Emergency power kits for
 
 ---
 
-## Networking, Connectivity & Communications (23)
-
-### ST-0362 · Portable 5G hotspots
-- [ ] File: `portable-5g-hotspots.jpg`
-
-```
-Studio product photo: Portable 5G hotspots. Pocket 5G hotspots for travel and remote work. Show design details that suggest: 5g, wi-fi 6, 10+ h battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0364 · Enterprise Wi-Fi access points
-- [ ] File: `enterprise-wi-fi-access-points.jpg`
-
-```
-Studio product photo: Enterprise Wi-Fi access points. Ceiling-mount access points for offices and campuses. Show design details that suggest: wi-fi 6e / 7, poe, high density. Shown mounted on a light grey door or wall section. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0365 · Managed network switches
-- [ ] File: `managed-network-switches.jpg`
-
-```
-Studio product photo: Managed network switches. Switches with VLANs, QoS and remote management. Show design details that suggest: 8–48 ports, vlan / qos, poe options. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0366 · Multi-gigabit Ethernet switches
-- [ ] File: `multi-gigabit-ethernet-switches.jpg`
-
-```
-Studio product photo: Multi-gigabit Ethernet switches. Switches with 2.5G / 10G ports for fast LANs. Show design details that suggest: 2.5g / 10g ports, sfp+, fanless options. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0367 · 10GbE network cards
-- [ ] File: `10gbe-network-cards.jpg`
-
-```
-Studio product photo: 10GbE network cards. PCIe network cards for 10-gigabit speeds. Show design details that suggest: 10gbe rj45 / sfp+, pcie, low latency. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Networking, Connectivity & Communications (18)
 
 ### ST-0368 · Fiber-optic networking equipment
 - [ ] File: `fiber-optic-networking-equipment.jpg`
