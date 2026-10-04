@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**231 products still need a photo** (416 done). One prompt per product, ready to copy.
+**226 products still need a photo** (421 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,48 +230,13 @@ Studio product photo: UV-cleaning home devices. Show design details that suggest
 
 ---
 
-## Charging, Batteries & Portable Power (27)
-
-### ST-0330 · GaN fast chargers
-- [ ] File: `gan-fast-chargers.jpg`
-
-```
-Studio product photo: GaN fast chargers. Show design details that suggest: 65–240w, usb-c pd 3.1, multi-port. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0331 · Multi-port USB-C chargers
-- [ ] File: `multi-port-usb-c-chargers.jpg`
-
-```
-Studio product photo: Multi-port USB-C chargers. One charger for all your devices at once. Show design details that suggest: 3–6 ports, smart power split, pd / qc. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0332 · High-wattage laptop chargers
-- [ ] File: `high-wattage-laptop-chargers.jpg`
-
-```
-Studio product photo: High-wattage laptop chargers. Powerful USB-C chargers for gaming and workstation laptops. Show design details that suggest: 140–240w, pd 3.1 epr, compact. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0333 · Wireless charging pads
-- [ ] File: `wireless-charging-pads.jpg`
-
-```
-Studio product photo: Wireless charging pads. Show design details that suggest: 15w qi, foreign object detection, led. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Charging, Batteries & Portable Power (22)
 
 ### ST-0334 · Qi2-compatible chargers
 - [ ] File: `qi2-compatible-chargers.jpg`
 
 ```
 Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, aligned wireless charging. Show design details that suggest: magnetic alignment, certified, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0335 · Magnetic wireless chargers
-- [ ] File: `magnetic-wireless-chargers.jpg`
-
-```
-Studio product photo: Magnetic wireless chargers. Snap-on magnetic chargers and stands. Show design details that suggest: magnetic, 15w, stand / puck. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0336 · Multi-device charging stations
