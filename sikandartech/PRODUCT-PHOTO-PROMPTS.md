@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**186 products still need a photo** (461 done). One prompt per product, ready to copy.
+**181 products still need a photo** (466 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -613,48 +613,13 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Health, Fitness & Wellness Tech (8)
+## Health, Fitness & Wellness Tech (3)
 
 ### ST-0481 · Smart strength-training systems
 - [ ] File: `smart-strength-training-systems.jpg`
 
 ```
 Studio product photo: Smart strength-training systems. Digital weights and home gyms with AI coaching. Show design details that suggest: digital resistance, form feedback, programs. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0489 · Home ECG devices
-- [ ] File: `home-ecg-devices.jpg`
-
-```
-Studio product photo: Home ECG devices. Personal ECG devices for heart-rhythm recordings (where approved). Show design details that suggest: single / 6-lead, share with doctor, regulatory-cleared models. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0490 · Portable ultrasound systems for professional use
-- [ ] File: `portable-ultrasound-systems-for-professional-use.jpg`
-
-```
-Studio product photo: Portable ultrasound systems for professional use. Handheld ultrasound probes for healthcare professionals. Show design details that suggest: handheld probe, multiple presets, professional use only. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0491 · Wearable fall-detection devices
-- [ ] File: `wearable-fall-detection-devices.jpg`
-
-```
-Studio product photo: Wearable fall-detection devices. Wearables that detect falls and call for help. Show design details that suggest: fall detection, sos button, gps. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0492 · Personal emergency alert devices
-- [ ] File: `personal-emergency-alert-devices.jpg`
-
-```
-Studio product photo: Personal emergency alert devices. Emergency buttons and pendants for seniors. Show design details that suggest: one-touch sos, gps, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0493 · Smart mobility aids
-- [ ] File: `smart-mobility-aids.jpg`
-
-```
-Studio product photo: Smart mobility aids. Smart walkers, canes and wheelchairs with sensors. Show design details that suggest: obstacle sensors, fall alerts, lights. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0494 · Rehabilitation robotics
