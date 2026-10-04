@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**326 products still need a photo** (321 done). One prompt per product, ready to copy.
+**321 products still need a photo** (326 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -1623,7 +1623,7 @@ Studio product photo: Consumer biofeedback devices. Devices for stress, breathin
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (17)
+## Maker Tech, 3D Printing & Engineering (12)
 
 ### ST-0511 · Smart multimeters
 - [ ] File: `smart-multimeters.jpg`
@@ -1695,46 +1695,11 @@ Studio product photo: AI edge-computing kits. Dev kits for running AI vision at 
 Studio product photo: Robotics development kits. Robot kits for learning ROS and robotics. Show design details that suggest: motors & sensors, ros, lidar options. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0521 · Machine-vision kits
-- [ ] File: `machine-vision-kits.jpg`
-
-```
-Studio product photo: Machine-vision kits. Camera and compute kits for vision projects. Show design details that suggest: camera module, tutorials. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0522 · LiDAR development kits
-- [ ] File: `lidar-development-kits.jpg`
-
-```
-Studio product photo: LiDAR development kits. Lidar sensors for mapping and robotics prototypes. Show design details that suggest: 2d / 3d lidar, 10–40m range, ros driver. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0523 · FPGA development boards
-- [ ] File: `fpga-development-boards.jpg`
-
-```
-Studio product photo: FPGA development boards. Programmable logic boards for hardware design. Show design details that suggest: fpga, i/o headers, toolchain. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0524 · Microcontroller modules
 - [ ] File: `microcontroller-modules.jpg`
 
 ```
 Studio product photo: Microcontroller modules. Tiny MCU modules for embedding in products. Show design details that suggest: arm / risc-v, low power, castellated pads. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0525 · Industrial IoT gateways
-- [ ] File: `industrial-iot-gateways.jpg`
-
-```
-Studio product photo: Industrial IoT gateways. Gateways connecting machines and sensors to the cloud. Show design details that suggest: modbus / opc ua, lte / ethernet, edge computing. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0526 · Digital microscopes
-- [ ] File: `digital-microscopes.jpg`
-
-```
-Studio product photo: Digital microscopes. USB and screen microscopes for electronics and science. Show design details that suggest: 50–1000×, lcd / usb, measurement. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0527 · Thermal inspection instruments
