@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**307 products still need a photo** (340 done). One prompt per product, ready to copy.
+**302 products still need a photo** (345 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (18)
-
-### ST-0215 · Robot dogs
-- [ ] File: `robot-dogs.jpg`
-
-```
-Studio product photo: Robot dogs. Quadruped robots for research, inspection and entertainment. Show design details that suggest: quadruped, lidar, 2–4 h runtime. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0216 · Humanoid robots
-- [ ] File: `humanoid-robots.jpg`
-
-```
-Studio product photo: Humanoid robots. Bipedal humanoid robots for research, education and demonstration. Show design details that suggest: bipedal, 20+ dof, research platform. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0217 · Home assistant robots
-- [ ] File: `home-assistant-robots.jpg`
-
-```
-Studio product photo: Home assistant robots. Robots that help around the home with monitoring and simple tasks. Show design details that suggest: navigation, smart-home control. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0218 · Educational robots
-- [ ] File: `educational-robots.jpg`
-
-```
-Studio product photo: Educational robots. Robots that teach coding and engineering to students. Show design details that suggest: block & python coding, sensors, curriculum. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0219 · Robotic arms
-- [ ] File: `robotic-arms.jpg`
-
-```
-Studio product photo: Robotic arms. Industrial and collaborative robot arms for automation. Show design details that suggest: 6-axis, 3–20kg payload, collaborative safety. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Drones, Robotics & Autonomous Machines (13)
 
 ### ST-0220 · Desktop robotic arms
 - [ ] File: `desktop-robotic-arms.jpg`
