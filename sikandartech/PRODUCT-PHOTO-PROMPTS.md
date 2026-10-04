@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**298 products still need a photo** (349 done). One prompt per product, ready to copy.
+**293 products still need a photo** (354 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,7 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (9)
+## Drones, Robotics & Autonomous Machines (4)
 
 ### ST-0221 · Autonomous delivery robots
 - [ ] File: `autonomous-delivery-robots.jpg`
@@ -35,46 +35,11 @@ Studio product photo: Warehouse robots. AMRs that move goods and shelves in ware
 Studio product photo: Social robots. Interactive robots for reception, retail and education. Show design details that suggest: touchscreen, speech, face recognition. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0227 · Robotic lawn mowers
-- [ ] File: `robotic-lawn-mowers.jpg`
-
-```
-Studio product photo: Robotic lawn mowers. Autonomous mowers with wire-free RTK or vision navigation. Show design details that suggest: wire-free rtk / vision, rain sensor, anti-theft. On a small patch of neat green grass. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0228 · Window-cleaning robots
 - [ ] File: `window-cleaning-robots.jpg`
 
 ```
 Studio product photo: Window-cleaning robots. Robots that clean windows and glass walls automatically. Show design details that suggest: suction adhesion, edge detection, spray system. Attached to a clean glass window pane. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0229 · Robotic pool cleaners
-- [ ] File: `robotic-pool-cleaners.jpg`
-
-```
-Studio product photo: Robotic pool cleaners. Cordless robots that clean pool floors and walls. Show design details that suggest: cordless, wall climbing, filter basket. At the bottom of clear blue pool water. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0232 · Stair-climbing cleaning robots
-- [ ] File: `stair-climbing-cleaning-robots.jpg`
-
-```
-Studio product photo: Stair-climbing cleaning robots. Next-gen cleaning robots that climb stairs between floors. Show design details that suggest: stair-climbing mechanism, multi-floor maps, vacuum & mop. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0233 · Autonomous mobile robots
-- [ ] File: `autonomous-mobile-robots.jpg`
-
-```
-Studio product photo: Autonomous mobile robots. AMRs for factories, hospitals and logistics. Show design details that suggest: slam navigation, payload modules, safety certified. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0234 · Exoskeleton assistance devices
-- [ ] File: `exoskeleton-assistance-devices.jpg`
-
-```
-Studio product photo: Exoskeleton assistance devices. Powered exoskeletons that reduce strain while lifting or walking. Show design details that suggest: hip / back assist, lightweight, battery powered. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
