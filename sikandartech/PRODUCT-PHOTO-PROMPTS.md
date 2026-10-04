@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**269 products still need a photo** (378 done). One prompt per product, ready to copy.
+**265 products still need a photo** (382 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -995,35 +995,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Automotive, Mobility & Transport Tech (10)
-
-### ST-0459 · Portable car battery testers
-- [ ] File: `portable-car-battery-testers.jpg`
-
-```
-Studio product photo: Portable car battery testers. Testers for car battery health and charging system. Show design details that suggest: 12v testing, cca, cranking & charging test. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0460 · Blind-spot monitoring systems
-- [ ] File: `blind-spot-monitoring-systems.jpg`
-
-```
-Studio product photo: Blind-spot monitoring systems. Aftermarket radar systems that warn of vehicles in blind spots. Show design details that suggest: radar sensors, mirror leds, audible alert. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0461 · Aftermarket parking sensors
-- [ ] File: `aftermarket-parking-sensors.jpg`
-
-```
-Studio product photo: Aftermarket parking sensors. Parking sensors with distance alerts. Show design details that suggest: 4–8 sensors, distance display, beeper. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0462 · In-car AI assistants
-- [ ] File: `in-car-ai-assistants.jpg`
-
-```
-Studio product photo: In-car AI assistants. Voice assistants and dashboard screens that bring AI to any car. Show design details that suggest: navigation, dash mount. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Automotive, Mobility & Transport Tech (6)
 
 ### ST-0463 · Automotive thermal cameras
 - [ ] File: `automotive-thermal-cameras.jpg`
