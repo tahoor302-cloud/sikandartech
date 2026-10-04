@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**213 products still need a photo** (434 done). One prompt per product, ready to copy.
+**208 products still need a photo** (439 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: UV-cleaning home devices. Show design details that suggest
 
 ---
 
-## Charging, Batteries & Portable Power (9)
+## Charging, Batteries & Portable Power (4)
 
 ### ST-0334 · Qi2-compatible chargers
 - [ ] File: `qi2-compatible-chargers.jpg`
@@ -244,41 +244,6 @@ Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, 
 
 ```
 Studio product photo: Multi-device charging stations. Show design details that suggest: 3-in-1, foldable, 15w. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0351 · Online UPS systems
-- [ ] File: `online-ups-systems.jpg`
-
-```
-Studio product photo: Online UPS systems. Double-conversion UPS for servers and sensitive equipment. Show design details that suggest: online double conversion, rack / tower, hot-swap batteries. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0352 · Portable DC power supplies
-- [ ] File: `portable-dc-power-supplies.jpg`
-
-```
-Studio product photo: Portable DC power supplies. Compact adjustable DC supplies for electronics. Show design details that suggest: 0–30v adjustable, usb-c pd input, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0353 · Battery management systems
-- [ ] File: `battery-management-systems.jpg`
-
-```
-Studio product photo: Battery management systems. BMS boards that protect and balance lithium battery packs. Show design details that suggest: cell balancing, protection, bluetooth monitoring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0354 · Smart battery testers
-- [ ] File: `smart-battery-testers.jpg`
-
-```
-Studio product photo: Smart battery testers. Testers that measure battery health and capacity. Show design details that suggest: capacity test, internal resistance, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0355 · USB-C power meters
-- [ ] File: `usb-c-power-meters.jpg`
-
-```
-Studio product photo: USB-C power meters. Inline meters showing voltage, current and power. Show design details that suggest: voltage / current / watts, pd protocol detection, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0356 · Wireless charging furniture
