@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**312 products still need a photo** (335 done). One prompt per product, ready to copy.
+**307 products still need a photo** (340 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (23)
-
-### ST-0210 · Educational drones
-- [ ] File: `educational-drones.jpg`
-
-```
-Studio product photo: Educational drones. Programmable drones for STEM classrooms. Show design details that suggest: block / python coding, prop guards, swarm mode. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0211 · Programmable robotics drones
-- [ ] File: `programmable-robotics-drones.jpg`
-
-```
-Studio product photo: Programmable robotics drones. Drones with SDKs for research and developers. Show design details that suggest: onboard computer, sensors, ros support. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0212 · Underwater remotely operated vehicles
-- [ ] File: `underwater-remotely-operated-vehicles.jpg`
-
-```
-Studio product photo: Underwater remotely operated vehicles. Underwater drones for exploration, fishing and inspection. Show design details that suggest: 100–200m depth, 4k camera, tethered. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0213 · Underwater inspection robots
-- [ ] File: `underwater-inspection-robots.jpg`
-
-```
-Studio product photo: Underwater inspection robots. Professional ROVs for hull, pipe and dam inspection. Show design details that suggest: thrusters, sonar, robotic arm. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0214 · Unmanned surface boats
-- [ ] File: `unmanned-surface-boats.jpg`
-
-```
-Studio product photo: Unmanned surface boats. Autonomous boats for water sampling and surveys. Show design details that suggest: gps autopilot, sonar / sampling, long range. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Drones, Robotics & Autonomous Machines (18)
 
 ### ST-0215 · Robot dogs
 - [ ] File: `robot-dogs.jpg`
