@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**289 products still need a photo** (358 done). One prompt per product, ready to copy.
+**284 products still need a photo** (363 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -995,42 +995,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Automotive, Mobility & Transport Tech (30)
-
-### ST-0439 · Electric scooters
-- [ ] File: `electric-scooters.jpg`
-
-```
-Studio product photo: Electric scooters. Foldable e-scooters for city commuting. Show design details that suggest: 25–45 km/h, 30–70km range, foldable. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0440 · Electric bicycles
-- [ ] File: `electric-bicycles.jpg`
-
-```
-Studio product photo: Electric bicycles. Pedal-assist e-bikes for commuting and trails. Show design details that suggest: 250–750w motor, 50–120km range, hydraulic brakes. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0441 · Electric motorcycles
-- [ ] File: `electric-motorcycles.jpg`
-
-```
-Studio product photo: Electric motorcycles. Quiet electric motorcycles and mopeds. Show design details that suggest: 3–15kw, 80–200km range, fast charging. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0442 · GPS cycling computers
-- [ ] File: `gps-cycling-computers.jpg`
-
-```
-Studio product photo: GPS cycling computers. GPS head units for cyclists. Show design details that suggest: colour screen, turn-by-turn, power / hr. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0443 · Smart helmets
-- [ ] File: `smart-helmets.jpg`
-
-```
-Studio product photo: Smart helmets. Helmets with lights, turn signals and communication. Show design details that suggest: turn signals, brake light, bluetooth. Shown on a plain grey mannequin form, no head, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Automotive, Mobility & Transport Tech (25)
 
 ### ST-0444 · Motorcycle HUD displays
 - [ ] File: `motorcycle-hud-displays.jpg`
