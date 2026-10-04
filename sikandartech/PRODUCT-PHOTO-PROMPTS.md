@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**222 products still need a photo** (425 done). One prompt per product, ready to copy.
+**217 products still need a photo** (430 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -230,7 +230,7 @@ Studio product photo: UV-cleaning home devices. Show design details that suggest
 
 ---
 
-## Charging, Batteries & Portable Power (18)
+## Charging, Batteries & Portable Power (13)
 
 ### ST-0334 · Qi2-compatible chargers
 - [ ] File: `qi2-compatible-chargers.jpg`
@@ -244,41 +244,6 @@ Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, 
 
 ```
 Studio product photo: Multi-device charging stations. Show design details that suggest: 3-in-1, foldable, 15w. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0341 · Laptop power banks
-- [ ] File: `laptop-power-banks.jpg`
-
-```
-Studio product photo: Laptop power banks. Power banks that can charge laptops through USB-C. Show design details that suggest: 25,000mah+, 100–250w, multi-port. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0342 · Solar power banks
-- [ ] File: `solar-power-banks.jpg`
-
-```
-Studio product photo: Solar power banks. Rugged power banks with built-in solar panels. Show design details that suggest: solar panel, waterproof, flashlight. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0343 · Rugged outdoor power banks
-- [ ] File: `rugged-outdoor-power-banks.jpg`
-
-```
-Studio product photo: Rugged outdoor power banks. Shock- and water-resistant power banks for outdoor use. Show design details that suggest: ip67, shockproof, flashlight. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0345 · Expandable battery systems
-- [ ] File: `expandable-battery-systems.jpg`
-
-```
-Studio product photo: Expandable battery systems. Power stations with add-on batteries for more capacity. Show design details that suggest: expandable to 10kwh+, lifepo4, fast recharge. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0346 · Home battery storage
-- [ ] File: `home-battery-storage.jpg`
-
-```
-Studio product photo: Home battery storage. Wall or floor batteries that store solar energy for home use. Show design details that suggest: 5–20kwh, hybrid inverter, backup power. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0347 · Portable solar panels
