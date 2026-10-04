@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**195 products still need a photo** (452 done). One prompt per product, ready to copy.
+**191 products still need a photo** (456 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -613,41 +613,13 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Health, Fitness & Wellness Tech (17)
-
-### ST-0479 · Connected rowing machines
-- [ ] File: `connected-rowing-machines.jpg`
-
-```
-Studio product photo: Connected rowing machines. Rowers with classes and performance tracking. Show design details that suggest: air / water / magnetic, screen, classes. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0480 · Smart treadmills
-- [ ] File: `smart-treadmills.jpg`
-
-```
-Studio product photo: Smart treadmills. Treadmills with screens, incline and coaching. Show design details that suggest: auto incline, touch screen, classes. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Health, Fitness & Wellness Tech (13)
 
 ### ST-0481 · Smart strength-training systems
 - [ ] File: `smart-strength-training-systems.jpg`
 
 ```
 Studio product photo: Smart strength-training systems. Digital weights and home gyms with AI coaching. Show design details that suggest: digital resistance, form feedback, programs. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0482 · Massage guns
-- [ ] File: `massage-guns.jpg`
-
-```
-Studio product photo: Massage guns. Percussion massagers for muscle recovery. Show design details that suggest: multiple heads, 5 speeds, quiet motor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0483 · Recovery compression boots
-- [ ] File: `recovery-compression-boots.jpg`
-
-```
-Studio product photo: Recovery compression boots. Pneumatic compression boots for faster recovery. Show design details that suggest: air compression, multiple chambers, programs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0484 · Smart water bottles
