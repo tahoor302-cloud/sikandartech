@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**274 products still need a photo** (373 done). One prompt per product, ready to copy.
+**269 products still need a photo** (378 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -995,42 +995,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Automotive, Mobility & Transport Tech (15)
-
-### ST-0454 · Home EV charging stations
-- [ ] File: `home-ev-charging-stations.jpg`
-
-```
-Studio product photo: Home EV charging stations. Wall chargers for faster home EV charging. Show design details that suggest: 7–22kw, load balancing, rfid. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0455 · Smart charging management systems
-- [ ] File: `smart-charging-management-systems.jpg`
-
-```
-Studio product photo: Smart charging management systems. Software and hardware to manage multiple EV chargers. Show design details that suggest: ocpp, load management, billing. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0456 · Vehicle-to-home charging equipment
-- [ ] File: `vehicle-to-home-charging-equipment.jpg`
-
-```
-Studio product photo: Vehicle-to-home charging equipment. Bidirectional chargers that power your home from an EV. Show design details that suggest: bidirectional, v2h / v2l, backup power. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0457 · Portable tire inflators
-- [ ] File: `portable-tire-inflators.jpg`
-
-```
-Studio product photo: Portable tire inflators. Cordless inflators with digital gauge and auto stop. Show design details that suggest: cordless, auto stop, digital gauge. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0458 · Smart jump starters
-- [ ] File: `smart-jump-starters.jpg`
-
-```
-Studio product photo: Smart jump starters. Compact jump starters with power bank. Show design details that suggest: 1000–4000a, safety clamps, usb charging. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Automotive, Mobility & Transport Tech (10)
 
 ### ST-0459 · Portable car battery testers
 - [ ] File: `portable-car-battery-testers.jpg`
