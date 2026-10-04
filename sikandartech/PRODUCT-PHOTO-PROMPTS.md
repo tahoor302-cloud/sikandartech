@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**321 products still need a photo** (326 done). One prompt per product, ready to copy.
+**317 products still need a photo** (330 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,28 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Drones, Robotics & Autonomous Machines (31)
-
-### ST-0202 · FPV drones
-- [ ] File: `fpv-drones.jpg`
-
-```
-Studio product photo: FPV drones. First-person-view drones with goggles for immersive flight. Show design details that suggest: fpv goggles, motion controller, 4k. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0203 · Racing drones
-- [ ] File: `racing-drones.jpg`
-
-```
-Studio product photo: Racing drones. High-speed drones for competitive racing. Show design details that suggest: 5" frame, high kv motors, low-latency video. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0204 · Cinematic FPV drones
-- [ ] File: `cinematic-fpv-drones.jpg`
-
-```
-Studio product photo: Cinematic FPV drones. Ducted cinewhoop drones for smooth indoor and close-proximity shots. Show design details that suggest: ducted propellers, 4k stabilised, compact. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Drones, Robotics & Autonomous Machines (28)
 
 ### ST-0205 · Autonomous inspection drones
 - [ ] File: `autonomous-inspection-drones.jpg`
@@ -1623,7 +1602,7 @@ Studio product photo: Consumer biofeedback devices. Devices for stress, breathin
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (12)
+## Maker Tech, 3D Printing & Engineering (11)
 
 ### ST-0511 · Smart multimeters
 - [ ] File: `smart-multimeters.jpg`
@@ -1700,13 +1679,6 @@ Studio product photo: Robotics development kits. Robot kits for learning ROS and
 
 ```
 Studio product photo: Microcontroller modules. Tiny MCU modules for embedding in products. Show design details that suggest: arm / risc-v, low power, castellated pads. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0527 · Thermal inspection instruments
-- [ ] File: `thermal-inspection-instruments.jpg`
-
-```
-Studio product photo: Thermal inspection instruments. Thermal imagers and IR thermometers for maintenance. Show design details that suggest: thermal imaging, temperature measure, reports. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
