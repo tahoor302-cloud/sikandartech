@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**200 products still need a photo** (447 done). One prompt per product, ready to copy.
+**195 products still need a photo** (452 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -613,42 +613,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Health, Fitness & Wellness Tech (22)
-
-### ST-0474 · Connected sleep pads
-- [ ] File: `connected-sleep-pads.jpg`
-
-```
-Studio product photo: Connected sleep pads. Cooling and heating pads for better sleep. Show design details that suggest: temperature control, dual zone, quiet. Full product visible in a bright minimal room. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0475 · Wearable fitness sensors
-- [ ] File: `wearable-fitness-sensors.jpg`
-
-```
-Studio product photo: Wearable fitness sensors. Sensors measuring heart rate, movement and training load. Show design details that suggest: hr / motion, bluetooth, lightweight. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0476 · Heart-rate monitors
-- [ ] File: `heart-rate-monitors.jpg`
-
-```
-Studio product photo: Heart-rate monitors. Chest and arm monitors for training. Show design details that suggest: ecg / optical, ant+ / ble, waterproof. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0477 · Smart jump ropes
-- [ ] File: `smart-jump-ropes.jpg`
-
-```
-Studio product photo: Smart jump ropes. Ropes that count jumps and calories. Show design details that suggest: jump counting, weighted handles, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0478 · Smart exercise bikes
-- [ ] File: `smart-exercise-bikes.jpg`
-
-```
-Studio product photo: Smart exercise bikes. Indoor bikes with live classes and auto resistance. Show design details that suggest: magnetic resistance, touch screen, live classes. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Health, Fitness & Wellness Tech (17)
 
 ### ST-0479 · Connected rowing machines
 - [ ] File: `connected-rowing-machines.jpg`
