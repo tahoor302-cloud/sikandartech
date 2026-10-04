@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**244 products still need a photo** (403 done). One prompt per product, ready to copy.
+**241 products still need a photo** (406 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -423,34 +423,13 @@ Studio product photo: Portable emergency power systems. Emergency power kits for
 
 ---
 
-## Networking, Connectivity & Communications (13)
-
-### ST-0373 · VPN routers
-- [ ] File: `vpn-routers.jpg`
-
-```
-Studio product photo: VPN routers. Routers with built-in VPN for whole-network privacy. Show design details that suggest: wireguard / openvpn, kill switch, multi-wan. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0374 · Satellite internet terminals
-- [ ] File: `satellite-internet-terminals.jpg`
-
-```
-Studio product photo: Satellite internet terminals. Dishes for high-speed internet anywhere. Show design details that suggest: phased-array dish, router included, portable options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Networking, Connectivity & Communications (10)
 
 ### ST-0375 · Satellite communicators
 - [ ] File: `satellite-communicators.jpg`
 
 ```
 Studio product photo: Satellite communicators. Two-way satellite messengers for off-grid communication. Show design details that suggest: two-way messaging, sos, gps tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0376 · Bluetooth trackers
-- [ ] File: `bluetooth-trackers.jpg`
-
-```
-Studio product photo: Bluetooth trackers. Small tags to find keys, bags and wallets. Show design details that suggest: bluetooth, finder network, replaceable battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0377 · UWB tracking devices
