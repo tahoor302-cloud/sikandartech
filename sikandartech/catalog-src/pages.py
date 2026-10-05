@@ -147,6 +147,8 @@ def page(r, head_html, body_cls, main, cat_by_id, scripts=(), active="", body_at
 
 
 def write(site, rel, text):
+    if rel.endswith(".html"):
+        text = versioned(text)
     path = os.path.join(site, rel)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w") as f:
@@ -538,11 +540,28 @@ def sync_partials(site, rel, cat_by_id, active):
     text = open(path).read()
     text = re.sub(r"<!-- @header.*?<!-- /@header -->", lambda m: header("", active), text, flags=re.S)
     text = re.sub(r"<!-- @footer.*?<!-- /@footer -->", lambda m: footer("", cat_by_id), text, flags=re.S)
-    open(path, "w").write(text)
+    open(path, "w").write(versioned(text))
+
+
+# ---------------------------------------------------------------- cache busting
+ASSETS = ["style.css", "icons.js", "catalog.js", "script.js", "shop-core.js", "product-info.js",
+          "home.js", "shop.js", "product.js", "ugc-data.js", "ugc.js"]
+VERSION = {}
+
+
+def versioned(text):
+    """Add ?v=<content hash> to CSS/JS references so browsers fetch new files after each update."""
+    def sub(m):
+        name = m.group(2)
+        return f'{m.group(1)}{name}?v={VERSION[name]}"' if name in VERSION else m.group(0)
+    return re.sub(r'((?:src|href)="(?:\.\./)*)([a-z-]+\.(?:js|css))(?:\?v=[0-9a-f]+)?"', sub, text)
 
 
 # ---------------------------------------------------------------- entry point
 def build(site, categories, products):
+    import hashlib
+    for a in ASSETS:
+        VERSION[a] = hashlib.md5(open(os.path.join(site, a), "rb").read()).hexdigest()[:8]
     cat_by_id = {c["id"]: c for c in categories}
     urls = ["", "shop/", "ugc.html"]
 
