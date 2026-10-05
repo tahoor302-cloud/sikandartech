@@ -66,7 +66,7 @@ To accept uploads on the site, point `UGC_ENDPOINT` at a backend that accepts th
 `.github/workflows/deploy-sikandartech.yml` publishes this folder to the `gh-pages` branch on every push
 (build sources, screenshots and prompt files are left out). One-time setup in GitHub:
 **Settings → Pages → Build and deployment → Source: Deploy from a branch → `gh-pages` / `(root)`**.
-The site is then live at `https://tahoor302-cloud.github.io/supermimic/`.
+The site is then live at `https://tahoor302-cloud.github.io/sikandartech/`.
 
 Custom domain `sikandartech.com`: add the domain in Settings → Pages → Custom domain, add a `CNAME`
 file containing `sikandartech.com` to this folder (so deploys keep it), and at the domain registrar create
