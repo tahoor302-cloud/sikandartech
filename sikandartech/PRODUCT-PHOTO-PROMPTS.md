@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**178 products still need a photo** (469 done). One prompt per product, ready to copy.
+**173 products still need a photo** (474 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -9,17 +9,6 @@ How to use:
 
 The same list is in `product-photo-prompts.csv` for bulk tools (columns: code, file, product, category, prompt).
 Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding photos.
-
----
-
-## Smart Home & Connected Living (1)
-
-### ST-0300 · Connected air purifiers
-- [ ] File: `connected-air-purifiers.jpg`
-
-```
-Studio product photo: Connected air purifiers. Air purifiers with sensors and app control. Show design details that suggest: hepa h13, pm2.5 sensor, auto mode. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
 
 ---
 
@@ -226,17 +215,6 @@ Studio product photo: Smart clothing-care systems. Cabinets that refresh, saniti
 
 ```
 Studio product photo: UV-cleaning home devices. Show design details that suggest: uv-c leds, auto timer, safety lock. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Charging, Batteries & Portable Power (1)
-
-### ST-0334 · Qi2-compatible chargers
-- [ ] File: `qi2-compatible-chargers.jpg`
-
-```
-Studio product photo: Qi2-compatible chargers. Magnetic Qi2 chargers with fast, aligned wireless charging. Show design details that suggest: magnetic alignment, certified, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
@@ -613,28 +591,7 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (11)
-
-### ST-0511 · Smart multimeters
-- [ ] File: `smart-multimeters.jpg`
-
-```
-Studio product photo: Smart multimeters. Digital multimeters with Bluetooth logging. Show design details that suggest: true rms, auto range, bluetooth. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0512 · Portable oscilloscopes
-- [ ] File: `portable-oscilloscopes.jpg`
-
-```
-Studio product photo: Portable oscilloscopes. Handheld and USB oscilloscopes. Show design details that suggest: 50–200mhz, 2–4 channels, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0513 · Logic analyzers
-- [ ] File: `logic-analyzers.jpg`
-
-```
-Studio product photo: Logic analyzers. Capture and decode digital signals. Show design details that suggest: 8–16 channels, protocol decode, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Maker Tech, 3D Printing & Engineering (8)
 
 ### ST-0514 · USB test instruments
 - [ ] File: `usb-test-instruments.jpg`
