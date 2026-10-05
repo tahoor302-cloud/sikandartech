@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**113 products still need a photo** (534 done). One prompt per product, ready to copy.
+**112 products still need a photo** (535 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -23,14 +23,7 @@ Studio product photo: Smart washing machines. Washers with AI wash cycles and au
 
 ---
 
-## Storage, Data & Creator Accessories (2)
-
-### ST-0406 · KVM switches
-- [ ] File: `kvm-switches.jpg`
-
-```
-Studio product photo: KVM switches. Share keyboard, mouse and monitors between computers. Show design details that suggest: 2–4 pcs, 4k / dual display, usb hub. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Storage, Data & Creator Accessories (1)
 
 ### ST-0411 · Professional reference monitors
 - [ ] File: `professional-reference-monitors.jpg`
