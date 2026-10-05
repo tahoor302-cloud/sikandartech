@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**13 products still need a photo** (634 done). One prompt per product, ready to copy.
+**9 products still need a photo** (638 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,35 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Future & Emerging Technology (5)
-
-### ST-0534 · Neural-interface development hardware
-- [ ] File: `neural-interface-development-hardware.jpg`
-
-```
-Studio product photo: Neural-interface development hardware. Development hardware for neural signal research. Show design details that suggest: biosignal acquisition, open-source tools, research use. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0536 · Flexible electronic displays
-- [ ] File: `flexible-electronic-displays.jpg`
-
-```
-Studio product photo: Flexible electronic displays. Bendable displays for wearables and new form factors. Show design details that suggest: flexible oled, bendable, development kits. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0537 · Rollable OLED displays
-- [ ] File: `rollable-oled-displays.jpg`
-
-```
-Studio product photo: Rollable OLED displays. Displays that roll away when not in use. Show design details that suggest: rollable oled, motorised, premium. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0545 · Indoor autonomous drones
-- [ ] File: `indoor-autonomous-drones.jpg`
-
-```
-Studio product photo: Indoor autonomous drones. Drones that fly autonomously indoors for security and inventory. Show design details that suggest: indoor navigation, docking, security patrol. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Future & Emerging Technology (1)
 
 ### ST-0552 · Autonomous navigation sensors
 - [ ] File: `autonomous-navigation-sensors.jpg`
