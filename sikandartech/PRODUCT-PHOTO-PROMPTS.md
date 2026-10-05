@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**159 products still need a photo** (488 done). One prompt per product, ready to copy.
+**154 products still need a photo** (493 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (22)
-
-### ST-0308 · Smart air fryers
-- [ ] File: `smart-air-fryers.jpg`
-
-```
-Studio product photo: Smart air fryers. Air fryers with presets, app control and viewing window. Show design details that suggest: 5–10l, dual basket, window. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0309 · Smart espresso machines
-- [ ] File: `smart-espresso-machines.jpg`
-
-```
-Studio product photo: Smart espresso machines. Espresso machines with grinder, presets and app. Show design details that suggest: built-in grinder, milk system, pid control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0310 · Connected coffee makers
-- [ ] File: `connected-coffee-makers.jpg`
-
-```
-Studio product photo: Connected coffee makers. Show design details that suggest: scheduling, strength control, thermal carafe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0311 · Automatic milk frothers
-- [ ] File: `automatic-milk-frothers.jpg`
-
-```
-Studio product photo: Automatic milk frothers. Frothers for hot and cold milk foam. Show design details that suggest: hot / cold foam, induction, dishwasher safe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0312 · Smart kettles
-- [ ] File: `smart-kettles.jpg`
-
-```
-Studio product photo: Smart kettles. Kettles with precise temperature and keep-warm. Show design details that suggest: variable temperature, keep warm, gooseneck options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Kitchen & Home Appliances (17)
 
 ### ST-0313 · Smart blenders
 - [ ] File: `smart-blenders.jpg`
