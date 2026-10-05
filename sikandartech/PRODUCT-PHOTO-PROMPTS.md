@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**66 products still need a photo** (581 done). One prompt per product, ready to copy.
+**61 products still need a photo** (586 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -319,42 +319,7 @@ Studio product photo: At-home skin imaging devices. Devices that capture close-u
 
 ---
 
-## Accessories & Everyday Tech (25)
-
-### ST-0623 · Portable thermal printers
-- [ ] File: `portable-thermal-printers.jpg`
-
-```
-Studio product photo: Portable thermal printers. Pocket printers for labels, notes and photos. Show design details that suggest: thermal, bluetooth, inkless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0624 · Adjustable laptop stands
-- [ ] File: `adjustable-laptop-stands.jpg`
-
-```
-Studio product photo: Adjustable laptop stands. Ergonomic laptop stands. Show design details that suggest: height adjustable, aluminium, foldable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0625 · Laptop cooling pads
-- [ ] File: `laptop-cooling-pads.jpg`
-
-```
-Studio product photo: Laptop cooling pads. Cooling pads with fans for laptops. Show design details that suggest: multiple fans, adjustable height, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0626 · Premium USB-C cables
-- [ ] File: `premium-usb-c-cables.jpg`
-
-```
-Studio product photo: Premium USB-C cables. Durable braided cables for fast charging and data. Show design details that suggest: 100–240w, 10–40gbps, braided. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0627 · Thunderbolt cables
-- [ ] File: `thunderbolt-cables.jpg`
-
-```
-Studio product photo: Thunderbolt cables. Certified Thunderbolt cables for docks and storage. Show design details that suggest: 40–120gbps, 240w, certified. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Accessories & Everyday Tech (20)
 
 ### ST-0628 · Certified high-speed HDMI cables
 - [ ] File: `certified-high-speed-hdmi-cables.jpg`
