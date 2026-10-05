@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**164 products still need a photo** (483 done). One prompt per product, ready to copy.
+**159 products still need a photo** (488 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (27)
-
-### ST-0303 · Smart freezers
-- [ ] File: `smart-freezers.jpg`
-
-```
-Studio product photo: Smart freezers. Connected freezers with temperature alerts. Show design details that suggest: temperature alerts, fast freeze, inverter. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0304 · Smart ovens
-- [ ] File: `smart-ovens.jpg`
-
-```
-Studio product photo: Smart ovens. Ovens with cameras, recipes and remote control. Show design details that suggest: built-in camera, guided cooking, steam. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0305 · Connected microwave ovens
-- [ ] File: `connected-microwave-ovens.jpg`
-
-```
-Studio product photo: Connected microwave ovens. Microwaves with app and voice control. Show design details that suggest: sensor cooking, scan-to-cook, inverter. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0306 · Smart induction cooktops
-- [ ] File: `smart-induction-cooktops.jpg`
-
-```
-Studio product photo: Smart induction cooktops. Induction hobs with precise temperature control and app recipes. Show design details that suggest: flex zones, temperature probe, hood sync. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0307 · Precision sous-vide machines
-- [ ] File: `precision-sous-vide-machines.jpg`
-
-```
-Studio product photo: Precision sous-vide machines. Sous-vide cookers for restaurant-quality results. Show design details that suggest: ±0.1°c accuracy, wi-fi, 1000w+. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Kitchen & Home Appliances (22)
 
 ### ST-0308 · Smart air fryers
 - [ ] File: `smart-air-fryers.jpg`
