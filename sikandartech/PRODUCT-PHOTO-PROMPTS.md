@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**127 products still need a photo** (520 done). One prompt per product, ready to copy.
+**122 products still need a photo** (525 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -23,42 +23,7 @@ Studio product photo: Smart washing machines. Washers with AI wash cycles and au
 
 ---
 
-## Storage, Data & Creator Accessories (16)
-
-### ST-0396 · Professional card readers
-- [ ] File: `professional-card-readers.jpg`
-
-```
-Studio product photo: Professional card readers. Fast readers for SD, CFexpress and microSD. Show design details that suggest: multi-slot, aluminium, stackable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0397 · NAS storage systems
-- [ ] File: `nas-storage-systems.jpg`
-
-```
-Studio product photo: NAS storage systems. Network storage for teams and creators. Show design details that suggest: 4–12 bays, 10gbe, raid. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0398 · DAS storage systems
-- [ ] File: `das-storage-systems.jpg`
-
-```
-Studio product photo: DAS storage systems. Direct-attached multi-drive storage. Show design details that suggest: raid, 2–8 bays, fast. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0399 · RAID enclosures
-- [ ] File: `raid-enclosures.jpg`
-
-```
-Studio product photo: RAID enclosures. Enclosures for building RAID arrays. Show design details that suggest: raid 0/1/5/10, hot-swap, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0400 · Home media servers
-- [ ] File: `home-media-servers.jpg`
-
-```
-Studio product photo: Home media servers. Servers for streaming your movies and music at home. Show design details that suggest: 4k transcoding, multi-drive, remote streaming. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Storage, Data & Creator Accessories (11)
 
 ### ST-0401 · Backup appliances
 - [ ] File: `backup-appliances.jpg`
