@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**42 products still need a photo** (605 done). One prompt per product, ready to copy.
+**38 products still need a photo** (609 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -189,7 +189,7 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 
 ---
 
-## Cleaning, Personal Care & Beauty Tech (14)
+## Cleaning, Personal Care & Beauty Tech (10)
 
 ### ST-0607 · Smart hair dryers
 - [ ] File: `smart-hair-dryers.jpg`
@@ -198,39 +198,11 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 Studio product photo: Smart hair dryers. Fast dryers with heat control to protect hair. Show design details that suggest: 110,000 rpm, heat control, ionic. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0610 · Compact travel hair stylers
-- [ ] File: `compact-travel-hair-stylers.jpg`
-
-```
-Studio product photo: Compact travel hair stylers. Cordless and compact stylers for travel. Show design details that suggest: cordless, compact, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0611 · LED skincare masks
-- [ ] File: `led-skincare-masks.jpg`
-
-```
-Studio product photo: LED skincare masks. LED light therapy masks for at-home skincare. Show design details that suggest: red / nir leds, timer, flexible. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0612 · Microcurrent beauty devices
-- [ ] File: `microcurrent-beauty-devices.jpg`
-
-```
-Studio product photo: Microcurrent beauty devices. Handheld devices for facial toning. Show design details that suggest: microcurrent, intensity levels, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0613 · Facial cleansing devices
 - [ ] File: `facial-cleansing-devices.jpg`
 
 ```
 Studio product photo: Facial cleansing devices. Sonic brushes for deep facial cleansing. Show design details that suggest: sonic pulses, silicone, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0614 · Smart skincare analyzers
-- [ ] File: `smart-skincare-analyzers.jpg`
-
-```
-Studio product photo: Smart skincare analyzers. Devices that analyse skin and recommend routines. Show design details that suggest: skin imaging, tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0615 · Connected toothbrushes
