@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**23 products still need a photo** (624 done). One prompt per product, ready to copy.
+**18 products still need a photo** (629 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -80,42 +80,7 @@ Studio product photo: Autonomous navigation sensors. Lidar, radar and IMU sensor
 
 ---
 
-## Travel, Outdoor & Adventure Tech (7)
-
-### ST-0580 · Personal weather meters
-- [ ] File: `personal-weather-meters.jpg`
-
-```
-Studio product photo: Personal weather meters. Pocket meters for wind, temperature and humidity. Show design details that suggest: anemometer, temperature, humidity. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0581 · Smart bike lights
-- [ ] File: `smart-bike-lights.jpg`
-
-```
-Studio product photo: Smart bike lights. Bike lights that adapt to speed and ambient light. Show design details that suggest: auto brightness, brake light, usb-c. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0582 · Waterproof camera housings
-- [ ] File: `waterproof-camera-housings.jpg`
-
-```
-Studio product photo: Waterproof camera housings. Show design details that suggest: 40–60m depth, button access, clear optics. No brand name or text on the body, top plate or lens ring. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0583 · Portable water-quality meters
-- [ ] File: `portable-water-quality-meters.jpg`
-
-```
-Studio product photo: Portable water-quality meters. Meters testing TDS, pH and water safety. Show design details that suggest: tds / ph / ec, digital display, calibration. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0584 · Digital camping thermometers
-- [ ] File: `digital-camping-thermometers.jpg`
-
-```
-Studio product photo: Digital camping thermometers. Thermometers for camping and cooking outdoors. Show design details that suggest: digital, waterproof, probe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Travel, Outdoor & Adventure Tech (2)
 
 ### ST-0585 · Electronic navigation compasses
 - [ ] File: `electronic-navigation-compasses.jpg`
