@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**28 products still need a photo** (619 done). One prompt per product, ready to copy.
+**23 products still need a photo** (624 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -80,42 +80,7 @@ Studio product photo: Autonomous navigation sensors. Lidar, radar and IMU sensor
 
 ---
 
-## Travel, Outdoor & Adventure Tech (12)
-
-### ST-0575 · Solar camping chargers
-- [ ] File: `solar-camping-chargers.jpg`
-
-```
-Studio product photo: Solar camping chargers. Show design details that suggest: solar panel, usb outputs, foldable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0576 · Compact camping projectors
-- [ ] File: `compact-camping-projectors.jpg`
-
-```
-Studio product photo: Compact camping projectors. Battery projectors for movie nights outdoors. Show design details that suggest: battery, speaker, compact. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0577 · Thermal monoculars
-- [ ] File: `thermal-monoculars.jpg`
-
-```
-Studio product photo: Thermal monoculars. Handheld thermal viewers for wildlife and search. Show design details that suggest: thermal sensor, recording, rangefinder options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0578 · Digital night-vision viewers
-- [ ] File: `digital-night-vision-viewers.jpg`
-
-```
-Studio product photo: Digital night-vision viewers. Digital night-vision binoculars and monoculars. Show design details that suggest: ir illuminator, recording, zoom. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0579 · Portable weather stations
-- [ ] File: `portable-weather-stations.jpg`
-
-```
-Studio product photo: Portable weather stations. Weather stations measuring wind, temperature and pressure. Show design details that suggest: wind / temp / humidity, barometer, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Travel, Outdoor & Adventure Tech (7)
 
 ### ST-0580 · Personal weather meters
 - [ ] File: `personal-weather-meters.jpg`
