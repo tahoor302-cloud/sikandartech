@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**94 products still need a photo** (553 done). One prompt per product, ready to copy.
+**89 products still need a photo** (558 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,48 +34,13 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## TVs, Displays & Projectors (8)
+## TVs, Displays & Projectors (3)
 
 ### ST-0425 · Tri-fold portable projectors
 - [ ] File: `tri-fold-portable-projectors.jpg`
 
 ```
 Studio product photo: Tri-fold portable projectors. Novel folding projectors for flexible placement. Show design details that suggest: folding design, smart os, auto keystone. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0432 · Digital photo frames
-- [ ] File: `digital-photo-frames.jpg`
-
-```
-Studio product photo: Digital photo frames. Wi-Fi frames that display shared family photos. Show design details that suggest: 10–15" hd, wi-fi sharing, auto rotate. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0433 · E-ink signage
-- [ ] File: `e-ink-signage.jpg`
-
-```
-Studio product photo: E-ink signage. Low-power E-ink signs for retail and offices. Show design details that suggest: e-ink, months of battery, wireless updates. The screen shows a simple soft abstract pattern, no book page, no comic, no writing, no page numbers. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0434 · Portable projection screens
-- [ ] File: `portable-projection-screens.jpg`
-
-```
-Studio product photo: Portable projection screens. Foldable and pull-up screens for projectors. Show design details that suggest: 80–150", tripod / pull-up, gain coating. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0435 · Wireless HDMI systems
-- [ ] File: `wireless-hdmi-systems.jpg`
-
-```
-Studio product photo: Wireless HDMI systems. Send HDMI video wirelessly from source to display. Show design details that suggest: 1080p / 4k, low latency, 30–200m. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0436 · Streaming media players
-- [ ] File: `streaming-media-players.jpg`
-
-```
-Studio product photo: Streaming media players. Streaming boxes and sticks for 4K apps. Show design details that suggest: 4k hdr, wi-fi 6. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0437 · Home theater receivers
