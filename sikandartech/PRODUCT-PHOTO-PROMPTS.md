@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**107 products still need a photo** (540 done). One prompt per product, ready to copy.
+**102 products still need a photo** (545 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,42 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## TVs, Displays & Projectors (21)
-
-### ST-0417 · 4K televisions
-- [ ] File: `4k-televisions.jpg`
-
-```
-Studio product photo: 4K televisions. Smart 4K TVs with HDR and streaming apps. Show design details that suggest: 4k hdr, smart os, 43–85". Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0418 · 8K televisions
-- [ ] File: `8k-televisions.jpg`
-
-```
-Studio product photo: 8K televisions. Ultra-high-resolution 8K TVs with AI upscaling. Show design details that suggest: 8k, 65–98", hdmi 2.1. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0419 · Transparent-display concepts
-- [ ] File: `transparent-display-concepts.jpg`
-
-```
-Studio product photo: Transparent-display concepts. Transparent OLED and LED displays for retail and design. Show design details that suggest: transparent panel, see-through, commercial use. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0420 · Wallpaper-thin OLED displays
-- [ ] File: `wallpaper-thin-oled-displays.jpg`
-
-```
-Studio product photo: Wallpaper-thin OLED displays. Ultra-slim OLED TVs that mount flat to the wall. Show design details that suggest: ultra-slim, flush wall mount, wireless connect box. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0421 · Ultra-short-throw projectors
-- [ ] File: `ultra-short-throw-projectors.jpg`
-
-```
-Studio product photo: Ultra-short-throw projectors. Projectors that sit just inches from the wall for a 100"+ picture. Show design details that suggest: 4k laser, 80–150" image, built-in speakers. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## TVs, Displays & Projectors (16)
 
 ### ST-0423 · Portable laser projectors
 - [ ] File: `portable-laser-projectors.jpg`
