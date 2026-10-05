@@ -10,7 +10,7 @@ function renderMissing() {
     <h1 style="font-family:var(--f-display);font-size:1.6rem;margin-bottom:10px">Product not found</h1>
     <p>This product link is no longer valid. Browse the shop, or ask us on WhatsApp and we will source it.</p>
     <div class="state-actions"><a class="btn" href="${URLS.shop()}">Browse the shop</a>
-    <a class="btn btn-line" href="${waLink("Hi SikandarTech, I am looking for a product.")}" target="_blank" rel="noopener">Ask on WhatsApp</a></div></div>`;
+    <a class="btn btn-line" href="${waLink("Hello SikandarTech,\n\nI am looking for a product that I could not find on your website. Could you please help me source it?\n\nThank you.")}" target="_blank" rel="noopener">Ask on WhatsApp</a></div></div>`;
 }
 
 function render(p) {
@@ -47,14 +47,18 @@ function render(p) {
   const unique = (idx < 0 ? related : [...related.slice(idx), ...related.slice(0, idx)]).slice(0, 4);
   $("pdp-related").innerHTML = unique.map((x, i) => productCard(x)).join("");
 
-  $("pdp-wa").href = waLink(`Hi SikandarTech, I'm interested in: ${p.name} (${productCode(p)}, ${c.name}). Please share options, price, MOQ and shipping.`);
+  const waBtn = $("pdp-wa");
+  waBtn.href = waLink(productMessage(p, 1));
+  // Keep the quantity in the WhatsApp message in step with the selector
+  const syncWa = () => (waBtn.href = waLink(productMessage(p, Math.max(1, parseInt($("qty").value, 10) || 1))));
 
   // Quantity + quote
   const qty = $("qty");
-  const clamp = () => (qty.value = Math.max(1, Math.min(999999, parseInt(qty.value, 10) || 1)));
+  const clamp = () => { qty.value = Math.max(1, Math.min(999999, parseInt(qty.value, 10) || 1)); syncWa(); };
   $("qty-minus").onclick = () => { qty.value = (parseInt(qty.value, 10) || 1) - 1; clamp(); };
   $("qty-plus").onclick = () => { qty.value = (parseInt(qty.value, 10) || 1) + 1; clamp(); };
   qty.addEventListener("change", clamp);
+  qty.addEventListener("input", syncWa);
   $("pdp-quote").addEventListener("click", (e) => {
     clamp();
     Store.addQuote(p.id, Number(qty.value));

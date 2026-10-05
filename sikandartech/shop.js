@@ -98,7 +98,7 @@ function syncUrl() {
 
 function emptyState() {
   const where = state.cat === "all" ? "the shop" : catById[state.cat].name;
-  const ask = waLink(`Hi SikandarTech, I am looking for: ${state.q || "a product"}`);
+  const ask = waLink(`Hello SikandarTech,\n\nI am looking for: ${state.q || "a product"}\nI could not find it on your website. Could you please help me source it?\n\nThank you.`);
   return `<div class="empty">
     ${iconSvg("search")}
     <h2>No products found${state.q ? ` for “${esc(state.q)}”` : ""}</h2>

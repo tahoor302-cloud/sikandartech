@@ -147,11 +147,17 @@ function closeDrawer() {
 }
 
 function quoteMessage() {
-  const lines = Store.quote().map((i, n) => {
+  const items = Store.quote();
+  const lines = items.map((i, n) => {
     const p = productById[i.id];
-    return `${n + 1}. ${p.name} (${catById[p.cat].name}) x ${i.qty}`;
+    return `${n + 1}. ${p.name} (${productCode(p)})\n   Category: ${catById[p.cat].name}\n   Quantity: ${i.qty}\n   ${productPageUrl(p.id)}`;
   });
-  return `Hi SikandarTech, I would like a quotation for:\n${lines.join("\n")}\n\nPlease share price, MOQ and shipping to my country.`;
+  return `Hello SikandarTech,\n\nI would like to request a quotation for the following ${items.length === 1 ? "product" : `${items.length} products`}:\n\n${lines.join("\n\n")}\n\nPlease share pricing, MOQ, lead time and shipping options to my country.\n\nThank you.`;
+}
+
+function productMessage(p, qty) {
+  const c = catById[p.cat];
+  return `${productPageUrl(p.id)}\n\nHello SikandarTech,\n\nI would like to request a quotation for:\n\nProduct: ${p.name}\nProduct code: ${productCode(p)}\nCategory: ${c.name}${qty ? `\nQuantity: ${qty}` : ""}\n\nPlease share pricing, MOQ, lead time and shipping options to my country.\n\nThank you.`;
 }
 
 function renderDrawer() {
@@ -242,7 +248,7 @@ modal.innerHTML = `
         <button class="btn" id="modal-quote">Add to quote list</button>
         <button class="icon-btn" id="modal-save" aria-label="Save">${iconSvg("heart")}</button>
         <a class="btn btn-line" id="modal-full" href="${URLS.shop()}">Full details</a>
-        <a class="btn btn-line" id="modal-wa" href="${waLink("Hi SikandarTech, I need a quote.")}" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask now</a>
+        <a class="btn btn-line" id="modal-wa" href="${waLink("Hello SikandarTech,\n\nI would like to request a quotation.\n\nThank you.")}" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask now</a>
       </div>
     </div>
   </div>
@@ -263,7 +269,7 @@ function openProduct(id) {
   $("modal-desc").textContent = p.desc;
   $("modal-specs").innerHTML = specRows(p).map(([k, v]) => `<li><span>${esc(k)}</span>${esc(v)}</li>`).join("");
   $("modal-full").href = URLS.product(p.id);
-  $("modal-wa").href = waLink(`Hi SikandarTech, I want a quote for: ${p.name} (${c.name}). Please share price, MOQ and shipping.`);
+  $("modal-wa").href = waLink(productMessage(p));
   const saved = Store.isSaved(p.id);
   $("modal-save").classList.toggle("is-on", saved);
   $("modal-save").setAttribute("aria-pressed", saved);

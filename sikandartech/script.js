@@ -2,8 +2,8 @@
 // whatsapp: country code + number, digits only (used for wa.me links)
 // Leave wechat, phone or tiktok empty ("") to hide that item.
 const CONTACT = {
-  whatsapp: "923022225991",
-  whatsappDisplay: "+92 302 222 5991",
+  whatsapp: "8613640225991", // China WhatsApp: receives all quote requests and enquiries
+  whatsappDisplay: "+86 136 4022 5991",
   wechat: "+92 302 222 5991",
   phone: "+86 136 4022 5991", // China phone
   email: "info@sikandartech.com",
@@ -24,6 +24,9 @@ const URLS = {
 };
 
 const waLink = (text) => `https://wa.me/${CONTACT.whatsapp}?text=${encodeURIComponent(text)}`;
+// Full address of a product page. WhatsApp turns the first link in a message into a preview
+// with the product photo (from the page's og:image), so Sikandar sees the picture with the request.
+const productPageUrl = (id) => new URL(URLS.product(id), location.href).href;
 const tiktokUrl = () => "https://www.tiktok.com/@" + CONTACT.tiktok.replace(/^@/, "");
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]);
@@ -96,14 +99,16 @@ if (contactForm) {
     });
     if (!ok) return;
     const text =
+      `Hello SikandarTech,\n\nI would like a quotation.\n\n` +
       `Name: ${d.get("name")}\nContact: ${d.get("contact")}\n` +
-      `Product: ${d.get("product") || "-"}\nMessage: ${d.get("message") || "-"}`;
+      `Product: ${d.get("product") || "-"}\nDetails: ${d.get("message") || "-"}\n\n` +
+      `Please share pricing, MOQ, lead time and shipping options.\n\nThank you.`;
     window.open(waLink(text), "_blank", "noopener");
   });
 }
 
 // ---------- Contact details ----------
-const hello = waLink("Hi SikandarTech, I need help sourcing a product.");
+const hello = waLink("Hello SikandarTech,\n\nI would like help sourcing a product. Could you please assist?\n\nThank you.");
 document.querySelectorAll("[data-wa]").forEach((a) => (a.href = hello));
 if ($("whatsapp-link")) $("whatsapp-link").textContent = CONTACT.whatsappDisplay;
 if ($("wechat-id")) {
