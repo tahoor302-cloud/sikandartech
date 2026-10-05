@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**144 products still need a photo** (503 done). One prompt per product, ready to copy.
+**139 products still need a photo** (508 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,48 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (7)
+## Smart Kitchen & Home Appliances (2)
 
 ### ST-0321 · Smart washing machines
 - [ ] File: `smart-washing-machines.jpg`
 
 ```
 Studio product photo: Smart washing machines. Washers with AI wash cycles and auto dosing. Show design details that suggest: auto dosing, steam. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0324 · Portable air conditioners
-- [ ] File: `portable-air-conditioners.jpg`
-
-```
-Studio product photo: Portable air conditioners. Movable AC units with Wi-Fi control. Show design details that suggest: 9000–14000 btu, wi-fi, dehumidify. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0325 · Smart fans
-- [ ] File: `smart-fans.jpg`
-
-```
-Studio product photo: Smart fans. Quiet DC fans with app, voice and auto modes. Show design details that suggest: dc motor, oscillation, air circulator. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0326 · Smart water dispensers
-- [ ] File: `smart-water-dispensers.jpg`
-
-```
-Studio product photo: Smart water dispensers. Hot and cold water dispensers with filtration. Show design details that suggest: instant hot, filtration, child lock. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0327 · Automatic garment steamers
-- [ ] File: `automatic-garment-steamers.jpg`
-
-```
-Studio product photo: Automatic garment steamers. Steamers that refresh clothes quickly. Show design details that suggest: fast heat-up, vertical steaming, large tank. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0328 · Smart clothing-care systems
-- [ ] File: `smart-clothing-care-systems.jpg`
-
-```
-Studio product photo: Smart clothing-care systems. Cabinets that refresh, sanitise and de-wrinkle clothes. Show design details that suggest: steam refresh, sanitise, gentle dry. Shown on a plain grey mannequin form, no head, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0329 · UV-cleaning home devices
