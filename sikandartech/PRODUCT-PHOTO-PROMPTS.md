@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**98 products still need a photo** (549 done). One prompt per product, ready to copy.
+**94 products still need a photo** (553 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,41 +34,13 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## TVs, Displays & Projectors (12)
+## TVs, Displays & Projectors (8)
 
 ### ST-0425 · Tri-fold portable projectors
 - [ ] File: `tri-fold-portable-projectors.jpg`
 
 ```
 Studio product photo: Tri-fold portable projectors. Novel folding projectors for flexible placement. Show design details that suggest: folding design, smart os, auto keystone. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0428 · 3D projectors
-- [ ] File: `3d-projectors.jpg`
-
-```
-Studio product photo: 3D projectors. Projectors that play 3D movies with active glasses. Show design details that suggest: 3d ready, 1080p / 4k, low latency. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0429 · Digital signage displays
-- [ ] File: `digital-signage-displays.jpg`
-
-```
-Studio product photo: Digital signage displays. Commercial displays for retail, menus and lobbies. Show design details that suggest: 24/7 rated, high brightness, cms. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0430 · Interactive commercial displays
-- [ ] File: `interactive-commercial-displays.jpg`
-
-```
-Studio product photo: Interactive commercial displays. Touch displays for meeting rooms and classrooms. Show design details that suggest: 4k touch, whiteboard, wireless share. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0431 · Large-format touchscreens
-- [ ] File: `large-format-touchscreens.jpg`
-
-```
-Studio product photo: Large-format touchscreens. Large multi-touch screens for kiosks and collaboration. Show design details that suggest: 43–98", 20+ touch points, anti-glare. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0432 · Digital photo frames
