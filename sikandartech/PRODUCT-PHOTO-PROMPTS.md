@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**46 products still need a photo** (601 done). One prompt per product, ready to copy.
+**42 products still need a photo** (605 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -189,41 +189,13 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 
 ---
 
-## Cleaning, Personal Care & Beauty Tech (18)
-
-### ST-0605 · AI-enabled robotic vacuums
-- [ ] File: `ai-enabled-robotic-vacuums.jpg`
-
-```
-Studio product photo: AI-enabled robotic vacuums. Robot vacuums with AI object recognition and smart mapping. Show design details that suggest: lidar, self-empty. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0606 · UV air-cleaning appliances
-- [ ] File: `uv-air-cleaning-appliances.jpg`
-
-```
-Studio product photo: UV air-cleaning appliances. Air cleaners that use UV-C with filtration. Show design details that suggest: uv-c, hepa, quiet. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Cleaning, Personal Care & Beauty Tech (14)
 
 ### ST-0607 · Smart hair dryers
 - [ ] File: `smart-hair-dryers.jpg`
 
 ```
 Studio product photo: Smart hair dryers. Fast dryers with heat control to protect hair. Show design details that suggest: 110,000 rpm, heat control, ionic. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0608 · High-speed hair stylers
-- [ ] File: `high-speed-hair-stylers.jpg`
-
-```
-Studio product photo: High-speed hair stylers. Multi-stylers that dry, curl and smooth. Show design details that suggest: air styling, multiple attachments, heat control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0609 · Smart hair straighteners
-- [ ] File: `smart-hair-straighteners.jpg`
-
-```
-Studio product photo: Smart hair straighteners. Straighteners with temperature sensing to reduce damage. Show design details that suggest: smart heat, ceramic plates, auto off. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0610 · Compact travel hair stylers
