@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**173 products still need a photo** (474 done). One prompt per product, ready to copy.
+**169 products still need a photo** (478 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -591,41 +591,13 @@ Studio product photo: AV processors. High-end surround processors for separates 
 
 ---
 
-## Maker Tech, 3D Printing & Engineering (8)
-
-### ST-0514 · USB test instruments
-- [ ] File: `usb-test-instruments.jpg`
-
-```
-Studio product photo: USB test instruments. USB-powered testers, meters and analysers. Show design details that suggest: usb powered, compact, multi-function. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0515 · Programmable DC power supplies
-- [ ] File: `programmable-dc-power-supplies.jpg`
-
-```
-Studio product photo: Programmable DC power supplies. Lab power supplies with programmable output. Show design details that suggest: 0–30v / 0–10a, programmable, display. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0516 · Raspberry Pi boards
-- [ ] File: `raspberry-pi-boards.jpg`
-
-```
-Studio product photo: Single-board computer. A credit-card-size single-board computer on a matte black circuit board (not green), silver processor heat spreader, a row of gold header pins along one edge, USB and Ethernet ports. Show design details that suggest: quad-core arm, gpio, hdmi. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Maker Tech, 3D Printing & Engineering (4)
 
 ### ST-0517 · Arduino development boards
 - [ ] File: `arduino-development-boards.jpg`
 
 ```
 Studio product photo: Microcontroller development board. A small microcontroller board on a dark blue-grey circuit board, black chip in the centre, black header sockets along both edges, a tiny reset button and a USB-C port. Show design details that suggest: avr / arm mcu, shields, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0518 · ESP32 development boards
-- [ ] File: `esp32-development-boards.jpg`
-
-```
-Studio product photo: ESP32 development boards. Wi-Fi and Bluetooth MCU boards for IoT. Show design details that suggest: wi-fi + ble, dual core, low power. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0519 · AI edge-computing kits
