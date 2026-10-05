@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**86 products still need a photo** (561 done). One prompt per product, ready to copy.
+**81 products still need a photo** (566 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,42 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## Future & Emerging Technology (26)
-
-### ST-0528 · Humanoid service robots
-- [ ] File: `humanoid-service-robots.jpg`
-
-```
-Studio product photo: Humanoid service robots. Humanoid robots designed for service tasks in retail, hospitality and logistics. Show design details that suggest: bipedal, manipulation, pilot programs. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0529 · General-purpose household robots
-- [ ] File: `general-purpose-household-robots.jpg`
-
-```
-Studio product photo: General-purpose household robots. Robots aiming to do chores like tidying, laundry and fetching. Show design details that suggest: mobile manipulation, home navigation, early stage. Standing on a light grey floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0530 · Autonomous mobile manipulators
-- [ ] File: `autonomous-mobile-manipulators.jpg`
-
-```
-Studio product photo: Autonomous mobile manipulators. Mobile robots with arms for picking and handling tasks. Show design details that suggest: mobile base, robotic arm, research / pilot. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0531 · Consumer exoskeletons
-- [ ] File: `consumer-exoskeletons.jpg`
-
-```
-Studio product photo: Consumer exoskeletons. Lightweight exoskeletons to assist hiking and walking. Show design details that suggest: hip assist, lightweight, battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0532 · Powered mobility-assistance systems
-- [ ] File: `powered-mobility-assistance-systems.jpg`
-
-```
-Studio product photo: Powered mobility-assistance systems. Advanced powered devices to help people stand and move. Show design details that suggest: powered assist, safety sensors, adjustable. Full product visible, side three-quarter view. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Future & Emerging Technology (21)
 
 ### ST-0533 · Brain-computer interface research devices
 - [ ] File: `brain-computer-interface-research-devices.jpg`
