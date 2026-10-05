@@ -7,22 +7,11 @@ const pick = (ids) => ids.map((id) => productById[id]).filter((p) => p && NO_PHO
 (function hero() {
   const hp = productById["noise-cancelling-headphones"];
   document.querySelectorAll("[data-spec]").forEach((el) => (el.textContent = hp.specs[el.dataset.spec] || ""));
-  $("hero-caption").textContent = `${productCode(hp)} · ${hp.name} · illustration`;
+  $("hero-caption").textContent = `${productCode(hp)} · ${hp.name}`;
   $("stat-products").textContent = Math.floor(PRODUCTS.length / 10) * 10 + "+";
   $("stat-cats").textContent = CATEGORIES.length;
   $("stat-products-2").textContent = PRODUCTS.length;
 
-  if (MEDIA.hero) {
-    const img = new Image();
-    img.className = "hero-photo";
-    img.alt = hp.name;
-    img.onload = () => {
-      $("hero-tilt").prepend(img);
-      $("hero-tilt").classList.add("has-photo");
-      $("hero-caption").textContent = `${productCode(hp)} · ${hp.name}`;
-    };
-    img.src = MEDIA.hero;
-  }
 
   // Opening sequence: frame -> light -> headline + product -> copy -> specs
   const steps = REDUCED ? [0, 0, 0, 0, 0] : [0, 250, 600, 1150, 1500];
@@ -64,7 +53,7 @@ const pick = (ids) => ids.map((id) => productById[id]).filter((p) => p && NO_PHO
 
 // ---------- Ticker ----------
 (function ticker() {
-  const items = CATEGORIES.map((c) => `<a href="products.html?cat=${c.id}">${esc(c.name)}</a>`).join("");
+  const items = CATEGORIES.map((c) => `<a href="${URLS.cat(c.id)}">${esc(c.name)}</a>`).join("");
   $("ticker").innerHTML = items + items.replace(/<a /g, '<a tabindex="-1" aria-hidden="true" ');
 })();
 
@@ -145,9 +134,9 @@ const pick = (ids) => ids.map((id) => productById[id]).filter((p) => p && NO_PHO
   $("cat-feature").innerHTML = featured
     .map((id, i) => {
       const c = catById[id];
-      return `<a class="cat-big s${i + 1} rv${c.photo ? " has-photo" : ""}" style="--c:${c.color};--d:${i * 0.06}s" href="products.html?cat=${c.id}">
+      return `<a class="cat-big s${i + 1} rv${c.photo ? " has-photo" : ""}" style="--c:${c.color};--d:${i * 0.06}s" href="${URLS.cat(c.id)}">
         ${c.photo
-          ? `<div class="art photo"><img src="${c.photo}" alt="" loading="lazy" decoding="async"></div>`
+          ? `<div class="art photo"><img src="${URLS.asset(c.photo)}" alt="" width="1200" height="900" loading="lazy" decoding="async"></div>`
           : `<div class="art" style="--c:${c.color}"><span class="art-ring"></span>${iconSvg(c.icon, "art-icon")}</div>`}
         <span class="go">${iconSvg("arrow-right")}</span>
         <span class="cat-copy">
@@ -159,10 +148,9 @@ const pick = (ids) => ids.map((id) => productById[id]).filter((p) => p && NO_PHO
     })
     .join("");
   $("cat-index").innerHTML = CATEGORIES.map(
-    (c, i) => `<a class="cat-row" style="--c:${c.color}" href="products.html?cat=${c.id}">
+    (c, i) => `<a class="cat-row" style="--c:${c.color}" href="${URLS.cat(c.id)}">
       <span class="n">${String(i + 1).padStart(2, "0")}</span>${iconSvg(c.icon, "i")}<span class="t">${esc(c.name)}</span><span class="c">${c.count}</span></a>`
   ).join("");
-  $("footer-cats").innerHTML = featured.map((id) => `<li><a href="products.html?cat=${id}">${esc(catById[id].name)}</a></li>`).join("");
   $("product-names").innerHTML = PRODUCTS.filter(NO_PHONE).map((p) => `<option value="${esc(p.name)}">`).join("");
 })();
 

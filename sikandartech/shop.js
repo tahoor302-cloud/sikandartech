@@ -1,101 +1,164 @@
-// Catalogue page. Shared product UI lives in shop-core.js.
+// Shop and category pages (shop/, category/<id>/). Shared product UI lives in shop-core.js.
+// The category comes from the page itself; search, availability and sorting stay in the URL
+// query (?q=, ?status=, ?sort=) so filtered views can be shared.
 const PAGE_SIZE = 36;
 const params = new URLSearchParams(location.search);
+const pageCat = catById[document.body.dataset.cat] ? document.body.dataset.cat : "all";
+
+// Old links such as shop/?cat=audio go to the category page
+if (pageCat === "all" && catById[params.get("cat")]) {
+  const rest = new URLSearchParams(params);
+  rest.delete("cat");
+  const qs = rest.toString();
+  location.replace(URLS.cat(params.get("cat")) + (qs ? "?" + qs : "") + location.hash);
+}
+
+const SORTS = ["featured", "az", "available"];
 const state = {
-  cat: catById[params.get("cat")] ? params.get("cat") : "all",
+  cat: pageCat,
   status: STATUS_LABEL[params.get("status")] ? params.get("status") : "all",
-  q: params.get("q") || "",
-  shown: PAGE_SIZE
+  sort: SORTS.includes(params.get("sort")) ? params.get("sort") : "featured",
+  q: (params.get("q") || "").slice(0, 80),
+  shown: PAGE_SIZE,
+  fuzzy: false
 };
 
+// ---------- Search ----------
+const norm = (s) => s.toLowerCase().normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/[^a-z0-9+.]+/g, " ").trim();
+const haystack = new Map(PRODUCTS.map((p) => [p.id, norm(`${p.name} ${p.desc} ${p.specs.join(" ")} ${catById[p.cat].name}`)]));
+const vocab = [...new Set([...haystack.values()].join(" ").split(" ").filter((w) => w.length > 2))];
+
+// Edit distance (bounded) for typo tolerance: "hedphones" finds "headphones"
+function close(a, b, max) {
+  if (Math.abs(a.length - b.length) > max) return false;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    let best = i;
+    for (let j = 1; j <= b.length; j++) {
+      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+      best = Math.min(best, cur[j]);
+    }
+    if (best > max) return false;
+    prev = cur;
+  }
+  return prev[b.length] <= max;
+}
+
+function matcher(words) {
+  const res = words.map((w) => new RegExp("(^|\\s)" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")));
+  return (text) => res.every((r) => r.test(text));
+}
+
 function filtered() {
-  // Each search word must match the start of a word; products whose name matches rank first
-  const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
-  const res = words.map((w) => new RegExp("\\b" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")));
-  const list = [];
-  PRODUCTS.forEach((p, i) => {
-    if (state.cat !== "all" && p.cat !== state.cat) return;
-    if (state.status !== "all" && p.status !== state.status) return;
-    if (!res.length) return list.push({ p, score: 0, i });
-    const name = p.name.toLowerCase();
-    const hay = (name + " " + p.desc + " " + p.specs.join(" ") + " " + catById[p.cat].name).toLowerCase();
-    if (!res.every((r) => r.test(hay))) return;
-    list.push({ p, score: res.filter((r) => r.test(name)).length, i });
-  });
-  return list.sort((a, b) => b.score - a.score || a.i - b.i).map((x) => x.p);
+  state.fuzzy = false;
+  const base = PRODUCTS.filter((p) => (state.cat === "all" || p.cat === state.cat) && (state.status === "all" || p.status === state.status));
+  let words = norm(state.q).split(" ").filter(Boolean);
+  let list = base;
+  if (words.length) {
+    let test = matcher(words);
+    list = base.filter((p) => test(haystack.get(p.id)));
+    if (!list.length) {
+      // No exact match: replace each word with the closest catalogue words
+      const alts = words.map((w) => (w.length < 4 ? [w] : vocab.filter((v) => close(w, v, w.length > 6 ? 2 : 1)).slice(0, 6)));
+      if (alts.every((a) => a.length)) {
+        list = base.filter((p) => alts.every((a) => a.some((w) => matcher([w])(haystack.get(p.id)))));
+        state.fuzzy = list.length > 0;
+        if (state.fuzzy) words = alts.flat();
+      }
+    }
+    // Products whose name matches rank first
+    const nameScore = (p) => words.filter((w) => norm(p.name).includes(w)).length;
+    list = list.map((p, i) => ({ p, i, s: nameScore(p) })).sort((a, b) => b.s - a.s || a.i - b.i).map((x) => x.p);
+  }
+  if (state.sort === "az") list = [...list].sort((a, b) => a.name.localeCompare(b.name));
+  if (state.sort === "available") {
+    const rank = { available: 0, coming: 1, emerging: 2 };
+    list = [...list].sort((a, b) => rank[a.status] - rank[b.status]);
+  }
+  return list;
 }
 
 function syncUrl() {
   const u = new URLSearchParams();
-  if (state.cat !== "all") u.set("cat", state.cat);
-  if (state.status !== "all") u.set("status", state.status);
   if (state.q) u.set("q", state.q);
+  if (state.status !== "all") u.set("status", state.status);
+  if (state.sort !== "featured") u.set("sort", state.sort);
   const qs = u.toString();
   history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash);
+  // Filtered views are not separate pages for search engines
+  let robots = document.querySelector('meta[name="robots"]');
+  if (qs && !robots) {
+    robots = document.createElement("meta");
+    robots.name = "robots";
+    document.head.appendChild(robots);
+  }
+  if (robots) robots.content = qs ? "noindex, follow" : "index, follow";
 }
 
-function renderCats() {
-  const item = (id, name, count, icon, color) =>
-    `<button class="cat-btn" data-cat="${id}" style="--c:${color}" aria-pressed="false">${iconSvg(icon, "ci")}<span class="cn">${esc(name)}</span><span class="cc">${count}</span></button>`;
-  const html = item("all", "All products", PRODUCTS.length, "layout-grid", "#eef0f3") + CATEGORIES.map((c) => item(c.id, c.name, c.count, c.icon, c.color)).join("");
-  $("cat-list").innerHTML = html;
-  $("cat-chips").innerHTML = html;
+function emptyState() {
+  const where = state.cat === "all" ? "the shop" : catById[state.cat].name;
+  const ask = waLink(`Hi SikandarTech, I am looking for: ${state.q || "a product"}`);
+  return `<div class="empty">
+    ${iconSvg("search")}
+    <h2>No products found${state.q ? ` for “${esc(state.q)}”` : ""}</h2>
+    <p>Nothing in ${esc(where)} matches${state.status !== "all" ? ` with “${esc(STATUS_LABEL[state.status])}”` : ""}. Try a shorter search or clear the filters. We can also source products that are not listed.</p>
+    <div class="state-actions">
+      <button class="btn btn-line btn-sm" type="button" data-clear-filters>Clear filters</button>
+      ${state.cat !== "all" ? `<a class="btn btn-line btn-sm" href="${URLS.shop()}${state.q ? "?q=" + encodeURIComponent(state.q) : ""}">Search all categories</a>` : ""}
+      <a class="btn btn-sm" href="${ask}" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask us to source it</a>
+    </div>
+  </div>`;
 }
 
 function render({ animate = true } = {}) {
   const list = filtered();
-  const c = catById[state.cat];
-  $("shop-title").innerHTML = `<span class="mask in"><span>${esc(c ? c.name : "All products")}</span></span>`;
-  $("shop-kicker").textContent = c ? `Collection / ${String(CATEGORIES.indexOf(c) + 1).padStart(2, "0")}` : "Collection";
-  $("shop-tagline").textContent = c ? c.tagline : "Advanced tech and gadgets sourced direct from China, with quality inspection and worldwide shipping.";
-  document.title = (c ? c.name : "Product Catalogue") + " | SikandarTech";
-  const media = $("shop-hero-media");
-  media.hidden = !(c && c.photo);
-  media.parentElement.classList.toggle("has-media", !!(c && c.photo));
-  media.innerHTML = c && c.photo ? `<img src="${c.photo}" alt="${esc(c.name)}" width="1200" height="900">` : "";
-
-  $("shop-count").textContent = `${list.length} product${list.length === 1 ? "" : "s"}${state.q ? ` for “${state.q}”` : ""}`;
-  $("shop-grid").innerHTML = list.length
+  const n = list.length;
+  $("shop-count").textContent = `${n} product${n === 1 ? "" : "s"}${state.q ? ` for “${state.q}”` : ""}${state.fuzzy ? " (closest matches)" : ""}`;
+  $("shop-grid").innerHTML = n
     ? list.slice(0, state.shown).map((p, i) => productCard(p, { reveal: animate, delay: (i % 3) * 0.06 })).join("")
-    : `<div class="empty"><p>No products match. Try another search, or <a href="${waLink(`Hi SikandarTech, I am looking for: ${state.q}`)}" target="_blank" rel="noopener">ask us on WhatsApp</a>. We can source almost anything.</p></div>`;
-  $("load-more").hidden = list.length <= state.shown;
-  $("load-more").textContent = `Load more (${list.length - state.shown} left)`;
-
-  document.querySelectorAll("[data-cat]").forEach((b) => {
-    const on = b.dataset.cat === state.cat;
-    b.classList.toggle("active", on);
-    b.setAttribute("aria-pressed", on);
-  });
+    : emptyState();
+  const more = $("load-more");
+  more.hidden = n <= state.shown;
+  more.textContent = `Load more (${n - state.shown} left)`;
   document.querySelectorAll("#status-filter [data-status]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.status === state.status));
+  $("shop-sort").value = state.sort;
   syncUrl();
   observeReveals($("shop-grid"));
 }
 
 document.addEventListener("click", (e) => {
-  const catBtn = e.target.closest("[data-cat]");
-  if (catBtn) {
-    state.cat = catBtn.dataset.cat;
-    state.shown = PAGE_SIZE;
-    render();
-    const top = document.querySelector(".shop").offsetTop - 70;
-    if (window.scrollY > top) window.scrollTo({ top, behavior: REDUCED ? "auto" : "smooth" });
-    return;
-  }
   const st = e.target.closest("#status-filter [data-status]");
   if (st) {
     state.status = st.dataset.status;
     state.shown = PAGE_SIZE;
     render();
   }
+  if (e.target.closest("[data-clear-filters]")) {
+    state.q = "";
+    state.status = "all";
+    state.shown = PAGE_SIZE;
+    $("shop-search").value = "";
+    render();
+    $("shop-search").focus();
+  }
+});
+$("shop-sort").addEventListener("change", (e) => {
+  state.sort = e.target.value;
+  state.shown = PAGE_SIZE;
+  render({ animate: false });
 });
 let searchTimer;
 $("shop-search").addEventListener("input", (e) => {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(() => {
-    state.q = e.target.value.trim();
+    state.q = e.target.value.trim().slice(0, 80);
     state.shown = PAGE_SIZE;
     render();
   }, 160);
+});
+$("shop-search").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") e.target.blur();
 });
 $("load-more").addEventListener("click", () => {
   const before = state.shown;
@@ -106,6 +169,14 @@ $("load-more").addEventListener("click", () => {
 });
 
 $("shop-search").value = state.q;
-$("shop-search").placeholder = `Search ${PRODUCTS.length} products...`;
-renderCats();
-render();
+// Keep the selected category chip in view on small screens
+const activeChip = document.querySelector("#cat-chips .active");
+if (activeChip) {
+  const box = $("cat-chips");
+  box.scrollLeft = activeChip.offsetLeft - box.offsetLeft - (box.clientWidth - activeChip.offsetWidth) / 2;
+}
+render({ animate: false });
+if (location.hash === "#search") {
+  history.replaceState(null, "", location.pathname + location.search);
+  $("shop-search").focus({ preventScroll: true });
+}

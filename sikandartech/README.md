@@ -5,16 +5,23 @@ advanced tech and gadgets sourced from China. White theme, self-hosted fonts, sc
 that respects `prefers-reduced-motion`.
 
 ## Pages
-- `index.html`: home. Cinematic hero, featured product showcase, editorial categories, product showroom,
-  drone story (sticky, scroll-driven), Guangzhou → world route network, about/founder, community, final CTA + contact.
-- `products.html`: full catalogue (647 products, 24 categories) with category sidebar, search,
-  availability filter, quick view, save and quote list. Shareable links: `?cat=audio`, `?q=drone`,
-  `?status=coming`, `#product-id`.
-- `product.html?id=<product-id>`: product detail page for every product: photo, highlights, quantity +
-  quote list, overview, key features, "ideal for", labelled specifications table, sourcing & shipping
-  details, FAQ, related products, printable spec sheet, Product/Breadcrumb structured data.
-- `ugc.html`: community feed (portrait video/image cards with muted autoplay, one-sound-at-a-time,
-  progress, product tag and "Shop this") and the "Share your setup" submission form.
+Every important page has its own crawlable URL, metadata, canonical link and structured data.
+- `index.html`: home (hero, featured products, categories, showroom, drone story, route network, about, community, contact).
+- `shop/`: full catalogue with search (typo tolerant), availability filter, sorting, quick view, save and quote list.
+  Filtered views use the query string (`?q=drone`, `?status=coming`, `?sort=az`) and are marked `noindex`.
+- `category/<category-id>/`: one page per category (24), with the category's products in the HTML.
+- `product/<product-id>/`: one page per product (647): photo, highlights, quantity + quote list, overview,
+  specifications, sourcing & shipping, FAQ, related products, printable spec sheet, Product/Breadcrumb data.
+- `ugc.html`: community feed and the "Share your setup" form.
+- `shipping-returns/`, `privacy/`, `terms/`: policy pages. Text marked **[TO COMPLETE: …]** (yellow on the
+  page) needs your business details before launch.
+- `404.html`: not-found page with search.
+- `products.html` and `product.html` only redirect old links (`?cat=`, `?id=`) to the new URLs.
+
+Pages under `shop/`, `category/`, `product/` and the policy folders are **generated**: do not edit them by hand.
+Run `python3 catalog-src/build.py` after any change to products, `catalog-src/pages.py` (page templates,
+header, footer, policy text) or photos. The build also rewrites the shared header and footer inside
+`index.html` and `ugc.html` (between the `@header` / `@footer` markers) and regenerates `sitemap.xml`.
 
 ## How buying works
 SikandarTech sells on quotation, so there are no online prices or checkout. The bag icon is a
@@ -22,14 +29,14 @@ SikandarTech sells on quotation, so there are no online prices or checkout. The 
 The heart icon saves products. Both are stored in the visitor's browser (localStorage).
 
 ## Files
-- `script.js`: **site settings** (`CONTACT` block: WhatsApp, WeChat, phone, email, socials; `MEDIA` block:
-  hero photo override), header/menu, scroll reveals, contact form
+- `script.js`: **site settings** (`CONTACT` block: WhatsApp, WeChat, phone, email, socials), header/menu, scroll reveals, contact form
 - `product-info.js`: product detail content (spec labels, sourcing details, ideal-for, FAQ)
 - `product.js`: product detail page
 - `shop-core.js`: product art/cards, product popup, saved items, quote list drawer, toasts
 - `home.js`, `shop.js`, `ugc.js`: page scripts
 - `ugc-data.js`: community posts (`UGC_ITEMS`) and the upload backend URL (`UGC_ENDPOINT`)
 - `catalog.js` / `icons.js`: generated product data and icons (do not edit by hand)
+- `catalog-src/pages.py`: page generator (templates, header, footer, policy pages, sitemap)
 - `catalog-src/*.txt`: the product list, one line per product: `Name | icon | status | description | spec; spec; spec`
   (status: `A` available now, `C` coming soon, `E` emerging technology)
 - `style.css`: design system and all styles
@@ -38,15 +45,14 @@ The heart icon saves products. Both are stored in the visitor's browser (localSt
 ## Editing products
 1. Edit the `.txt` files in `catalog-src/`.
 2. Get the icon set once (Tabler Icons, MIT): `npm pack @tabler/icons && tar xzf tabler-icons-*.tgz && mv package/icons/outline catalog-src/tabler-outline && rm -rf package tabler-icons-*.tgz`
-3. Run `python3 catalog-src/build.py` to regenerate `catalog.js` and `icons.js`.
+3. Run `python3 catalog-src/build.py` to regenerate `catalog.js`, `icons.js`, all generated pages and `sitemap.xml`.
 
 ## Photos
 All remaining product prompts: `PRODUCT-PHOTO-PROMPTS.md` / `product-photo-prompts.csv` (regenerate with `python3 catalog-src/make-prompts.py`).
-Products and categories show illustrations until real photos are added. See **`IMAGE-PROMPTS.md`** for
-the exact prompts, file names and sizes.
-- Product photo: `images/products/<product-id>.jpg`, then run the build.
+Every product and category now has a photo. See **`IMAGE-PROMPTS.md`** for the original prompts.
+- Product photo: `images/products/<product-id>.webp` (1200×1200), then run the build.
 - Category photo: `images/categories/<category-id>.jpg`, then run the build.
-- Hero photo: `images/hero/hero.png` (or .webp/.jpg), then run the build.
+- Hero photo: `images/hero/hero.webp` (referenced directly in `index.html`).
 - About photo: `images/about.jpg` (4:5).
 
 ## Community uploads
@@ -67,4 +73,4 @@ file containing `sikandartech.com` to this folder (so deploys keep it), and at t
 `A` records for `@` → 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153 and a `CNAME`
 record for `www` → `tahoor302-cloud.github.io`. Then tick "Enforce HTTPS".
 
-`sitemap.xml` (all pages and products) and `robots.txt` are generated/kept here for search engines.
+`sitemap.xml` (only canonical, indexable URLs) is generated by the build; `robots.txt` points to it.

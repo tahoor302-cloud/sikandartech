@@ -11,7 +11,7 @@ const productCode = (p) => "ST-" + String(PRODUCTS.indexOf(p) + 1).padStart(4, "
 function productArt(p, extra = "") {
   const c = catById[p.cat];
   if (p.photo) {
-    return `<div class="art photo ${extra}" style="--c:${c.color}"><img src="${p.photo}" alt="${esc(p.name)}" loading="lazy" decoding="async"></div>`;
+    return `<div class="art photo ${extra}" style="--c:${c.color}"><img src="${URLS.asset(p.photo)}" alt="${esc(p.name)}" width="600" height="600" ${extra.includes("pdp-art") ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"></div>`;
   }
   return `<div class="art ${extra}" style="--c:${c.color}" role="img" aria-label="${esc(p.name)} (illustration)">
     <span class="art-frame"></span><span class="art-ring"></span>
@@ -29,10 +29,10 @@ function productCard(p, { reveal = false, delay = 0 } = {}) {
   const saved = Store.isSaved(p.id);
   return `<article class="p-card${reveal ? " rv" : ""}" style="--d:${delay}s" data-id="${p.id}" data-tilt>
     <button class="icon-btn p-save${saved ? " is-on" : ""}" data-save="${p.id}" aria-pressed="${saved}" aria-label="${saved ? "Remove from saved" : "Save"}: ${esc(p.name)}">${iconSvg("heart")}</button>
-    <a href="product.html?id=${p.id}" aria-label="${esc(p.name)}: product details">${productArt(p)}</a>
+    <a href="${URLS.product(p.id)}" aria-label="${esc(p.name)}: product details">${productArt(p)}</a>
     <div class="p-body">
       <div class="p-meta"><span class="p-cat">${esc(c.name)}</span>${statusTag(p)}</div>
-      <h3><a href="product.html?id=${p.id}">${esc(p.name)}</a></h3>
+      <h3><a href="${URLS.product(p.id)}">${esc(p.name)}</a></h3>
       <p class="p-desc">${esc(p.desc)}</p>
       <ul class="p-specs">${p.specs.slice(0, 3).map((s) => `<li>${esc(s)}</li>`).join("")}</ul>
       <div class="p-price"><strong>Price on request</strong><span>Factory quote</span></div>
@@ -132,6 +132,7 @@ let drawerTab = "quote";
 let lastFocus = null;
 
 function openDrawer(tab = "quote") {
+  toastEl.classList.remove("show");
   drawerTab = tab;
   renderDrawer();
   lastFocus = document.activeElement;
@@ -172,7 +173,7 @@ function renderDrawer() {
             <div class="qty"><button data-qty="${id}" data-step="-1" aria-label="Decrease quantity">−</button><input type="number" min="1" value="${qty}" data-qty-input="${id}" aria-label="Quantity for ${esc(p.name)}"><button data-qty="${id}" data-step="1" aria-label="Increase quantity">+</button></div></div>
             <button class="d-remove" data-remove="${id}">Remove</button></div>`;
         }).join("")
-      : `<div class="d-empty">${iconSvg("shopping-bag")}<h4>Your quote list is empty</h4><p>Add products and send one enquiry. We reply with factory prices, MOQ and shipping.</p><a class="btn btn-line btn-sm" href="products.html">Browse products</a></div>`;
+      : `<div class="d-empty">${iconSvg("shopping-bag")}<h4>Your quote list is empty</h4><p>Add products and send one enquiry. We reply with factory prices, MOQ and shipping.</p><a class="btn btn-line btn-sm" href="${URLS.shop()}">Browse products</a></div>`;
     foot.innerHTML = q.length
       ? `<a class="btn btn-block" target="_blank" rel="noopener" href="${waLink(quoteMessage())}">${iconSvg("brand-whatsapp")}Send quote request on WhatsApp</a>
          <button class="btn btn-line btn-sm btn-block" data-clear-quote>Clear list</button>
@@ -229,7 +230,7 @@ modal.innerHTML = `
   <div class="modal-body">
     <div class="modal-media" id="modal-media"></div>
     <div class="modal-info">
-      <a class="modal-cat" id="modal-cat" href="products.html">Collection</a>
+      <a class="modal-cat" id="modal-cat" href="${URLS.shop()}">Shop</a>
       <h2 id="modal-name"></h2>
       <span id="modal-status"></span>
       <p class="modal-desc" id="modal-desc"></p>
@@ -240,7 +241,7 @@ modal.innerHTML = `
       <div class="modal-actions">
         <button class="btn" id="modal-quote">Add to quote list</button>
         <button class="icon-btn" id="modal-save" aria-label="Save">${iconSvg("heart")}</button>
-        <a class="btn btn-line" id="modal-full" href="products.html">Full details</a>
+        <a class="btn btn-line" id="modal-full" href="${URLS.shop()}">Full details</a>
         <a class="btn btn-line" id="modal-wa" href="${waLink("Hi SikandarTech, I need a quote.")}" target="_blank" rel="noopener">${iconSvg("brand-whatsapp")}Ask now</a>
       </div>
     </div>
@@ -256,12 +257,12 @@ function openProduct(id) {
   const c = catById[p.cat];
   $("modal-media").innerHTML = productArt(p);
   $("modal-cat").textContent = c.name;
-  $("modal-cat").href = "products.html?cat=" + c.id;
+  $("modal-cat").href = URLS.cat(c.id);
   $("modal-name").textContent = p.name;
   $("modal-status").innerHTML = statusTag(p);
   $("modal-desc").textContent = p.desc;
   $("modal-specs").innerHTML = specRows(p).map(([k, v]) => `<li><span>${esc(k)}</span>${esc(v)}</li>`).join("");
-  $("modal-full").href = "product.html?id=" + p.id;
+  $("modal-full").href = URLS.product(p.id);
   $("modal-wa").href = waLink(`Hi SikandarTech, I want a quote for: ${p.name} (${c.name}). Please share price, MOQ and shipping.`);
   const saved = Store.isSaved(p.id);
   $("modal-save").classList.toggle("is-on", saved);
@@ -345,7 +346,17 @@ document.addEventListener("change", (e) => {
   if (input) Store.setQty(input.dataset.qtyInput, Number(input.value));
 });
 document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape" && drawer.classList.contains("open")) closeDrawer();
+  if (!drawer.classList.contains("open")) return;
+  if (e.key === "Escape") return closeDrawer();
+  // Keep keyboard focus inside the open drawer
+  if (e.key === "Tab") {
+    const items = [...drawer.querySelectorAll(".drawer-panel a[href], .drawer-panel button, .drawer-panel input")].filter((el) => el.offsetParent);
+    if (!items.length) return;
+    const first = items[0];
+    const last = items[items.length - 1];
+    if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+  }
 });
 
 // ---------- Perspective tilt on cards (fine pointers only) ----------

@@ -12,11 +12,15 @@ const CONTACT = {
   facebook: "https://www.facebook.com/sikandar.punjwani/"
 };
 
-// ===== Site photos =====
-// The hero photo is picked up automatically from images/hero/hero.(png|webp|jpg) by
-// catalog-src/build.py. Set a path here only to override it.
-const MEDIA = {
-  hero: (typeof SITE_MEDIA !== "undefined" && SITE_MEDIA.hero) || ""
+// Pages in sub-folders (shop/, category/<id>/, product/<id>/) set <html data-root="../">
+// so links and images resolve from the site root on any host or sub-path.
+const ROOT = document.documentElement.dataset.root || "";
+const URLS = {
+  home: ROOT || "./",
+  shop: (qs = "") => ROOT + "shop/" + qs,
+  cat: (id) => ROOT + "category/" + id + "/",
+  product: (id) => ROOT + "product/" + id + "/",
+  asset: (path) => (/^(https?:|data:|\/)/.test(path) ? path : ROOT + path)
 };
 
 const waLink = (text) => `https://wa.me/${CONTACT.whatsapp}?text=${encodeURIComponent(text)}`;
