@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**33 products still need a photo** (614 done). One prompt per product, ready to copy.
+**28 products still need a photo** (619 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -80,28 +80,7 @@ Studio product photo: Autonomous navigation sensors. Lidar, radar and IMU sensor
 
 ---
 
-## Travel, Outdoor & Adventure Tech (15)
-
-### ST-0572 · Handheld GPS navigators
-- [ ] File: `handheld-gps-navigators.jpg`
-
-```
-Studio product photo: Handheld GPS navigators. Rugged GPS units with maps for hiking and boating. Show design details that suggest: topo maps, gnss, barometer. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0573 · Smart luggage
-- [ ] File: `smart-luggage.jpg`
-
-```
-Studio product photo: Smart luggage. Suitcases with tracking, charging and smart locks. Show design details that suggest: built-in tracker, usb charging, tsa lock. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0574 · Electronic luggage trackers
-- [ ] File: `electronic-luggage-trackers.jpg`
-
-```
-Studio product photo: Electronic luggage trackers. Trackers to find luggage worldwide. Show design details that suggest: finder network, bluetooth, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Travel, Outdoor & Adventure Tech (12)
 
 ### ST-0575 · Solar camping chargers
 - [ ] File: `solar-camping-chargers.jpg`
@@ -189,7 +168,7 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 
 ---
 
-## Cleaning, Personal Care & Beauty Tech (5)
+## Cleaning, Personal Care & Beauty Tech (3)
 
 ### ST-0607 · Smart hair dryers
 - [ ] File: `smart-hair-dryers.jpg`
@@ -205,25 +184,11 @@ Studio product photo: Smart hair dryers. Fast dryers with heat control to protec
 Studio product photo: Facial cleansing devices. Sonic brushes for deep facial cleansing. Show design details that suggest: sonic pulses, silicone, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0620 · Smart grooming devices
-- [ ] File: `smart-grooming-devices.jpg`
-
-```
-Studio product photo: Smart grooming devices. Shavers and trimmers with smart sensing. Show design details that suggest: smart sensors, wet / dry, long battery. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0621 · Laser hair-removal devices
 - [ ] File: `laser-hair-removal-devices.jpg`
 
 ```
 Studio product photo: Laser hair-removal devices. At-home IPL and laser hair removal. Show design details that suggest: ipl / diode, skin sensor, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0622 · At-home skin imaging devices
-- [ ] File: `at-home-skin-imaging-devices.jpg`
-
-```
-Studio product photo: At-home skin imaging devices. Devices that capture close-up skin images for tracking. Show design details that suggest: magnified imaging, lighting, tracking. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
