@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**51 products still need a photo** (596 done). One prompt per product, ready to copy.
+**46 products still need a photo** (601 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -319,7 +319,7 @@ Studio product photo: At-home skin imaging devices. Devices that capture close-u
 
 ---
 
-## Accessories & Everyday Tech (10)
+## Accessories & Everyday Tech (5)
 
 ### ST-0633 · Tech backpacks
 - [ ] File: `tech-backpacks.jpg`
@@ -354,39 +354,4 @@ Studio product photo: Modular desk accessories. Modular organisers, trays and ch
 
 ```
 Studio product photo: Cable-management systems. Trays, sleeves and clips for clean setups. Show design details that suggest: under-desk tray, sleeves, clips. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0643 · Digital luggage scales
-- [ ] File: `digital-luggage-scales.jpg`
-
-```
-Studio product photo: Digital luggage scales. Handheld scales to avoid overweight fees. Show design details that suggest: 50kg capacity, digital, compact. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0644 · Portable label printers
-- [ ] File: `portable-label-printers.jpg`
-
-```
-Studio product photo: Portable label printers. Bluetooth label makers for home and office. Show design details that suggest: thermal, bluetooth, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0645 · Rechargeable precision screwdrivers
-- [ ] File: `rechargeable-precision-screwdrivers.jpg`
-
-```
-Studio product photo: Rechargeable precision screwdrivers. Electric screwdrivers for electronics repair. Show design details that suggest: precision bits, torque settings, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0646 · Smart toolkits
-- [ ] File: `smart-toolkits.jpg`
-
-```
-Studio product photo: Smart toolkits. Toolkits with smart tools and organisation. Show design details that suggest: precision tools, organiser case, magnetic. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0647 · Electronic cable testers
-- [ ] File: `electronic-cable-testers.jpg`
-
-```
-Studio product photo: Electronic cable testers. Testers for network, USB and power cables. Show design details that suggest: rj45 / usb tests, wiremap, length. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
