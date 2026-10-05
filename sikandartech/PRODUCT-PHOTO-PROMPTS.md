@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**67 products still need a photo** (580 done). One prompt per product, ready to copy.
+**66 products still need a photo** (581 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,7 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## Future & Emerging Technology (7)
+## Future & Emerging Technology (6)
 
 ### ST-0533 · Brain-computer interface research devices
 - [ ] File: `brain-computer-interface-research-devices.jpg`
@@ -48,13 +48,6 @@ Studio product photo: Brain-computer interface research devices. EEG-based BCI h
 
 ```
 Studio product photo: Neural-interface development hardware. Development hardware for neural signal research. Show design details that suggest: biosignal acquisition, open-source tools, research use. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0535 · Smart contact-lens prototypes
-- [ ] File: `smart-contact-lens-prototypes.jpg`
-
-```
-Studio product photo: Smart contact-lens prototypes. Contact lenses with displays or sensors in development. Show design details that suggest: micro display / sensor, research stage, not for sale. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0536 · Flexible electronic displays
