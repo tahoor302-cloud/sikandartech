@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**137 products still need a photo** (510 done). One prompt per product, ready to copy.
+**132 products still need a photo** (515 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -23,42 +23,7 @@ Studio product photo: Smart washing machines. Washers with AI wash cycles and au
 
 ---
 
-## Storage, Data & Creator Accessories (26)
-
-### ST-0386 · Portable SSDs
-- [ ] File: `portable-ssds.jpg`
-
-```
-Studio product photo: Portable SSDs. Pocket-size SSDs for fast file transfer and backup. Show design details that suggest: 1–4tb, 1050–2000 mb/s, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0387 · High-speed external SSDs
-- [ ] File: `high-speed-external-ssds.jpg`
-
-```
-Studio product photo: High-speed external SSDs. Thunderbolt and USB4 SSDs for pro workflows. Show design details that suggest: 2800–3800 mb/s, aluminium, cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0388 · Internal NVMe SSDs
-- [ ] File: `internal-nvme-ssds.jpg`
-
-```
-Studio product photo: Internal NVMe SSDs. Ultra-fast internal SSDs for PCs and consoles. Show design details that suggest: pcie 4.0 / 5.0, 7000–14000 mb/s, 1–4tb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0389 · Enterprise SSDs
-- [ ] File: `enterprise-ssds.jpg`
-
-```
-Studio product photo: Enterprise SSDs. Data-centre SSDs with high endurance. Show design details that suggest: u.2 / e1.s, high dwpd, power-loss protection. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0390 · Rugged SSDs
-- [ ] File: `rugged-ssds.jpg`
-
-```
-Studio product photo: Rugged SSDs. Waterproof, dustproof SSDs for field use. Show design details that suggest: ip65+, drop resistant, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Storage, Data & Creator Accessories (21)
 
 ### ST-0391 · Magnetic modular SSDs
 - [ ] File: `magnetic-modular-ssds.jpg`
