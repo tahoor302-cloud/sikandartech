@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**61 products still need a photo** (586 done). One prompt per product, ready to copy.
+**56 products still need a photo** (591 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -319,42 +319,7 @@ Studio product photo: At-home skin imaging devices. Devices that capture close-u
 
 ---
 
-## Accessories & Everyday Tech (20)
-
-### ST-0628 · Certified high-speed HDMI cables
-- [ ] File: `certified-high-speed-hdmi-cables.jpg`
-
-```
-Studio product photo: Certified high-speed HDMI cables. HDMI 2.1 cables for 4K120 and 8K. Show design details that suggest: 48gbps, 4k120 / 8k60, certified. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0629 · USB-C adapters
-- [ ] File: `usb-c-adapters.jpg`
-
-```
-Studio product photo: USB-C adapters. Adapters for USB-A, HDMI, Ethernet and more. Show design details that suggest: compact, usb-c, multiple types. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0630 · Travel charging kits
-- [ ] File: `travel-charging-kits.jpg`
-
-```
-Studio product photo: Travel charging kits. All-in-one kits with charger, cables and adapters. Show design details that suggest: gan charger, cables, adapters. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0631 · Smart wallets
-- [ ] File: `smart-wallets.jpg`
-
-```
-Studio product photo: Smart wallets. Wallets with tracking and RFID blocking. Show design details that suggest: tracker, rfid blocking, slim. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0632 · Tracking cards
-- [ ] File: `tracking-cards.jpg`
-
-```
-Studio product photo: Tracking cards. Card-shaped trackers for wallets and passports. Show design details that suggest: card shape, finder network, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Accessories & Everyday Tech (15)
 
 ### ST-0633 · Tech backpacks
 - [ ] File: `tech-backpacks.jpg`
