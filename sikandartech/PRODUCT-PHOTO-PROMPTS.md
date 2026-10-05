@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**81 products still need a photo** (566 done). One prompt per product, ready to copy.
+**76 products still need a photo** (571 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,7 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## Future & Emerging Technology (21)
+## Future & Emerging Technology (16)
 
 ### ST-0533 · Brain-computer interface research devices
 - [ ] File: `brain-computer-interface-research-devices.jpg`
@@ -69,41 +69,6 @@ Studio product photo: Flexible electronic displays. Bendable displays for wearab
 
 ```
 Studio product photo: Rollable OLED displays. Displays that roll away when not in use. Show design details that suggest: rollable oled, motorised, premium. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0538 · Holographic visualization systems
-- [ ] File: `holographic-visualization-systems.jpg`
-
-```
-Studio product photo: Holographic visualization systems. Systems for viewing 3D holographic content. Show design details that suggest: light-field display, 3d visualisation, developer tools. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0539 · Advanced haptic suits
-- [ ] File: `advanced-haptic-suits.jpg`
-
-```
-Studio product photo: Advanced haptic suits. Full-body suits delivering touch, temperature and motion capture. Show design details that suggest: full-body haptics, mocap, temperature feedback. Shown on a plain grey mannequin form, no head, no people. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0540 · Electronic skin research devices
-- [ ] File: `electronic-skin-research-devices.jpg`
-
-```
-Studio product photo: Electronic skin research devices. Flexible sensor skins for robotics and health research. Show design details that suggest: stretchable sensors, research kits, pressure / temperature. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0541 · Digital scent prototypes
-- [ ] File: `digital-scent-prototypes.jpg`
-
-```
-Studio product photo: Digital scent prototypes. Devices that release scents synchronised with media. Show design details that suggest: scent cartridges, media sync, prototype. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0542 · Autonomous delivery systems
-- [ ] File: `autonomous-delivery-systems.jpg`
-
-```
-Studio product photo: Autonomous delivery systems. Drones and robots for last-mile delivery. Show design details that suggest: autonomous, secure cargo, pilot programs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0543 · Personal robotic assistants
