@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**117 products still need a photo** (530 done). One prompt per product, ready to copy.
+**113 products still need a photo** (534 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -23,41 +23,13 @@ Studio product photo: Smart washing machines. Washers with AI wash cycles and au
 
 ---
 
-## Storage, Data & Creator Accessories (6)
+## Storage, Data & Creator Accessories (2)
 
 ### ST-0406 · KVM switches
 - [ ] File: `kvm-switches.jpg`
 
 ```
 Studio product photo: KVM switches. Share keyboard, mouse and monitors between computers. Show design details that suggest: 2–4 pcs, 4k / dual display, usb hub. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0407 · Capture cards
-- [ ] File: `capture-cards.jpg`
-
-```
-Studio product photo: Capture cards. Capture HDMI video for streaming and recording. Show design details that suggest: 4k60 pass-through, usb / pcie, low latency. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0408 · Video production switchers
-- [ ] File: `video-production-switchers.jpg`
-
-```
-Studio product photo: Video production switchers. Live switchers for multi-camera production. Show design details that suggest: 4–8 hdmi inputs, streaming, recording. On a clean light desk surface. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0409 · Portable SSD enclosures
-- [ ] File: `portable-ssd-enclosures.jpg`
-
-```
-Studio product photo: Portable SSD enclosures. Enclosures to turn NVMe SSDs into fast portable drives. Show design details that suggest: nvme, usb4 / 10gbps, aluminium cooling. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0410 · Color-calibration devices
-- [ ] File: `color-calibration-devices.jpg`
-
-```
-Studio product photo: Color-calibration devices. Calibrators for accurate monitor colour. Show design details that suggest: colorimeter, display profiling, ambient light. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0411 · Professional reference monitors
