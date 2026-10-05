@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**132 products still need a photo** (515 done). One prompt per product, ready to copy.
+**127 products still need a photo** (520 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -23,42 +23,7 @@ Studio product photo: Smart washing machines. Washers with AI wash cycles and au
 
 ---
 
-## Storage, Data & Creator Accessories (21)
-
-### ST-0391 · Magnetic modular SSDs
-- [ ] File: `magnetic-modular-ssds.jpg`
-
-```
-Studio product photo: Magnetic modular SSDs. Show design details that suggest: magnetic mount, prores recording, usb-c. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0392 · USB-C flash drives
-- [ ] File: `usb-c-flash-drives.jpg`
-
-```
-Studio product photo: USB-C flash drives. Fast flash drives with USB-C. Show design details that suggest: usb 3.2, 128gb–1tb, dual connector. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0393 · Encrypted USB drives
-- [ ] File: `encrypted-usb-drives.jpg`
-
-```
-Studio product photo: Encrypted USB drives. Hardware-encrypted drives with PIN keypad. Show design details that suggest: aes-256 hardware, pin keypad, fips options. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0394 · High-capacity memory cards
-- [ ] File: `high-capacity-memory-cards.jpg`
-
-```
-Studio product photo: High-capacity memory cards. SD and microSD cards for cameras, drones and consoles. Show design details that suggest: 256gb–1tb, v30–v90, uhs-ii. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0395 · CFexpress cards
-- [ ] File: `cfexpress-cards.jpg`
-
-```
-Studio product photo: CFexpress cards. Pro memory cards for 8K and high-speed photography. Show design details that suggest: type a / b, 1700+ mb/s, vpg400. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Storage, Data & Creator Accessories (16)
 
 ### ST-0396 · Professional card readers
 - [ ] File: `professional-card-readers.jpg`
