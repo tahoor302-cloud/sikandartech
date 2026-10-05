@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**112 products still need a photo** (535 done). One prompt per product, ready to copy.
+**107 products still need a photo** (540 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,42 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## TVs, Displays & Projectors (26)
-
-### ST-0412 · OLED televisions
-- [ ] File: `oled-televisions.jpg`
-
-```
-Studio product photo: OLED televisions. OLED TVs with perfect blacks and cinematic colour. Show design details that suggest: 55–97" 4k oled, 120–144hz, hdmi 2.1. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0413 · QD-OLED televisions
-- [ ] File: `qd-oled-televisions.jpg`
-
-```
-Studio product photo: QD-OLED televisions. Brighter, more colourful OLED TVs with quantum dots. Show design details that suggest: qd-oled, 4k 120hz+, hdr. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0414 · Mini-LED televisions
-- [ ] File: `mini-led-televisions.jpg`
-
-```
-Studio product photo: Mini-LED televisions. Bright HDR TVs with thousands of Mini-LED zones. Show design details that suggest: mini-led, 2000+ nits, local dimming. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0415 · RGB Mini-LED televisions
-- [ ] File: `rgb-mini-led-televisions.jpg`
-
-```
-Studio product photo: RGB Mini-LED televisions. New-generation TVs with RGB Mini-LED backlight for wider colour. Show design details that suggest: rgb mini-led, wide colour, high brightness. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0416 · MicroLED displays
-- [ ] File: `microled-displays.jpg`
-
-```
-Studio product photo: MicroLED displays. Modular self-emissive displays for luxury homes and commercial use. Show design details that suggest: microled, modular sizes, ultra-bright. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## TVs, Displays & Projectors (21)
 
 ### ST-0417 · 4K televisions
 - [ ] File: `4k-televisions.jpg`
