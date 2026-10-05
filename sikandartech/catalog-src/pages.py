@@ -31,6 +31,50 @@ def trim(text, n=158):
     return text if len(text) <= n else text[: n - 1].rsplit(" ", 1)[0].rstrip(",;:") + "…"
 
 
+# ---------------------------------------------------------------- product details
+def load_details(here, products):
+    """catalog-src/details/*.txt, one line per product:
+    Name | Overview | benefit; benefit; benefit | Label: value; Label: value | use; use; use
+    Specifications are typical for the product type: no brands, prices or invented ratings."""
+    names = {p["name"].lower(): p["id"] for p in products}
+    out, errors = {}, []
+    folder = os.path.join(here, "details")
+    if not os.path.isdir(folder):
+        return out
+    for fname in sorted(os.listdir(folder)):
+        if not fname.endswith(".txt"):
+            continue
+        for n, line in enumerate(open(os.path.join(folder, fname)), 1):
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            parts = [x.strip() for x in line.split("|")]
+            if len(parts) != 5:
+                errors.append(f"details/{fname}:{n}: expected 5 fields, got {len(parts)}")
+                continue
+            name, ov, ben, spec, uses = parts
+            pid = names.get(name.lower())
+            if not pid:
+                errors.append(f"details/{fname}:{n}: unknown product '{name}'")
+                continue
+            specs = []
+            for item in [x.strip() for x in spec.split(";") if x.strip()]:
+                if ":" not in item:
+                    errors.append(f"details/{fname}:{n}: spec without label '{item}'")
+                    continue
+                k, v = item.split(":", 1)
+                specs.append((k.strip(), v.strip()))
+            out[pid] = {
+                "overview": ov,
+                "benefits": [x.strip() for x in ben.split(";") if x.strip()],
+                "specs": specs,
+                "uses": [x.strip() for x in uses.split(";") if x.strip()],
+            }
+    if errors:
+        raise SystemExit("\n".join(errors))
+    return out
+
+
 # ---------------------------------------------------------------- partials
 def head(r, title, desc, path, og_image=DEFAULT_OG, robots=None, ld=(), extra=""):
     canonical = SITE_URL + path
@@ -271,9 +315,25 @@ def shop_main(r, categories, products, cat=None, grid=""):
 
 
 # ---------------------------------------------------------------- product page
-def product_main(r, p, cat, products, related):
+def product_main(r, p, cat, products, related, d=None):
     specs_rows = "".join(f'<tr><th scope="row">Key feature</th><td>{e(s)}</td></tr>' for s in p["specs"])
     feats = "".join(f"<li><span>{e(s)}</span></li>" for s in p["specs"])
+    static = ""
+    highlights = "".join(f'<li><strong>{e(s)}</strong></li>' for s in p['specs'])
+    overview = f"<p>{e(p['desc'])}</p><h3>Key features</h3><ul class=\"feature-list\">{feats}</ul>"
+    aside = '<h3>Ideal for</h3>\n            <ul class="chips" id="pdp-ideal"></ul>'
+    if d:
+        static = ' data-static="1"'
+        specs_rows = "".join(f'<tr><th scope="row">{e(k)}</th><td>{e(v)}</td></tr>' for k, v in d["specs"])
+        highlights = "".join(f"<li><span>{e(k)}</span><strong>{e(v)}</strong></li>" for k, v in d["specs"][:4])
+        bens = "".join(f'<li><span class="fi" data-ui-icon="check"></span><span>{e(b)}</span></li>' for b in d["benefits"])
+        keyf = "".join(f"<li>{e(x)}</li>" for x in p["specs"])
+        overview = (
+            f'<p class="pdp-overview-lead">{e(d["overview"])}</p>'
+            f'<h3>Why it matters</h3><ul class="benefit-list">{bens}</ul>'
+            f'<h3>Key features</h3><ul class="chips">{keyf}</ul>'
+        )
+        aside = '<h3>Best for</h3>\n            <ul class="use-list" id="pdp-ideal">' + "".join(f"<li>{e(u)}</li>" for u in d["uses"]) + "</ul>"
     rel = "".join(simple_card(r, x, cat) for x in related)
     crumbs = [("Home", ""), ("Shop", "shop/"), (cat["name"], f"category/{cat['id']}/"), (p["name"], f"product/{p['id']}/")]
     return f"""  <main id="main" class="page-pad">
@@ -298,7 +358,7 @@ def product_main(r, p, cat, products, related):
           <p class="pdp-lead" id="pdp-lead">{e(p['desc'])}</p>
 
           <h2 class="pdp-sub">Highlights</h2>
-          <ul class="pdp-highlights" id="pdp-highlights">{''.join(f'<li><strong>{e(s)}</strong></li>' for s in p['specs'])}</ul>
+          <ul class="pdp-highlights" id="pdp-highlights"{static}>{highlights}</ul>
 
           <div class="pdp-price">
             <div><strong>Price on request</strong><span>Factory price, minimum order and shipping are confirmed in your quotation.</span></div>
@@ -328,10 +388,9 @@ def product_main(r, p, cat, products, related):
       <section class="pdp-section" id="overview" aria-labelledby="ov-title">
         <h2 id="ov-title">Overview</h2>
         <div class="pdp-two">
-          <div id="pdp-overview"><p>{e(p['desc'])}</p><h3>Key features</h3><ul class="feature-list">{feats}</ul></div>
+          <div id="pdp-overview"{static}>{overview}</div>
           <aside class="pdp-box">
-            <h3>Ideal for</h3>
-            <ul class="chips" id="pdp-ideal"></ul>
+            {aside}
             <div id="pdp-notes"></div>
           </aside>
         </div>
@@ -339,7 +398,7 @@ def product_main(r, p, cat, products, related):
 
       <section class="pdp-section" id="specs" aria-labelledby="sp-title">
         <h2 id="sp-title">Specifications</h2>
-        <table class="spec-table"><caption class="sr-only">Specifications</caption><tbody id="pdp-specs"><tr><th scope="row">Product</th><td>{e(p['name'])}</td></tr><tr><th scope="row">Type</th><td>{e(cat['name'])}</td></tr>{specs_rows}</tbody></table>
+        <table class="spec-table"><caption class="sr-only">Specifications</caption><tbody id="pdp-specs"{static}><tr><th scope="row">Product</th><td>{e(p['name'])}</td></tr><tr><th scope="row">Category</th><td>{e(cat['name'])}</td></tr>{specs_rows}</tbody></table>
         <p class="spec-note">Typical specifications for this product type. Exact brand, model and specifications are confirmed in your quotation.</p>
       </section>
 
@@ -560,6 +619,7 @@ def versioned(text):
 # ---------------------------------------------------------------- entry point
 def build(site, categories, products):
     import hashlib
+    details = load_details(os.path.dirname(os.path.abspath(__file__)), products)
     for a in ASSETS:
         VERSION[a] = hashlib.md5(open(os.path.join(site, a), "rb").read()).hexdigest()[:8]
     cat_by_id = {c["id"]: c for c in categories}
@@ -598,18 +658,20 @@ def build(site, categories, products):
         r = "../../"
         c = cat_by_id[p["cat"]]
         path = f"product/{p['id']}/"
-        desc = trim(f"{p['desc']} Key features: {', '.join(p['specs'][:3])}. Request a factory quote from SikandarTech.")
+        d = details.get(p["id"])
+        desc = trim(f"{p['desc']} " + (d["overview"] if d else f"Key features: {', '.join(p['specs'][:3])}.") + " Request a factory quote from SikandarTech.")
         prod_ld = {
             "@context": "https://schema.org", "@type": "Product", "name": p["name"], "description": p["desc"],
             "sku": code(products, p), "category": c["name"], "url": SITE_URL + path,
-            "additionalProperty": [{"@type": "PropertyValue", "name": "Key feature", "value": s} for s in p["specs"]]
+            "additionalProperty": ([{"@type": "PropertyValue", "name": k, "value": v} for k, v in d["specs"]] if d else
+                                   [{"@type": "PropertyValue", "name": "Key feature", "value": s} for s in p["specs"]])
             + [{"@type": "PropertyValue", "name": "Availability", "value": STATUS_SCHEMA[p["status"]]}],
         }
         if p.get("photo"):
             prod_ld["image"] = SITE_URL + p["photo"]
         ld = [prod_ld, crumbs_ld([("Home", ""), ("Shop", "shop/"), (c["name"], f"category/{c['id']}/"), (p["name"], path)])]
         h = head(r, f"{p['name']} | SikandarTech", desc, path, p.get("photo") or c.get("photo") or DEFAULT_OG, ld=ld)
-        main = product_main(r, p, c, products, related_for(p, products))
+        main = product_main(r, p, c, products, related_for(p, products), d)
         write(site, path + "index.html", page(r, h, "shop-page pdp-page", main, cat_by_id, ["product.js"], "shop", f' data-product="{p["id"]}"'))
         urls.append(path)
 
@@ -630,4 +692,5 @@ def build(site, categories, products):
         for u in urls:
             f.write(f"  <url><loc>{SITE_URL}{u}</loc></url>\n")
         f.write("</urlset>\n")
+    print(f"product details: {len(details)}/{len(products)}")
     return len(urls)

@@ -24,18 +24,21 @@ function render(p) {
   }
   $("pdp-status").innerHTML = statusTag(p);
   $("pdp-code").textContent = productCode(p);
-  $("pdp-lead").textContent = p.desc;
-  $("pdp-highlights").innerHTML = specRows(p)
-    .map(([k, v]) => `<li><span>${esc(k)}</span><strong>${esc(v)}</strong></li>`)
-    .join("");
-
-  $("pdp-overview").innerHTML = overview(p).map((t) => `<p>${esc(t)}</p>`).join("") +
-    `<h3>Key features</h3><ul class="feature-list">${p.specs.map((s) => `<li>${iconSvg("check")}<span>${esc(s)}</span></li>`).join("")}</ul>`;
-  $("pdp-ideal").innerHTML = idealFor(p).map((t) => `<li>${esc(t)}</li>`).join("");
+  // Pages with written product details (catalog-src/details) already contain the overview,
+  // benefits and full specifications; the generic text below is only for the others.
+  const hasDetails = !!$("pdp-overview").dataset.static;
+  if (!hasDetails) {
+    $("pdp-highlights").innerHTML = specRows(p)
+      .map(([k, v]) => `<li><span>${esc(k)}</span><strong>${esc(v)}</strong></li>`)
+      .join("");
+    $("pdp-overview").innerHTML = overview(p).map((t) => `<p>${esc(t)}</p>`).join("") +
+      `<h3>Key features</h3><ul class="feature-list">${p.specs.map((s) => `<li>${iconSvg("check")}<span>${esc(s)}</span></li>`).join("")}</ul>`;
+    $("pdp-ideal").innerHTML = idealFor(p).map((t) => `<li>${esc(t)}</li>`).join("");
+  }
   $("pdp-notes").innerHTML = productNotes(p).map((n) => `<p class="pdp-note">${esc(n)}</p>`).join("");
 
   const row = ([k, v]) => `<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`;
-  $("pdp-specs").innerHTML = [["Product", p.name], ["Type", c.name], ...specRows(p)].map(row).join("");
+  if (!hasDetails) $("pdp-specs").innerHTML = [["Product", p.name], ["Category", c.name], ...specRows(p)].map(row).join("");
   $("pdp-sourcing").innerHTML = sourcingRows(p).map(row).join("");
   $("pdp-faq").innerHTML = productFaq(p)
     .map(([q, a], i) => `<details${i === 0 ? " open" : ""}><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`)
