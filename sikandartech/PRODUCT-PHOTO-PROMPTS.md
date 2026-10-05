@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**154 products still need a photo** (493 done). One prompt per product, ready to copy.
+**149 products still need a photo** (498 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,42 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (17)
-
-### ST-0313 · Smart blenders
-- [ ] File: `smart-blenders.jpg`
-
-```
-Studio product photo: Smart blenders. Blenders with programs and app recipes. Show design details that suggest: preset programs, self-clean, high power. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0314 · High-speed vacuum blenders
-- [ ] File: `high-speed-vacuum-blenders.jpg`
-
-```
-Studio product photo: High-speed vacuum blenders. Blenders that remove air for fresher smoothies. Show design details that suggest: 1500w+, programs, noise cover. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0315 · Smart kitchen scales
-- [ ] File: `smart-kitchen-scales.jpg`
-
-```
-Studio product photo: Smart kitchen scales. Scales that track nutrition and guide recipes. Show design details that suggest: 0.1g precision, bluetooth, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0316 · Connected food thermometers
-- [ ] File: `connected-food-thermometers.jpg`
-
-```
-Studio product photo: Connected food thermometers. Wireless meat thermometers with app alerts. Show design details that suggest: wireless probes, long range, dishwasher safe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0317 · Smart multicookers
-- [ ] File: `smart-multicookers.jpg`
-
-```
-Studio product photo: Smart multicookers. Pressure cookers with app control and many programs. Show design details that suggest: pressure / slow / sauté, programs, delay start. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Kitchen & Home Appliances (12)
 
 ### ST-0318 · Automatic cooking machines
 - [ ] File: `automatic-cooking-machines.jpg`
