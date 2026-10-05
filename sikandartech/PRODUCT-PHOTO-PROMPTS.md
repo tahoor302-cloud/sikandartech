@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**38 products still need a photo** (609 done). One prompt per product, ready to copy.
+**33 products still need a photo** (614 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -189,7 +189,7 @@ Studio product photo: Emergency radio systems. Hand-crank and solar radios with 
 
 ---
 
-## Cleaning, Personal Care & Beauty Tech (10)
+## Cleaning, Personal Care & Beauty Tech (5)
 
 ### ST-0607 · Smart hair dryers
 - [ ] File: `smart-hair-dryers.jpg`
@@ -203,41 +203,6 @@ Studio product photo: Smart hair dryers. Fast dryers with heat control to protec
 
 ```
 Studio product photo: Facial cleansing devices. Sonic brushes for deep facial cleansing. Show design details that suggest: sonic pulses, silicone, waterproof. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0615 · Connected toothbrushes
-- [ ] File: `connected-toothbrushes.jpg`
-
-```
-Studio product photo: Connected toothbrushes. Electric toothbrushes with app coaching. Show design details that suggest: pressure sensor, modes, travel case. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0616 · Water flossers
-- [ ] File: `water-flossers.jpg`
-
-```
-Studio product photo: Water flossers. Water flossers for gum health. Show design details that suggest: pressure levels, tips, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0617 · Smart bathroom mirrors
-- [ ] File: `smart-bathroom-mirrors.jpg`
-
-```
-Studio product photo: Smart bathroom mirrors. Mirrors with lighting, display and anti-fog. Show design details that suggest: led lighting, anti-fog, touch. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0618 · Personal massage devices
-- [ ] File: `personal-massage-devices.jpg`
-
-```
-Studio product photo: Personal massage devices. Neck, back and handheld massagers. Show design details that suggest: heat, multiple modes, rechargeable. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0619 · Heated eye masks
-- [ ] File: `heated-eye-masks.jpg`
-
-```
-Studio product photo: Heated eye masks. Warm compress masks for tired eyes. Show design details that suggest: heating, timer, soft fabric. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0620 · Smart grooming devices
