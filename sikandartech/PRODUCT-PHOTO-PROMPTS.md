@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**72 products still need a photo** (575 done). One prompt per product, ready to copy.
+**67 products still need a photo** (580 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,7 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## Future & Emerging Technology (12)
+## Future & Emerging Technology (7)
 
 ### ST-0533 · Brain-computer interface research devices
 - [ ] File: `brain-computer-interface-research-devices.jpg`
@@ -78,46 +78,11 @@ Studio product photo: Rollable OLED displays. Displays that roll away when not i
 Studio product photo: Indoor autonomous drones. Drones that fly autonomously indoors for security and inventory. Show design details that suggest: indoor navigation, docking, security patrol. Hovering slightly above the floor. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
-### ST-0548 · Quantum-computing educational kits
-- [ ] File: `quantum-computing-educational-kits.jpg`
-
-```
-Studio product photo: Quantum-computing educational kits. Desktop quantum computers and kits for teaching. Show design details that suggest: small qubit count, desktop, teaching curriculum. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0549 · Photonic computing development hardware
-- [ ] File: `photonic-computing-development-hardware.jpg`
-
-```
-Studio product photo: Photonic computing development hardware. Optical computing hardware for research. Show design details that suggest: photonic chips, development boards, research. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0550 · Neuromorphic computing development boards
-- [ ] File: `neuromorphic-computing-development-boards.jpg`
-
-```
-Studio product photo: Neuromorphic computing development boards. Brain-inspired chips for ultra-efficient AI research. Show design details that suggest: spiking neural networks, low power, research. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0551 · Edge-AI accelerator modules
-- [ ] File: `edge-ai-accelerator-modules.jpg`
-
-```
-Studio product photo: Edge-AI accelerator modules. M.2 and USB AI accelerators for edge devices. Show design details that suggest: 4–40+ tops, m.2 / usb, low power. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
 ### ST-0552 · Autonomous navigation sensors
 - [ ] File: `autonomous-navigation-sensors.jpg`
 
 ```
 Studio product photo: Autonomous navigation sensors. Lidar, radar and IMU sensor kits for autonomous navigation. Show design details that suggest: lidar / radar / imu, sensor fusion, ros. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0553 · Advanced machine-vision systems
-- [ ] File: `advanced-machine-vision-systems.jpg`
-
-```
-Studio product photo: Advanced machine-vision systems. AI vision systems for inspection and robotics. Show design details that suggest: high-res cameras, edge compute, integration tools. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
