@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**89 products still need a photo** (558 done). One prompt per product, ready to copy.
+**87 products still need a photo** (560 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -34,21 +34,7 @@ Studio product photo: Professional reference monitors. Reference-grade monitors 
 
 ---
 
-## TVs, Displays & Projectors (3)
-
-### ST-0425 · Tri-fold portable projectors
-- [ ] File: `tri-fold-portable-projectors.jpg`
-
-```
-Studio product photo: Tri-fold portable projectors. Novel folding projectors for flexible placement. Show design details that suggest: folding design, smart os, auto keystone. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0437 · Home theater receivers
-- [ ] File: `home-theater-receivers.jpg`
-
-```
-Studio product photo: Home theater receivers. AV receivers powering surround-sound systems. Show design details that suggest: 7.2–11.2 ch, 8k hdmi, room correction. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## TVs, Displays & Projectors (1)
 
 ### ST-0438 · AV processors
 - [ ] File: `av-processors.jpg`
