@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**122 products still need a photo** (525 done). One prompt per product, ready to copy.
+**117 products still need a photo** (530 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -23,42 +23,7 @@ Studio product photo: Smart washing machines. Washers with AI wash cycles and au
 
 ---
 
-## Storage, Data & Creator Accessories (11)
-
-### ST-0401 · Backup appliances
-- [ ] File: `backup-appliances.jpg`
-
-```
-Studio product photo: Backup appliances. Automated backup devices for homes and businesses. Show design details that suggest: scheduled backup, versioning, encryption. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0402 · Portable backup drives
-- [ ] File: `portable-backup-drives.jpg`
-
-```
-Studio product photo: Portable backup drives. Portable HDDs for affordable backup. Show design details that suggest: 2–5tb, usb 3, slim. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0403 · Thunderbolt docks
-- [ ] File: `thunderbolt-docks.jpg`
-
-```
-Studio product photo: Thunderbolt docks. Docks that connect displays, storage and power through one cable. Show design details that suggest: dual 4k / 8k, 96w+ charging, 2.5gbe. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0404 · USB4 docks
-- [ ] File: `usb4-docks.jpg`
-
-```
-Studio product photo: USB4 docks. USB4 docking stations for modern laptops. Show design details that suggest: usb4 40gbps, dual display, pd charging. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0405 · USB-C hubs
-- [ ] File: `usb-c-hubs.jpg`
-
-```
-Studio product photo: USB-C hubs. Compact hubs that add ports to laptops and tablets. Show design details that suggest: hdmi 4k, usb-a / c, sd reader. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Storage, Data & Creator Accessories (6)
 
 ### ST-0406 · KVM switches
 - [ ] File: `kvm-switches.jpg`
