@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**56 products still need a photo** (591 done). One prompt per product, ready to copy.
+**51 products still need a photo** (596 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -319,7 +319,7 @@ Studio product photo: At-home skin imaging devices. Devices that capture close-u
 
 ---
 
-## Accessories & Everyday Tech (15)
+## Accessories & Everyday Tech (10)
 
 ### ST-0633 · Tech backpacks
 - [ ] File: `tech-backpacks.jpg`
@@ -354,41 +354,6 @@ Studio product photo: Modular desk accessories. Modular organisers, trays and ch
 
 ```
 Studio product photo: Cable-management systems. Trays, sleeves and clips for clean setups. Show design details that suggest: under-desk tray, sleeves, clips. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0638 · Portable monitor stands
-- [ ] File: `portable-monitor-stands.jpg`
-
-```
-Studio product photo: Portable monitor stands. Stands for portable monitors and tablets. Show design details that suggest: adjustable, foldable, aluminium. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0639 · Webcam lights
-- [ ] File: `webcam-lights.jpg`
-
-```
-Studio product photo: Webcam lights. Clip-on lights for video calls. Show design details that suggest: adjustable colour, clip, touch control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0640 · Desk light bars
-- [ ] File: `desk-light-bars.jpg`
-
-```
-Studio product photo: Desk light bars. Monitor light bars that light your desk without glare. Show design details that suggest: asymmetric light, auto dimming, wireless control. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0641 · Smart desk lamps
-- [ ] File: `smart-desk-lamps.jpg`
-
-```
-Studio product photo: Smart desk lamps. Desk lamps with app control and wireless charging. Show design details that suggest: tunable white, wireless charging, eye care. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0642 · Wireless presentation remotes
-- [ ] File: `wireless-presentation-remotes.jpg`
-
-```
-Studio product photo: Wireless presentation remotes. Clickers with laser or digital pointer. Show design details that suggest: laser / digital pointer, timer, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0643 · Digital luggage scales
