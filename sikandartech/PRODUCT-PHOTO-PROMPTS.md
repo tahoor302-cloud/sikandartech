@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**18 products still need a photo** (629 done). One prompt per product, ready to copy.
+**13 products still need a photo** (634 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,36 +12,7 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (1)
-
-### ST-0321 · Smart washing machines
-- [ ] File: `smart-washing-machines.jpg`
-
-```
-Studio product photo: Smart washing machines. Washers with AI wash cycles and auto dosing. Show design details that suggest: auto dosing, steam. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Storage, Data & Creator Accessories (1)
-
-### ST-0411 · Professional reference monitors
-- [ ] File: `professional-reference-monitors.jpg`
-
-```
-Studio product photo: Professional reference monitors. Reference-grade monitors for colour-critical grading. Show design details that suggest: 4k hdr, hardware calibration, wide gamut. Screen showing a soft abstract colour gradient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Future & Emerging Technology (6)
-
-### ST-0533 · Brain-computer interface research devices
-- [ ] File: `brain-computer-interface-research-devices.jpg`
-
-```
-Studio product photo: Brain-computer interface research devices. EEG-based BCI headsets for research and development. Show design details that suggest: eeg channels, research use, wireless. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Future & Emerging Technology (5)
 
 ### ST-0534 · Neural-interface development hardware
 - [ ] File: `neural-interface-development-hardware.jpg`
@@ -76,24 +47,6 @@ Studio product photo: Indoor autonomous drones. Drones that fly autonomously ind
 
 ```
 Studio product photo: Autonomous navigation sensors. Lidar, radar and IMU sensor kits for autonomous navigation. Show design details that suggest: lidar / radar / imu, sensor fusion, ros. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Travel, Outdoor & Adventure Tech (2)
-
-### ST-0585 · Electronic navigation compasses
-- [ ] File: `electronic-navigation-compasses.jpg`
-
-```
-Studio product photo: Electronic navigation compasses. Digital compasses with altimeter and GPS. Show design details that suggest: digital compass, altimeter, backlight. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0586 · Emergency radio systems
-- [ ] File: `emergency-radio-systems.jpg`
-
-```
-Studio product photo: Emergency radio systems. Hand-crank and solar radios with flashlight and charging. Show design details that suggest: am / fm / noaa, hand crank, solar. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
