@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**149 products still need a photo** (498 done). One prompt per product, ready to copy.
+**144 products still need a photo** (503 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,48 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (12)
-
-### ST-0318 · Automatic cooking machines
-- [ ] File: `automatic-cooking-machines.jpg`
-
-```
-Studio product photo: Automatic cooking machines. Machines that cook recipes automatically from start to finish. Show design details that suggest: auto stirring, recipe library, ingredient dispensing. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0319 · Smart dishwashers
-- [ ] File: `smart-dishwashers.jpg`
-
-```
-Studio product photo: Smart dishwashers. Dishwashers with auto-dosing and remote monitoring. Show design details that suggest: auto dose, quiet, energy efficient. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0320 · Heat-pump dryers
-- [ ] File: `heat-pump-dryers.jpg`
-
-```
-Studio product photo: Heat-pump dryers. Energy-efficient dryers that are gentle on clothes. Show design details that suggest: heat-pump, a+++ efficiency, sensor drying. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
+## Smart Kitchen & Home Appliances (7)
 
 ### ST-0321 · Smart washing machines
 - [ ] File: `smart-washing-machines.jpg`
 
 ```
 Studio product photo: Smart washing machines. Washers with AI wash cycles and auto dosing. Show design details that suggest: auto dosing, steam. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0322 · Smart humidifiers
-- [ ] File: `smart-humidifiers.jpg`
-
-```
-Studio product photo: Smart humidifiers. Humidifiers with target humidity and app control. Show design details that suggest: auto humidity, ultrasonic / evaporative, quiet. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0323 · Smart dehumidifiers
-- [ ] File: `smart-dehumidifiers.jpg`
-
-```
-Studio product photo: Smart dehumidifiers. Dehumidifiers with app control and auto drain. Show design details that suggest: 20–50l/day, auto mode, continuous drain. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ### ST-0324 · Portable air conditioners
