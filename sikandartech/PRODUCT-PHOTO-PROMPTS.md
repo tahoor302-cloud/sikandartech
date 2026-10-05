@@ -1,6 +1,6 @@
 # SikandarTech: product photo prompts (complete listing)
 
-**139 products still need a photo** (508 done). One prompt per product, ready to copy.
+**137 products still need a photo** (510 done). One prompt per product, ready to copy.
 
 How to use:
 1. Set the generator to **square 1:1** and download in the highest resolution available (1024 px or more).
@@ -12,20 +12,13 @@ Re-run `python3 catalog-src/make-prompts.py` to refresh the list after adding ph
 
 ---
 
-## Smart Kitchen & Home Appliances (2)
+## Smart Kitchen & Home Appliances (1)
 
 ### ST-0321 · Smart washing machines
 - [ ] File: `smart-washing-machines.jpg`
 
 ```
 Studio product photo: Smart washing machines. Washers with AI wash cycles and auto dosing. Show design details that suggest: auto dosing, steam. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
-### ST-0329 · UV-cleaning home devices
-- [ ] File: `uv-cleaning-home-devices.jpg`
-
-```
-Studio product photo: UV-cleaning home devices. Show design details that suggest: uv-c leds, auto timer, safety lock. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
@@ -398,17 +391,6 @@ Studio product photo: Home theater receivers. AV receivers powering surround-sou
 
 ```
 Studio product photo: AV processors. High-end surround processors for separates systems. Show design details that suggest: 16 ch processing, room correction, balanced outputs. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
-```
-
----
-
-## Maker Tech, 3D Printing & Engineering (1)
-
-### ST-0517 · Arduino development boards
-- [ ] File: `arduino-development-boards.jpg`
-
-```
-Studio product photo: Microcontroller development board. A small microcontroller board on a dark blue-grey circuit board, black chip in the centre, black header sockets along both edges, a tiny reset button and a USB-C port. Show design details that suggest: avr / arm mcu, shields, usb. Premium studio product photography, seamless light off-white background, soft diffused light, gentle contact shadow, subtle warm orange rim light, realistic materials and reflections, three-quarter view, centered, the product fills about 65% of the frame, ultra sharp, photorealistic, square 1:1, full-bleed image filling the entire frame. Generic unbranded design: no text, no letters, no numbers, no logos, no brand names, no watermark, no people, no hands, no smartphones or mobile phones anywhere.
 ```
 
 ---
