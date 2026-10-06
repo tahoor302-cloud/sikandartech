@@ -52,10 +52,22 @@ const Store = (() => {
   const write = (k, v) => {
     try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* storage unavailable: keep in memory */ }
   };
-  let saved = read("st-saved", []).filter((id) => productById[id]);
-  let quote = read("st-quote", []).filter((i) => productById[i.id]);
+  let saved, quote;
+  const load = () => {
+    saved = read("st-saved", []).filter((id) => productById[id]);
+    quote = read("st-quote", []).filter((i) => i && productById[i.id]);
+  };
+  load();
   const listeners = [];
   const emit = (what) => listeners.forEach((fn) => fn(what));
+  // Keep lists in step with other open tabs, and with changes made on other pages
+  // when this page comes back from the browser's back/forward cache.
+  window.addEventListener("storage", (e) => {
+    if (e.key === "st-saved" || e.key === "st-quote" || e.key === null) { load(); emit("sync"); }
+  });
+  window.addEventListener("pageshow", (e) => {
+    if (e.persisted) { load(); emit("sync"); }
+  });
   return {
     on: (fn) => listeners.push(fn),
     saved: () => saved.slice(),
@@ -217,7 +229,7 @@ function setCount(el, n, bump) {
 Store.on((what) => {
   updateCounts(what);
   if (drawer.classList.contains("open")) renderDrawer();
-  if (what === "saved") {
+  if (what === "saved" || what === "sync") {
     document.querySelectorAll("[data-save]").forEach((b) => {
       if (b.classList.contains("d-remove")) return;
       const on = Store.isSaved(b.dataset.save);

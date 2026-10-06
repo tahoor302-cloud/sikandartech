@@ -19,7 +19,7 @@ const state = {
   status: STATUS_LABEL[params.get("status")] ? params.get("status") : "all",
   sort: SORTS.includes(params.get("sort")) ? params.get("sort") : "featured",
   q: (params.get("q") || "").slice(0, 80),
-  shown: PAGE_SIZE,
+  shown: Math.max(PAGE_SIZE, Math.min(PRODUCTS.length, (history.state && history.state.shown) | 0)),
   fuzzy: false
 };
 
@@ -85,7 +85,9 @@ function syncUrl() {
   if (state.status !== "all") u.set("status", state.status);
   if (state.sort !== "featured") u.set("sort", state.sort);
   const qs = u.toString();
-  history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "") + location.hash);
+  // How many products are shown is kept in history, so Back from a product page returns to the same
+  // spot in a long list instead of the first page.
+  history.replaceState({ shown: state.shown }, "", location.pathname + (qs ? "?" + qs : "") + location.hash);
   // Filtered views are not separate pages for search engines
   let robots = document.querySelector('meta[name="robots"]');
   if (qs && !robots) {
@@ -163,7 +165,13 @@ $("shop-search").addEventListener("keydown", (e) => {
 $("load-more").addEventListener("click", () => {
   const before = state.shown;
   state.shown += PAGE_SIZE;
-  render({ animate: false });
+  // Add only the next page of cards instead of rebuilding the whole grid
+  const list = filtered();
+  $("shop-grid").insertAdjacentHTML("beforeend", list.slice(before, state.shown).map((p) => productCard(p)).join(""));
+  const more = $("load-more");
+  more.hidden = list.length <= state.shown;
+  more.textContent = `Load more (${list.length - state.shown} left)`;
+  syncUrl();
   const next = $("shop-grid").children[before];
   if (next) next.querySelector("a, button").focus({ preventScroll: true });
 });
@@ -177,6 +185,6 @@ if (activeChip) {
 }
 render({ animate: false });
 if (location.hash === "#search") {
-  history.replaceState(null, "", location.pathname + location.search);
+  history.replaceState(history.state, "", location.pathname + location.search);
   $("shop-search").focus({ preventScroll: true });
 }

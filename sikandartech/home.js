@@ -13,9 +13,8 @@ const pick = (ids) => ids.map((id) => productById[id]).filter((p) => p && NO_PHO
   $("stat-products-2").textContent = PRODUCTS.length;
 
 
-  // Opening sequence: frame -> light -> headline + product -> copy -> specs
-  const steps = REDUCED ? [0, 0, 0, 0, 0] : [0, 250, 600, 1150, 1500];
-  steps.forEach((t, i) => setTimeout(() => document.body.classList.add("intro-" + i), t));
+  // Opening sequence (frame -> light -> headline + product -> copy -> specs) runs from an inline
+  // script right after the hero in index.html, so it does not wait for these scripts to download.
 
   // Pointer-responsive product (desktop only)
   const stage = $("hero-stage");

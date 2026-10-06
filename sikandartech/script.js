@@ -68,6 +68,24 @@ if (toggle && links) {
 document.querySelectorAll("[data-ui-icon]").forEach((el) => (el.innerHTML = iconSvg(el.dataset.uiIcon)));
 document.querySelectorAll("[data-icon]").forEach((el) => (el.innerHTML = iconSvg(el.dataset.icon)));
 
+// ---------- Links to a section (#contact etc.) ----------
+// Sections filled in by script can grow after the browser has already jumped to the anchor, which
+// leaves the visitor short of it on phones. Once everything has loaded, settle on the anchor again
+// unless the visitor has started scrolling themselves.
+if (location.hash.length > 1) {
+  let moved = false;
+  const stop = () => (moved = true);
+  ["wheel", "touchstart", "keydown", "mousedown"].forEach((t) => window.addEventListener(t, stop, { once: true, passive: true }));
+  window.addEventListener("load", () => {
+    let el = null;
+    try { el = document.querySelector(decodeURIComponent(location.hash)); } catch { /* not a selector */ }
+    if (!el || moved) return;
+    requestAnimationFrame(() => {
+      if (!moved && Math.abs(el.getBoundingClientRect().top) > 4) el.scrollIntoView({ behavior: "instant", block: "start" });
+    });
+  });
+}
+
 // ---------- Scroll reveals ----------
 function observeReveals(root = document) {
   const els = root.querySelectorAll(".rv:not(.in), .mask:not(.in), [data-reveal]:not(.in)");

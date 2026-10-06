@@ -92,6 +92,15 @@
       </div>
       <a class="scroll-cue" href="#featured"><span></span>Scroll</a>
     </section>
+    <script>
+      // Opening sequence starts as soon as the hero is parsed, without waiting for the larger scripts.
+      (function () {
+        var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        (reduced ? [0, 0, 0, 0, 0] : [0, 200, 450, 850, 1150]).forEach(function (t, i) {
+          setTimeout(function () { document.body.classList.add("intro-" + i); }, t);
+        });
+      })();
+    </script>
 
     <div class="ticker" aria-label="Categories"><div class="ticker-track" id="ticker"></div></div>
 
@@ -321,9 +330,9 @@
 
   <script src="icons.js?v=58f0b58f"></script>
   <script src="catalog.js?v=1507e947"></script>
-  <script src="script.js?v=0b423977"></script>
-  <script src="shop-core.js?v=8c25a25f"></script>
+  <script src="script.js?v=65f34603"></script>
+  <script src="shop-core.js?v=1c655444"></script>
   <script src="product-info.js?v=b95c931d"></script>
-  <script src="home.js?v=0e29da5a"></script>
+  <script src="home.js?v=e0c5cf01"></script>
 </body>
 </html>

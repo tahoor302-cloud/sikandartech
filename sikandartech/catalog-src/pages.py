@@ -664,7 +664,10 @@ def build(site, categories, products):
         "shop/",
         ld=[crumbs_ld([("Home", ""), ("Shop", "shop/")])],
     )
-    write(site, "shop/index.html", page("../", h, "shop-page", shop_main("../", categories, products), cat_by_id, ["shop.js"], "shop", ' data-cat="all"'))
+    # First page of the shop in the HTML (same order and count as shop.js shows), so the grid does not
+    # appear empty and push the page around while the scripts load.
+    first = "".join(simple_card("../", p, cat_by_id[p["cat"]]) for p in products[:36])
+    write(site, "shop/index.html", page("../", h, "shop-page", shop_main("../", categories, products, grid=first), cat_by_id, ["shop.js"], "shop", ' data-cat="all"'))
 
     # Categories
     for c in categories:
