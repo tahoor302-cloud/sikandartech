@@ -649,6 +649,12 @@ body.intro-4 .scroll-cue { opacity: 1; }
   .nav-actions .nav-saved { display: none; }
   .logo-text { font-size: .92rem; }
 }
+@media (max-width: 389px) {
+  .nav-actions { gap: 6px; }
+  .nav-actions .icon-btn { width: 38px; height: 38px; }
+  .logo { gap: 8px; }
+  .logo-text { font-size: .84rem; }
+}
 @media (max-width: 350px) { .logo-text { display: none; } }
 
 /* ---------- Reduced motion ---------- */

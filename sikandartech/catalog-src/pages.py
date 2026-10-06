@@ -14,7 +14,10 @@ import json
 import os
 import re
 
-SITE_URL = "https://sikandartech.com/"
+# The live address of the site. Used for canonical links, sitemap, robots.txt, structured data and
+# link-preview images (WhatsApp, Facebook). Change this one line when a custom domain is connected.
+SITE_URL = "https://tahoor302-cloud.github.io/sikandartech/"
+KNOWN_SITE_URLS = r"https://(?:sikandartech\.com|tahoor302-cloud\.github\.io/(?:sikandartech|supermimic))/"
 STATUS_LABEL = {"available": "Available now", "coming": "Coming soon", "emerging": "Emerging tech"}
 STATUS_SCHEMA = {"available": "Available now", "coming": "Coming soon", "emerging": "Emerging technology"}
 FOOTER_CATS = ["ai-gadgets", "audio", "wearables", "drones-robotics", "gaming", "smart-home"]
@@ -541,7 +544,7 @@ REDIRECT_SHOP = """<!doctype html>
   <meta charset="utf-8">
   <title>Shop | SikandarTech</title>
   <meta name="robots" content="noindex">
-  <link rel="canonical" href="https://sikandartech.com/shop/">
+  <link rel="canonical" href="@SITE@shop/">
   <script>
     var q = new URLSearchParams(location.search), c = q.get("cat"); q.delete("cat");
     var s = q.toString();
@@ -559,7 +562,7 @@ REDIRECT_PRODUCT = """<!doctype html>
   <meta charset="utf-8">
   <title>Product | SikandarTech</title>
   <meta name="robots" content="noindex">
-  <link rel="canonical" href="https://sikandartech.com/shop/">
+  <link rel="canonical" href="@SITE@shop/">
   <script>
     var id = new URLSearchParams(location.search).get("id");
     location.replace(id && /^[a-z0-9-]+$/.test(id) ? "product/" + id + "/" : "shop/");
@@ -577,7 +580,7 @@ def not_found(cat_by_id):
   <script>(function(){var h=location.hostname,p=location.pathname.split("/")[1];document.write('<base href="'+(/github\\.io$/.test(h)&&p?"/"+p+"/":"/")+'">')})()</script>"""
     h = head("", "Page not found | SikandarTech", "The page you were looking for does not exist.", "404.html", robots="noindex").replace(
         "<head>", "<head>" + base, 1
-    ).replace('<link rel="canonical" href="https://sikandartech.com/404.html">\n  ', "")
+    ).replace(f'<link rel="canonical" href="{SITE_URL}404.html">\n  ', "")
     main = """  <main id="main" class="page-pad">
     <div class="container state-page">
       <p class="label">Error 404</p>
@@ -599,6 +602,7 @@ def sync_partials(site, rel, cat_by_id, active):
     text = open(path).read()
     text = re.sub(r"<!-- @header.*?<!-- /@header -->", lambda m: header("", active), text, flags=re.S)
     text = re.sub(r"<!-- @footer.*?<!-- /@footer -->", lambda m: footer("", cat_by_id), text, flags=re.S)
+    text = re.sub(KNOWN_SITE_URLS, SITE_URL, text)
     open(path, "w").write(versioned(text))
 
 
@@ -682,8 +686,8 @@ def build(site, categories, products):
         urls.append(f"{slug}/")
 
     write(site, "404.html", not_found(cat_by_id))
-    write(site, "products.html", REDIRECT_SHOP)
-    write(site, "product.html", REDIRECT_PRODUCT)
+    write(site, "products.html", REDIRECT_SHOP.replace("@SITE@", SITE_URL))
+    write(site, "product.html", REDIRECT_PRODUCT.replace("@SITE@", SITE_URL))
     sync_partials(site, "index.html", cat_by_id, "")
     sync_partials(site, "ugc.html", cat_by_id, "community")
 
@@ -692,5 +696,7 @@ def build(site, categories, products):
         for u in urls:
             f.write(f"  <url><loc>{SITE_URL}{u}</loc></url>\n")
         f.write("</urlset>\n")
+    with open(os.path.join(site, "robots.txt"), "w") as f:
+        f.write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}sitemap.xml\n")
     print(f"product details: {len(details)}/{len(products)}")
     return len(urls)
