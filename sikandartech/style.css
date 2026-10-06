@@ -120,10 +120,10 @@ body.intro-0 .hero-scan { animation: scan 1s var(--ease-out) forwards; }
 body.intro-1 .hero-light, body.intro-1 .hero-grid { opacity: 1; }
 
 .hero-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: center; padding: calc(var(--header-h) + 40px) 0 90px; position: relative; }
-.hero-copy { position: relative; z-index: 2; }
+.hero-copy { position: relative; z-index: 2; container-type: inline-size; }
 .hero-copy .label { opacity: 0; transition: opacity .8s ease .1s; }
 body.intro-2 .hero-copy .label { opacity: 1; }
-.hero h1 { font-family: var(--f-display); font-weight: 800; font-size: clamp(2.6rem, 5.9vw, 6rem); line-height: .9; letter-spacing: -.055em; text-transform: uppercase; margin: 22px 0 28px; }
+.hero h1 { font-family: var(--f-display); font-weight: 800; font-size: min(clamp(2.6rem, 5.9vw, 6rem), 11cqi); line-height: .9; letter-spacing: -.055em; text-transform: uppercase; margin: 22px 0 28px; }
 .hero h1 .accent { color: var(--accent); }
 body.intro-2 .hero h1 .mask > span { transform: none; }
 .hero-sub { font-size: clamp(1rem, 1.3vw, 1.15rem); max-width: 470px; color: var(--muted); }
