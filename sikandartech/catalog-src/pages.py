@@ -22,6 +22,26 @@ STATUS_LABEL = {"available": "Available now", "coming": "Coming soon", "emerging
 STATUS_SCHEMA = {"available": "Available now", "coming": "Coming soon", "emerging": "Emerging technology"}
 FOOTER_CATS = ["ai-gadgets", "audio", "wearables", "drones-robotics", "gaming", "smart-home"]
 DEFAULT_OG = "images/hero/hero.webp"
+OG_SIZE = 600
+SITE_DIR = "."
+
+
+def og_jpg(src):
+    """JPG copy of a page image for link previews. WhatsApp does not reliably show WebP previews,
+    so every page points og:image at a small JPG (made once, re-made when the source changes)."""
+    if not src.endswith(".webp"):
+        return src
+    out = "images/og/" + src[len("images/"):-len(".webp")].replace("/", "-") + ".jpg"
+    src_path, out_path = os.path.join(SITE_DIR, src), os.path.join(SITE_DIR, out)
+    if not os.path.exists(out_path) or os.path.getmtime(out_path) < os.path.getmtime(src_path):
+        from PIL import Image
+        os.makedirs(os.path.dirname(out_path), exist_ok=True)
+        im = Image.open(src_path).convert("RGB")
+        w, h = im.size
+        side = min(w, h)  # square crop from the centre, the product is centred in every photo
+        im = im.crop(((w - side) // 2, (h - side) // 2, (w + side) // 2, (h + side) // 2)).resize((OG_SIZE, OG_SIZE), Image.LANCZOS)
+        im.save(out_path, "JPEG", quality=82, optimize=True, progressive=True)
+    return out
 e = lambda s: html.escape(str(s), quote=True)
 
 
@@ -79,8 +99,9 @@ def load_details(here, products):
 
 
 # ---------------------------------------------------------------- partials
-def head(r, title, desc, path, og_image=DEFAULT_OG, robots=None, ld=(), extra=""):
+def head(r, title, desc, path, og_image=DEFAULT_OG, robots=None, ld=(), extra="", og_alt="SikandarTech"):
     canonical = SITE_URL + path
+    og_image = og_jpg(og_image)
     lds = "".join(
         f'\n  <script type="application/ld+json">{json.dumps(x, ensure_ascii=False, separators=(",", ":"))}</script>'
         for x in ld
@@ -101,6 +122,11 @@ def head(r, title, desc, path, og_image=DEFAULT_OG, robots=None, ld=(), extra=""
   <meta property="og:description" content="{e(desc)}">
   <meta property="og:url" content="{canonical}">
   <meta property="og:image" content="{SITE_URL}{og_image}">
+  <meta property="og:image:secure_url" content="{SITE_URL}{og_image}">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="{OG_SIZE}">
+  <meta property="og:image:height" content="{OG_SIZE}">
+  <meta property="og:image:alt" content="{e(og_alt)}">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="preload" href="{r}fonts/unbounded-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{r}fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
@@ -623,6 +649,8 @@ def versioned(text):
 # ---------------------------------------------------------------- entry point
 def build(site, categories, products):
     import hashlib
+    global SITE_DIR
+    SITE_DIR = site
     details = load_details(os.path.dirname(os.path.abspath(__file__)), products)
     for a in ASSETS:
         VERSION[a] = hashlib.md5(open(os.path.join(site, a), "rb").read()).hexdigest()[:8]
@@ -663,7 +691,12 @@ def build(site, categories, products):
         c = cat_by_id[p["cat"]]
         path = f"product/{p['id']}/"
         d = details.get(p["id"])
-        desc = trim(f"{p['desc']} " + (d["overview"] if d else f"Key features: {', '.join(p['specs'][:3])}.") + " Request a factory quote from SikandarTech.")
+        desc = d["overview"] if d else f"{p['desc']} Key features: {', '.join(p['specs'][:3])}."
+        for tail in (" Request a factory quote from SikandarTech.", " Factory quotes from SikandarTech."):
+            if len(desc + tail) <= 158:
+                desc += tail
+                break
+        desc = trim(desc)
         prod_ld = {
             "@context": "https://schema.org", "@type": "Product", "name": p["name"], "description": p["desc"],
             "sku": code(products, p), "category": c["name"], "url": SITE_URL + path,
@@ -674,7 +707,7 @@ def build(site, categories, products):
         if p.get("photo"):
             prod_ld["image"] = SITE_URL + p["photo"]
         ld = [prod_ld, crumbs_ld([("Home", ""), ("Shop", "shop/"), (c["name"], f"category/{c['id']}/"), (p["name"], path)])]
-        h = head(r, f"{p['name']} | SikandarTech", desc, path, p.get("photo") or c.get("photo") or DEFAULT_OG, ld=ld)
+        h = head(r, f"{p['name']} | SikandarTech", desc, path, p.get("photo") or c.get("photo") or DEFAULT_OG, ld=ld, og_alt=p["name"])
         main = product_main(r, p, c, products, related_for(p, products), d)
         write(site, path + "index.html", page(r, h, "shop-page pdp-page", main, cat_by_id, ["product.js"], "shop", f' data-product="{p["id"]}"'))
         urls.append(path)

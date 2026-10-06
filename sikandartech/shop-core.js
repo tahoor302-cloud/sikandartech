@@ -150,14 +150,15 @@ function quoteMessage() {
   const items = Store.quote();
   const lines = items.map((i, n) => {
     const p = productById[i.id];
-    return `${n + 1}. ${p.name} (${productCode(p)})\n   Category: ${catById[p.cat].name}\n   Quantity: ${i.qty}\n   ${productPageUrl(p.id)}`;
+    const photo = productPhotoUrl(p);
+    return `${n + 1}. ${p.name} (${productCode(p)})\n   Category: ${catById[p.cat].name}\n   Quantity: ${i.qty}\n   Product page: ${productPageUrl(p.id)}${photo ? `\n   Photo: ${photo}` : ""}`;
   });
   return `Hello SikandarTech,\n\nI would like to request a quotation for the following ${items.length === 1 ? "product" : `${items.length} products`}:\n\n${lines.join("\n\n")}\n\nPlease share pricing, MOQ, lead time and shipping options to my country.\n\nThank you.`;
 }
 
 function productMessage(p, qty) {
   const c = catById[p.cat];
-  return `${productPageUrl(p.id)}\n\nHello SikandarTech,\n\nI would like to request a quotation for:\n\nProduct: ${p.name}\nProduct code: ${productCode(p)}\nCategory: ${c.name}${qty ? `\nQuantity: ${qty}` : ""}\n\nPlease share pricing, MOQ, lead time and shipping options to my country.\n\nThank you.`;
+  return `${productPageUrl(p.id)}\n\nHello SikandarTech,\n\nI would like to request a quotation for:\n\nProduct: ${p.name}\nProduct code: ${productCode(p)}\nCategory: ${c.name}${qty ? `\nQuantity: ${qty}` : ""}${productPhotoUrl(p) ? `\nPhoto: ${productPhotoUrl(p)}` : ""}\n\nPlease share pricing, MOQ, lead time and shipping options to my country.\n\nThank you.`;
 }
 
 function renderDrawer() {

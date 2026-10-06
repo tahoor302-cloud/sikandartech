@@ -27,6 +27,12 @@ const waLink = (text) => `https://wa.me/${CONTACT.whatsapp}?text=${encodeURIComp
 // Full address of a product page. WhatsApp turns the first link in a message into a preview
 // with the product photo (from the page's og:image), so Sikandar sees the picture with the request.
 const productPageUrl = (id) => new URL(URLS.product(id), location.href).href;
+// Direct link to the product photo (the JPG made for link previews), so the photo can be opened
+// from the message even when WhatsApp does not show a preview.
+const productPhotoUrl = (p) =>
+  p.photo && p.photo.endsWith(".webp")
+    ? new URL(URLS.asset("images/og/" + p.photo.slice(7, -5).replace(/\//g, "-") + ".jpg"), location.href).href
+    : "";
 const tiktokUrl = () => "https://www.tiktok.com/@" + CONTACT.tiktok.replace(/^@/, "");
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]);
