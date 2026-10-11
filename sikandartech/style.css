@@ -347,6 +347,8 @@ body.intro-4 .scroll-cue { opacity: 1; }
 .founder .fallback { position: absolute; inset: 0; display: grid; place-items: center; font-family: var(--f-display); font-size: 4rem; color: var(--dim); z-index: -1; }
 .founder-tag { position: absolute; left: 18px; right: 18px; bottom: 18px; display: flex; justify-content: space-between; align-items: center; padding: 14px 16px; border-radius: 12px; background: rgba(255, 255, 255, .9); color: var(--text); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, .6); box-shadow: 0 8px 24px -12px rgba(12, 14, 18, .35); font-family: var(--f-mono); font-size: .68rem; letter-spacing: .1em; text-transform: uppercase; }
 .founder-tag span { color: var(--muted); }
+.founder-tag { gap: 6px 16px; flex-wrap: wrap; }
+.founder-tag b { font-weight: 600; color: var(--text); }
 .about-copy h2 { font-family: var(--f-display); font-size: clamp(2rem, 4.6vw, 4rem); font-weight: 700; letter-spacing: -.04em; text-transform: uppercase; line-height: .95; margin: 18px 0 26px; }
 .about-copy > p { margin-bottom: 16px; font-size: 1.02rem; max-width: 560px; }
 .services { list-style: none; margin-top: 34px; border-top: 1px solid var(--line); }
@@ -600,7 +602,13 @@ body.intro-4 .scroll-cue { opacity: 1; }
   .step { border-right: 0; border-bottom: 1px solid var(--line); padding: 26px 16px 22px 0 !important; }
   .step:nth-child(odd) { border-right: 1px solid var(--line); }
   .step:nth-child(even) { padding-left: 16px !important; }
-  .net { aspect-ratio: 1.5; }
+  .net { aspect-ratio: 2.1; margin-bottom: 40px; }
+  /* The map scales down to about a third on phones: enlarge labels, dots and lines to stay readable */
+  .net .node text { font-size: 30px; letter-spacing: .04em; transform: translateY(18px); }
+  .net .node circle.core { r: 9px; }
+  .net .node.hub circle.core { r: 13px; }
+  .net .route { stroke-width: 2.5; }
+  .net .route-live { stroke-width: 3.5; stroke-dasharray: 14 26; }
   .services li { grid-template-columns: 40px 1fr; }
   .services li p { grid-column: 2; }
   .ugc-empty { grid-template-columns: 1fr; }

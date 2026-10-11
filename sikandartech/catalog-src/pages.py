@@ -506,7 +506,7 @@ INFO_PAGES = {
             ]),
             ("Third-party services", [
                 "WhatsApp, Instagram, TikTok and Facebook links open those services, which have their own privacy policies.",
-                "Website hosting: " + TODO.format("name of your hosting provider, for example GitHub Pages"),
+                "Website hosting: GitHub Pages (GitHub, Inc.), which serves the site and may keep standard server logs such as IP addresses.",
             ]),
             ("Your rights and contact", [
                 "To ask what information we hold about you, or to have it deleted, contact us at the email address below.",
