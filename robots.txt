@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tahoor302-cloud.github.io/sikandartech/sitemap.xml
